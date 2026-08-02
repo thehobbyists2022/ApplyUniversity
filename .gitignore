@@ -1,0 +1,23 @@
+# =========================================================
+# 安全: 絕不將 API key / 秘密提交到 Git
+# =========================================================
+.env
+.env.*
+!.env.example
+
+# 含 API key 的抓取腳本 (僅本地執行用, 不要進公開 repo)
+fetch_scorecard.mjs
+
+# 開發日誌與測試產物
+dev.log
+*.log
+.playwright-mcp/
+
+# 依賴與建置產物
+node_modules/
+dist/
+.vite/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
