@@ -54,7 +54,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bfcc.edu/",
+  "officialUrl": "https://bfcc.edu/",
   "name": "Blackfeet Community College",
   "shortName": "Blackfeet Community",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.carroll.edu/",
+  "officialUrl": "https://www.carroll.edu/",
   "name": "Carroll College",
   "shortName": "Carroll",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msun.edu/",
+  "officialUrl": "https://www.msun.edu/",
   "name": "Montana State University-Northern",
   "shortName": "Montana State -Northern",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.skc.edu/",
+  "officialUrl": "https://www.skc.edu/",
   "name": "Salish Kootenai College",
   "shortName": "Salish Kootenai",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stonechild.edu/",
+  "officialUrl": "https://www.stonechild.edu/",
   "name": "Stone Child College",
   "shortName": "Stone Child",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umt.edu/",
+  "officialUrl": "https://www.umt.edu/",
   "name": "University of Montana",
   "shortName": "Montana",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "umwestern.edu/",
+  "officialUrl": "https://umwestern.edu/",
   "name": "University of Montana-Western",
   "shortName": "Montana-Western",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_MT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uprovidence.edu/",
+  "officialUrl": "https://www.uprovidence.edu/",
   "name": "University of Providence",
   "shortName": "Providence",
   "location": {

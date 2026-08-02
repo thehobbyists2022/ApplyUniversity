@@ -19,7 +19,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.allencollege.edu/",
+  "officialUrl": "https://www.allencollege.edu/",
   "name": "Allen College",
   "shortName": "Allen",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.briarcliff.edu/",
+  "officialUrl": "https://www.briarcliff.edu/",
   "name": "Briar Cliff University",
   "shortName": "Briar Cliff",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.central.edu/",
+  "officialUrl": "https://www.central.edu/",
   "name": "Central College",
   "shortName": "Central",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clarke.edu/",
+  "officialUrl": "https://www.clarke.edu/",
   "name": "Clarke University",
   "shortName": "Clarke",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.coe.edu/",
+  "officialUrl": "https://www.coe.edu/",
   "name": "Coe College",
   "shortName": "Coe",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dmu.edu/",
+  "officialUrl": "https://www.dmu.edu/",
   "name": "Des Moines University-Osteopathic Medical Center",
   "shortName": "Des Moines -Osteopathic Medical Center",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dwci.edu/",
+  "officialUrl": "https://www.dwci.edu/",
   "name": "Divine Word College",
   "shortName": "Divine Word",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.drake.edu/",
+  "officialUrl": "https://www.drake.edu/",
   "name": "Drake University",
   "shortName": "Drake",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.graceland.edu/",
+  "officialUrl": "https://www.graceland.edu/",
   "name": "Graceland University-Lamoni",
   "shortName": "Graceland -Lamoni",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.grandview.edu/",
+  "officialUrl": "https://www.grandview.edu/",
   "name": "Grand View University",
   "shortName": "Grand View",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.grinnell.edu/",
+  "officialUrl": "https://www.grinnell.edu/",
   "name": "Grinnell College",
   "shortName": "Grinnell",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mtmercy.edu/",
+  "officialUrl": "https://www.mtmercy.edu/",
   "name": "Mount Mercy University",
   "shortName": "Mount Mercy",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "orion.edu/",
+  "officialUrl": "https://orion.edu/",
   "name": "Orion Technical College",
   "shortName": "Orion Technical",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.palmer.edu/",
+  "officialUrl": "https://www.palmer.edu/",
   "name": "Palmer College of Chiropractic",
   "shortName": "Palmer  Chiropractic",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sau.edu/",
+  "officialUrl": "https://www.sau.edu/",
   "name": "Saint Ambrose University",
   "shortName": "Saint Ambrose",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "simpson.edu/",
+  "officialUrl": "https://simpson.edu/",
   "name": "Simpson College",
   "shortName": "Simpson",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stlukescollege.edu/",
+  "officialUrl": "https://www.stlukescollege.edu/",
   "name": "St Luke's College",
   "shortName": "St Luke's",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dbq.edu/",
+  "officialUrl": "https://www.dbq.edu/",
   "name": "University of Dubuque",
   "shortName": "Dubuque",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_IA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.waldorf.edu/",
+  "officialUrl": "https://www.waldorf.edu/",
   "name": "Waldorf University",
   "shortName": "Waldorf",
   "location": {

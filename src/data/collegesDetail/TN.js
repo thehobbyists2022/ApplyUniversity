@@ -54,7 +54,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.apsu.edu/",
+  "officialUrl": "https://www.apsu.edu/",
   "name": "Austin Peay State University",
   "shortName": "Austin Peay State",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.baptistu.edu/",
+  "officialUrl": "https://www.baptistu.edu/",
   "name": "Baptist Health Sciences University",
   "shortName": "Baptist Health Sciences",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bryan.edu/",
+  "officialUrl": "https://www.bryan.edu/",
   "name": "Bryan College-Dayton",
   "shortName": "Bryan -Dayton",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cn.edu/",
+  "officialUrl": "https://www.cn.edu/",
   "name": "Carson-Newman University",
   "shortName": "Carson-Newman",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cumberland.edu/",
+  "officialUrl": "https://www.cumberland.edu/",
   "name": "Cumberland University",
   "shortName": "Cumberland",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fisk.edu/",
+  "officialUrl": "https://www.fisk.edu/",
   "name": "Fisk University",
   "shortName": "Fisk",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fhu.edu/",
+  "officialUrl": "https://www.fhu.edu/",
   "name": "Freed-Hardeman University",
   "shortName": "Freed-Hardeman",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "johnsonu.edu/",
+  "officialUrl": "https://johnsonu.edu/",
   "name": "Johnson University",
   "shortName": "Johnson",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.loc.edu/",
+  "officialUrl": "https://www.loc.edu/",
   "name": "Le Moyne-Owen College",
   "shortName": "Le Moyne-Owen",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.leeuniversity.edu/",
+  "officialUrl": "https://www.leeuniversity.edu/",
   "name": "Lee University",
   "shortName": "Lee",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lmunet.edu/",
+  "officialUrl": "https://www.lmunet.edu/",
   "name": "Lincoln Memorial University",
   "shortName": "Lincoln Memorial",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.maryvillecollege.edu/",
+  "officialUrl": "https://www.maryvillecollege.edu/",
   "name": "Maryville College",
   "shortName": "Maryville",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mmc.edu/",
+  "officialUrl": "https://www.mmc.edu/",
   "name": "Meharry Medical College",
   "shortName": "Meharry Medical",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.memphisseminary.edu/",
+  "officialUrl": "https://www.memphisseminary.edu/",
   "name": "Memphis Theological Seminary",
   "shortName": "Memphis Theological Seminary",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "mtsa.edu/",
+  "officialUrl": "https://mtsa.edu/",
   "name": "Middle Tennessee School of Anesthesia Inc",
   "shortName": "Middle Tennessee School Anesthesia Inc",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mtsu.edu/",
+  "officialUrl": "https://www.mtsu.edu/",
   "name": "Middle Tennessee State University",
   "shortName": "Middle Tennessee State",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.milligan.edu/",
+  "officialUrl": "https://www.milligan.edu/",
   "name": "Milligan University",
   "shortName": "Milligan",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ogs.edu/",
+  "officialUrl": "https://www.ogs.edu/",
   "name": "Omega Graduate School",
   "shortName": "Omega Graduate School",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ptseminary.edu/",
+  "officialUrl": "https://www.ptseminary.edu/",
   "name": "Pentecostal Theological Seminary",
   "shortName": "Pentecostal Theological Seminary",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rhodes.edu/",
+  "officialUrl": "https://www.rhodes.edu/",
   "name": "Rhodes College",
   "shortName": "Rhodes",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.richmont.edu/",
+  "officialUrl": "https://www.richmont.edu/",
   "name": "Richmont Graduate University",
   "shortName": "Richmont Graduate",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "usa.sae.edu/",
+  "officialUrl": "https://usa.sae.edu/",
   "name": "SAE Institute of Technology-Nashville",
   "shortName": "SAE  Technology-Nashville",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.south.edu/",
+  "officialUrl": "https://www.south.edu/",
   "name": "South College",
   "shortName": "South",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southern.edu/",
+  "officialUrl": "https://www.southern.edu/",
   "name": "Southern Adventist University",
   "shortName": "Southern Adventist",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/tennessee/thousand-oaks",
+  "officialUrl": "https://www.strayer.edu/campus-locations/tennessee/thousand-oaks",
   "name": "Strayer University-Tennessee",
   "shortName": "Strayer -Tennessee",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tnstate.edu/",
+  "officialUrl": "https://www.tnstate.edu/",
   "name": "Tennessee State University",
   "shortName": "Tennessee State",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tntech.edu/",
+  "officialUrl": "https://www.tntech.edu/",
   "name": "Tennessee Technological University",
   "shortName": "Tennessee Technological",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tnwesleyan.edu/",
+  "officialUrl": "https://www.tnwesleyan.edu/",
   "name": "Tennessee Wesleyan University",
   "shortName": "Tennessee Wesleyan",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uu.edu/",
+  "officialUrl": "https://www.uu.edu/",
   "name": "Union University",
   "shortName": "Union",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uthsc.edu/",
+  "officialUrl": "https://www.uthsc.edu/",
   "name": "University of Tennessee Health Science Center",
   "shortName": "Tennessee Health Science Center",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utc.edu/",
+  "officialUrl": "https://utc.edu/",
   "name": "University of Tennessee-Chattanooga",
   "shortName": "Tennessee-Chattanooga",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utk.edu/",
+  "officialUrl": "https://www.utk.edu/",
   "name": "University of Tennessee, Knoxville",
   "shortName": "Tennessee, Knoxville",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sewanee.edu/",
+  "officialUrl": "https://www.sewanee.edu/",
   "name": "University of the South",
   "shortName": "the South",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vanderbilt.edu/",
+  "officialUrl": "https://www.vanderbilt.edu/",
   "name": "Vanderbilt University",
   "shortName": "Vanderbilt",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.visible.edu/",
+  "officialUrl": "https://www.visible.edu/",
   "name": "Visible Music College",
   "shortName": "Visible Music",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.welch.edu/",
+  "officialUrl": "https://www.welch.edu/",
   "name": "Welch College",
   "shortName": "Welch",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_TN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.williamsoncc.edu/",
+  "officialUrl": "https://www.williamsoncc.edu/",
   "name": "Williamson Christian College",
   "shortName": "Williamson Christian",
   "location": {

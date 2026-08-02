@@ -1,8 +1,11 @@
 import React from 'react';
 import { X, MapPin, CheckCircle, AlertTriangle, Users, DollarSign, Award, BookOpen, ExternalLink } from 'lucide-react';
+import { normalizeUrl } from '../utils/url';
 
 export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved }) {
   if (!college) return null;
+
+  const officialUrl = normalizeUrl(college.officialUrl);
 
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -16,9 +19,9 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
               <span className="badge badge-type">{college.type}</span>
               <span className="badge badge-rank">{college.ranking}</span>
             </div>
-            {college.officialUrl && (
+            {officialUrl && (
               <a 
-                href={college.officialUrl} 
+                href={officialUrl} 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 style={{

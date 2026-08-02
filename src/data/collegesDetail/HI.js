@@ -19,7 +19,7 @@ export const DETAILS_HI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.byuh.edu/",
+  "officialUrl": "https://www.byuh.edu/",
   "name": "Brigham Young University-Hawaii",
   "shortName": "Brigham Young -Hawaii",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_HI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.orientalmedicine.edu/",
+  "officialUrl": "https://www.orientalmedicine.edu/",
   "name": "Institute of Clinical Acupuncture & Oriental Medicine",
   "shortName": "Clinical Acupuncture & Oriental Medicine",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_HI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "maui.hawaii.edu/",
+  "officialUrl": "https://maui.hawaii.edu/",
   "name": "University of Hawaii Maui College",
   "shortName": "Hawaii Maui",
   "location": {

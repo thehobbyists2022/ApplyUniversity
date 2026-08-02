@@ -54,7 +54,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.centenary.edu/",
+  "officialUrl": "https://www.centenary.edu/",
   "name": "Centenary College of Louisiana",
   "shortName": "Centenary  Louisiana",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.franu.edu/",
+  "officialUrl": "https://www.franu.edu/",
   "name": "Franciscan Missionaries of Our Lady University",
   "shortName": "Franciscan Missionaries Our Lady",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gram.edu/",
+  "officialUrl": "https://www.gram.edu/",
   "name": "Grambling State University",
   "shortName": "Grambling State",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lcuniversity.edu/",
+  "officialUrl": "https://www.lcuniversity.edu/",
   "name": "Louisiana Christian University",
   "shortName": "Louisiana Christian",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lsu.edu/",
+  "officialUrl": "https://www.lsu.edu/",
   "name": "Louisiana State University (LSU)",
   "shortName": "Louisiana State  (LSU)",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lsua.edu/",
+  "officialUrl": "https://www.lsua.edu/",
   "name": "Louisiana State University at Alexandria",
   "shortName": "Louisiana State  at Alexandria",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lsuhsc.edu/",
+  "officialUrl": "https://www.lsuhsc.edu/",
   "name": "Louisiana State University Health Sciences Center-New Orleans",
   "shortName": "Louisiana State  Health Sciences Center-New Orleans",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lsus.edu/",
+  "officialUrl": "https://www.lsus.edu/",
   "name": "Louisiana State University-Shreveport",
   "shortName": "Louisiana State -Shreveport",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.loyno.edu/",
+  "officialUrl": "https://www.loyno.edu/",
   "name": "Loyola University New Orleans",
   "shortName": "Loyola  New Orleans",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mcneese.edu/",
+  "officialUrl": "https://www.mcneese.edu/",
   "name": "McNeese State University",
   "shortName": "McNeese State",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nobts.edu/",
+  "officialUrl": "https://www.nobts.edu/",
   "name": "New Orleans Baptist Theological Seminary",
   "shortName": "New Orleans Baptist Theological Seminary",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nicholls.edu/",
+  "officialUrl": "https://www.nicholls.edu/",
   "name": "Nicholls State University",
   "shortName": "Nicholls State",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.subr.edu/",
+  "officialUrl": "https://www.subr.edu/",
   "name": "Southern University and A & M College",
   "shortName": "Southern  and A & M",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.suno.edu/",
+  "officialUrl": "https://www.suno.edu/",
   "name": "Southern University at New Orleans",
   "shortName": "Southern  at New Orleans",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sulc.edu/",
+  "officialUrl": "https://www.sulc.edu/",
   "name": "Southern University Law Center",
   "shortName": "Southern  Law Center",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "uhcno.edu/",
+  "officialUrl": "https://uhcno.edu/",
   "name": "University of Holy Cross",
   "shortName": "Holy Cross",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.louisiana.edu/",
+  "officialUrl": "https://www.louisiana.edu/",
   "name": "University of Louisiana at Lafayette",
   "shortName": "Louisiana at Lafayette",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ulm.edu/",
+  "officialUrl": "https://www.ulm.edu/",
   "name": "University of Louisiana at Monroe",
   "shortName": "Louisiana at Monroe",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_LA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "new.uno.edu/",
+  "officialUrl": "https://new.uno.edu/",
   "name": "University of New Orleans",
   "shortName": "New Orleans",
   "location": {

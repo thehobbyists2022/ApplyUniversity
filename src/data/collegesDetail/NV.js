@@ -89,7 +89,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csn.edu/",
+  "officialUrl": "https://www.csn.edu/",
   "name": "College of Southern Nevada",
   "shortName": "Southern Nevada",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gbcnv.edu/",
+  "officialUrl": "https://www.gbcnv.edu/",
   "name": "Great Basin College",
   "shortName": "Great Basin",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.roseman.edu/",
+  "officialUrl": "https://www.roseman.edu/",
   "name": "Roseman University of Health Sciences",
   "shortName": "Roseman  Health Sciences",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tun.touro.edu/",
+  "officialUrl": "https://www.tun.touro.edu/",
   "name": "Touro University Nevada",
   "shortName": "Touro  Nevada",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tmcc.edu/",
+  "officialUrl": "https://www.tmcc.edu/",
   "name": "Truckee Meadows Community College",
   "shortName": "Truckee Meadows Community",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unlv.edu/",
+  "officialUrl": "https://www.unlv.edu/",
   "name": "University of Nevada, Las Vegas",
   "shortName": "Nevada, Las Vegas",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unr.edu/",
+  "officialUrl": "https://www.unr.edu/",
   "name": "University of Nevada, Reno",
   "shortName": "Nevada, Reno",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wnc.edu/",
+  "officialUrl": "https://www.wnc.edu/",
   "name": "Western Nevada College",
   "shortName": "Western Nevada",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_NV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wongu.edu/",
+  "officialUrl": "https://www.wongu.edu/",
   "name": "Wongu University of Oriental Medicine",
   "shortName": "Wongu  Oriental Medicine",
   "location": {

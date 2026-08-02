@@ -19,7 +19,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.avaopera.org/",
+  "officialUrl": "https://www.avaopera.org/",
   "name": "Academy of Vocal Arts",
   "shortName": "Academy Vocal Arts",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.albright.edu/home/",
+  "officialUrl": "https://www.albright.edu/home/",
   "name": "Albright College",
   "shortName": "Albright",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brynathyn.edu/",
+  "officialUrl": "https://www.brynathyn.edu/",
   "name": "Bryn Athyn College of the New Church",
   "shortName": "Bryn Athyn  the New Church",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brynmawr.edu/",
+  "officialUrl": "https://www.brynmawr.edu/",
   "name": "Bryn Mawr College",
   "shortName": "Bryn Mawr",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bucknell.edu/",
+  "officialUrl": "https://www.bucknell.edu/",
   "name": "Bucknell University",
   "shortName": "Bucknell",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bcs.edu/",
+  "officialUrl": "https://www.bcs.edu/",
   "name": "Byzantine Catholic Seminary of Saints Cyril and Methodius",
   "shortName": "Byzantine Catholic Seminary Saints Cyril and Methodius",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cairn.edu/",
+  "officialUrl": "https://www.cairn.edu/",
   "name": "Cairn University-Langhorne",
   "shortName": "Cairn -Langhorne",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.carlow.edu/",
+  "officialUrl": "https://www.carlow.edu/",
   "name": "Carlow University",
   "shortName": "Carlow",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cmu.edu/",
+  "officialUrl": "https://www.cmu.edu/",
   "name": "Carnegie Mellon University",
   "shortName": "Carnegie Mellon",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cedarcrest.edu/",
+  "officialUrl": "https://www.cedarcrest.edu/",
   "name": "Cedar Crest College",
   "shortName": "Cedar Crest",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.chatham.edu/",
+  "officialUrl": "https://www.chatham.edu/",
   "name": "Chatham University",
   "shortName": "Chatham",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.chc.edu/",
+  "officialUrl": "https://www.chc.edu/",
   "name": "Chestnut Hill College",
   "shortName": "Chestnut Hill",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.curtis.edu/",
+  "officialUrl": "https://www.curtis.edu/",
   "name": "Curtis Institute of Music",
   "shortName": "Curtis  Music",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.delval.edu/",
+  "officialUrl": "https://www.delval.edu/",
   "name": "Delaware Valley University",
   "shortName": "Delaware Valley",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.desales.edu/",
+  "officialUrl": "https://www.desales.edu/",
   "name": "DeSales University",
   "shortName": "DeSales",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.duq.edu/",
+  "officialUrl": "https://www.duq.edu/",
   "name": "Duquesne University",
   "shortName": "Duquesne",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.etown.edu/",
+  "officialUrl": "https://www.etown.edu/",
   "name": "Elizabethtown College",
   "shortName": "Elizabethtown",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gannon.edu/",
+  "officialUrl": "https://www.gannon.edu/",
   "name": "Gannon University",
   "shortName": "Gannon",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.geneva.edu/",
+  "officialUrl": "https://www.geneva.edu/",
   "name": "Geneva College",
   "shortName": "Geneva",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gcc.edu/",
+  "officialUrl": "https://www.gcc.edu/",
   "name": "Grove City College",
   "shortName": "Grove City",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.harrisburgu.edu/",
+  "officialUrl": "https://www.harrisburgu.edu/",
   "name": "Harrisburg University of Science and Technology",
   "shortName": "Harrisburg  Science and Technology",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.immaculata.edu/",
+  "officialUrl": "https://www.immaculata.edu/",
   "name": "Immaculata University",
   "shortName": "Immaculata",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.iup.edu/",
+  "officialUrl": "https://www.iup.edu/",
   "name": "Indiana University of Pennsylvania",
   "shortName": "Indiana  Pennsylvania",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "iirp.edu/",
+  "officialUrl": "https://iirp.edu/",
   "name": "International Institute for Restorative Practices",
   "shortName": "International  for Restorative Practices",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.juniata.edu/",
+  "officialUrl": "https://www.juniata.edu/",
   "name": "Juniata College",
   "shortName": "Juniata",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kings.edu/",
+  "officialUrl": "https://www.kings.edu/",
   "name": "King's College",
   "shortName": "King's",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.laroche.edu/",
+  "officialUrl": "https://www.laroche.edu/",
   "name": "La Roche University",
   "shortName": "La Roche",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lasalle.edu/",
+  "officialUrl": "https://www.lasalle.edu/",
   "name": "La Salle University",
   "shortName": "La Salle",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "lecom.edu/",
+  "officialUrl": "https://lecom.edu/",
   "name": "Lake Erie College of Osteopathic Medicine",
   "shortName": "Lake Erie  Osteopathic Medicine",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lvc.edu/",
+  "officialUrl": "https://www.lvc.edu/",
   "name": "Lebanon Valley College",
   "shortName": "Lebanon Valley",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lehigh.edu/",
+  "officialUrl": "https://www.lehigh.edu/",
   "name": "Lehigh University",
   "shortName": "Lehigh",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.manor.edu/",
+  "officialUrl": "https://www.manor.edu/",
   "name": "Manor College",
   "shortName": "Manor",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mercyhurst.edu/",
+  "officialUrl": "https://www.mercyhurst.edu/",
   "name": "Mercyhurst University",
   "shortName": "Mercyhurst",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.messiah.edu/",
+  "officialUrl": "https://www.messiah.edu/",
   "name": "Messiah University",
   "shortName": "Messiah",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.millersville.edu/",
+  "officialUrl": "https://www.millersville.edu/",
   "name": "Millersville University of Pennsylvania",
   "shortName": "Millersville  Pennsylvania",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.misericordia.edu/",
+  "officialUrl": "https://www.misericordia.edu/",
   "name": "Misericordia University",
   "shortName": "Misericordia",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.moore.edu/",
+  "officialUrl": "https://www.moore.edu/",
   "name": "Moore College of Art and Design",
   "shortName": "Moore  Art and Design",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.moravian.edu/",
+  "officialUrl": "https://www.moravian.edu/",
   "name": "Moravian University",
   "shortName": "Moravian",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mtaloy.edu/",
+  "officialUrl": "https://www.mtaloy.edu/",
   "name": "Mount Aloysius College",
   "shortName": "Mount Aloysius",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.muhlenberg.edu/",
+  "officialUrl": "https://www.muhlenberg.edu/",
   "name": "Muhlenberg College",
   "shortName": "Muhlenberg",
   "location": {
@@ -2399,7 +2399,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "pcad.edu/",
+  "officialUrl": "https://pcad.edu/",
   "name": "Pennsylvania College of Art and Design",
   "shortName": "Pennsylvania  Art and Design",
   "location": {
@@ -3239,7 +3239,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pcom.edu/",
+  "officialUrl": "https://www.pcom.edu/",
   "name": "Philadelphia College of Osteopathic Medicine",
   "shortName": "Philadelphia  Osteopathic Medicine",
   "location": {
@@ -3309,7 +3309,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pointpark.edu/",
+  "officialUrl": "https://www.pointpark.edu/",
   "name": "Point Park University",
   "shortName": "Point Park",
   "location": {
@@ -3344,7 +3344,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rrc.edu/",
+  "officialUrl": "https://www.rrc.edu/",
   "name": "Reconstructionist Rabbinical College",
   "shortName": "Reconstructionist Rabbinical",
   "location": {
@@ -3379,7 +3379,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rmu.edu/",
+  "officialUrl": "https://www.rmu.edu/",
   "name": "Robert Morris University",
   "shortName": "Robert Morris",
   "location": {
@@ -3414,7 +3414,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rosemont.edu/",
+  "officialUrl": "https://www.rosemont.edu/",
   "name": "Rosemont College",
   "shortName": "Rosemont",
   "location": {
@@ -3449,7 +3449,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scs.edu/",
+  "officialUrl": "https://www.scs.edu/",
   "name": "Saint Charles Borromeo Seminary-Overbrook",
   "shortName": "Saint Charles Borromeo Seminary-Overbrook",
   "location": {
@@ -3484,7 +3484,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.francis.edu/",
+  "officialUrl": "https://www.francis.edu/",
   "name": "Saint Francis University",
   "shortName": "Saint Francis",
   "location": {
@@ -3659,7 +3659,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.setonhill.edu/",
+  "officialUrl": "https://www.setonhill.edu/",
   "name": "Seton Hill University",
   "shortName": "Seton Hill",
   "location": {
@@ -3694,7 +3694,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ship.edu/",
+  "officialUrl": "https://www.ship.edu/",
   "name": "Shippensburg University of Pennsylvania",
   "shortName": "Shippensburg  Pennsylvania",
   "location": {
@@ -3799,7 +3799,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.susqu.edu/",
+  "officialUrl": "https://www.susqu.edu/",
   "name": "Susquehanna University",
   "shortName": "Susquehanna",
   "location": {
@@ -3834,7 +3834,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.swarthmore.edu/",
+  "officialUrl": "https://www.swarthmore.edu/",
   "name": "Swarthmore College",
   "shortName": "Swarthmore",
   "location": {
@@ -3904,7 +3904,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.temple.edu/",
+  "officialUrl": "https://www.temple.edu/",
   "name": "Temple University",
   "shortName": "Temple",
   "location": {
@@ -3939,7 +3939,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "reseminary.edu/",
+  "officialUrl": "https://reseminary.edu/",
   "name": "Theological Seminary of the Reformed Episcopal Church",
   "shortName": "Theological Seminary the Reformed Episcopal Church",
   "location": {
@@ -4009,7 +4009,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jefferson.edu/",
+  "officialUrl": "https://www.jefferson.edu/",
   "name": "Thomas Jefferson University",
   "shortName": "Thomas Jefferson",
   "location": {
@@ -4044,7 +4044,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "tas.edu/",
+  "officialUrl": "https://tas.edu/",
   "name": "Trinity Anglican Seminary",
   "shortName": "Trinity Anglican Seminary",
   "location": {
@@ -4114,7 +4114,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upenn.edu/",
+  "officialUrl": "https://www.upenn.edu/",
   "name": "University of Pennsylvania",
   "shortName": "Pennsylvania",
   "location": {
@@ -4149,7 +4149,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pitt.edu/",
+  "officialUrl": "https://www.pitt.edu/",
   "name": "University of Pittsburgh",
   "shortName": "Pittsburgh",
   "location": {
@@ -4219,7 +4219,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.greensburg.pitt.edu/",
+  "officialUrl": "https://www.greensburg.pitt.edu/",
   "name": "University of Pittsburgh-Greensburg",
   "shortName": "Pittsburgh-Greensburg",
   "location": {
@@ -4254,7 +4254,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upj.pitt.edu/",
+  "officialUrl": "https://www.upj.pitt.edu/",
   "name": "University of Pittsburgh-Johnstown",
   "shortName": "Pittsburgh-Johnstown",
   "location": {
@@ -4289,7 +4289,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scranton.edu/",
+  "officialUrl": "https://www.scranton.edu/",
   "name": "University of Scranton",
   "shortName": "Scranton",
   "location": {
@@ -4359,7 +4359,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ursinus.edu/",
+  "officialUrl": "https://www.ursinus.edu/",
   "name": "Ursinus College",
   "shortName": "Ursinus",
   "location": {
@@ -4394,7 +4394,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.villanova.edu/",
+  "officialUrl": "https://www.villanova.edu/",
   "name": "Villanova University",
   "shortName": "Villanova",
   "location": {
@@ -4464,7 +4464,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.washjeff.edu/",
+  "officialUrl": "https://www.washjeff.edu/",
   "name": "Washington & Jefferson College",
   "shortName": "Washington & Jefferson",
   "location": {
@@ -4499,7 +4499,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.waynesburg.edu/",
+  "officialUrl": "https://www.waynesburg.edu/",
   "name": "Waynesburg University",
   "shortName": "Waynesburg",
   "location": {
@@ -4674,7 +4674,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wilson.edu/",
+  "officialUrl": "https://www.wilson.edu/",
   "name": "Wilson College",
   "shortName": "Wilson",
   "location": {
@@ -4709,7 +4709,7 @@ export const DETAILS_PA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.woninstitute.edu/",
+  "officialUrl": "https://www.woninstitute.edu/",
   "name": "Won Institute of Graduate Studies",
   "shortName": "Won  Graduate Studies",
   "location": {

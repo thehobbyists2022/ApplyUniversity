@@ -19,7 +19,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aic.edu/",
+  "officialUrl": "https://www.aic.edu/",
   "name": "American International College",
   "shortName": "American International",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amherst.edu/",
+  "officialUrl": "https://www.amherst.edu/",
   "name": "Amherst College",
   "shortName": "Amherst",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.annamaria.edu/",
+  "officialUrl": "https://www.annamaria.edu/",
   "name": "Anna Maria College",
   "shortName": "Anna Maria",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.babson.edu/",
+  "officialUrl": "https://www.babson.edu/",
   "name": "Babson College",
   "shortName": "Babson",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.baypath.edu/",
+  "officialUrl": "https://www.baypath.edu/",
   "name": "Bay Path University",
   "shortName": "Bay Path",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bfit.edu/",
+  "officialUrl": "https://www.bfit.edu/",
   "name": "Benjamin Franklin Cummings Institute of Technology",
   "shortName": "Benjamin Franklin Cummings  Technology",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bentley.edu/",
+  "officialUrl": "https://www.bentley.edu/",
   "name": "Bentley University",
   "shortName": "Bentley",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.berklee.edu/",
+  "officialUrl": "https://www.berklee.edu/",
   "name": "Berklee College of Music",
   "shortName": "Berklee  Music",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.the-bac.edu/",
+  "officialUrl": "https://www.the-bac.edu/",
   "name": "Boston Architectural College",
   "shortName": "Boston Architectural",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.boston.edu/",
+  "officialUrl": "https://www.boston.edu/",
   "name": "Boston Baptist College",
   "shortName": "Boston Baptist",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bc.edu/",
+  "officialUrl": "https://www.bc.edu/",
   "name": "Boston College",
   "shortName": "Boston",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bu.edu/",
+  "officialUrl": "https://www.bu.edu/",
   "name": "Boston University",
   "shortName": "Boston",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bridgew.edu/",
+  "officialUrl": "https://www.bridgew.edu/",
   "name": "Bridgewater State University",
   "shortName": "Bridgewater State",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cambridgecollege.edu/",
+  "officialUrl": "https://www.cambridgecollege.edu/",
   "name": "Cambridge College",
   "shortName": "Cambridge",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clarku.edu/",
+  "officialUrl": "https://www.clarku.edu/",
   "name": "Clark University",
   "shortName": "Clark",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csld.edu/",
+  "officialUrl": "https://www.csld.edu/",
   "name": "Conway School of Landscape Design",
   "shortName": "Conway School Landscape Design",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dean.edu/",
+  "officialUrl": "https://www.dean.edu/",
   "name": "Dean College",
   "shortName": "Dean",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emerson.edu/",
+  "officialUrl": "https://www.emerson.edu/",
   "name": "Emerson College",
   "shortName": "Emerson",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emmanuel.edu/",
+  "officialUrl": "https://www.emmanuel.edu/",
   "name": "Emmanuel College",
   "shortName": "Emmanuel",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.endicott.edu/",
+  "officialUrl": "https://www.endicott.edu/",
   "name": "Endicott College",
   "shortName": "Endicott",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fitchburgstate.edu/",
+  "officialUrl": "https://www.fitchburgstate.edu/",
   "name": "Fitchburg State University",
   "shortName": "Fitchburg State",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.framingham.edu/",
+  "officialUrl": "https://www.framingham.edu/",
   "name": "Framingham State University",
   "shortName": "Framingham State",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.olin.edu/",
+  "officialUrl": "https://www.olin.edu/",
   "name": "Franklin W Olin College of Engineering",
   "shortName": "Franklin W Olin  Engineering",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gordon.edu/",
+  "officialUrl": "https://www.gordon.edu/",
   "name": "Gordon College",
   "shortName": "Gordon",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gordonconwell.edu/",
+  "officialUrl": "https://www.gordonconwell.edu/",
   "name": "Gordon-Conwell Theological Seminary",
   "shortName": "Gordon-Conwell Theological Seminary",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.harvard.edu/",
+  "officialUrl": "https://www.harvard.edu/",
   "name": "Harvard University",
   "shortName": "Harvard",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hchc.edu/",
+  "officialUrl": "https://www.hchc.edu/",
   "name": "Hellenic College-Holy Cross Greek Orthodox School of Theology",
   "shortName": "Hellenic -Holy Cross Greek Orthodox School Theology",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hult.edu/",
+  "officialUrl": "https://www.hult.edu/",
   "name": "Hult International Business School",
   "shortName": "Hult International Business School",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lasell.edu/",
+  "officialUrl": "https://www.lasell.edu/",
   "name": "Lasell University",
   "shortName": "Lasell",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lesley.edu/",
+  "officialUrl": "https://www.lesley.edu/",
   "name": "Lesley University",
   "shortName": "Lesley",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "longy.edu/",
+  "officialUrl": "https://longy.edu/",
   "name": "Longy School of Music of Bard College",
   "shortName": "Longy School Music Bard",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mcphs.edu/",
+  "officialUrl": "https://www.mcphs.edu/",
   "name": "Massachusetts College of Pharmacy and Health Sciences",
   "shortName": "Massachusetts  Pharmacy and Health Sciences",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "web.mit.edu/",
+  "officialUrl": "https://web.mit.edu/",
   "name": "Massachusetts Institute of Technology",
   "shortName": "Massachusetts  Technology",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mslaw.edu/",
+  "officialUrl": "https://www.mslaw.edu/",
   "name": "Massachusetts School of Law",
   "shortName": "Massachusetts School Law",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mghihp.edu/",
+  "officialUrl": "https://www.mghihp.edu/",
   "name": "MGH Institute of Health Professions",
   "shortName": "MGH  Health Professions",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nichols.edu/",
+  "officialUrl": "https://www.nichols.edu/",
   "name": "Nichols College",
   "shortName": "Nichols",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northeastern.edu/",
+  "officialUrl": "https://www.northeastern.edu/",
   "name": "Northeastern University",
   "shortName": "Northeastern",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northpoint.edu/",
+  "officialUrl": "https://www.northpoint.edu/",
   "name": "Northpoint Bible College",
   "shortName": "Northpoint Bible",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.regiscollege.edu/",
+  "officialUrl": "https://www.regiscollege.edu/",
   "name": "Regis College",
   "shortName": "Regis",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjs.edu/",
+  "officialUrl": "https://www.sjs.edu/",
   "name": "Saint John's Seminary",
   "shortName": "Saint John's Seminary",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.simmons.edu/",
+  "officialUrl": "https://www.simmons.edu/",
   "name": "Simmons University",
   "shortName": "Simmons",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.smith.edu/",
+  "officialUrl": "https://www.smith.edu/",
   "name": "Smith College",
   "shortName": "Smith",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "springfield.edu/",
+  "officialUrl": "https://springfield.edu/",
   "name": "Springfield College",
   "shortName": "Springfield",
   "location": {
@@ -2469,7 +2469,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umass.edu/",
+  "officialUrl": "https://www.umass.edu/",
   "name": "University of Massachusetts Amherst",
   "shortName": "Massachusetts Amherst",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umassmed.edu/",
+  "officialUrl": "https://www.umassmed.edu/",
   "name": "University of Massachusetts Chan Medical School",
   "shortName": "Massachusetts Chan Medical School",
   "location": {
@@ -2539,7 +2539,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umb.edu/",
+  "officialUrl": "https://www.umb.edu/",
   "name": "University of Massachusetts-Boston",
   "shortName": "Massachusetts-Boston",
   "location": {
@@ -2574,7 +2574,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umassd.edu/",
+  "officialUrl": "https://www.umassd.edu/",
   "name": "University of Massachusetts-Dartmouth",
   "shortName": "Massachusetts-Dartmouth",
   "location": {
@@ -2609,7 +2609,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uml.edu/",
+  "officialUrl": "https://www.uml.edu/",
   "name": "University of Massachusetts-Lowell",
   "shortName": "Massachusetts-Lowell",
   "location": {
@@ -2644,7 +2644,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wellesley.edu/",
+  "officialUrl": "https://www.wellesley.edu/",
   "name": "Wellesley College",
   "shortName": "Wellesley",
   "location": {
@@ -2714,7 +2714,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wne.edu/",
+  "officialUrl": "https://wne.edu/",
   "name": "Western New England University",
   "shortName": "Western New England",
   "location": {
@@ -2749,7 +2749,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westfield.ma.edu/",
+  "officialUrl": "https://www.westfield.ma.edu/",
   "name": "Westfield State University",
   "shortName": "Westfield State",
   "location": {
@@ -2784,7 +2784,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wheatoncollege.edu/",
+  "officialUrl": "https://www.wheatoncollege.edu/",
   "name": "Wheaton College (Massachusetts)",
   "shortName": "Wheaton  (Massachusetts)",
   "location": {
@@ -2819,7 +2819,7 @@ export const DETAILS_MA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.williamjames.edu/",
+  "officialUrl": "https://www.williamjames.edu/",
   "name": "William James College",
   "shortName": "William James",
   "location": {

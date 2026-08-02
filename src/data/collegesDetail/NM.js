@@ -89,7 +89,7 @@ export const DETAILS_NM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.enmu.edu/",
+  "officialUrl": "https://www.enmu.edu/",
   "name": "Eastern New Mexico University",
   "shortName": "Eastern New Mexico",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.navajotech.edu/",
+  "officialUrl": "https://www.navajotech.edu/",
   "name": "Navajo Technical University",
   "shortName": "Navajo Technical",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_NM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nmsu.edu/",
+  "officialUrl": "https://www.nmsu.edu/",
   "name": "New Mexico State University",
   "shortName": "New Mexico State",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_NM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unm.edu/",
+  "officialUrl": "https://www.unm.edu/",
   "name": "University of New Mexico",
   "shortName": "New Mexico",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_NM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wnmu.edu/",
+  "officialUrl": "https://wnmu.edu/",
   "name": "Western New Mexico University",
   "shortName": "Western New Mexico",
   "location": {

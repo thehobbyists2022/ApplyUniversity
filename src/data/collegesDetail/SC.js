@@ -54,7 +54,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "acba.edu/",
+  "officialUrl": "https://acba.edu/",
   "name": "American College of the Building Arts",
   "shortName": "American  the Building Arts",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.benedict.edu/",
+  "officialUrl": "https://www.benedict.edu/",
   "name": "Benedict College",
   "shortName": "Benedict",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bju.edu/",
+  "officialUrl": "https://www.bju.edu/",
   "name": "Bob Jones University",
   "shortName": "Bob Jones",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.charlestonlaw.edu/",
+  "officialUrl": "https://www.charlestonlaw.edu/",
   "name": "Charleston School of Law",
   "shortName": "Charleston School Law",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.claflin.edu/",
+  "officialUrl": "https://www.claflin.edu/",
   "name": "Claflin University",
   "shortName": "Claflin",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clemson.edu/",
+  "officialUrl": "https://www.clemson.edu/",
   "name": "Clemson University",
   "shortName": "Clemson",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clintoncollege.edu/",
+  "officialUrl": "https://www.clintoncollege.edu/",
   "name": "Clinton College",
   "shortName": "Clinton",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ciu.edu/",
+  "officialUrl": "https://www.ciu.edu/",
   "name": "Columbia International University",
   "shortName": "Columbia International",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.erskine.edu/",
+  "officialUrl": "https://www.erskine.edu/",
   "name": "Erskine College",
   "shortName": "Erskine",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fmarion.edu/",
+  "officialUrl": "https://www.fmarion.edu/",
   "name": "Francis Marion University",
   "shortName": "Francis Marion",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.furman.edu/",
+  "officialUrl": "https://www.furman.edu/",
   "name": "Furman University",
   "shortName": "Furman",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gvltec.edu/",
+  "officialUrl": "https://www.gvltec.edu/",
   "name": "Greenville Technical College",
   "shortName": "Greenville Technical",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newberry.edu/",
+  "officialUrl": "https://www.newberry.edu/",
   "name": "Newberry College",
   "shortName": "Newberry",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/columbia#location=Columbia, SC",
+  "officialUrl": "https://www.southuniversity.edu/columbia#location=Columbia, SC",
   "name": "South University-Columbia",
   "shortName": "South -Columbia",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/south-carolina/greenville",
+  "officialUrl": "https://www.strayer.edu/campus-locations/south-carolina/greenville",
   "name": "Strayer University-South Carolina",
   "shortName": "Strayer -South Carolina",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sc.edu/",
+  "officialUrl": "https://www.sc.edu/",
   "name": "University of South Carolina",
   "shortName": "South Carolina",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uscb.edu/",
+  "officialUrl": "https://www.uscb.edu/",
   "name": "University of South Carolina Beaufort",
   "shortName": "South Carolina Beaufort",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uscupstate.edu/",
+  "officialUrl": "https://www.uscupstate.edu/",
   "name": "University of South Carolina-Upstate",
   "shortName": "South Carolina-Upstate",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.winthrop.edu/",
+  "officialUrl": "https://www.winthrop.edu/",
   "name": "Winthrop University",
   "shortName": "Winthrop",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_SC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wofford.edu/",
+  "officialUrl": "https://www.wofford.edu/",
   "name": "Wofford College",
   "shortName": "Wofford",
   "location": {

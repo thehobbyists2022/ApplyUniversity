@@ -19,7 +19,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.augie.edu/",
+  "officialUrl": "https://www.augie.edu/",
   "name": "Augustana University",
   "shortName": "Augustana",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bhsu.edu/",
+  "officialUrl": "https://www.bhsu.edu/",
   "name": "Black Hills State University",
   "shortName": "Black Hills State",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dwu.edu/",
+  "officialUrl": "https://www.dwu.edu/",
   "name": "Dakota Wesleyan University",
   "shortName": "Dakota Wesleyan",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kairos.edu/",
+  "officialUrl": "https://www.kairos.edu/",
   "name": "Kairos University",
   "shortName": "Kairos",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mountmarty.edu/",
+  "officialUrl": "https://www.mountmarty.edu/",
   "name": "Mount Marty University",
   "shortName": "Mount Marty",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.national.edu/locations/campuses/rapid-city/",
+  "officialUrl": "https://www.national.edu/locations/campuses/rapid-city/",
   "name": "National American University-Rapid City",
   "shortName": "National American -Rapid City",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.olc.edu/",
+  "officialUrl": "https://www.olc.edu/",
   "name": "Oglala Lakota College",
   "shortName": "Oglala Lakota",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sintegleska.edu/",
+  "officialUrl": "https://www.sintegleska.edu/",
   "name": "Sinte Gleska University",
   "shortName": "Sinte Gleska",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_SD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usiouxfalls.edu/",
+  "officialUrl": "https://www.usiouxfalls.edu/",
   "name": "University of Sioux Falls",
   "shortName": "Sioux Falls",
   "location": {

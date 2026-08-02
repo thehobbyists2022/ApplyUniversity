@@ -19,7 +19,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antiochseattle.edu/",
+  "officialUrl": "https://www.antiochseattle.edu/",
   "name": "Antioch University-Seattle",
   "shortName": "Antioch -Seattle",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bastyr.edu/",
+  "officialUrl": "https://www.bastyr.edu/",
   "name": "Bastyr University",
   "shortName": "Bastyr",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cascadia.edu/",
+  "officialUrl": "https://www.cascadia.edu/",
   "name": "Cascadia College",
   "shortName": "Cascadia",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cwu.edu/",
+  "officialUrl": "https://www.cwu.edu/",
   "name": "Central Washington University",
   "shortName": "Central Washington",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.centralia.edu/",
+  "officialUrl": "https://www.centralia.edu/",
   "name": "Centralia College",
   "shortName": "Centralia",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cityu.edu/",
+  "officialUrl": "https://www.cityu.edu/",
   "name": "City University of Seattle",
   "shortName": "City  Seattle",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cptc.edu/",
+  "officialUrl": "https://www.cptc.edu/",
   "name": "Clover Park Technical College",
   "shortName": "Clover Park Technical",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.columbiabasin.edu/",
+  "officialUrl": "https://www.columbiabasin.edu/",
   "name": "Columbia Basin College",
   "shortName": "Columbia Basin",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ewu.edu/",
+  "officialUrl": "https://www.ewu.edu/",
   "name": "Eastern Washington University",
   "shortName": "Eastern Washington",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.edmonds.edu/",
+  "officialUrl": "https://www.edmonds.edu/",
   "name": "Edmonds College",
   "shortName": "Edmonds",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.everettcc.edu/",
+  "officialUrl": "https://www.everettcc.edu/",
   "name": "Everett Community College",
   "shortName": "Everett Community",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ghc.edu/",
+  "officialUrl": "https://www.ghc.edu/",
   "name": "Grays Harbor College",
   "shortName": "Grays Harbor",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.heritage.edu/",
+  "officialUrl": "https://www.heritage.edu/",
   "name": "Heritage University",
   "shortName": "Heritage",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.highline.edu/",
+  "officialUrl": "https://www.highline.edu/",
   "name": "Highline College",
   "shortName": "Highline",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "northseattle.edu/",
+  "officialUrl": "https://northseattle.edu/",
   "name": "North Seattle College",
   "shortName": "North Seattle",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nwic.edu/",
+  "officialUrl": "https://www.nwic.edu/",
   "name": "Northwest Indian College",
   "shortName": "Northwest Indian",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northwestu.edu/",
+  "officialUrl": "https://www.northwestu.edu/",
   "name": "Northwest University",
   "shortName": "Northwest",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northwestu.edu/",
+  "officialUrl": "https://www.northwestu.edu/",
   "name": "Northwest University-Center for Online and Extended Education",
   "shortName": "Northwest -Center for Online and Extended Education",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.olympic.edu/",
+  "officialUrl": "https://www.olympic.edu/",
   "name": "Olympic College",
   "shortName": "Olympic",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plu.edu/",
+  "officialUrl": "https://www.plu.edu/",
   "name": "Pacific Lutheran University",
   "shortName": "Pacific Lutheran",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pencol.edu/",
+  "officialUrl": "https://www.pencol.edu/",
   "name": "Peninsula College",
   "shortName": "Peninsula",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pierce.ctc.edu/",
+  "officialUrl": "https://www.pierce.ctc.edu/",
   "name": "Pierce College District",
   "shortName": "Pierce  District",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rtc.edu/",
+  "officialUrl": "https://www.rtc.edu/",
   "name": "Renton Technical College",
   "shortName": "Renton Technical",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "seattlecentral.edu/",
+  "officialUrl": "https://seattlecentral.edu/",
   "name": "Seattle Central College",
   "shortName": "Seattle Central",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sieam.edu/",
+  "officialUrl": "https://www.sieam.edu/",
   "name": "Seattle Institute of East Asian Medicine",
   "shortName": "Seattle  East Asian Medicine",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "theseattleschool.edu/",
+  "officialUrl": "https://theseattleschool.edu/",
   "name": "Seattle School of Theology & Psychology",
   "shortName": "Seattle School Theology & Psychology",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.seattleu.edu/",
+  "officialUrl": "https://www.seattleu.edu/",
   "name": "Seattle University",
   "shortName": "Seattle",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.skagit.edu/",
+  "officialUrl": "https://www.skagit.edu/",
   "name": "Skagit Valley College",
   "shortName": "Skagit Valley",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "southseattle.edu/",
+  "officialUrl": "https://southseattle.edu/",
   "name": "South Seattle College",
   "shortName": "South Seattle",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvc.edu/",
+  "officialUrl": "https://www.wvc.edu/",
   "name": "Wenatchee Valley College",
   "shortName": "Wenatchee Valley",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wwu.edu/",
+  "officialUrl": "https://wwu.edu/",
   "name": "Western Washington University",
   "shortName": "Western Washington",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "whatcom.edu/",
+  "officialUrl": "https://whatcom.edu/",
   "name": "Whatcom Community College",
   "shortName": "Whatcom Community",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.whitman.edu/",
+  "officialUrl": "https://www.whitman.edu/",
   "name": "Whitman College",
   "shortName": "Whitman",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_WA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.whitworth.edu/",
+  "officialUrl": "https://www.whitworth.edu/",
   "name": "Whitworth University",
   "shortName": "Whitworth",
   "location": {

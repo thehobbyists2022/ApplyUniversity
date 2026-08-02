@@ -19,7 +19,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.american.edu/",
+  "officialUrl": "https://www.american.edu/",
   "name": "American University",
   "shortName": "American",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.howard.edu/",
+  "officialUrl": "https://www.howard.edu/",
   "name": "Howard University",
   "shortName": "Howard",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.iwp.edu/",
+  "officialUrl": "https://www.iwp.edu/",
   "name": "Institute of World Politics",
   "shortName": "World Politics",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dhs.edu/",
+  "officialUrl": "https://www.dhs.edu/",
   "name": "Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies",
   "shortName": "Pontifical Faculty the Immaculate Conception at the Dominican House Studies",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.johnpaulii.edu/",
+  "officialUrl": "https://www.johnpaulii.edu/",
   "name": "Pontifical John Paul II Institute for Studies on Marriage and Family",
   "shortName": "Pontifical John Paul II  for Studies on Marriage and Family",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/district-columbia/washington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/district-columbia/washington",
   "name": "Strayer University-District of Columbia",
   "shortName": "Strayer -District Columbia",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/",
+  "officialUrl": "https://www.strayer.edu/",
   "name": "Strayer University-Global Region",
   "shortName": "Strayer -Global Region",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www2.trinitydc.edu/",
+  "officialUrl": "https://www2.trinitydc.edu/",
   "name": "Trinity Washington University",
   "shortName": "Trinity Washington",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.udc.edu/",
+  "officialUrl": "https://www.udc.edu/",
   "name": "University of the District of Columbia",
   "shortName": "the District Columbia",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.potomac.edu/",
+  "officialUrl": "https://www.potomac.edu/",
   "name": "University of the Potomac-Washington DC Campus",
   "shortName": "the Potomac-Washington DC Campus",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_DC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wesleyseminary.edu/",
+  "officialUrl": "https://www.wesleyseminary.edu/",
   "name": "Wesley Theological Seminary",
   "shortName": "Wesley Theological Seminary",
   "location": {

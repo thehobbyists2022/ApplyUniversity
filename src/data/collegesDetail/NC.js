@@ -89,7 +89,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.belmontabbeycollege.edu/",
+  "officialUrl": "https://www.belmontabbeycollege.edu/",
   "name": "Belmont Abbey College",
   "shortName": "Belmont Abbey",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.carolina.edu/",
+  "officialUrl": "https://www.carolina.edu/",
   "name": "Carolina Christian College",
   "shortName": "Carolina Christian",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ccbs.edu/",
+  "officialUrl": "https://ccbs.edu/",
   "name": "Carolina College of Biblical Studies",
   "shortName": "Carolina  Biblical Studies",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.carolinascollege.edu/",
+  "officialUrl": "https://www.carolinascollege.edu/",
   "name": "Carolinas College of Health Sciences",
   "shortName": "Carolinas  Health Sciences",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.catawba.edu/",
+  "officialUrl": "https://www.catawba.edu/",
   "name": "Catawba College",
   "shortName": "Catawba",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.charlottechristian.edu/",
+  "officialUrl": "https://www.charlottechristian.edu/",
   "name": "Charlotte Christian College and Theological Seminary",
   "shortName": "Charlotte Christian  and Theological Seminary",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "daoisttraditions.edu/",
+  "officialUrl": "https://daoisttraditions.edu/",
   "name": "Daoist Traditions College of Chinese Medical Arts",
   "shortName": "Daoist Traditions  Chinese Medical Arts",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.duke.edu/",
+  "officialUrl": "https://www.duke.edu/",
   "name": "Duke University",
   "shortName": "Duke",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gardner-webb.edu/",
+  "officialUrl": "https://www.gardner-webb.edu/",
   "name": "Gardner-Webb University",
   "shortName": "Gardner-Webb",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.heritagebiblecollege.edu/",
+  "officialUrl": "https://www.heritagebiblecollege.edu/",
   "name": "Heritage Bible College",
   "shortName": "Heritage Bible",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.highpoint.edu/",
+  "officialUrl": "https://www.highpoint.edu/",
   "name": "High Point University",
   "shortName": "High Point",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hoodseminary.edu/",
+  "officialUrl": "https://www.hoodseminary.edu/",
   "name": "Hood Theological Seminary",
   "shortName": "Hood Theological Seminary",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jungtao.edu/",
+  "officialUrl": "https://www.jungtao.edu/",
   "name": "Jung Tao School of Classical Chinese Medicine",
   "shortName": "Jung Tao School Classical Chinese Medicine",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lmc.edu/",
+  "officialUrl": "https://www.lmc.edu/",
   "name": "Lees-McRae College",
   "shortName": "Lees-McRae",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lr.edu/",
+  "officialUrl": "https://www.lr.edu/",
   "name": "Lenoir-Rhyne University",
   "shortName": "Lenoir-Rhyne",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "livingstone.edu/",
+  "officialUrl": "https://livingstone.edu/",
   "name": "Livingstone College",
   "shortName": "Livingstone",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mhu.edu/",
+  "officialUrl": "https://www.mhu.edu/",
   "name": "Mars Hill University",
   "shortName": "Mars Hill",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.meredith.edu/",
+  "officialUrl": "https://www.meredith.edu/",
   "name": "Meredith College",
   "shortName": "Meredith",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.methodist.edu/",
+  "officialUrl": "https://www.methodist.edu/",
   "name": "Methodist University",
   "shortName": "Methodist",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ncat.edu/",
+  "officialUrl": "https://www.ncat.edu/",
   "name": "North Carolina A & T State University",
   "shortName": "North Carolina A & T State",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ncsu.edu/",
+  "officialUrl": "https://www.ncsu.edu/",
   "name": "North Carolina State University",
   "shortName": "North Carolina State",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ncwu.edu/",
+  "officialUrl": "https://www.ncwu.edu/",
   "name": "North Carolina Wesleyan University",
   "shortName": "North Carolina Wesleyan",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pfeiffer.edu/",
+  "officialUrl": "https://www.pfeiffer.edu/",
   "name": "Pfeiffer University",
   "shortName": "Pfeiffer",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.queens.edu/",
+  "officialUrl": "https://www.queens.edu/",
   "name": "Queens University of Charlotte",
   "shortName": "Queens  Charlotte",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.st-aug.edu/",
+  "officialUrl": "https://www.st-aug.edu/",
   "name": "Saint Augustine's University",
   "shortName": "Saint Augustine's",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.salem.edu/",
+  "officialUrl": "https://www.salem.edu/",
   "name": "Salem College",
   "shortName": "Salem",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shawu.edu/",
+  "officialUrl": "https://www.shawu.edu/",
   "name": "Shaw University",
   "shortName": "Shaw",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "shepherds.edu/",
+  "officialUrl": "https://shepherds.edu/",
   "name": "Shepherds Theological Seminary",
   "shortName": "Shepherds Theological Seminary",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/high-point#location=High Point, NC",
+  "officialUrl": "https://www.southuniversity.edu/high-point#location=High Point, NC",
   "name": "South University-High Point",
   "shortName": "South -High Point",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sfwbc.edu/",
+  "officialUrl": "https://www.sfwbc.edu/",
   "name": "Southeastern Free Will Baptist Bible College",
   "shortName": "Southeastern Free Will Baptist Bible",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/north-carolina/greensboro",
+  "officialUrl": "https://www.strayer.edu/campus-locations/north-carolina/greensboro",
   "name": "Strayer University-North Carolina",
   "shortName": "Strayer -North Carolina",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uncg.edu/",
+  "officialUrl": "https://www.uncg.edu/",
   "name": "University of North Carolina at Greensboro",
   "shortName": "North Carolina at Greensboro",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uncsa.edu/",
+  "officialUrl": "https://www.uncsa.edu/",
   "name": "University of North Carolina School of the Arts",
   "shortName": "North Carolina School the Arts",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uncw.edu/",
+  "officialUrl": "https://www.uncw.edu/",
   "name": "University of North Carolina Wilmington",
   "shortName": "North Carolina Wilmington",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wfu.edu/",
+  "officialUrl": "https://www.wfu.edu/",
   "name": "Wake Forest University",
   "shortName": "Wake Forest",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wattscollegeofnursing.edu/",
+  "officialUrl": "https://wattscollegeofnursing.edu/",
   "name": "Watts College of Nursing",
   "shortName": "Watts  Nursing",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wcu.edu/",
+  "officialUrl": "https://www.wcu.edu/",
   "name": "Western Carolina University",
   "shortName": "Western Carolina",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_NC = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.peace.edu/",
+  "officialUrl": "https://www.peace.edu/",
   "name": "William Peace University",
   "shortName": "William Peace",
   "location": {

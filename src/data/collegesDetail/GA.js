@@ -54,7 +54,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.agnesscott.edu/",
+  "officialUrl": "https://www.agnesscott.edu/",
   "name": "Agnes Scott College",
   "shortName": "Agnes Scott",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aiuniv.edu/online-campus/campus-locations/atlanta",
+  "officialUrl": "https://www.aiuniv.edu/online-campus/campus-locations/atlanta",
   "name": "American InterContinental University-Atlanta",
   "shortName": "American InterContinental -Atlanta",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.johnmarshall.edu/",
+  "officialUrl": "https://www.johnmarshall.edu/",
   "name": "Atlanta's John Marshall Law School",
   "shortName": "Atlanta's John Marshall Law School",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.augusta.edu/",
+  "officialUrl": "https://www.augusta.edu/",
   "name": "Augusta University",
   "shortName": "Augusta",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.beulah.edu/",
+  "officialUrl": "https://www.beulah.edu/",
   "name": "Beulah Heights University",
   "shortName": "Beulah Heights",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cau.edu/",
+  "officialUrl": "https://www.cau.edu/",
   "name": "Clark Atlanta University",
   "shortName": "Clark Atlanta",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clayton.edu/",
+  "officialUrl": "https://www.clayton.edu/",
   "name": "Clayton  State University",
   "shortName": "Clayton  State",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ctsnet.edu/",
+  "officialUrl": "https://www.ctsnet.edu/",
   "name": "Columbia Theological Seminary",
   "shortName": "Columbia Theological Seminary",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.columbusstate.edu/",
+  "officialUrl": "https://www.columbusstate.edu/",
   "name": "Columbus State University",
   "shortName": "Columbus State",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.covenant.edu/",
+  "officialUrl": "https://www.covenant.edu/",
   "name": "Covenant College",
   "shortName": "Covenant",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "eu.edu/",
+  "officialUrl": "https://eu.edu/",
   "name": "Emmanuel University",
   "shortName": "Emmanuel",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emory.edu/",
+  "officialUrl": "https://www.emory.edu/",
   "name": "Emory University",
   "shortName": "Emory",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fvsu.edu/",
+  "officialUrl": "https://www.fvsu.edu/",
   "name": "Fort Valley State University",
   "shortName": "Fort Valley State",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gcsu.edu/",
+  "officialUrl": "https://www.gcsu.edu/",
   "name": "Georgia College & State University",
   "shortName": "Georgia  & State",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ggc.edu/",
+  "officialUrl": "https://www.ggc.edu/",
   "name": "Georgia Gwinnett College",
   "shortName": "Georgia Gwinnett",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.highlands.edu/",
+  "officialUrl": "https://www.highlands.edu/",
   "name": "Georgia Highlands College",
   "shortName": "Georgia Highlands",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gatech.edu/",
+  "officialUrl": "https://www.gatech.edu/",
   "name": "Georgia Institute of Technology",
   "shortName": "Georgia  Technology",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.georgiasouthern.edu/",
+  "officialUrl": "https://www.georgiasouthern.edu/",
   "name": "Georgia Southern University",
   "shortName": "Georgia Southern",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gsu.edu/",
+  "officialUrl": "https://www.gsu.edu/",
   "name": "Georgia State University",
   "shortName": "Georgia State",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.itc.edu/",
+  "officialUrl": "https://www.itc.edu/",
   "name": "Interdenominational Theological Center",
   "shortName": "Interdenominational Theological Center",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kennesaw.edu/",
+  "officialUrl": "https://www.kennesaw.edu/",
   "name": "Kennesaw State University",
   "shortName": "Kennesaw State",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.life.edu/",
+  "officialUrl": "https://www.life.edu/",
   "name": "Life University",
   "shortName": "Life",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lutherrice.edu/",
+  "officialUrl": "https://www.lutherrice.edu/",
   "name": "Luther Rice College & Seminary",
   "shortName": "Luther Rice  & Seminary",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.morehouse.edu/",
+  "officialUrl": "https://www.morehouse.edu/",
   "name": "Morehouse College",
   "shortName": "Morehouse",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msm.edu/",
+  "officialUrl": "https://www.msm.edu/",
   "name": "Morehouse School of Medicine",
   "shortName": "Morehouse School Medicine",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.paine.edu/",
+  "officialUrl": "https://www.paine.edu/",
   "name": "Paine College",
   "shortName": "Paine",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "point.edu/",
+  "officialUrl": "https://point.edu/",
   "name": "Point University",
   "shortName": "Point",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scad.edu/",
+  "officialUrl": "https://www.scad.edu/",
   "name": "Savannah College of Art and Design",
   "shortName": "Savannah  Art and Design",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sgsc.edu/",
+  "officialUrl": "https://www.sgsc.edu/",
   "name": "South Georgia State College",
   "shortName": "South Georgia State",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/online#location=Online Programs",
+  "officialUrl": "https://www.southuniversity.edu/online#location=Online Programs",
   "name": "South University",
   "shortName": "South",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/savannah#location=Savannah, GA",
+  "officialUrl": "https://www.southuniversity.edu/savannah#location=Savannah, GA",
   "name": "South University-Savannah",
   "shortName": "South -Savannah",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.spelman.edu/",
+  "officialUrl": "https://www.spelman.edu/",
   "name": "Spelman College",
   "shortName": "Spelman",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/georgia/chamblee",
+  "officialUrl": "https://www.strayer.edu/campus-locations/georgia/chamblee",
   "name": "Strayer University-Georgia",
   "shortName": "Strayer -Georgia",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.thomasu.edu/",
+  "officialUrl": "https://www.thomasu.edu/",
   "name": "Thomas University",
   "shortName": "Thomas",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uga.edu/",
+  "officialUrl": "https://www.uga.edu/",
   "name": "University of Georgia",
   "shortName": "Georgia",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ung.edu/",
+  "officialUrl": "https://www.ung.edu/",
   "name": "University of North Georgia",
   "shortName": "North Georgia",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westga.edu/",
+  "officialUrl": "https://www.westga.edu/",
   "name": "University of West Georgia",
   "shortName": "West Georgia",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.valdosta.edu/",
+  "officialUrl": "https://www.valdosta.edu/",
   "name": "Valdosta State University",
   "shortName": "Valdosta State",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_GA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yhc.edu/",
+  "officialUrl": "https://www.yhc.edu/",
   "name": "Young Harris College",
   "shortName": "Young Harris",
   "location": {

@@ -19,7 +19,7 @@ export const DETAILS_GU = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.piu.edu/",
+  "officialUrl": "https://www.piu.edu/",
   "name": "Pacific Islands University",
   "shortName": "Pacific Islands",
   "location": {

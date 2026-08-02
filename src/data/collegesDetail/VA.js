@@ -54,7 +54,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acp.edu/",
+  "officialUrl": "https://www.acp.edu/",
   "name": "Appalachian College of Pharmacy",
   "shortName": "Appalachian  Pharmacy",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.asl.edu/",
+  "officialUrl": "https://www.asl.edu/",
   "name": "Appalachian School of Law",
   "shortName": "Appalachian School Law",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ascent.edu/",
+  "officialUrl": "https://ascent.edu/",
   "name": "Ascent College",
   "shortName": "Ascent",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bluefield.edu/",
+  "officialUrl": "https://www.bluefield.edu/",
   "name": "Bluefield University",
   "shortName": "Bluefield",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.divinemercy.edu/",
+  "officialUrl": "https://www.divinemercy.edu/",
   "name": "Divine Mercy University",
   "shortName": "Divine Mercy",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ecpi.edu/",
+  "officialUrl": "https://www.ecpi.edu/",
   "name": "ECPI University",
   "shortName": "ECPI",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vcom.edu/",
+  "officialUrl": "https://www.vcom.edu/",
   "name": "Edward Via College of Osteopathic Medicine",
   "shortName": "Edward Via  Osteopathic Medicine",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emoryhenry.edu/",
+  "officialUrl": "https://www.emoryhenry.edu/",
   "name": "Emory & Henry University",
   "shortName": "Emory & Henry",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ferrum.edu/",
+  "officialUrl": "https://www.ferrum.edu/",
   "name": "Ferrum College",
   "shortName": "Ferrum",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hsc.edu/",
+  "officialUrl": "https://www.hsc.edu/",
   "name": "Hampden-Sydney College",
   "shortName": "Hampden-Sydney",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hamptonu.edu/",
+  "officialUrl": "https://www.hamptonu.edu/",
   "name": "Hampton University",
   "shortName": "Hampton",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hollins.edu/",
+  "officialUrl": "https://www.hollins.edu/",
   "name": "Hollins University",
   "shortName": "Hollins",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jmu.edu/index.shtml",
+  "officialUrl": "https://www.jmu.edu/index.shtml",
   "name": "James Madison University",
   "shortName": "James Madison",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.longwood.edu/",
+  "officialUrl": "https://www.longwood.edu/",
   "name": "Longwood University",
   "shortName": "Longwood",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "lotus.edu/",
+  "officialUrl": "https://lotus.edu/",
   "name": "Lotus Professional College",
   "shortName": "Lotus Professional",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nsu.edu/",
+  "officialUrl": "https://www.nsu.edu/",
   "name": "Norfolk State University",
   "shortName": "Norfolk State",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.odu.edu/",
+  "officialUrl": "https://www.odu.edu/",
   "name": "Old Dominion University",
   "shortName": "Old Dominion",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.randolphcollege.edu/",
+  "officialUrl": "https://www.randolphcollege.edu/",
   "name": "Randolph College",
   "shortName": "Randolph",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sentara.edu/",
+  "officialUrl": "https://www.sentara.edu/",
   "name": "Sentara College of Health Sciences",
   "shortName": "Sentara  Health Sciences",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.su.edu/",
+  "officialUrl": "https://www.su.edu/",
   "name": "Shenandoah University",
   "shortName": "Shenandoah",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/richmond#location=Richmond, VA",
+  "officialUrl": "https://www.southuniversity.edu/richmond#location=Richmond, VA",
   "name": "South University-Richmond",
   "shortName": "South -Richmond",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/virginia-beach#location=Virginia Beach, VA",
+  "officialUrl": "https://www.southuniversity.edu/virginia-beach#location=Virginia Beach, VA",
   "name": "South University-Virginia Beach",
   "shortName": "South -Virginia Beach",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/virginia/arlington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/virginia/arlington",
   "name": "Strayer University-Virginia",
   "shortName": "Strayer -Virginia",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sbc.edu/",
+  "officialUrl": "https://www.sbc.edu/",
   "name": "Sweet Briar College",
   "shortName": "Sweet Briar",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upsem.edu/",
+  "officialUrl": "https://www.upsem.edu/",
   "name": "Union Presbyterian Seminary",
   "shortName": "Union Presbyterian Seminary",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lynchburg.edu/",
+  "officialUrl": "https://www.lynchburg.edu/",
   "name": "University of Lynchburg",
   "shortName": "Lynchburg",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vbts.edu/",
+  "officialUrl": "https://www.vbts.edu/",
   "name": "Virginia Beach Theological Seminary",
   "shortName": "Virginia Beach Theological Seminary",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vmi.edu/",
+  "officialUrl": "https://www.vmi.edu/",
   "name": "Virginia Military Institute",
   "shortName": "Virginia Military",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vsu.edu/",
+  "officialUrl": "https://www.vsu.edu/",
   "name": "Virginia State University",
   "shortName": "Virginia State",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vt.edu/",
+  "officialUrl": "https://www.vt.edu/",
   "name": "Virginia Tech (Virginia Polytechnic Institute)",
   "shortName": "Virginia Tech (Virginia Polytechnic )",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vuu.edu/",
+  "officialUrl": "https://www.vuu.edu/",
   "name": "Virginia Union University",
   "shortName": "Virginia Union",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vuim.edu/",
+  "officialUrl": "https://www.vuim.edu/",
   "name": "Virginia University of Integrative Medicine",
   "shortName": "Virginia  Integrative Medicine",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vul.edu/",
+  "officialUrl": "https://www.vul.edu/",
   "name": "Virginia University of Lynchburg",
   "shortName": "Virginia  Lynchburg",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wlu.edu/",
+  "officialUrl": "https://www.wlu.edu/",
   "name": "Washington and Lee University",
   "shortName": "Washington and Lee",
   "location": {
@@ -2364,7 +2364,7 @@ export const DETAILS_VA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wust.edu/",
+  "officialUrl": "https://www.wust.edu/",
   "name": "Washington University of Science and Technology",
   "shortName": "Washington  Science and Technology",
   "location": {

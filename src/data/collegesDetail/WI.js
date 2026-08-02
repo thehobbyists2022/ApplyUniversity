@@ -89,7 +89,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.beloit.edu/",
+  "officialUrl": "https://www.beloit.edu/",
   "name": "Beloit College",
   "shortName": "Beloit",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.carthage.edu/",
+  "officialUrl": "https://www.carthage.edu/",
   "name": "Carthage College",
   "shortName": "Carthage",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.edgewood.edu/",
+  "officialUrl": "https://www.edgewood.edu/",
   "name": "Edgewood University",
   "shortName": "Edgewood",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lco.edu/",
+  "officialUrl": "https://www.lco.edu/",
   "name": "Lac Courte Oreilles Ojibwe University",
   "shortName": "Lac Courte Oreilles Ojibwe",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lakeland.edu/",
+  "officialUrl": "https://www.lakeland.edu/",
   "name": "Lakeland University",
   "shortName": "Lakeland",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mbu.edu/",
+  "officialUrl": "https://www.mbu.edu/",
   "name": "Maranatha Baptist University",
   "shortName": "Maranatha Baptist",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.marquette.edu/",
+  "officialUrl": "https://www.marquette.edu/",
   "name": "Marquette University",
   "shortName": "Marquette",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mcw.edu/",
+  "officialUrl": "https://www.mcw.edu/",
   "name": "Medical College of Wisconsin",
   "shortName": "Medical  Wisconsin",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acupuncture.edu/",
+  "officialUrl": "https://www.acupuncture.edu/",
   "name": "Midwest College of Oriental Medicine-Racine",
   "shortName": "Midwest  Oriental Medicine-Racine",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.miad.edu/",
+  "officialUrl": "https://www.miad.edu/",
   "name": "Milwaukee Institute of Art & Design",
   "shortName": "Milwaukee  Art & Design",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msoe.edu/",
+  "officialUrl": "https://www.msoe.edu/",
   "name": "Milwaukee School of Engineering",
   "shortName": "Milwaukee School Engineering",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mtmary.edu/",
+  "officialUrl": "https://www.mtmary.edu/",
   "name": "Mount Mary University",
   "shortName": "Mount Mary",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nashotah.edu/",
+  "officialUrl": "https://www.nashotah.edu/",
   "name": "Nashotah House",
   "shortName": "Nashotah House",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "name": "Ottawa University-Milwaukee",
   "shortName": "Ottawa -Milwaukee",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ripon.edu/",
+  "officialUrl": "https://www.ripon.edu/",
   "name": "Ripon College",
   "shortName": "Ripon",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shsst.edu/",
+  "officialUrl": "https://www.shsst.edu/",
   "name": "Sacred Heart Seminary and School of Theology",
   "shortName": "Sacred Heart Seminary and School Theology",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.snc.edu/",
+  "officialUrl": "https://www.snc.edu/",
   "name": "Saint Norbert College",
   "shortName": "Saint Norbert",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwec.edu/",
+  "officialUrl": "https://www.uwec.edu/",
   "name": "University of Wisconsin-Eau Claire",
   "shortName": "Wisconsin-Eau Claire",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwgb.edu/",
+  "officialUrl": "https://www.uwgb.edu/",
   "name": "University of Wisconsin-Green Bay",
   "shortName": "Wisconsin-Green Bay",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwlax.edu/",
+  "officialUrl": "https://www.uwlax.edu/",
   "name": "University of Wisconsin-La Crosse",
   "shortName": "Wisconsin-La Crosse",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wisc.edu/",
+  "officialUrl": "https://www.wisc.edu/",
   "name": "University of Wisconsin-Madison",
   "shortName": "Wisconsin-Madison",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "uwm.edu/",
+  "officialUrl": "https://uwm.edu/",
   "name": "University of Wisconsin-Milwaukee",
   "shortName": "Wisconsin-Milwaukee",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwstout.edu/",
+  "officialUrl": "https://www.uwstout.edu/",
   "name": "University of Wisconsin-Stout",
   "shortName": "Wisconsin-Stout",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uww.edu/",
+  "officialUrl": "https://www.uww.edu/",
   "name": "University of Wisconsin-Whitewater",
   "shortName": "Wisconsin-Whitewater",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wlc.edu/",
+  "officialUrl": "https://www.wlc.edu/",
   "name": "Wisconsin Lutheran College",
   "shortName": "Wisconsin Lutheran",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_WI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wspp.edu/",
+  "officialUrl": "https://www.wspp.edu/",
   "name": "Wisconsin School of Professional Psychology",
   "shortName": "Wisconsin School Professional Psychology",
   "location": {

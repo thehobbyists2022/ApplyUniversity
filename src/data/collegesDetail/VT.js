@@ -89,7 +89,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.landmark.edu/",
+  "officialUrl": "https://www.landmark.edu/",
   "name": "Landmark College",
   "shortName": "Landmark",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.norwich.edu/",
+  "officialUrl": "https://www.norwich.edu/",
   "name": "Norwich University",
   "shortName": "Norwich",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.smcvt.edu/",
+  "officialUrl": "https://www.smcvt.edu/",
   "name": "Saint Michael's College",
   "shortName": "Saint Michael's",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uvm.edu/",
+  "officialUrl": "https://www.uvm.edu/",
   "name": "University of Vermont",
   "shortName": "Vermont",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vcfa.edu/",
+  "officialUrl": "https://www.vcfa.edu/",
   "name": "Vermont College of Fine Arts",
   "shortName": "Vermont  Fine Arts",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vermontlaw.edu/",
+  "officialUrl": "https://www.vermontlaw.edu/",
   "name": "Vermont Law and Graduate School",
   "shortName": "Vermont Law and Graduate School",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_VT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "vermontstate.edu/",
+  "officialUrl": "https://vermontstate.edu/",
   "name": "Vermont State University",
   "shortName": "Vermont State",
   "location": {

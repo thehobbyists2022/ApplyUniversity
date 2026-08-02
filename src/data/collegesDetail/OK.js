@@ -89,7 +89,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.familyoffaith.edu/",
+  "officialUrl": "https://www.familyoffaith.edu/",
   "name": "Family of Faith Christian University",
   "shortName": "Family Faith Christian",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.langston.edu/",
+  "officialUrl": "https://www.langston.edu/",
   "name": "Langston University",
   "shortName": "Langston",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nwosu.edu/",
+  "officialUrl": "https://www.nwosu.edu/",
   "name": "Northwestern Oklahoma State University",
   "shortName": "Northwestern Oklahoma State",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oc.edu/",
+  "officialUrl": "https://www.oc.edu/",
   "name": "Oklahoma Christian University",
   "shortName": "Oklahoma Christian",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.okcu.edu/",
+  "officialUrl": "https://www.okcu.edu/",
   "name": "Oklahoma City University",
   "shortName": "Oklahoma City",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.okstate.edu/",
+  "officialUrl": "https://www.okstate.edu/",
   "name": "Oklahoma State University",
   "shortName": "Oklahoma State",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "osuokc.edu/",
+  "officialUrl": "https://osuokc.edu/",
   "name": "Oklahoma State University-Oklahoma City",
   "shortName": "Oklahoma State -Oklahoma City",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.okwu.edu/",
+  "officialUrl": "https://www.okwu.edu/",
   "name": "Oklahoma Wesleyan University",
   "shortName": "Oklahoma Wesleyan",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ru.edu/",
+  "officialUrl": "https://www.ru.edu/",
   "name": "Randall University",
   "shortName": "Randall",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.se.edu/",
+  "officialUrl": "https://www.se.edu/",
   "name": "Southeastern Oklahoma State University",
   "shortName": "Southeastern Oklahoma State",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.swcu.edu/",
+  "officialUrl": "https://www.swcu.edu/",
   "name": "Southwestern Christian University",
   "shortName": "Southwestern Christian",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.spartan.edu/",
+  "officialUrl": "https://www.spartan.edu/",
   "name": "Spartan College of Aeronautics and Technology",
   "shortName": "Spartan  Aeronautics and Technology",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_OK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ouhsc.edu/",
+  "officialUrl": "https://ouhsc.edu/",
   "name": "University of Oklahoma-Health Sciences Center",
   "shortName": "Oklahoma-Health Sciences Center",
   "location": {

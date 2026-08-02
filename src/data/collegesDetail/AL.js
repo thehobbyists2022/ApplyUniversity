@@ -19,7 +19,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aamu.edu/",
+  "officialUrl": "https://www.aamu.edu/",
   "name": "Alabama A & M University",
   "shortName": "Alabama A & M",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alasu.edu/",
+  "officialUrl": "https://www.alasu.edu/",
   "name": "Alabama State University",
   "shortName": "Alabama State",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.auburn.edu/",
+  "officialUrl": "https://www.auburn.edu/",
   "name": "Auburn University",
   "shortName": "Auburn",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aum.edu/",
+  "officialUrl": "https://www.aum.edu/",
   "name": "Auburn University at Montgomery",
   "shortName": "Auburn  at Montgomery",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.columbiasouthern.edu/",
+  "officialUrl": "https://www.columbiasouthern.edu/",
   "name": "Columbia Southern University",
   "shortName": "Columbia Southern",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.faulkner.edu/",
+  "officialUrl": "https://www.faulkner.edu/",
   "name": "Faulkner University",
   "shortName": "Faulkner",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.huntsvillebiblecollege.org/",
+  "officialUrl": "https://www.huntsvillebiblecollege.org/",
   "name": "Huntsville Bible College",
   "shortName": "Huntsville Bible",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.samford.edu/",
+  "officialUrl": "https://www.samford.edu/",
   "name": "Samford University",
   "shortName": "Samford",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/",
+  "officialUrl": "https://www.southuniversity.edu/",
   "name": "South University-Montgomery",
   "shortName": "South -Montgomery",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/alabama/birmingham",
+  "officialUrl": "https://www.strayer.edu/campus-locations/alabama/birmingham",
   "name": "Strayer University-Alabama",
   "shortName": "Strayer -Alabama",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.talladega.edu/",
+  "officialUrl": "https://www.talladega.edu/",
   "name": "Talladega College",
   "shortName": "Talladega",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.troy.edu/",
+  "officialUrl": "https://www.troy.edu/",
   "name": "Troy University",
   "shortName": "Troy",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ua.edu/",
+  "officialUrl": "https://www.ua.edu/",
   "name": "University of Alabama",
   "shortName": "Alabama",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uah.edu/",
+  "officialUrl": "https://www.uah.edu/",
   "name": "University of Alabama in Huntsville",
   "shortName": "Alabama in Huntsville",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.montevallo.edu/",
+  "officialUrl": "https://www.montevallo.edu/",
   "name": "University of Montevallo",
   "shortName": "Montevallo",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southalabama.edu/",
+  "officialUrl": "https://www.southalabama.edu/",
   "name": "University of South Alabama",
   "shortName": "South Alabama",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_AL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwa.edu/",
+  "officialUrl": "https://www.uwa.edu/",
   "name": "University of West Alabama",
   "shortName": "West Alabama",
   "location": {

@@ -19,7 +19,7 @@ export const DETAILS_RI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brown.edu/",
+  "officialUrl": "https://www.brown.edu/",
   "name": "Brown University",
   "shortName": "Brown",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_RI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "collegeunbound.edu/",
+  "officialUrl": "https://collegeunbound.edu/",
   "name": "College Unbound",
   "shortName": "Unbound",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_RI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ric.edu/",
+  "officialUrl": "https://www.ric.edu/",
   "name": "Rhode Island College",
   "shortName": "Rhode Island",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_RI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "law.rwu.edu/",
+  "officialUrl": "https://law.rwu.edu/",
   "name": "Roger Williams University School of Law",
   "shortName": "Roger Williams  School Law",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_RI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.salve.edu/",
+  "officialUrl": "https://www.salve.edu/",
   "name": "Salve Regina University",
   "shortName": "Salve Regina",
   "location": {

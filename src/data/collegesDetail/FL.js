@@ -19,7 +19,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acupuncturist.edu/",
+  "officialUrl": "https://www.acupuncturist.edu/",
   "name": "Academy for Five Element Acupuncture",
   "shortName": "Academy for Five Element Acupuncture",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ahu.edu/",
+  "officialUrl": "https://www.ahu.edu/",
   "name": "AdventHealth University",
   "shortName": "AdventHealth",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ama.edu/",
+  "officialUrl": "https://www.ama.edu/",
   "name": "American Medical Academy",
   "shortName": "American Medical Academy",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.agmu.edu/",
+  "officialUrl": "https://www.agmu.edu/",
   "name": "Ana G. Mendez University",
   "shortName": "Ana G. Mendez",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antigua.edu/",
+  "officialUrl": "https://www.antigua.edu/",
   "name": "Antigua College International",
   "shortName": "Antigua  International",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.atafl.edu/",
+  "officialUrl": "https://www.atafl.edu/",
   "name": "ATA Career Education",
   "shortName": "ATA Career Education",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.atom.edu/",
+  "officialUrl": "https://www.atom.edu/",
   "name": "Atlantic Institute of Oriental Medicine",
   "shortName": "Atlantic  Oriental Medicine",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.avemaria.edu/",
+  "officialUrl": "https://www.avemaria.edu/",
   "name": "Ave Maria University",
   "shortName": "Ave Maria",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.buf.edu/",
+  "officialUrl": "https://www.buf.edu/",
   "name": "Baptist University of Florida",
   "shortName": "Baptist  Florida",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.barry.edu/",
+  "officialUrl": "https://www.barry.edu/",
   "name": "Barry University",
   "shortName": "Barry",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.broward.edu/",
+  "officialUrl": "https://www.broward.edu/",
   "name": "Broward College",
   "shortName": "Broward",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cambridgehealth.edu/",
+  "officialUrl": "https://www.cambridgehealth.edu/",
   "name": "Cambridge College of Healthcare & Technology",
   "shortName": "Cambridge  Healthcare & Technology",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cf.edu/",
+  "officialUrl": "https://www.cf.edu/",
   "name": "College of Central Florida",
   "shortName": "Central Florida",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.daytonastate.edu/",
+  "officialUrl": "https://www.daytonastate.edu/",
   "name": "Daytona State College",
   "shortName": "Daytona State",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ew.edu/",
+  "officialUrl": "https://www.ew.edu/",
   "name": "Edward Waters University",
   "shortName": "Edward Waters",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "daytonabeach.erau.edu/",
+  "officialUrl": "https://daytonabeach.erau.edu/",
   "name": "Embry-Riddle Aeronautical University-Daytona Beach",
   "shortName": "Embry-Riddle Aeronautical -Daytona Beach",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "worldwide.erau.edu/",
+  "officialUrl": "https://worldwide.erau.edu/",
   "name": "Embry-Riddle Aeronautical University-Worldwide",
   "shortName": "Embry-Riddle Aeronautical -Worldwide",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fan.edu/",
+  "officialUrl": "https://www.fan.edu/",
   "name": "Florida Academy of Nursing",
   "shortName": "Florida Academy Nursing",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fau.edu/",
+  "officialUrl": "https://www.fau.edu/",
   "name": "Florida Atlantic University",
   "shortName": "Florida Atlantic",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.floridacollege.edu/",
+  "officialUrl": "https://www.floridacollege.edu/",
   "name": "Florida College",
   "shortName": "Florida",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fgcu.edu/",
+  "officialUrl": "https://www.fgcu.edu/",
   "name": "Florida Gulf Coast University",
   "shortName": "Florida Gulf Coast",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fiu.edu/",
+  "officialUrl": "https://www.fiu.edu/",
   "name": "Florida International University",
   "shortName": "Florida International",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fmuniv.edu/",
+  "officialUrl": "https://www.fmuniv.edu/",
   "name": "Florida Memorial University",
   "shortName": "Florida Memorial",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fnu.edu/",
+  "officialUrl": "https://www.fnu.edu/",
   "name": "Florida National University",
   "shortName": "Florida National",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "floridapoly.edu/",
+  "officialUrl": "https://floridapoly.edu/",
   "name": "Florida Polytechnic University",
   "shortName": "Florida Polytechnic",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.flsouthern.edu/",
+  "officialUrl": "https://www.flsouthern.edu/",
   "name": "Florida Southern College",
   "shortName": "Florida Southern",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fscj.edu/",
+  "officialUrl": "https://www.fscj.edu/",
   "name": "Florida State College at Jacksonville",
   "shortName": "Florida State  at Jacksonville",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fullsail.edu/",
+  "officialUrl": "https://www.fullsail.edu/",
   "name": "Full Sail University",
   "shortName": "Full Sail",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.galencollege.edu/tampabay",
+  "officialUrl": "https://www.galencollege.edu/tampabay",
   "name": "Galen College of Nursing-Tampa Bay",
   "shortName": "Galen  Nursing-Tampa Bay",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.irsc.edu/",
+  "officialUrl": "https://www.irsc.edu/",
   "name": "Indian River State College",
   "shortName": "Indian River State",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jmvu.edu/",
+  "officialUrl": "https://www.jmvu.edu/",
   "name": "Jose Maria Vargas University",
   "shortName": "Jose Maria Vargas",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.keiseruniversity.edu/",
+  "officialUrl": "https://www.keiseruniversity.edu/",
   "name": "Keiser University-Ft Lauderdale",
   "shortName": "Keiser -Ft Lauderdale",
   "location": {
@@ -2434,7 +2434,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mdc.edu/",
+  "officialUrl": "https://www.mdc.edu/",
   "name": "Miami Dade College",
   "shortName": "Miami Dade",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.maufl.edu/en/home",
+  "officialUrl": "https://www.maufl.edu/en/home",
   "name": "Millennia Atlantic University",
   "shortName": "Millennia Atlantic",
   "location": {
@@ -2539,7 +2539,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ncf.edu/",
+  "officialUrl": "https://www.ncf.edu/",
   "name": "New College of Florida",
   "shortName": "New  Florida",
   "location": {
@@ -2714,7 +2714,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pbsc.edu/",
+  "officialUrl": "https://www.pbsc.edu/",
   "name": "Palm Beach State College",
   "shortName": "Palm Beach State",
   "location": {
@@ -2819,7 +2819,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pensacolastate.edu/",
+  "officialUrl": "https://www.pensacolastate.edu/",
   "name": "Pensacola State College",
   "shortName": "Pensacola State",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.polk.edu/",
+  "officialUrl": "https://www.polk.edu/",
   "name": "Polk State College",
   "shortName": "Polk State",
   "location": {
@@ -2889,7 +2889,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pupr.edu/orlando",
+  "officialUrl": "https://www.pupr.edu/orlando",
   "name": "Polytechnic University of Puerto Rico-Orlando",
   "shortName": "Polytechnic  Puerto Rico-Orlando",
   "location": {
@@ -3029,7 +3029,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjrstate.edu/",
+  "officialUrl": "https://www.sjrstate.edu/",
   "name": "Saint Johns River State College",
   "shortName": "Saint Johns River State",
   "location": {
@@ -3064,7 +3064,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.saintleo.edu/",
+  "officialUrl": "https://www.saintleo.edu/",
   "name": "Saint Leo University",
   "shortName": "Saint Leo",
   "location": {
@@ -3099,7 +3099,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.svdp.edu/",
+  "officialUrl": "https://www.svdp.edu/",
   "name": "Saint Vincent de Paul Regional Seminary",
   "shortName": "Saint Vincent de Paul Regional Seminary",
   "location": {
@@ -3134,7 +3134,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sanignaciouniversity.edu/",
+  "officialUrl": "https://www.sanignaciouniversity.edu/",
   "name": "San Ignacio University",
   "shortName": "San Ignacio",
   "location": {
@@ -3169,7 +3169,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sfcollege.edu/",
+  "officialUrl": "https://www.sfcollege.edu/",
   "name": "Santa Fe College",
   "shortName": "Santa Fe",
   "location": {
@@ -3204,7 +3204,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.schiller.edu/",
+  "officialUrl": "https://www.schiller.edu/",
   "name": "Schiller International University",
   "shortName": "Schiller International",
   "location": {
@@ -3309,7 +3309,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southflorida.edu/",
+  "officialUrl": "https://www.southflorida.edu/",
   "name": "South Florida State College",
   "shortName": "South Florida State",
   "location": {
@@ -3344,7 +3344,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/tampa#location=Tampa, FL",
+  "officialUrl": "https://www.southuniversity.edu/tampa#location=Tampa, FL",
   "name": "South University-Tampa",
   "shortName": "South -Tampa",
   "location": {
@@ -3379,7 +3379,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/west-palm-beach#location=West Palm Beach, FL",
+  "officialUrl": "https://www.southuniversity.edu/west-palm-beach#location=West Palm Beach, FL",
   "name": "South University-West Palm Beach",
   "shortName": "South -West Palm Beach",
   "location": {
@@ -3414,7 +3414,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sec.edu/",
+  "officialUrl": "https://www.sec.edu/",
   "name": "Southeastern College-Boynton Beach",
   "shortName": "Southeastern -Boynton Beach",
   "location": {
@@ -3484,7 +3484,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.spcollege.edu/",
+  "officialUrl": "https://www.spcollege.edu/",
   "name": "St Petersburg College",
   "shortName": "St Petersburg",
   "location": {
@@ -3519,7 +3519,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjvcs.edu/",
+  "officialUrl": "https://www.sjvcs.edu/",
   "name": "St. John Vianney College Seminary",
   "shortName": "St. John Vianney  Seminary",
   "location": {
@@ -3554,7 +3554,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stu.edu/",
+  "officialUrl": "https://www.stu.edu/",
   "name": "St. Thomas University",
   "shortName": "St. Thomas",
   "location": {
@@ -3589,7 +3589,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scf.edu/",
+  "officialUrl": "https://www.scf.edu/",
   "name": "State College of Florida-Manatee-Sarasota",
   "shortName": "State  Florida-Manatee-Sarasota",
   "location": {
@@ -3659,7 +3659,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/florida/tampa-east",
+  "officialUrl": "https://www.strayer.edu/campus-locations/florida/tampa-east",
   "name": "Strayer University-Florida",
   "shortName": "Strayer -Florida",
   "location": {
@@ -3694,7 +3694,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tsc.fl.edu/",
+  "officialUrl": "https://www.tsc.fl.edu/",
   "name": "Tallahassee State College",
   "shortName": "Tallahassee State",
   "location": {
@@ -3729,7 +3729,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.talmudicu.edu/",
+  "officialUrl": "https://www.talmudicu.edu/",
   "name": "Talmudic College of Florida",
   "shortName": "Talmudic  Florida",
   "location": {
@@ -3764,7 +3764,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "trinitycollege.edu/",
+  "officialUrl": "https://trinitycollege.edu/",
   "name": "Trinity College of Florida",
   "shortName": "Trinity  Florida",
   "location": {
@@ -3799,7 +3799,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tcj.edu/",
+  "officialUrl": "https://www.tcj.edu/",
   "name": "Trinity College of Jacksonville",
   "shortName": "Trinity  Jacksonville",
   "location": {
@@ -3834,7 +3834,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uinternational.edu/",
+  "officialUrl": "https://www.uinternational.edu/",
   "name": "United International College",
   "shortName": "United International",
   "location": {
@@ -3939,7 +3939,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "uftl.edu/",
+  "officialUrl": "https://uftl.edu/",
   "name": "University of Fort Lauderdale",
   "shortName": "Fort Lauderdale",
   "location": {
@@ -3974,7 +3974,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.miami.edu/",
+  "officialUrl": "https://www.miami.edu/",
   "name": "University of Miami",
   "shortName": "Miami",
   "location": {
@@ -4044,7 +4044,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usf.edu/",
+  "officialUrl": "https://www.usf.edu/",
   "name": "University of South Florida",
   "shortName": "South Florida",
   "location": {
@@ -4114,7 +4114,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "uwf.edu/",
+  "officialUrl": "https://uwf.edu/",
   "name": "University of West Florida",
   "shortName": "West Florida",
   "location": {
@@ -4219,7 +4219,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "valenciacollege.edu/",
+  "officialUrl": "https://valenciacollege.edu/",
   "name": "Valencia College",
   "shortName": "Valencia",
   "location": {
@@ -4254,7 +4254,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.warner.edu/",
+  "officialUrl": "https://www.warner.edu/",
   "name": "Warner University",
   "shortName": "Warner",
   "location": {
@@ -4289,7 +4289,7 @@ export const DETAILS_FL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.webber.edu/",
+  "officialUrl": "https://www.webber.edu/",
   "name": "Webber International University",
   "shortName": "Webber International",
   "location": {

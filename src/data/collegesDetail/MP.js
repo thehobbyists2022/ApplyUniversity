@@ -19,7 +19,7 @@ export const DETAILS_MP = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.marianas.edu/",
+  "officialUrl": "https://www.marianas.edu/",
   "name": "Northern Marianas College",
   "shortName": "Northern Marianas",
   "location": {

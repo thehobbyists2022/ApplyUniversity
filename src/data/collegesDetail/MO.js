@@ -19,7 +19,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.atsu.edu/",
+  "officialUrl": "https://www.atsu.edu/",
   "name": "A T Still University of Health Sciences",
   "shortName": "A T Still  Health Sciences",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bolivarcollege.edu/",
+  "officialUrl": "https://www.bolivarcollege.edu/",
   "name": "Bolivar Technical College",
   "shortName": "Bolivar Technical",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calvary.edu/",
+  "officialUrl": "https://www.calvary.edu/",
   "name": "Calvary University",
   "shortName": "Calvary",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.centralmethodist.edu/",
+  "officialUrl": "https://www.centralmethodist.edu/",
   "name": "Central Methodist University-College of Graduate and Extended Studies",
   "shortName": "Central Methodist - Graduate and Extended Studies",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.centralmethodist.edu/",
+  "officialUrl": "https://www.centralmethodist.edu/",
   "name": "Central Methodist University-College of Liberal Arts and Sciences",
   "shortName": "Central Methodist - Liberal Arts and Sciences",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cofo.edu/",
+  "officialUrl": "https://www.cofo.edu/",
   "name": "College of the Ozarks",
   "shortName": "the Ozarks",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.conception.edu/",
+  "officialUrl": "https://www.conception.edu/",
   "name": "Conception Seminary College",
   "shortName": "Conception Seminary",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.drury.edu/",
+  "officialUrl": "https://www.drury.edu/",
   "name": "Drury University",
   "shortName": "Drury",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.drury.edu/go/",
+  "officialUrl": "https://www.drury.edu/go/",
   "name": "Drury University-College of Continuing Professional Studies",
   "shortName": "Drury - Continuing Professional Studies",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eden.edu/",
+  "officialUrl": "https://www.eden.edu/",
   "name": "Eden Theological Seminary",
   "shortName": "Eden Theological Seminary",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.evangel.edu/",
+  "officialUrl": "https://www.evangel.edu/",
   "name": "Evangel University",
   "shortName": "Evangel",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hlg.edu/",
+  "officialUrl": "https://www.hlg.edu/",
   "name": "Hannibal-LaGrange University",
   "shortName": "Hannibal-LaGrange",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kcai.edu/",
+  "officialUrl": "https://www.kcai.edu/",
   "name": "Kansas City Art Institute",
   "shortName": "Kansas City Art",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kenrick.edu/",
+  "officialUrl": "https://www.kenrick.edu/",
   "name": "Kenrick Glennon Seminary",
   "shortName": "Kenrick Glennon Seminary",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mission.edu/",
+  "officialUrl": "https://www.mission.edu/",
   "name": "Mission University",
   "shortName": "Mission",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mobap.edu/",
+  "officialUrl": "https://www.mobap.edu/",
   "name": "Missouri Baptist University",
   "shortName": "Missouri Baptist",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mssu.edu/",
+  "officialUrl": "https://www.mssu.edu/",
   "name": "Missouri Southern State University",
   "shortName": "Missouri Southern State",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nts.edu/",
+  "officialUrl": "https://www.nts.edu/",
   "name": "Nazarene Theological Seminary",
   "shortName": "Nazarene Theological Seminary",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.occ.edu/",
+  "officialUrl": "https://www.occ.edu/",
   "name": "Ozark Christian College",
   "shortName": "Ozark Christian",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.otc.edu/",
+  "officialUrl": "https://www.otc.edu/",
   "name": "Ozarks Technical Community College",
   "shortName": "Ozarks Technical Community",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.park.edu/",
+  "officialUrl": "https://www.park.edu/",
   "name": "Park University",
   "shortName": "Park",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "phsu.edu/",
+  "officialUrl": "https://phsu.edu/",
   "name": "Ponce Health Sciences University-St Louis",
   "shortName": "Ponce Health Sciences -St Louis",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ranken.edu/",
+  "officialUrl": "https://www.ranken.edu/",
   "name": "Ranken Technical College",
   "shortName": "Ranken Technical",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "researchcollege.edu/",
+  "officialUrl": "https://researchcollege.edu/",
   "name": "Research College of Nursing",
   "shortName": "Research  Nursing",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.slu.edu/",
+  "officialUrl": "https://www.slu.edu/",
   "name": "Saint Louis University",
   "shortName": "Saint Louis",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sehcollege.edu/",
+  "officialUrl": "https://www.sehcollege.edu/",
   "name": "Southeast Missouri Hospital College of Nursing and Health Sciences",
   "shortName": "Southeast Missouri Hospital  Nursing and Health Sciences",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sbuniv.edu/",
+  "officialUrl": "https://www.sbuniv.edu/",
   "name": "Southwest Baptist University",
   "shortName": "Southwest Baptist",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.slchc.edu/",
+  "officialUrl": "https://www.slchc.edu/",
   "name": "St Louis College of Health Careers-Fenton",
   "shortName": "St Louis  Health Careers-Fenton",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.siba.edu/",
+  "officialUrl": "https://www.siba.edu/",
   "name": "Stevens-The Institute of Business & Arts",
   "shortName": "Stevens- Business & Arts",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uhsp.edu/",
+  "officialUrl": "https://www.uhsp.edu/",
   "name": "University of Health Sciences and Pharmacy in St. Louis",
   "shortName": "Health Sciences and Pharmacy in St. Louis",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "urshan.edu/",
+  "officialUrl": "https://urshan.edu/",
   "name": "Urshan University",
   "shortName": "Urshan",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_MO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.webster.edu/",
+  "officialUrl": "https://www.webster.edu/",
   "name": "Webster University",
   "shortName": "Webster",
   "location": {

@@ -19,7 +19,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antiochne.edu/",
+  "officialUrl": "https://www.antiochne.edu/",
   "name": "Antioch University-New England",
   "shortName": "Antioch -New England",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.colby-sawyer.edu/",
+  "officialUrl": "https://www.colby-sawyer.edu/",
   "name": "Colby-Sawyer College",
   "shortName": "Colby-Sawyer",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.keene.edu/",
+  "officialUrl": "https://www.keene.edu/",
   "name": "Keene State College",
   "shortName": "Keene State",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nec.edu/",
+  "officialUrl": "https://www.nec.edu/",
   "name": "New England College",
   "shortName": "New England",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plymouth.edu/",
+  "officialUrl": "https://www.plymouth.edu/",
   "name": "Plymouth State University",
   "shortName": "Plymouth State",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rivier.edu/",
+  "officialUrl": "https://www.rivier.edu/",
   "name": "Rivier University",
   "shortName": "Rivier",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.snhu.edu/",
+  "officialUrl": "https://www.snhu.edu/",
   "name": "Southern New Hampshire University",
   "shortName": "Southern New Hampshire",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.thomasmorecollege.edu/",
+  "officialUrl": "https://www.thomasmorecollege.edu/",
   "name": "Thomas More College of Liberal Arts",
   "shortName": "Thomas More  Liberal Arts",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_NH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uvei.edu/",
+  "officialUrl": "https://www.uvei.edu/",
   "name": "Upper Valley Educators Institute",
   "shortName": "Upper Valley Educators",
   "location": {

@@ -54,7 +54,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "aicusa.edu/",
+  "officialUrl": "https://aicusa.edu/",
   "name": "American Islamic College",
   "shortName": "American Islamic",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.augustana.edu/",
+  "officialUrl": "https://www.augustana.edu/",
   "name": "Augustana College",
   "shortName": "Augustana",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bexleyseabury.edu/",
+  "officialUrl": "https://www.bexleyseabury.edu/",
   "name": "Bexley Hall Seabury Western Theological Seminary Federation Inc.",
   "shortName": "Bexley Hall Seabury Western Theological Seminary Federation Inc.",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.blackburn.edu/",
+  "officialUrl": "https://www.blackburn.edu/",
   "name": "Blackburn College",
   "shortName": "Blackburn",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brcn.edu/",
+  "officialUrl": "https://www.brcn.edu/",
   "name": "Blessing Rieman College of Nursing and Health Sciences",
   "shortName": "Blessing Rieman  Nursing and Health Sciences",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bradley.edu/",
+  "officialUrl": "https://www.bradley.edu/",
   "name": "Bradley University",
   "shortName": "Bradley",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ctu.edu/",
+  "officialUrl": "https://www.ctu.edu/",
   "name": "Catholic Theological Union at Chicago",
   "shortName": "Catholic Theological Union at Chicago",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csu.edu/",
+  "officialUrl": "https://www.csu.edu/",
   "name": "Chicago State University",
   "shortName": "Chicago State",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.colum.edu/",
+  "officialUrl": "https://www.colum.edu/",
   "name": "Columbia College Chicago",
   "shortName": "Columbia  Chicago",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eastwest.edu/",
+  "officialUrl": "https://www.eastwest.edu/",
   "name": "East-West University",
   "shortName": "East-West",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.elmhurst.edu/",
+  "officialUrl": "https://www.elmhurst.edu/",
   "name": "Elmhurst University",
   "shortName": "Elmhurst",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eureka.edu/",
+  "officialUrl": "https://www.eureka.edu/",
   "name": "Eureka College",
   "shortName": "Eureka",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.garrett.edu/",
+  "officialUrl": "https://www.garrett.edu/",
   "name": "Garrett-Evangelical Theological Seminary",
   "shortName": "Garrett-Evangelical Theological Seminary",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.greenville.edu/",
+  "officialUrl": "https://www.greenville.edu/",
   "name": "Greenville University",
   "shortName": "Greenville",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ic.edu/",
+  "officialUrl": "https://www.ic.edu/",
   "name": "Illinois College",
   "shortName": "Illinois",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ico.edu/",
+  "officialUrl": "https://www.ico.edu/",
   "name": "Illinois College of Optometry",
   "shortName": "Illinois  Optometry",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "illinoisstate.edu/",
+  "officialUrl": "https://illinoisstate.edu/",
   "name": "Illinois State University",
   "shortName": "Illinois State",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.iwu.edu/",
+  "officialUrl": "https://www.iwu.edu/",
   "name": "Illinois Wesleyan University",
   "shortName": "Illinois Wesleyan",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.icsw.edu/",
+  "officialUrl": "https://www.icsw.edu/",
   "name": "Institute for Clinical Social Work",
   "shortName": "for Clinical Social Work",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.judsonu.edu/",
+  "officialUrl": "https://www.judsonu.edu/",
   "name": "Judson University",
   "shortName": "Judson",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lakeforest.edu/",
+  "officialUrl": "https://www.lakeforest.edu/",
   "name": "Lake Forest College",
   "shortName": "Lake Forest",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lewisu.edu/",
+  "officialUrl": "https://www.lewisu.edu/",
   "name": "Lewis University",
   "shortName": "Lewis",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lstc.edu/",
+  "officialUrl": "https://www.lstc.edu/",
   "name": "Lutheran School of Theology at Chicago",
   "shortName": "Lutheran School Theology at Chicago",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.meadville.edu/",
+  "officialUrl": "https://www.meadville.edu/",
   "name": "Meadville Theological School of Lombard College",
   "shortName": "Meadville Theological School Lombard",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.methodistcol.edu/",
+  "officialUrl": "https://www.methodistcol.edu/",
   "name": "Methodist College",
   "shortName": "Methodist",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acupuncture.edu/",
+  "officialUrl": "https://www.acupuncture.edu/",
   "name": "Midwest College of Oriental Medicine-Skokie",
   "shortName": "Midwest  Oriental Medicine-Skokie",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "northcentralcollege.edu/",
+  "officialUrl": "https://northcentralcollege.edu/",
   "name": "North Central College",
   "shortName": "North Central",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northpark.edu/",
+  "officialUrl": "https://www.northpark.edu/",
   "name": "North Park University",
   "shortName": "North Park",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.neiu.edu/",
+  "officialUrl": "https://www.neiu.edu/",
   "name": "Northeastern Illinois University",
   "shortName": "Northeastern Illinois",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.seminary.edu/",
+  "officialUrl": "https://www.seminary.edu/",
   "name": "Northern Baptist Theological Seminary",
   "shortName": "Northern Baptist Theological Seminary",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.niu.edu/",
+  "officialUrl": "https://www.niu.edu/",
   "name": "Northern Illinois University",
   "shortName": "Northern Illinois",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northwestern.edu/",
+  "officialUrl": "https://www.northwestern.edu/",
   "name": "Northwestern University",
   "shortName": "Northwestern",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.principiacollege.edu/",
+  "officialUrl": "https://www.principiacollege.edu/",
   "name": "Principia College",
   "shortName": "Principia",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rockford.edu/",
+  "officialUrl": "https://www.rockford.edu/",
   "name": "Rockford University",
   "shortName": "Rockford",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.roosevelt.edu/",
+  "officialUrl": "https://www.roosevelt.edu/",
   "name": "Roosevelt University",
   "shortName": "Roosevelt",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rosalindfranklin.edu/",
+  "officialUrl": "https://www.rosalindfranklin.edu/",
   "name": "Rosalind Franklin University of Medicine and Science",
   "shortName": "Rosalind Franklin  Medicine and Science",
   "location": {
@@ -2364,7 +2364,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rushu.rush.edu/",
+  "officialUrl": "https://www.rushu.rush.edu/",
   "name": "Rush University",
   "shortName": "Rush",
   "location": {
@@ -2434,7 +2434,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sfmccon.edu/",
+  "officialUrl": "https://www.sfmccon.edu/",
   "name": "Saint Francis Medical Center College of Nursing",
   "shortName": "Saint Francis Medical Center  Nursing",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.saic.edu/",
+  "officialUrl": "https://www.saic.edu/",
   "name": "School of the Art Institute of Chicago",
   "shortName": "School the Art  Chicago",
   "location": {
@@ -2539,7 +2539,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.siue.edu/",
+  "officialUrl": "https://www.siue.edu/",
   "name": "Southern Illinois University Edwardsville",
   "shortName": "Southern Illinois  Edwardsville",
   "location": {
@@ -2609,7 +2609,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.spertus.edu/",
+  "officialUrl": "https://www.spertus.edu/",
   "name": "Spertus College",
   "shortName": "Spertus",
   "location": {
@@ -2714,7 +2714,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ttic.edu/",
+  "officialUrl": "https://www.ttic.edu/",
   "name": "Toyota Technological Institute at Chicago",
   "shortName": "Toyota Technological  at Chicago",
   "location": {
@@ -2749,7 +2749,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.trnty.edu/",
+  "officialUrl": "https://www.trnty.edu/",
   "name": "Trinity Christian College",
   "shortName": "Trinity Christian",
   "location": {
@@ -2784,7 +2784,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.trinitycollegeqc.edu/",
+  "officialUrl": "https://www.trinitycollegeqc.edu/",
   "name": "Trinity College of Nursing & Health Sciences",
   "shortName": "Trinity  Nursing & Health Sciences",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uchicago.edu/",
+  "officialUrl": "https://www.uchicago.edu/",
   "name": "University of Chicago",
   "shortName": "Chicago",
   "location": {
@@ -2889,7 +2889,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uic.edu/",
+  "officialUrl": "https://www.uic.edu/",
   "name": "University of Illinois Chicago",
   "shortName": "Illinois Chicago",
   "location": {
@@ -2924,7 +2924,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uis.edu/",
+  "officialUrl": "https://www.uis.edu/",
   "name": "University of Illinois Springfield",
   "shortName": "Illinois Springfield",
   "location": {
@@ -2959,7 +2959,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.illinois.edu/",
+  "officialUrl": "https://www.illinois.edu/",
   "name": "University of Illinois Urbana-Champaign",
   "shortName": "Illinois Urbana-Champaign",
   "location": {
@@ -3099,7 +3099,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wiu.edu/",
+  "officialUrl": "https://www.wiu.edu/",
   "name": "Western Illinois University",
   "shortName": "Western Illinois",
   "location": {
@@ -3134,7 +3134,7 @@ export const DETAILS_IL = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wheaton.edu/",
+  "officialUrl": "https://www.wheaton.edu/",
   "name": "Wheaton College",
   "shortName": "Wheaton",
   "location": {

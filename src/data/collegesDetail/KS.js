@@ -54,7 +54,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.barclaycollege.edu/",
+  "officialUrl": "https://www.barclaycollege.edu/",
   "name": "Barclay College",
   "shortName": "Barclay",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.benedictine.edu/",
+  "officialUrl": "https://www.benedictine.edu/",
   "name": "Benedictine College",
   "shortName": "Benedictine",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bethelks.edu/",
+  "officialUrl": "https://www.bethelks.edu/",
   "name": "Bethel College-North Newton",
   "shortName": "Bethel -North Newton",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cleveland.edu/",
+  "officialUrl": "https://www.cleveland.edu/",
   "name": "Cleveland University-Kansas City",
   "shortName": "Cleveland -Kansas City",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.donnelly.edu/",
+  "officialUrl": "https://www.donnelly.edu/",
   "name": "Donnelly College",
   "shortName": "Donnelly",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emporia.edu/",
+  "officialUrl": "https://www.emporia.edu/",
   "name": "Emporia State University",
   "shortName": "Emporia State",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fhsu.edu/",
+  "officialUrl": "https://www.fhsu.edu/",
   "name": "Fort Hays State University",
   "shortName": "Fort Hays State",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.friends.edu/",
+  "officialUrl": "https://www.friends.edu/",
   "name": "Friends University",
   "shortName": "Friends",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.haskell.edu/",
+  "officialUrl": "https://www.haskell.edu/",
   "name": "Haskell Indian Nations University",
   "shortName": "Haskell Indian Nations",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hesston.edu/",
+  "officialUrl": "https://www.hesston.edu/",
   "name": "Hesston College",
   "shortName": "Hesston",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.k-state.edu/",
+  "officialUrl": "https://www.k-state.edu/",
   "name": "Kansas State University",
   "shortName": "Kansas State",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kwu.edu/",
+  "officialUrl": "https://www.kwu.edu/",
   "name": "Kansas Wesleyan University",
   "shortName": "Kansas Wesleyan",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mccks.edu/",
+  "officialUrl": "https://www.mccks.edu/",
   "name": "Manhattan Christian College",
   "shortName": "Manhattan Christian",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mcpherson.edu/",
+  "officialUrl": "https://www.mcpherson.edu/",
   "name": "McPherson College",
   "shortName": "McPherson",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newmanu.edu/",
+  "officialUrl": "https://www.newmanu.edu/",
   "name": "Newman University",
   "shortName": "Newman",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "name": "Ottawa University",
   "shortName": "Ottawa",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "name": "Ottawa University-Kansas City",
   "shortName": "Ottawa -Kansas City",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "name": "Ottawa University-Ottawa",
   "shortName": "Ottawa -Ottawa",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sterling.edu/",
+  "officialUrl": "https://www.sterling.edu/",
   "name": "Sterling College",
   "shortName": "Sterling",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "tabor.edu/",
+  "officialUrl": "https://tabor.edu/",
   "name": "Tabor College",
   "shortName": "Tabor",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stmary.edu/",
+  "officialUrl": "https://www.stmary.edu/",
   "name": "University of Saint Mary",
   "shortName": "Saint Mary",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.washburn.edu/",
+  "officialUrl": "https://www.washburn.edu/",
   "name": "Washburn University",
   "shortName": "Washburn",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_KS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wichita.edu/",
+  "officialUrl": "https://www.wichita.edu/",
   "name": "Wichita State University",
   "shortName": "Wichita State",
   "location": {

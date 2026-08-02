@@ -54,7 +54,7 @@ export const DETAILS_AK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alaskapacific.edu/",
+  "officialUrl": "https://www.alaskapacific.edu/",
   "name": "Alaska Pacific University",
   "shortName": "Alaska Pacific",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_AK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ilisagvik.edu/",
+  "officialUrl": "https://www.ilisagvik.edu/",
   "name": "Ilisagvik College",
   "shortName": "Ilisagvik",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_AK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uaa.alaska.edu/",
+  "officialUrl": "https://www.uaa.alaska.edu/",
   "name": "University of Alaska Anchorage",
   "shortName": "Alaska Anchorage",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_AK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uaf.edu/",
+  "officialUrl": "https://www.uaf.edu/",
   "name": "University of Alaska Fairbanks",
   "shortName": "Alaska Fairbanks",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_AK = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uas.alaska.edu/",
+  "officialUrl": "https://www.uas.alaska.edu/",
   "name": "University of Alaska Southeast",
   "shortName": "Alaska Southeast",
   "location": {

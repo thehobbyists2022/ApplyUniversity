@@ -19,7 +19,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.afit.edu/",
+  "officialUrl": "https://www.afit.edu/",
   "name": "Air Force Institute of Technology-Graduate School of Engineering & Management",
   "shortName": "Air Force  Technology-Graduate School Engineering & Management",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "awc.edu/",
+  "officialUrl": "https://awc.edu/",
   "name": "Allegheny Wesleyan College",
   "shortName": "Allegheny Wesleyan",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aiam.edu/",
+  "officialUrl": "https://www.aiam.edu/",
   "name": "American Institute of Alternative Medicine",
   "shortName": "American  Alternative Medicine",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "antiochcollege.edu/",
+  "officialUrl": "https://antiochcollege.edu/",
   "name": "Antioch College",
   "shortName": "Antioch",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antioch.edu/",
+  "officialUrl": "https://www.antioch.edu/",
   "name": "Antioch University",
   "shortName": "Antioch",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bluffton.edu/",
+  "officialUrl": "https://www.bluffton.edu/",
   "name": "Bluffton University",
   "shortName": "Bluffton",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bgsu.edu/",
+  "officialUrl": "https://www.bgsu.edu/",
   "name": "Bowling Green State University",
   "shortName": "Bowling Green State",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.case.edu/",
+  "officialUrl": "https://www.case.edu/",
   "name": "Case Western Reserve University",
   "shortName": "Case Western Reserve",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cotc.edu/",
+  "officialUrl": "https://www.cotc.edu/",
   "name": "Central Ohio Technical College",
   "shortName": "Central Ohio Technical",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccms.edu/",
+  "officialUrl": "https://www.ccms.edu/",
   "name": "Cincinnati College of Mortuary Science",
   "shortName": "Cincinnati  Mortuary Science",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cincinnatistate.edu/",
+  "officialUrl": "https://www.cincinnatistate.edu/",
   "name": "Cincinnati State Technical and Community College",
   "shortName": "Cincinnati State Technical and Community",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cia.edu/",
+  "officialUrl": "https://www.cia.edu/",
   "name": "Cleveland Institute of Art",
   "shortName": "Cleveland  Art",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cim.edu/",
+  "officialUrl": "https://www.cim.edu/",
   "name": "Cleveland Institute of Music",
   "shortName": "Cleveland  Music",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csuohio.edu/",
+  "officialUrl": "https://www.csuohio.edu/",
   "name": "Cleveland State University",
   "shortName": "Cleveland State",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "felbrycollege.edu/",
+  "officialUrl": "https://felbrycollege.edu/",
   "name": "Felbry College",
   "shortName": "Felbry",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.franciscan.edu/",
+  "officialUrl": "https://www.franciscan.edu/",
   "name": "Franciscan University of Steubenville",
   "shortName": "Franciscan  Steubenville",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.franklin.edu/",
+  "officialUrl": "https://www.franklin.edu/",
   "name": "Franklin University",
   "shortName": "Franklin",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.galencollege.edu/cincinnati",
+  "officialUrl": "https://www.galencollege.edu/cincinnati",
   "name": "Galen College of Nursing-Cincinnati",
   "shortName": "Galen  Nursing-Cincinnati",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gscollege.edu/",
+  "officialUrl": "https://www.gscollege.edu/",
   "name": "Good Samaritan College of Nursing and Health Science",
   "shortName": "Good Samaritan  Nursing and Health Science",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hiram.edu/",
+  "officialUrl": "https://www.hiram.edu/",
   "name": "Hiram College",
   "shortName": "Hiram",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rhodesstate.edu/",
+  "officialUrl": "https://www.rhodesstate.edu/",
   "name": "James A. Rhodes State College",
   "shortName": "James A. Rhodes State",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "jcu.edu/",
+  "officialUrl": "https://jcu.edu/",
   "name": "John Carroll University",
   "shortName": "John Carroll",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/ashtabula",
+  "officialUrl": "https://www.kent.edu/ashtabula",
   "name": "Kent State University at Ashtabula",
   "shortName": "Kent State  at Ashtabula",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/columbiana",
+  "officialUrl": "https://www.kent.edu/columbiana",
   "name": "Kent State University at East Liverpool",
   "shortName": "Kent State  at East Liverpool",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/geauga",
+  "officialUrl": "https://www.kent.edu/geauga",
   "name": "Kent State University at Geauga",
   "shortName": "Kent State  at Geauga",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/",
+  "officialUrl": "https://www.kent.edu/",
   "name": "Kent State University at Kent",
   "shortName": "Kent State  at Kent",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/columbiana",
+  "officialUrl": "https://www.kent.edu/columbiana",
   "name": "Kent State University at Salem",
   "shortName": "Kent State  at Salem",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/stark",
+  "officialUrl": "https://www.kent.edu/stark",
   "name": "Kent State University at Stark",
   "shortName": "Kent State  at Stark",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/trumbull",
+  "officialUrl": "https://www.kent.edu/trumbull",
   "name": "Kent State University at Trumbull",
   "shortName": "Kent State  at Trumbull",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kent.edu/tusc",
+  "officialUrl": "https://www.kent.edu/tusc",
   "name": "Kent State University at Tuscarawas",
   "shortName": "Kent State  at Tuscarawas",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "kc.edu/",
+  "officialUrl": "https://kc.edu/",
   "name": "Kettering College",
   "shortName": "Kettering",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lec.edu/",
+  "officialUrl": "https://www.lec.edu/",
   "name": "Lake Erie College",
   "shortName": "Lake Erie",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lourdes.edu/",
+  "officialUrl": "https://www.lourdes.edu/",
   "name": "Lourdes University",
   "shortName": "Lourdes",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "mtc.edu/",
+  "officialUrl": "https://mtc.edu/",
   "name": "Marion Technical College",
   "shortName": "Marion Technical",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mercycollege.edu/",
+  "officialUrl": "https://www.mercycollege.edu/",
   "name": "Mercy College of Ohio",
   "shortName": "Mercy  Ohio",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "miamioh.edu/",
+  "officialUrl": "https://miamioh.edu/",
   "name": "Miami University",
   "shortName": "Miami",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "miamioh.edu/regionals/",
+  "officialUrl": "https://miamioh.edu/regionals/",
   "name": "Miami University-Hamilton",
   "shortName": "Miami -Hamilton",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "miamioh.edu/regionals/",
+  "officialUrl": "https://miamioh.edu/regionals/",
   "name": "Miami University-Middletown",
   "shortName": "Miami -Middletown",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mccn.edu/",
+  "officialUrl": "https://www.mccn.edu/",
   "name": "Mount Carmel College of Nursing",
   "shortName": "Mount Carmel  Nursing",
   "location": {
@@ -2364,7 +2364,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msj.edu/",
+  "officialUrl": "https://www.msj.edu/",
   "name": "Mount St. Joseph University",
   "shortName": "Mount St. Joseph",
   "location": {
@@ -2399,7 +2399,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "mvnu.edu/",
+  "officialUrl": "https://mvnu.edu/",
   "name": "Mount Vernon Nazarene University",
   "shortName": "Mount Vernon Nazarene",
   "location": {
@@ -2434,7 +2434,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.muskingum.edu/",
+  "officialUrl": "https://www.muskingum.edu/",
   "name": "Muskingum University",
   "shortName": "Muskingum",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.neomed.edu/",
+  "officialUrl": "https://www.neomed.edu/",
   "name": "Northeast Ohio Medical University",
   "shortName": "Northeast Ohio Medical",
   "location": {
@@ -2539,7 +2539,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oberlin.edu/",
+  "officialUrl": "https://www.oberlin.edu/",
   "name": "Oberlin College",
   "shortName": "Oberlin",
   "location": {
@@ -2574,7 +2574,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ohiochristian.edu/",
+  "officialUrl": "https://www.ohiochristian.edu/",
   "name": "Ohio Christian University",
   "shortName": "Ohio Christian",
   "location": {
@@ -2644,7 +2644,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.onu.edu/",
+  "officialUrl": "https://www.onu.edu/",
   "name": "Ohio Northern University",
   "shortName": "Ohio Northern",
   "location": {
@@ -2679,7 +2679,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.osu.edu/",
+  "officialUrl": "https://www.osu.edu/",
   "name": "Ohio State University",
   "shortName": "Ohio State",
   "location": {
@@ -2819,7 +2819,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "payneseminary.edu/",
+  "officialUrl": "https://payneseminary.edu/",
   "name": "Payne Theological Seminary",
   "shortName": "Payne Theological Seminary",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pcj.edu/",
+  "officialUrl": "https://www.pcj.edu/",
   "name": "Pontifical College Josephinum",
   "shortName": "Pontifical  Josephinum",
   "location": {
@@ -2889,7 +2889,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.proskills.edu/",
+  "officialUrl": "https://www.proskills.edu/",
   "name": "Professional Skills Institute",
   "shortName": "Professional Skills",
   "location": {
@@ -2924,7 +2924,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "independentrabbinicalcolleges.org/index.html",
+  "officialUrl": "https://independentrabbinicalcolleges.org/index.html",
   "name": "Rabbinical College Telshe",
   "shortName": "Rabbinical  Telshe",
   "location": {
@@ -3029,7 +3029,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tiffin.edu/",
+  "officialUrl": "https://www.tiffin.edu/",
   "name": "Tiffin University",
   "shortName": "Tiffin",
   "location": {
@@ -3099,7 +3099,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.united.edu/",
+  "officialUrl": "https://www.united.edu/",
   "name": "United Theological Seminary",
   "shortName": "United Theological Seminary",
   "location": {
@@ -3134,7 +3134,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uakron.edu/",
+  "officialUrl": "https://www.uakron.edu/",
   "name": "University of Akron Main Campus",
   "shortName": "Akron Main Campus",
   "location": {
@@ -3204,7 +3204,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uc.edu/",
+  "officialUrl": "https://www.uc.edu/",
   "name": "University of Cincinnati",
   "shortName": "Cincinnati",
   "location": {
@@ -3239,7 +3239,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucblueash.edu/",
+  "officialUrl": "https://www.ucblueash.edu/",
   "name": "University of Cincinnati-Blue Ash College",
   "shortName": "Cincinnati-Blue Ash",
   "location": {
@@ -3274,7 +3274,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucclermont.edu/",
+  "officialUrl": "https://www.ucclermont.edu/",
   "name": "University of Cincinnati-Clermont College",
   "shortName": "Cincinnati-Clermont",
   "location": {
@@ -3379,7 +3379,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mountunion.edu/",
+  "officialUrl": "https://www.mountunion.edu/",
   "name": "University of Mount Union",
   "shortName": "Mount Union",
   "location": {
@@ -3484,7 +3484,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utoledo.edu/",
+  "officialUrl": "https://www.utoledo.edu/",
   "name": "University of Toledo",
   "shortName": "Toledo",
   "location": {
@@ -3519,7 +3519,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ursuline.edu/",
+  "officialUrl": "https://www.ursuline.edu/",
   "name": "Ursuline College",
   "shortName": "Ursuline",
   "location": {
@@ -3624,7 +3624,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wsco.edu/",
+  "officialUrl": "https://www.wsco.edu/",
   "name": "Washington State College of Ohio",
   "shortName": "Washington State  Ohio",
   "location": {
@@ -3659,7 +3659,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wilberforce.edu/",
+  "officialUrl": "https://www.wilberforce.edu/",
   "name": "Wilberforce University",
   "shortName": "Wilberforce",
   "location": {
@@ -3729,7 +3729,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "winebrenner.edu/",
+  "officialUrl": "https://winebrenner.edu/",
   "name": "Winebrenner Theological Seminary",
   "shortName": "Winebrenner Theological Seminary",
   "location": {
@@ -3904,7 +3904,7 @@ export const DETAILS_OH = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.zanestate.edu/",
+  "officialUrl": "https://www.zanestate.edu/",
   "name": "Zane State College",
   "shortName": "Zane State",
   "location": {

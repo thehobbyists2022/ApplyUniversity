@@ -54,7 +54,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "achehealth.edu/",
+  "officialUrl": "https://achehealth.edu/",
   "name": "Arkansas Colleges of Health Education",
   "shortName": "Arkansas s Health Education",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cbc.edu/",
+  "officialUrl": "https://www.cbc.edu/",
   "name": "Central Baptist College",
   "shortName": "Central Baptist",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "champion.edu/",
+  "officialUrl": "https://champion.edu/",
   "name": "Champion Christian College",
   "shortName": "Champion Christian",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.crc.edu/",
+  "officialUrl": "https://www.crc.edu/",
   "name": "Crowley's Ridge College",
   "shortName": "Crowley's Ridge",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ecollege.edu/",
+  "officialUrl": "https://ecollege.edu/",
   "name": "Ecclesia College",
   "shortName": "Ecclesia",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.harding.edu/",
+  "officialUrl": "https://www.harding.edu/",
   "name": "Harding University",
   "shortName": "Harding",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lyon.edu/",
+  "officialUrl": "https://www.lyon.edu/",
   "name": "Lyon College",
   "shortName": "Lyon",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/arkansas/little-rock",
+  "officialUrl": "https://www.strayer.edu/campus-locations/arkansas/little-rock",
   "name": "Strayer University-Arkansas",
   "shortName": "Strayer -Arkansas",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uamont.edu/",
+  "officialUrl": "https://www.uamont.edu/",
   "name": "University of Arkansas at Monticello",
   "shortName": "Arkansas at Monticello",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uapb.edu/",
+  "officialUrl": "https://www.uapb.edu/",
   "name": "University of Arkansas at Pine Bluff",
   "shortName": "Arkansas at Pine Bluff",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_AR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uca.edu/",
+  "officialUrl": "https://www.uca.edu/",
   "name": "University of Central Arkansas",
   "shortName": "Central Arkansas",
   "location": {

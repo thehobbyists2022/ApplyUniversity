@@ -124,7 +124,7 @@ export const DETAILS_ID = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.collegeofidaho.edu/",
+  "officialUrl": "https://www.collegeofidaho.edu/",
   "name": "College of Idaho",
   "shortName": "Idaho",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_ID = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.isu.edu/",
+  "officialUrl": "https://www.isu.edu/",
   "name": "Idaho State University",
   "shortName": "Idaho State",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_ID = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "nsa.edu/",
+  "officialUrl": "https://nsa.edu/",
   "name": "New Saint Andrews College",
   "shortName": "New Saint Andrews",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_ID = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uidaho.edu/",
+  "officialUrl": "https://www.uidaho.edu/",
   "name": "University of Idaho",
   "shortName": "Idaho",
   "location": {

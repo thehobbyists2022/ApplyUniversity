@@ -19,7 +19,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ace.edu/",
+  "officialUrl": "https://www.ace.edu/",
   "name": "American College of Education",
   "shortName": "American  Education",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ambs.edu/",
+  "officialUrl": "https://www.ambs.edu/",
   "name": "Anabaptist Mennonite Biblical Seminary",
   "shortName": "Anabaptist Mennonite Biblical Seminary",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bethanyseminary.edu/",
+  "officialUrl": "https://www.bethanyseminary.edu/",
   "name": "Bethany Theological Seminary",
   "shortName": "Bethany Theological Seminary",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.butler.edu/",
+  "officialUrl": "https://www.butler.edu/",
   "name": "Butler University",
   "shortName": "Butler",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccsj.edu/",
+  "officialUrl": "https://www.ccsj.edu/",
   "name": "Calumet College of Saint Joseph",
   "shortName": "Calumet  Saint Joseph",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cts.edu/",
+  "officialUrl": "https://www.cts.edu/",
   "name": "Christian Theological Seminary",
   "shortName": "Christian Theological Seminary",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.depauw.edu/",
+  "officialUrl": "https://www.depauw.edu/",
   "name": "DePauw University",
   "shortName": "DePauw",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.franklincollege.edu/",
+  "officialUrl": "https://www.franklincollege.edu/",
   "name": "Franklin College",
   "shortName": "Franklin",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.goshen.edu/",
+  "officialUrl": "https://www.goshen.edu/",
   "name": "Goshen College",
   "shortName": "Goshen",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.grace.edu/",
+  "officialUrl": "https://www.grace.edu/",
   "name": "Grace College and Theological Seminary",
   "shortName": "Grace  and Theological Seminary",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hanover.edu/",
+  "officialUrl": "https://www.hanover.edu/",
   "name": "Hanover College",
   "shortName": "Hanover",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hcc-nd.edu/",
+  "officialUrl": "https://www.hcc-nd.edu/",
   "name": "Holy Cross College",
   "shortName": "Holy Cross",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.horizonuniversity.edu/",
+  "officialUrl": "https://www.horizonuniversity.edu/",
   "name": "Horizon University",
   "shortName": "Horizon",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.huntington.edu/",
+  "officialUrl": "https://www.huntington.edu/",
   "name": "Huntington University",
   "shortName": "Huntington",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.indianatech.edu/",
+  "officialUrl": "https://www.indianatech.edu/",
   "name": "Indiana Institute of Technology",
   "shortName": "Indiana  Technology",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "cps.indianatech.edu/",
+  "officialUrl": "https://cps.indianatech.edu/",
   "name": "Indiana Institute of Technology-College of Professional Studies",
   "shortName": "Indiana  Technology- Professional Studies",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mid-america.edu/",
+  "officialUrl": "https://www.mid-america.edu/",
   "name": "Mid-America College of Funeral Service",
   "shortName": "Mid-America  Funeral Service",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oak.edu/",
+  "officialUrl": "https://www.oak.edu/",
   "name": "Oakland City University",
   "shortName": "Oakland City",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pfw.edu/",
+  "officialUrl": "https://www.pfw.edu/",
   "name": "Purdue University Fort Wayne",
   "shortName": "Purdue  Fort Wayne",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pnw.edu/",
+  "officialUrl": "https://www.pnw.edu/",
   "name": "Purdue University Northwest",
   "shortName": "Purdue  Northwest",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.smwc.edu/",
+  "officialUrl": "https://www.smwc.edu/",
   "name": "Saint Mary-of-the-Woods College",
   "shortName": "Saint Mary-of-the-Woods",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.trine.edu/",
+  "officialUrl": "https://www.trine.edu/",
   "name": "Trine University",
   "shortName": "Trine",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "trine.edu/online/index.aspx",
+  "officialUrl": "https://trine.edu/online/index.aspx",
   "name": "Trine University-Regional/Non-Traditional Campuses",
   "shortName": "Trine -Regional/Non-Traditional Campuses",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nd.edu/",
+  "officialUrl": "https://www.nd.edu/",
   "name": "University of Notre Dame",
   "shortName": "Notre Dame",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usi.edu/",
+  "officialUrl": "https://www.usi.edu/",
   "name": "University of Southern Indiana",
   "shortName": "Southern Indiana",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vbc.edu/",
+  "officialUrl": "https://www.vbc.edu/",
   "name": "Veritas Baptist College",
   "shortName": "Veritas Baptist",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_IN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wabash.edu/",
+  "officialUrl": "https://www.wabash.edu/",
   "name": "Wabash College",
   "shortName": "Wabash",
   "location": {

@@ -124,7 +124,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.arizonacollege.edu/",
+  "officialUrl": "https://www.arizonacollege.edu/",
   "name": "Arizona College of Nursing-Tempe",
   "shortName": "Arizona  Nursing-Tempe",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.asaom.edu/",
+  "officialUrl": "https://www.asaom.edu/",
   "name": "Arizona School of Acupuncture and Oriental Medicine",
   "shortName": "Arizona School Acupuncture and Oriental Medicine",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.asu.edu/",
+  "officialUrl": "https://www.asu.edu/",
   "name": "Arizona State University",
   "shortName": "Arizona State",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brooklinecollege.edu/",
+  "officialUrl": "https://www.brooklinecollege.edu/",
   "name": "Brookline College-Phoenix",
   "shortName": "Brookline -Phoenix",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bryanuniversity.edu/",
+  "officialUrl": "https://bryanuniversity.edu/",
   "name": "Bryan University",
   "shortName": "Bryan",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "prescott.erau.edu/",
+  "officialUrl": "https://prescott.erau.edu/",
   "name": "Embry-Riddle Aeronautical University-Prescott",
   "shortName": "Embry-Riddle Aeronautical -Prescott",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gcu.edu/",
+  "officialUrl": "https://www.gcu.edu/",
   "name": "Grand Canyon University",
   "shortName": "Grand Canyon",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.npc.edu/",
+  "officialUrl": "https://www.npc.edu/",
   "name": "Northland Pioneer College",
   "shortName": "Northland Pioneer",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ottawa.edu/ouaz/home",
+  "officialUrl": "https://www.ottawa.edu/ouaz/home",
   "name": "Ottawa University-Surprise",
   "shortName": "Ottawa -Surprise",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pihma.edu/",
+  "officialUrl": "https://www.pihma.edu/",
   "name": "Phoenix Institute of Herbal Medicine & Acupuncture",
   "shortName": "Phoenix  Herbal Medicine & Acupuncture",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ps.edu/",
+  "officialUrl": "https://www.ps.edu/",
   "name": "Phoenix Seminary",
   "shortName": "Phoenix Seminary",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sonoran.edu/",
+  "officialUrl": "https://www.sonoran.edu/",
   "name": "Sonoran University of Health Sciences",
   "shortName": "Sonoran  Health Sciences",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_AZ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uagc.edu/",
+  "officialUrl": "https://www.uagc.edu/",
   "name": "University of Arizona Global Campus",
   "shortName": "Arizona Global Campus",
   "location": {

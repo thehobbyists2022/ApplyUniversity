@@ -54,7 +54,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bmtc.edu/",
+  "officialUrl": "https://www.bmtc.edu/",
   "name": "Bais Medrash Toras Chesed",
   "shortName": "Bais Medrash Toras Chesed",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bmg.edu/",
+  "officialUrl": "https://bmg.edu/",
   "name": "Beth Medrash Govoha",
   "shortName": "Beth Medrash Govoha",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bloomfield.edu/",
+  "officialUrl": "https://www.bloomfield.edu/",
   "name": "Bloomfield College of Montclair State University",
   "shortName": "Bloomfield  Montclair State",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.centenaryuniversity.edu/",
+  "officialUrl": "https://www.centenaryuniversity.edu/",
   "name": "Centenary University",
   "shortName": "Centenary",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.drew.edu/",
+  "officialUrl": "https://www.drew.edu/",
   "name": "Drew University",
   "shortName": "Drew",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eicollege.edu/",
+  "officialUrl": "https://www.eicollege.edu/",
   "name": "Eastern International College-Jersey City",
   "shortName": "Eastern International -Jersey City",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.esatm.edu/",
+  "officialUrl": "https://www.esatm.edu/",
   "name": "Eastern School of Acupuncture and Traditional Medicine",
   "shortName": "Eastern School Acupuncture and Traditional Medicine",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eastwickcollege.edu/",
+  "officialUrl": "https://www.eastwickcollege.edu/",
   "name": "Eastwick College-Hackensack",
   "shortName": "Eastwick -Hackensack",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eastwickcollege.edu/",
+  "officialUrl": "https://www.eastwickcollege.edu/",
   "name": "Eastwick College-Ramsey",
   "shortName": "Eastwick -Ramsey",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hmsom.edu/en",
+  "officialUrl": "https://www.hmsom.edu/en",
   "name": "Hackensack Meridian School of Medicine",
   "shortName": "Hackensack Meridian School Medicine",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mayanhatalmud.org/",
+  "officialUrl": "https://www.mayanhatalmud.org/",
   "name": "Keser Torah-Mayan Hatalmud",
   "shortName": "Keser Torah-Mayan Hatalmud",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.montclair.edu/",
+  "officialUrl": "https://www.montclair.edu/",
   "name": "Montclair State University",
   "shortName": "Montclair State",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nbts.edu/",
+  "officialUrl": "https://www.nbts.edu/",
   "name": "New Brunswick Theological Seminary",
   "shortName": "New Brunswick Theological Seminary",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pillar.edu/",
+  "officialUrl": "https://www.pillar.edu/",
   "name": "Pillar College",
   "shortName": "Pillar",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ptsem.edu/",
+  "officialUrl": "https://www.ptsem.edu/",
   "name": "Princeton Theological Seminary",
   "shortName": "Princeton Theological Seminary",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.princeton.edu/",
+  "officialUrl": "https://www.princeton.edu/",
   "name": "Princeton University",
   "shortName": "Princeton",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rca.edu/",
+  "officialUrl": "https://www.rca.edu/",
   "name": "Rabbinical College of America",
   "shortName": "Rabbinical  America",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ramapo.edu/",
+  "officialUrl": "https://www.ramapo.edu/",
   "name": "Ramapo College of New Jersey",
   "shortName": "Ramapo  New Jersey",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rider.edu/",
+  "officialUrl": "https://www.rider.edu/",
   "name": "Rider University",
   "shortName": "Rider",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.steu.edu/",
+  "officialUrl": "https://www.steu.edu/",
   "name": "Saint Elizabeth University",
   "shortName": "Saint Elizabeth",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.saintpeters.edu/",
+  "officialUrl": "https://www.saintpeters.edu/",
   "name": "Saint Peter's University",
   "shortName": "Saint Peter's",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stevens.edu/",
+  "officialUrl": "https://www.stevens.edu/",
   "name": "Stevens Institute of Technology",
   "shortName": "Stevens  Technology",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/new-jersey/piscataway",
+  "officialUrl": "https://www.strayer.edu/campus-locations/new-jersey/piscataway",
   "name": "Strayer University-New Jersey",
   "shortName": "Strayer -New Jersey",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tesu.edu/",
+  "officialUrl": "https://www.tesu.edu/",
   "name": "Thomas Edison State University",
   "shortName": "Thomas Edison State",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wpunj.edu/",
+  "officialUrl": "https://www.wpunj.edu/",
   "name": "William Paterson University of New Jersey",
   "shortName": "William Paterson  New Jersey",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yeshivachemdashatorah.com/",
+  "officialUrl": "https://www.yeshivachemdashatorah.com/",
   "name": "Yeshiva Chemdas Hatorah",
   "shortName": "Yeshiva Chemdas Hatorah",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivatyy.com/",
+  "officialUrl": "https://yeshivatyy.com/",
   "name": "Yeshiva Gedola Tiferes Yaakov Yitzchok",
   "shortName": "Yeshiva Gedola Tiferes Yaakov Yitzchok",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivaohrzechariah.com/",
+  "officialUrl": "https://yeshivaohrzechariah.com/",
   "name": "Yeshiva Gedolah of Woodlake Village",
   "shortName": "Yeshiva Gedolah Woodlake Village",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivayesodeihatorahlakewood.com/",
+  "officialUrl": "https://yeshivayesodeihatorahlakewood.com/",
   "name": "Yeshiva Yesodei Hatorah",
   "shortName": "Yeshiva Yesodei Hatorah",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_NJ = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivasemekhatorah.com/",
+  "officialUrl": "https://yeshivasemekhatorah.com/",
   "name": "Yeshivas Emek Hatorah",
   "shortName": "Yeshivas Emek Hatorah",
   "location": {

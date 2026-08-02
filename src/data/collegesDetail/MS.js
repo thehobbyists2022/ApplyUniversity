@@ -19,7 +19,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alcorn.edu/",
+  "officialUrl": "https://www.alcorn.edu/",
   "name": "Alcorn State University",
   "shortName": "Alcorn State",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bmc.edu/",
+  "officialUrl": "https://www.bmc.edu/",
   "name": "Blue Mountain Christian University",
   "shortName": "Blue Mountain Christian",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.millsaps.edu/",
+  "officialUrl": "https://www.millsaps.edu/",
   "name": "Millsaps College",
   "shortName": "Millsaps",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mc.edu/",
+  "officialUrl": "https://www.mc.edu/",
   "name": "Mississippi Christian University",
   "shortName": "Mississippi Christian",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mvsu.edu/",
+  "officialUrl": "https://www.mvsu.edu/",
   "name": "Mississippi Valley State University",
   "shortName": "Mississippi Valley State",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rustcollege.edu/",
+  "officialUrl": "https://www.rustcollege.edu/",
   "name": "Rust College",
   "shortName": "Rust",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/mississippi/jackson",
+  "officialUrl": "https://www.strayer.edu/campus-locations/mississippi/jackson",
   "name": "Strayer University-Mississippi",
   "shortName": "Strayer -Mississippi",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tougaloo.edu/",
+  "officialUrl": "https://www.tougaloo.edu/",
   "name": "Tougaloo College",
   "shortName": "Tougaloo",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_MS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.olemiss.edu/",
+  "officialUrl": "https://www.olemiss.edu/",
   "name": "University of Mississippi",
   "shortName": "Mississippi",
   "location": {

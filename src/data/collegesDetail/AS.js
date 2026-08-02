@@ -19,7 +19,7 @@ export const DETAILS_AS = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amsamoa.edu/",
+  "officialUrl": "https://www.amsamoa.edu/",
   "name": "American Samoa Community College",
   "shortName": "American Samoa Community",
   "location": {

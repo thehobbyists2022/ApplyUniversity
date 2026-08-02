@@ -89,7 +89,7 @@ export const DETAILS_WY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.martinsburgcollege.edu/",
+  "officialUrl": "https://www.martinsburgcollege.edu/",
   "name": "Martinsburg College",
   "shortName": "Martinsburg",
   "location": {

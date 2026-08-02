@@ -19,7 +19,7 @@ export const DETAILS_VI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uvi.edu/",
+  "officialUrl": "https://www.uvi.edu/",
   "name": "University of the Virgin Islands",
   "shortName": "the Virgin Islands",
   "location": {

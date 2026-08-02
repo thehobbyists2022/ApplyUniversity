@@ -19,7 +19,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.academycollege.edu/",
+  "officialUrl": "https://www.academycollege.edu/",
   "name": "Academy College",
   "shortName": "Academy",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.augsburg.edu/",
+  "officialUrl": "https://www.augsburg.edu/",
   "name": "Augsburg University",
   "shortName": "Augsburg",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bcsmn.edu/",
+  "officialUrl": "https://bcsmn.edu/",
   "name": "Bethlehem College & Seminary",
   "shortName": "Bethlehem  & Seminary",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.capella.edu/",
+  "officialUrl": "https://www.capella.edu/",
   "name": "Capella University",
   "shortName": "Capella",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.css.edu/",
+  "officialUrl": "https://www.css.edu/",
   "name": "College of Saint Scholastica",
   "shortName": "Saint Scholastica",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.crown.edu/",
+  "officialUrl": "https://www.crown.edu/",
   "name": "Crown College",
   "shortName": "Crown",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dunwoody.edu/",
+  "officialUrl": "https://www.dunwoody.edu/",
   "name": "Dunwoody College of Technology",
   "shortName": "Dunwoody  Technology",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fdltcc.edu/",
+  "officialUrl": "https://www.fdltcc.edu/",
   "name": "Fond du Lac Tribal and Community College",
   "shortName": "Fond du Lac Tribal and Community",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hazeldenbettyford.org/education/graduate-school-addiction-studies",
+  "officialUrl": "https://www.hazeldenbettyford.org/education/graduate-school-addiction-studies",
   "name": "Hazelden Betty Ford Graduate School",
   "shortName": "Hazelden Betty Ford Graduate School",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.macalester.edu/",
+  "officialUrl": "https://www.macalester.edu/",
   "name": "Macalester College",
   "shortName": "Macalester",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mlc-wels.edu/",
+  "officialUrl": "https://www.mlc-wels.edu/",
   "name": "Martin Luther College",
   "shortName": "Martin Luther",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.metrostate.edu/",
+  "officialUrl": "https://www.metrostate.edu/",
   "name": "Metropolitan State University",
   "shortName": "Metropolitan State",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mitchellhamline.edu/",
+  "officialUrl": "https://www.mitchellhamline.edu/",
   "name": "Mitchell Hamline School of Law",
   "shortName": "Mitchell Hamline School Law",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northcentral.edu/",
+  "officialUrl": "https://www.northcentral.edu/",
   "name": "North Central University",
   "shortName": "North Central",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nwhealth.edu/",
+  "officialUrl": "https://www.nwhealth.edu/",
   "name": "Northwestern Health Sciences University",
   "shortName": "Northwestern Health Sciences",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oakhills.edu/",
+  "officialUrl": "https://www.oakhills.edu/",
   "name": "Oak Hills Christian College",
   "shortName": "Oak Hills Christian",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.smumn.edu/",
+  "officialUrl": "https://www.smumn.edu/",
   "name": "Saint Mary's University of Minnesota",
   "shortName": "Saint Mary's  Minnesota",
   "location": {
@@ -1314,7 +1314,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.smsu.edu/",
+  "officialUrl": "https://www.smsu.edu/",
   "name": "Southwest Minnesota State University",
   "shortName": "Southwest Minnesota State",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wp.stolaf.edu/",
+  "officialUrl": "https://wp.stolaf.edu/",
   "name": "St Olaf College",
   "shortName": "St Olaf",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_MN = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.winona.edu/",
+  "officialUrl": "https://www.winona.edu/",
   "name": "Winona State University",
   "shortName": "Winona State",
   "location": {

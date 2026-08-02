@@ -124,7 +124,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eaglegatecollege.edu/",
+  "officialUrl": "https://www.eaglegatecollege.edu/",
   "name": "Eagle Gate College-Layton",
   "shortName": "Eagle Gate -Layton",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "eaglegatecollege.edu/",
+  "officialUrl": "https://eaglegatecollege.edu/",
   "name": "Eagle Gate College-Murray",
   "shortName": "Eagle Gate -Murray",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ensign.edu/",
+  "officialUrl": "https://www.ensign.edu/",
   "name": "Ensign College",
   "shortName": "Ensign",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.joyce.edu/",
+  "officialUrl": "https://www.joyce.edu/",
   "name": "Joyce University of Nursing and Health Sciences",
   "shortName": "Joyce  Nursing and Health Sciences",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nightingale.edu/",
+  "officialUrl": "https://www.nightingale.edu/",
   "name": "Nightingale College",
   "shortName": "Nightingale",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.provocollege.edu/",
+  "officialUrl": "https://www.provocollege.edu/",
   "name": "Provo College",
   "shortName": "Provo",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utah.edu/",
+  "officialUrl": "https://www.utah.edu/",
   "name": "University of Utah",
   "shortName": "Utah",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utahtech.edu/",
+  "officialUrl": "https://utahtech.edu/",
   "name": "Utah Tech University",
   "shortName": "Utah Tech",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uvu.edu/",
+  "officialUrl": "https://www.uvu.edu/",
   "name": "Utah Valley University",
   "shortName": "Utah Valley",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wgu.edu/",
+  "officialUrl": "https://www.wgu.edu/",
   "name": "Western Governors University",
   "shortName": "Western Governors",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_UT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westminsteru.edu/",
+  "officialUrl": "https://www.westminsteru.edu/",
   "name": "Westminster University",
   "shortName": "Westminster",
   "location": {

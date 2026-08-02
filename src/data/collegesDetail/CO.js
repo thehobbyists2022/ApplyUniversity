@@ -19,7 +19,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.adams.edu/",
+  "officialUrl": "https://www.adams.edu/",
   "name": "Adams State University",
   "shortName": "Adams State",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aims.edu/",
+  "officialUrl": "https://www.aims.edu/",
   "name": "Aims Community College",
   "shortName": "Aims Community",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.arapahoe.edu/",
+  "officialUrl": "https://www.arapahoe.edu/",
   "name": "Arapahoe Community College",
   "shortName": "Arapahoe Community",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccmu.edu/",
+  "officialUrl": "https://www.ccmu.edu/",
   "name": "Colorado Chinese Medicine University",
   "shortName": "Colorado Chinese Medicine",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.coloradocollege.edu/",
+  "officialUrl": "https://www.coloradocollege.edu/",
   "name": "Colorado College",
   "shortName": "Colorado",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.coloradomesa.edu/",
+  "officialUrl": "https://www.coloradomesa.edu/",
   "name": "Colorado Mesa University",
   "shortName": "Colorado Mesa",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "coloradomtn.edu/",
+  "officialUrl": "https://coloradomtn.edu/",
   "name": "Colorado Mountain College",
   "shortName": "Colorado Mountain",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mines.edu/",
+  "officialUrl": "https://www.mines.edu/",
   "name": "Colorado School of Mines",
   "shortName": "Colorado School Mines",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "colostate.edu/",
+  "officialUrl": "https://colostate.edu/",
   "name": "Colorado State University-Fort Collins",
   "shortName": "Colorado State -Fort Collins",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.coloradotech.edu/Colorado-Springs",
+  "officialUrl": "https://www.coloradotech.edu/Colorado-Springs",
   "name": "Colorado Technical University-Colorado Springs",
   "shortName": "Colorado Technical -Colorado Springs",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccd.edu/",
+  "officialUrl": "https://www.ccd.edu/",
   "name": "Community College of Denver",
   "shortName": "Community  Denver",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.denvercollegeofnursing.edu/",
+  "officialUrl": "https://www.denvercollegeofnursing.edu/",
   "name": "Denver College of Nursing",
   "shortName": "Denver  Nursing",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.denverseminary.edu/",
+  "officialUrl": "https://www.denverseminary.edu/",
   "name": "Denver Seminary",
   "shortName": "Denver Seminary",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "fortlewis.edu/",
+  "officialUrl": "https://fortlewis.edu/",
   "name": "Fort Lewis College",
   "shortName": "Fort Lewis",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.iliff.edu/",
+  "officialUrl": "https://www.iliff.edu/",
   "name": "Iliff School of Theology",
   "shortName": "Iliff School Theology",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.itea.edu/",
+  "officialUrl": "https://www.itea.edu/",
   "name": "Institute of Taoist Education and Acupuncture",
   "shortName": "Taoist Education and Acupuncture",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msudenver.edu/",
+  "officialUrl": "https://www.msudenver.edu/",
   "name": "Metropolitan State University of Denver",
   "shortName": "Metropolitan State  Denver",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nbc.edu/",
+  "officialUrl": "https://www.nbc.edu/",
   "name": "Nazarene Bible College",
   "shortName": "Nazarene Bible",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pueblocc.edu/",
+  "officialUrl": "https://www.pueblocc.edu/",
   "name": "Pueblo Community College",
   "shortName": "Pueblo Community",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rrcc.edu/",
+  "officialUrl": "https://www.rrcc.edu/",
   "name": "Red Rocks Community College",
   "shortName": "Red Rocks Community",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rvu.edu/",
+  "officialUrl": "https://www.rvu.edu/",
   "name": "Rocky Vista University",
   "shortName": "Rocky Vista",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.taftu.edu/",
+  "officialUrl": "https://www.taftu.edu/",
   "name": "Taft University System",
   "shortName": "Taft  System",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.trinidadstate.edu/",
+  "officialUrl": "https://www.trinidadstate.edu/",
   "name": "Trinidad State College",
   "shortName": "Trinidad State",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usafa.edu/",
+  "officialUrl": "https://www.usafa.edu/",
   "name": "United States Air Force Academy",
   "shortName": "United States Air Force Academy",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucdenver.edu/",
+  "officialUrl": "https://www.ucdenver.edu/",
   "name": "University of Colorado Denver/Anschutz Medical Campus",
   "shortName": "Colorado Denver/Anschutz Medical Campus",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.du.edu/",
+  "officialUrl": "https://www.du.edu/",
   "name": "University of Denver",
   "shortName": "Denver",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_CO = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.western.edu/",
+  "officialUrl": "https://www.western.edu/",
   "name": "Western Colorado University",
   "shortName": "Western Colorado",
   "location": {

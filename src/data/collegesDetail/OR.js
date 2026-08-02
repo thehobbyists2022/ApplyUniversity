@@ -19,7 +19,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.achs.edu/",
+  "officialUrl": "https://www.achs.edu/",
   "name": "American College of Healthcare Sciences",
   "shortName": "American  Healthcare Sciences",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bushnell.edu/",
+  "officialUrl": "https://www.bushnell.edu/",
   "name": "Bushnell University",
   "shortName": "Bushnell",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.chemeketa.edu/",
+  "officialUrl": "https://www.chemeketa.edu/",
   "name": "Chemeketa Community College",
   "shortName": "Chemeketa Community",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eou.edu/",
+  "officialUrl": "https://www.eou.edu/",
   "name": "Eastern Oregon University",
   "shortName": "Eastern Oregon",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newhope.edu/",
+  "officialUrl": "https://www.newhope.edu/",
   "name": "New Hope Christian College-Eugene",
   "shortName": "New Hope Christian -Eugene",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ohsu.edu/",
+  "officialUrl": "https://www.ohsu.edu/",
   "name": "Oregon Health & Science University",
   "shortName": "Oregon Health & Science",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "pacificbible.edu/",
+  "officialUrl": "https://pacificbible.edu/",
   "name": "Pacific Bible College",
   "shortName": "Pacific Bible",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "willamette.edu/pnca/index.html",
+  "officialUrl": "https://willamette.edu/pnca/index.html",
   "name": "Pacific Northwest College of Art",
   "shortName": "Pacific Northwest  Art",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pdx.edu/",
+  "officialUrl": "https://www.pdx.edu/",
   "name": "Portland State University",
   "shortName": "Portland State",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sou.edu/",
+  "officialUrl": "https://www.sou.edu/",
   "name": "Southern Oregon University",
   "shortName": "Southern Oregon",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "sumnercollege.edu/",
+  "officialUrl": "https://sumnercollege.edu/",
   "name": "Sumner College",
   "shortName": "Sumner",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westernseminary.edu/",
+  "officialUrl": "https://www.westernseminary.edu/",
   "name": "Western Seminary",
   "shortName": "Western Seminary",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_OR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.willamette.edu/",
+  "officialUrl": "https://www.willamette.edu/",
   "name": "Willamette University",
   "shortName": "Willamette",
   "location": {

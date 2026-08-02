@@ -54,7 +54,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ajrca.edu/",
+  "officialUrl": "https://www.ajrca.edu/",
   "name": "Academy for Jewish Religion California",
   "shortName": "Academy for Jewish Religion California",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.academyart.edu/",
+  "officialUrl": "https://www.academyart.edu/",
   "name": "Academy of Art University",
   "shortName": "Academy Art",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acchs.edu/",
+  "officialUrl": "https://www.acchs.edu/",
   "name": "Academy of Chinese Culture and Health Sciences",
   "shortName": "Academy Chinese Culture and Health Sciences",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amu.edu/",
+  "officialUrl": "https://www.amu.edu/",
   "name": "Alhambra Medical University",
   "shortName": "Alhambra Medical",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aeu.edu/",
+  "officialUrl": "https://www.aeu.edu/",
   "name": "America Evangelical University",
   "shortName": "America Evangelical",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.afi.com/",
+  "officialUrl": "https://www.afi.com/",
   "name": "American Film Institute Conservatory",
   "shortName": "American Film  Conservatory",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aju.edu/",
+  "officialUrl": "https://www.aju.edu/",
   "name": "American Jewish University",
   "shortName": "American Jewish",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amsc.edu/",
+  "officialUrl": "https://www.amsc.edu/",
   "name": "American Medical Sciences Center",
   "shortName": "American Medical Sciences Center",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.avc.edu/",
+  "officialUrl": "https://www.avc.edu/",
   "name": "Antelope Valley Community College District",
   "shortName": "Antelope Valley Community  District",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antiochla.edu/",
+  "officialUrl": "https://www.antiochla.edu/",
   "name": "Antioch University-Los Angeles",
   "shortName": "Antioch -Los Angeles",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.antiochsb.edu/",
+  "officialUrl": "https://www.antiochsb.edu/",
   "name": "Antioch University-Santa Barbara",
   "shortName": "Antioch -Santa Barbara",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.artcenter.edu/",
+  "officialUrl": "https://www.artcenter.edu/",
   "name": "Art Center College of Design",
   "shortName": "Art Center  Design",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ati.edu/",
+  "officialUrl": "https://www.ati.edu/",
   "name": "ATI College-Whittier",
   "shortName": "ATI -Whittier",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.apu.edu/",
+  "officialUrl": "https://www.apu.edu/",
   "name": "Azusa Pacific University",
   "shortName": "Azusa Pacific",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bst.edu/",
+  "officialUrl": "https://www.bst.edu/",
   "name": "Berkeley School of Theology",
   "shortName": "Berkeley School Theology",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.buc.edu/",
+  "officialUrl": "https://www.buc.edu/",
   "name": "Bethesda University",
   "shortName": "Bethesda",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calaero.edu/",
+  "officialUrl": "https://www.calaero.edu/",
   "name": "California Aeronautical University",
   "shortName": "California Aeronautical",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calbaptist.edu/",
+  "officialUrl": "https://www.calbaptist.edu/",
   "name": "California Baptist University",
   "shortName": "California Baptist",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.californiacareercollege.edu/",
+  "officialUrl": "https://www.californiacareercollege.edu/",
   "name": "California Career College",
   "shortName": "California Career",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cca.edu/",
+  "officialUrl": "https://www.cca.edu/",
   "name": "California College of the Arts",
   "shortName": "California  the Arts",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ciam.edu/",
+  "officialUrl": "https://www.ciam.edu/",
   "name": "California Institute of Advanced Management",
   "shortName": "California  Advanced Management",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ciat.edu/",
+  "officialUrl": "https://www.ciat.edu/",
   "name": "California Institute of Arts & Technology",
   "shortName": "California  Arts & Technology",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.caltech.edu/",
+  "officialUrl": "https://www.caltech.edu/",
   "name": "California Institute of Technology",
   "shortName": "California  Technology",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.callutheran.edu/",
+  "officialUrl": "https://www.callutheran.edu/",
   "name": "California Lutheran University",
   "shortName": "California Lutheran",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calmu.edu/",
+  "officialUrl": "https://www.calmu.edu/",
   "name": "California Miramar University",
   "shortName": "California Miramar",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cnsu.edu/",
+  "officialUrl": "https://www.cnsu.edu/",
   "name": "California Northstate University",
   "shortName": "California Northstate",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "calpoly.edu/",
+  "officialUrl": "https://calpoly.edu/",
   "name": "California Polytechnic State University-San Luis Obispo",
   "shortName": "California Polytechnic State -San Luis Obispo",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "cpu.edu/",
+  "officialUrl": "https://cpu.edu/",
   "name": "California Prestige University",
   "shortName": "California Prestige",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.humboldt.edu/",
+  "officialUrl": "https://www.humboldt.edu/",
   "name": "California State Polytechnic University-Humboldt",
   "shortName": "California State Polytechnic -Humboldt",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cpp.edu/",
+  "officialUrl": "https://www.cpp.edu/",
   "name": "California State Polytechnic University-Pomona",
   "shortName": "California State Polytechnic -Pomona",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csub.edu/",
+  "officialUrl": "https://www.csub.edu/",
   "name": "California State University-Bakersfield",
   "shortName": "California State -Bakersfield",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csuci.edu/",
+  "officialUrl": "https://www.csuci.edu/",
   "name": "California State University-Channel Islands",
   "shortName": "California State -Channel Islands",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csuchico.edu/",
+  "officialUrl": "https://www.csuchico.edu/",
   "name": "California State University-Chico",
   "shortName": "California State -Chico",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fresnostate.edu/",
+  "officialUrl": "https://www.fresnostate.edu/",
   "name": "California State University-Fresno",
   "shortName": "California State -Fresno",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csulb.edu/",
+  "officialUrl": "https://www.csulb.edu/",
   "name": "California State University-Long Beach",
   "shortName": "California State -Long Beach",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csusb.edu/",
+  "officialUrl": "https://www.csusb.edu/",
   "name": "California State University-San Bernardino",
   "shortName": "California State -San Bernardino",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csusm.edu/",
+  "officialUrl": "https://www.csusm.edu/",
   "name": "California State University-San Marcos",
   "shortName": "California State -San Marcos",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cnicollege.edu/",
+  "officialUrl": "https://www.cnicollege.edu/",
   "name": "Career Networks Institute",
   "shortName": "Career Networks",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cbd.edu/",
+  "officialUrl": "https://www.cbd.edu/",
   "name": "CBD College",
   "shortName": "CBD",
   "location": {
@@ -2399,7 +2399,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cdrewu.edu/",
+  "officialUrl": "https://www.cdrewu.edu/",
   "name": "Charles R Drew University of Medicine and Science",
   "shortName": "Charles R Drew  Medicine and Science",
   "location": {
@@ -2539,7 +2539,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cdsp.edu/",
+  "officialUrl": "https://www.cdsp.edu/",
   "name": "Church Divinity School of the Pacific",
   "shortName": "Church Divinity School the Pacific",
   "location": {
@@ -2574,7 +2574,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cgu.edu/",
+  "officialUrl": "https://www.cgu.edu/",
   "name": "Claremont Graduate University",
   "shortName": "Claremont Graduate",
   "location": {
@@ -2644,7 +2644,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cmc.edu/",
+  "officialUrl": "https://www.cmc.edu/",
   "name": "Claremont McKenna College",
   "shortName": "Claremont McKenna",
   "location": {
@@ -2679,7 +2679,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cst.edu/",
+  "officialUrl": "https://www.cst.edu/",
   "name": "Claremont School of Theology",
   "shortName": "Claremont School Theology",
   "location": {
@@ -2784,7 +2784,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cui.edu/",
+  "officialUrl": "https://www.cui.edu/",
   "name": "Concordia University-Irvine",
   "shortName": "Concordia -Irvine",
   "location": {
@@ -2819,7 +2819,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.craftonhills.edu/",
+  "officialUrl": "https://www.craftonhills.edu/",
   "name": "Crafton Hills College",
   "shortName": "Crafton Hills",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cypresscollege.edu/",
+  "officialUrl": "https://www.cypresscollege.edu/",
   "name": "Cypress College",
   "shortName": "Cypress",
   "location": {
@@ -2924,7 +2924,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.disd.edu/",
+  "officialUrl": "https://www.disd.edu/",
   "name": "Design Institute of San Diego",
   "shortName": "Design  San Diego",
   "location": {
@@ -3064,7 +3064,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dula.edu/",
+  "officialUrl": "https://www.dula.edu/",
   "name": "Dongguk University Los Angeles",
   "shortName": "Dongguk  Los Angeles",
   "location": {
@@ -3134,7 +3134,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "epic.edu/",
+  "officialUrl": "https://epic.edu/",
   "name": "Epic Bible College & Graduate School",
   "shortName": "Epic Bible  & Graduate School",
   "location": {
@@ -3169,7 +3169,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.frc.edu/",
+  "officialUrl": "https://www.frc.edu/",
   "name": "Feather River Community College District",
   "shortName": "Feather River Community  District",
   "location": {
@@ -3204,7 +3204,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fielding.edu/",
+  "officialUrl": "https://www.fielding.edu/",
   "name": "Fielding Graduate University",
   "shortName": "Fielding Graduate",
   "location": {
@@ -3379,7 +3379,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fresno.edu/",
+  "officialUrl": "https://www.fresno.edu/",
   "name": "Fresno Pacific University",
   "shortName": "Fresno Pacific",
   "location": {
@@ -3519,7 +3519,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ggu.edu/",
+  "officialUrl": "https://www.ggu.edu/",
   "name": "Golden Gate University",
   "shortName": "Golden Gate",
   "location": {
@@ -3554,7 +3554,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gm.edu/",
+  "officialUrl": "https://www.gm.edu/",
   "name": "Grace Mission University",
   "shortName": "Grace Mission",
   "location": {
@@ -3589,7 +3589,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gtu.edu/",
+  "officialUrl": "https://www.gtu.edu/",
   "name": "Graduate Theological Union",
   "shortName": "Graduate Theological Union",
   "location": {
@@ -3624,7 +3624,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gurnick.edu/",
+  "officialUrl": "https://www.gurnick.edu/",
   "name": "Gurnick Academy of Medical Arts",
   "shortName": "Gurnick Academy Medical Arts",
   "location": {
@@ -3694,7 +3694,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.haven.edu/",
+  "officialUrl": "https://www.haven.edu/",
   "name": "Haven University",
   "shortName": "Haven",
   "location": {
@@ -3764,7 +3764,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.homesteadschools.net/",
+  "officialUrl": "https://www.homesteadschools.net/",
   "name": "Homestead Schools",
   "shortName": "Homestead Schools",
   "location": {
@@ -3799,7 +3799,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hiu.edu/",
+  "officialUrl": "https://www.hiu.edu/",
   "name": "Hope International University",
   "shortName": "Hope International",
   "location": {
@@ -3834,7 +3834,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.humphreys.edu/",
+  "officialUrl": "https://www.humphreys.edu/",
   "name": "Humphreys University",
   "shortName": "Humphreys",
   "location": {
@@ -3869,7 +3869,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shin-ibs.edu/",
+  "officialUrl": "https://www.shin-ibs.edu/",
   "name": "Institute of Buddhist Studies",
   "shortName": "Buddhist Studies",
   "location": {
@@ -4009,7 +4009,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kgi.edu/",
+  "officialUrl": "https://www.kgi.edu/",
   "name": "Keck Graduate Institute",
   "shortName": "Keck Graduate",
   "location": {
@@ -4079,7 +4079,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lcad.edu/",
+  "officialUrl": "https://www.lcad.edu/",
   "name": "Laguna College of Art and Design",
   "shortName": "Laguna  Art and Design",
   "location": {
@@ -4114,7 +4114,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lauruscollege.edu/",
+  "officialUrl": "https://www.lauruscollege.edu/",
   "name": "Laurus College",
   "shortName": "Laurus",
   "location": {
@@ -4254,7 +4254,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "lionel.edu/",
+  "officialUrl": "https://lionel.edu/",
   "name": "Lionel University",
   "shortName": "Lionel",
   "location": {
@@ -4289,7 +4289,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.llu.edu/index.html",
+  "officialUrl": "https://www.llu.edu/index.html",
   "name": "Loma Linda University",
   "shortName": "Loma Linda",
   "location": {
@@ -4324,7 +4324,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lacm.edu/",
+  "officialUrl": "https://www.lacm.edu/",
   "name": "Los Angeles College of Music",
   "shortName": "Los Angeles  Music",
   "location": {
@@ -4359,7 +4359,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lafilm.edu/",
+  "officialUrl": "https://www.lafilm.edu/",
   "name": "Los Angeles Film School",
   "shortName": "Los Angeles Film School",
   "location": {
@@ -4464,7 +4464,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ketchum.edu/",
+  "officialUrl": "https://www.ketchum.edu/",
   "name": "Marshall B Ketchum University",
   "shortName": "Marshall B Ketchum",
   "location": {
@@ -4499,7 +4499,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.masters.edu/",
+  "officialUrl": "https://www.masters.edu/",
   "name": "Master's University and Seminary",
   "shortName": "Master's  and Seminary",
   "location": {
@@ -4674,7 +4674,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.miracosta.edu/",
+  "officialUrl": "https://www.miracosta.edu/",
   "name": "MiraCosta College",
   "shortName": "MiraCosta",
   "location": {
@@ -4779,7 +4779,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mi.edu/",
+  "officialUrl": "https://www.mi.edu/",
   "name": "Musicians Institute",
   "shortName": "Musicians",
   "location": {
@@ -4814,7 +4814,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nu.edu/",
+  "officialUrl": "https://www.nu.edu/",
   "name": "National University",
   "shortName": "National",
   "location": {
@@ -4919,7 +4919,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newschoolarch.edu/",
+  "officialUrl": "https://www.newschoolarch.edu/",
   "name": "Newschool of Architecture and Design",
   "shortName": "Newschool Architecture and Design",
   "location": {
@@ -4954,7 +4954,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "nw.edu/",
+  "officialUrl": "https://nw.edu/",
   "name": "North-West College-San Diego",
   "shortName": "North-West -San Diego",
   "location": {
@@ -4989,7 +4989,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nu.edu/",
+  "officialUrl": "https://www.nu.edu/",
   "name": "Northcentral University",
   "shortName": "Northcentral",
   "location": {
@@ -5059,7 +5059,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ndnu.edu/",
+  "officialUrl": "https://www.ndnu.edu/",
   "name": "Notre Dame de Namur University",
   "shortName": "Notre Dame de Namur",
   "location": {
@@ -5164,7 +5164,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.otis.edu/",
+  "officialUrl": "https://www.otis.edu/",
   "name": "Otis College of Art and Design",
   "shortName": "Otis  Art and Design",
   "location": {
@@ -5234,7 +5234,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pacificcollege.edu/",
+  "officialUrl": "https://www.pacificcollege.edu/",
   "name": "Pacific College of Health and Science",
   "shortName": "Pacific  Health and Science",
   "location": {
@@ -5304,7 +5304,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.psr.edu/",
+  "officialUrl": "https://www.psr.edu/",
   "name": "Pacific School of Religion",
   "shortName": "Pacific School Religion",
   "location": {
@@ -5374,7 +5374,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pacifica.edu/",
+  "officialUrl": "https://www.pacifica.edu/",
   "name": "Pacifica Graduate Institute",
   "shortName": "Pacifica Graduate",
   "location": {
@@ -5409,7 +5409,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.paloaltou.edu/",
+  "officialUrl": "https://www.paloaltou.edu/",
   "name": "Palo Alto University",
   "shortName": "Palo Alto",
   "location": {
@@ -5444,7 +5444,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pci-ed.com/",
+  "officialUrl": "https://www.pci-ed.com/",
   "name": "PCI College",
   "shortName": "PCI",
   "location": {
@@ -5479,7 +5479,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pepperdine.edu/",
+  "officialUrl": "https://www.pepperdine.edu/",
   "name": "Pepperdine University",
   "shortName": "Pepperdine",
   "location": {
@@ -5549,7 +5549,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "name": "Platt College-Anaheim",
   "shortName": "Platt -Anaheim",
   "location": {
@@ -5584,7 +5584,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "name": "Platt College-Los Angeles",
   "shortName": "Platt -Los Angeles",
   "location": {
@@ -5619,7 +5619,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "name": "Platt College-Ontario",
   "shortName": "Platt -Ontario",
   "location": {
@@ -5654,7 +5654,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "name": "Platt College-Riverside",
   "shortName": "Platt -Riverside",
   "location": {
@@ -5689,7 +5689,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pointloma.edu/",
+  "officialUrl": "https://www.pointloma.edu/",
   "name": "Point Loma Nazarene University",
   "shortName": "Point Loma Nazarene",
   "location": {
@@ -5724,7 +5724,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pomona.edu/",
+  "officialUrl": "https://www.pomona.edu/",
   "name": "Pomona College",
   "shortName": "Pomona",
   "location": {
@@ -5759,7 +5759,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.providencecc.edu/",
+  "officialUrl": "https://www.providencecc.edu/",
   "name": "Providence Christian College",
   "shortName": "Providence Christian",
   "location": {
@@ -5864,7 +5864,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.riohondo.edu/",
+  "officialUrl": "https://www.riohondo.edu/",
   "name": "Rio Hondo College",
   "shortName": "Rio Hondo",
   "location": {
@@ -5934,7 +5934,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.samuelmerritt.edu/",
+  "officialUrl": "https://www.samuelmerritt.edu/",
   "name": "Samuel Merritt University",
   "shortName": "Samuel Merritt",
   "location": {
@@ -6039,7 +6039,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sdmesa.edu/",
+  "officialUrl": "https://www.sdmesa.edu/",
   "name": "San Diego Mesa College",
   "shortName": "San Diego Mesa",
   "location": {
@@ -6179,7 +6179,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sfsu.edu/",
+  "officialUrl": "https://www.sfsu.edu/",
   "name": "San Francisco State University",
   "shortName": "San Francisco State",
   "location": {
@@ -6214,7 +6214,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjcl.edu/",
+  "officialUrl": "https://www.sjcl.edu/",
   "name": "San Joaquin College of Law",
   "shortName": "San Joaquin  Law",
   "location": {
@@ -6249,7 +6249,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjvc.edu/",
+  "officialUrl": "https://www.sjvc.edu/",
   "name": "San Joaquin Valley College-Visalia",
   "shortName": "San Joaquin Valley -Visalia",
   "location": {
@@ -6284,7 +6284,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjsu.edu/",
+  "officialUrl": "https://www.sjsu.edu/",
   "name": "San Jose State University",
   "shortName": "San Jose State",
   "location": {
@@ -6354,7 +6354,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sac.edu/",
+  "officialUrl": "https://www.sac.edu/",
   "name": "Santa Ana College",
   "shortName": "Santa Ana",
   "location": {
@@ -6389,7 +6389,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scu.edu/",
+  "officialUrl": "https://www.scu.edu/",
   "name": "Santa Clara University",
   "shortName": "Santa Clara",
   "location": {
@@ -6494,7 +6494,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.scrippscollege.edu/",
+  "officialUrl": "https://www.scrippscollege.edu/",
   "name": "Scripps College",
   "shortName": "Scripps",
   "location": {
@@ -6529,7 +6529,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shasta.edu/",
+  "officialUrl": "https://www.shasta.edu/",
   "name": "Shasta Bible College and Graduate School",
   "shortName": "Shasta Bible  and Graduate School",
   "location": {
@@ -6599,7 +6599,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.simpsonu.edu/",
+  "officialUrl": "https://www.simpsonu.edu/",
   "name": "Simpson University",
   "shortName": "Simpson",
   "location": {
@@ -6634,7 +6634,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "skylinecollege.edu/",
+  "officialUrl": "https://skylinecollege.edu/",
   "name": "Skyline College",
   "shortName": "Skyline",
   "location": {
@@ -6704,7 +6704,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sofia.edu/",
+  "officialUrl": "https://www.sofia.edu/",
   "name": "Sofia University",
   "shortName": "Sofia",
   "location": {
@@ -6739,7 +6739,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.soka.edu/",
+  "officialUrl": "https://www.soka.edu/",
   "name": "Soka University of America",
   "shortName": "Soka  America",
   "location": {
@@ -6774,7 +6774,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "welcome.solano.edu/",
+  "officialUrl": "https://welcome.solano.edu/",
   "name": "Solano Community College",
   "shortName": "Solano Community",
   "location": {
@@ -6844,7 +6844,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "southbaylo.edu/web",
+  "officialUrl": "https://southbaylo.edu/web",
   "name": "South Baylo University",
   "shortName": "South Baylo",
   "location": {
@@ -6879,7 +6879,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sciarc.edu/",
+  "officialUrl": "https://www.sciarc.edu/",
   "name": "Southern California Institute of Architecture",
   "shortName": "Southern California  Architecture",
   "location": {
@@ -6949,7 +6949,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.socalsem.edu/",
+  "officialUrl": "https://www.socalsem.edu/",
   "name": "Southern California Seminary",
   "shortName": "Southern California Seminary",
   "location": {
@@ -7054,7 +7054,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stanbridge.edu/",
+  "officialUrl": "https://www.stanbridge.edu/",
   "name": "Stanbridge University",
   "shortName": "Stanbridge",
   "location": {
@@ -7089,7 +7089,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stanford.edu/",
+  "officialUrl": "https://www.stanford.edu/",
   "name": "Stanford University",
   "shortName": "Stanford",
   "location": {
@@ -7159,7 +7159,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sum.edu/",
+  "officialUrl": "https://www.sum.edu/",
   "name": "SUM Bible College and Theological Seminary",
   "shortName": "SUM Bible  and Theological Seminary",
   "location": {
@@ -7194,7 +7194,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.teacherscollegesj.edu/",
+  "officialUrl": "https://www.teacherscollegesj.edu/",
   "name": "Teachers College of San Joaquin",
   "shortName": "Teachers  San Joaquin",
   "location": {
@@ -7264,7 +7264,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tjsl.edu/",
+  "officialUrl": "https://www.tjsl.edu/",
   "name": "Thomas Jefferson School of Law",
   "shortName": "Thomas Jefferson School Law",
   "location": {
@@ -7299,7 +7299,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tu.edu/",
+  "officialUrl": "https://www.tu.edu/",
   "name": "Touro University California",
   "shortName": "Touro  California",
   "location": {
@@ -7439,7 +7439,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "unitekcollege.edu/",
+  "officialUrl": "https://unitekcollege.edu/",
   "name": "Unitek College",
   "shortName": "Unitek",
   "location": {
@@ -7509,7 +7509,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ucdavis.edu/",
+  "officialUrl": "https://ucdavis.edu/",
   "name": "University of California-Davis",
   "shortName": "California-Davis",
   "location": {
@@ -7544,7 +7544,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uci.edu/",
+  "officialUrl": "https://www.uci.edu/",
   "name": "University of California-Irvine",
   "shortName": "California-Irvine",
   "location": {
@@ -7579,7 +7579,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ucmerced.edu/",
+  "officialUrl": "https://ucmerced.edu/",
   "name": "University of California-Merced",
   "shortName": "California-Merced",
   "location": {
@@ -7614,7 +7614,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucr.edu/",
+  "officialUrl": "https://www.ucr.edu/",
   "name": "University of California-Riverside",
   "shortName": "California-Riverside",
   "location": {
@@ -7649,7 +7649,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ucsf.edu/",
+  "officialUrl": "https://ucsf.edu/",
   "name": "University of California-San Francisco",
   "shortName": "California-San Francisco",
   "location": {
@@ -7684,7 +7684,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucsb.edu/",
+  "officialUrl": "https://www.ucsb.edu/",
   "name": "University of California-Santa Barbara",
   "shortName": "California-Santa Barbara",
   "location": {
@@ -7719,7 +7719,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucsc.edu/",
+  "officialUrl": "https://www.ucsc.edu/",
   "name": "University of California-Santa Cruz",
   "shortName": "California-Santa Cruz",
   "location": {
@@ -7754,7 +7754,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.berkeley.edu/",
+  "officialUrl": "https://www.berkeley.edu/",
   "name": "University of California, Berkeley",
   "shortName": "California, Berkeley",
   "location": {
@@ -7789,7 +7789,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucla.edu/",
+  "officialUrl": "https://www.ucla.edu/",
   "name": "University of California, Los Angeles",
   "shortName": "California, Los Angeles",
   "location": {
@@ -7824,7 +7824,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucsd.edu/",
+  "officialUrl": "https://www.ucsd.edu/",
   "name": "University of California, San Diego",
   "shortName": "California, San Diego",
   "location": {
@@ -7859,7 +7859,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uewm.edu/",
+  "officialUrl": "https://www.uewm.edu/",
   "name": "University of East-West Medicine",
   "shortName": "East-West Medicine",
   "location": {
@@ -7964,7 +7964,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.redlands.edu/",
+  "officialUrl": "https://www.redlands.edu/",
   "name": "University of Redlands",
   "shortName": "Redlands",
   "location": {
@@ -7999,7 +7999,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sandiego.edu/",
+  "officialUrl": "https://www.sandiego.edu/",
   "name": "University of San Diego",
   "shortName": "San Diego",
   "location": {
@@ -8104,7 +8104,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usc.edu/",
+  "officialUrl": "https://www.usc.edu/",
   "name": "University of Southern California",
   "shortName": "Southern California",
   "location": {
@@ -8139,7 +8139,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usa.edu/",
+  "officialUrl": "https://www.usa.edu/",
   "name": "University of St. Augustine for Health Sciences",
   "shortName": "St. Augustine for Health Sciences",
   "location": {
@@ -8209,7 +8209,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uopeople.edu/",
+  "officialUrl": "https://www.uopeople.edu/",
   "name": "University of the People",
   "shortName": "the People",
   "location": {
@@ -8279,7 +8279,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uwla.edu/",
+  "officialUrl": "https://www.uwla.edu/",
   "name": "University of West Los Angeles",
   "shortName": "West Los Angeles",
   "location": {
@@ -8349,7 +8349,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "name": "West Coast University-Anaheim-Orange County",
   "shortName": "West Coast -Anaheim-Orange County",
   "location": {
@@ -8454,7 +8454,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "name": "West Coast University-Ontario",
   "shortName": "West Coast -Ontario",
   "location": {
@@ -8489,7 +8489,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wlac.edu/",
+  "officialUrl": "https://www.wlac.edu/",
   "name": "West Los Angeles College",
   "shortName": "West Los Angeles",
   "location": {
@@ -8524,7 +8524,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westcliff.edu/",
+  "officialUrl": "https://www.westcliff.edu/",
   "name": "Westcliff University",
   "shortName": "Westcliff",
   "location": {
@@ -8594,7 +8594,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wscal.edu/",
+  "officialUrl": "https://www.wscal.edu/",
   "name": "Westminster Theological Seminary in California",
   "shortName": "Westminster Theological Seminary in California",
   "location": {
@@ -8629,7 +8629,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westmont.edu/",
+  "officialUrl": "https://www.westmont.edu/",
   "name": "Westmont College",
   "shortName": "Westmont",
   "location": {
@@ -8664,7 +8664,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.whittier.edu/",
+  "officialUrl": "https://www.whittier.edu/",
   "name": "Whittier College",
   "shortName": "Whittier",
   "location": {
@@ -8699,7 +8699,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jessup.edu/",
+  "officialUrl": "https://www.jessup.edu/",
   "name": "William Jessup University",
   "shortName": "William Jessup",
   "location": {
@@ -8769,7 +8769,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wmu.edu/",
+  "officialUrl": "https://www.wmu.edu/",
   "name": "World Mission University",
   "shortName": "World Mission",
   "location": {
@@ -8804,7 +8804,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wi.edu/",
+  "officialUrl": "https://www.wi.edu/",
   "name": "Wright Institute",
   "shortName": "Wright",
   "location": {
@@ -8839,7 +8839,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yoec.edu/",
+  "officialUrl": "https://www.yoec.edu/",
   "name": "Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary",
   "shortName": "Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary",
   "location": {
@@ -8874,7 +8874,7 @@ export const DETAILS_CA = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yosan.edu/",
+  "officialUrl": "https://yosan.edu/",
   "name": "Yo San University of Traditional Chinese Medicine",
   "shortName": "Yo San  Traditional Chinese Medicine",
   "location": {

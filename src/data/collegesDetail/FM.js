@@ -19,7 +19,7 @@ export const DETAILS_FM = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.comfsm.fm/",
+  "officialUrl": "https://www.comfsm.fm/",
   "name": "College of Micronesia-FSM",
   "shortName": "Micronesia-FSM",
   "location": {

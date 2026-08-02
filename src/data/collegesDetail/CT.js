@@ -54,7 +54,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccsu.edu/",
+  "officialUrl": "https://www.ccsu.edu/",
   "name": "Central Connecticut State University",
   "shortName": "Central Connecticut State",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.conncoll.edu/",
+  "officialUrl": "https://www.conncoll.edu/",
   "name": "Connecticut College",
   "shortName": "Connecticut",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "fairfield.edu/",
+  "officialUrl": "https://fairfield.edu/",
   "name": "Fairfield University",
   "shortName": "Fairfield",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.goodwin.edu/",
+  "officialUrl": "https://www.goodwin.edu/",
   "name": "Goodwin University",
   "shortName": "Goodwin",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hartfordinternational.edu/",
+  "officialUrl": "https://www.hartfordinternational.edu/",
   "name": "Hartford International University for Religion and Peace",
   "shortName": "Hartford International  for Religion and Peace",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.holyapostles.edu/",
+  "officialUrl": "https://www.holyapostles.edu/",
   "name": "Holy Apostles College and Seminary",
   "shortName": "Holy Apostles  and Seminary",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.post.edu/",
+  "officialUrl": "https://www.post.edu/",
   "name": "Post University",
   "shortName": "Post",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.qu.edu/",
+  "officialUrl": "https://www.qu.edu/",
   "name": "Quinnipiac University",
   "shortName": "Quinnipiac",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southernct.edu/",
+  "officialUrl": "https://www.southernct.edu/",
   "name": "Southern Connecticut State University",
   "shortName": "Southern Connecticut State",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bridgeport.edu/",
+  "officialUrl": "https://www.bridgeport.edu/",
   "name": "University of Bridgeport",
   "shortName": "Bridgeport",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hartford.edu/",
+  "officialUrl": "https://www.hartford.edu/",
   "name": "University of Hartford",
   "shortName": "Hartford",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_CT = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newhaven.edu/",
+  "officialUrl": "https://www.newhaven.edu/",
   "name": "University of New Haven",
   "shortName": "New Haven",
   "location": {

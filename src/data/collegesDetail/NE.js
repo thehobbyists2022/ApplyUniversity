@@ -89,7 +89,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csc.edu/",
+  "officialUrl": "https://www.csc.edu/",
   "name": "Chadron State College",
   "shortName": "Chadron State",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.clarksoncollege.edu/",
+  "officialUrl": "https://www.clarksoncollege.edu/",
   "name": "Clarkson College",
   "shortName": "Clarkson",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cune.edu/",
+  "officialUrl": "https://www.cune.edu/",
   "name": "Concordia University-Nebraska",
   "shortName": "Concordia -Nebraska",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.doane.edu/",
+  "officialUrl": "https://www.doane.edu/",
   "name": "Doane University",
   "shortName": "Doane",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hastings.edu/",
+  "officialUrl": "https://www.hastings.edu/",
   "name": "Hastings College",
   "shortName": "Hastings",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.methodistcollege.edu/",
+  "officialUrl": "https://www.methodistcollege.edu/",
   "name": "Nebraska Methodist College of Nursing & Allied Health",
   "shortName": "Nebraska Methodist  Nursing & Allied Health",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.peru.edu/",
+  "officialUrl": "https://www.peru.edu/",
   "name": "Peru State College",
   "shortName": "Peru State",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unk.edu/",
+  "officialUrl": "https://www.unk.edu/",
   "name": "University of Nebraska at Kearney",
   "shortName": "Nebraska at Kearney",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unmc.edu/",
+  "officialUrl": "https://www.unmc.edu/",
   "name": "University of Nebraska Medical Center",
   "shortName": "Nebraska Medical Center",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unl.edu/",
+  "officialUrl": "https://www.unl.edu/",
   "name": "University of Nebraska-Lincoln",
   "shortName": "Nebraska-Lincoln",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_NE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.york.edu/",
+  "officialUrl": "https://www.york.edu/",
   "name": "York University",
   "shortName": "York",
   "location": {

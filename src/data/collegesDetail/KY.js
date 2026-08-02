@@ -19,7 +19,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alc.edu/",
+  "officialUrl": "https://www.alc.edu/",
   "name": "Alice Lloyd College",
   "shortName": "Alice Lloyd",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.asburyseminary.edu/",
+  "officialUrl": "https://www.asburyseminary.edu/",
   "name": "Asbury Theological Seminary",
   "shortName": "Asbury Theological Seminary",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.beckfield.edu/",
+  "officialUrl": "https://www.beckfield.edu/",
   "name": "Beckfield College-Florence",
   "shortName": "Beckfield -Florence",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brescia.edu/",
+  "officialUrl": "https://www.brescia.edu/",
   "name": "Brescia University",
   "shortName": "Brescia",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.frontier.edu/",
+  "officialUrl": "https://www.frontier.edu/",
   "name": "Frontier Nursing University",
   "shortName": "Frontier Nursing",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.galencollege.edu/louisville",
+  "officialUrl": "https://www.galencollege.edu/louisville",
   "name": "Galen College of Nursing-Louisville",
   "shortName": "Galen  Nursing-Louisville",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.georgetowncollege.edu/",
+  "officialUrl": "https://www.georgetowncollege.edu/",
   "name": "Georgetown College",
   "shortName": "Georgetown",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kcu.edu/",
+  "officialUrl": "https://www.kcu.edu/",
   "name": "Kentucky Christian University",
   "shortName": "Kentucky Christian",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.kysu.edu/",
+  "officialUrl": "https://www.kysu.edu/",
   "name": "Kentucky State University",
   "shortName": "Kentucky State",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lextheo.edu/",
+  "officialUrl": "https://www.lextheo.edu/",
   "name": "Lexington Theological Seminary",
   "shortName": "Lexington Theological Seminary",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lpts.edu/",
+  "officialUrl": "https://www.lpts.edu/",
   "name": "Louisville Presbyterian Theological Seminary",
   "shortName": "Louisville Presbyterian Theological Seminary",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.midway.edu/",
+  "officialUrl": "https://www.midway.edu/",
   "name": "Midway University",
   "shortName": "Midway",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.murraystate.edu/",
+  "officialUrl": "https://www.murraystate.edu/",
   "name": "Murray State University",
   "shortName": "Murray State",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nku.edu/",
+  "officialUrl": "https://www.nku.edu/",
   "name": "Northern Kentucky University",
   "shortName": "Northern Kentucky",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sbts.edu/",
+  "officialUrl": "https://www.sbts.edu/",
   "name": "Southern Baptist Theological Seminary",
   "shortName": "Southern Baptist Theological Seminary",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sullivan.edu/",
+  "officialUrl": "https://www.sullivan.edu/",
   "name": "Sullivan University",
   "shortName": "Sullivan",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.louisville.edu/",
+  "officialUrl": "https://www.louisville.edu/",
   "name": "University of Louisville",
   "shortName": "Louisville",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upike.edu/",
+  "officialUrl": "https://www.upike.edu/",
   "name": "University of Pikeville",
   "shortName": "Pikeville",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_KY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucumberlands.edu/",
+  "officialUrl": "https://www.ucumberlands.edu/",
   "name": "University of the Cumberlands",
   "shortName": "the Cumberlands",
   "location": {

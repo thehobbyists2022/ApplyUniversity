@@ -19,7 +19,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.adrian.edu/",
+  "officialUrl": "https://www.adrian.edu/",
   "name": "Adrian College",
   "shortName": "Adrian",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.albion.edu/",
+  "officialUrl": "https://www.albion.edu/",
   "name": "Albion College",
   "shortName": "Albion",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alma.edu/",
+  "officialUrl": "https://www.alma.edu/",
   "name": "Alma College",
   "shortName": "Alma",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alpenacc.edu/",
+  "officialUrl": "https://www.alpenacc.edu/",
   "name": "Alpena Community College",
   "shortName": "Alpena Community",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.baker.edu/",
+  "officialUrl": "https://www.baker.edu/",
   "name": "Baker College",
   "shortName": "Baker",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calvinseminary.edu/",
+  "officialUrl": "https://www.calvinseminary.edu/",
   "name": "Calvin Theological Seminary",
   "shortName": "Calvin Theological Seminary",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.calvin.edu/",
+  "officialUrl": "https://www.calvin.edu/",
   "name": "Calvin University",
   "shortName": "Calvin",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cleary.edu/",
+  "officialUrl": "https://www.cleary.edu/",
   "name": "Cleary University",
   "shortName": "Cleary",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cornerstone.edu/",
+  "officialUrl": "https://www.cornerstone.edu/",
   "name": "Cornerstone University",
   "shortName": "Cornerstone",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.davenport.edu/",
+  "officialUrl": "https://www.davenport.edu/",
   "name": "Davenport University",
   "shortName": "Davenport",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.emich.edu/",
+  "officialUrl": "https://www.emich.edu/",
   "name": "Eastern Michigan University",
   "shortName": "Eastern Michigan",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.etseminary.edu/",
+  "officialUrl": "https://www.etseminary.edu/",
   "name": "Ecumenical Theological Seminary",
   "shortName": "Ecumenical Theological Seminary",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ferris.edu/",
+  "officialUrl": "https://www.ferris.edu/",
   "name": "Ferris State University",
   "shortName": "Ferris State",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gvsu.edu/",
+  "officialUrl": "https://www.gvsu.edu/",
   "name": "Grand Valley State University",
   "shortName": "Grand Valley State",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.glcc.edu/",
+  "officialUrl": "https://www.glcc.edu/",
   "name": "Great Lakes Christian College",
   "shortName": "Great Lakes Christian",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jccmi.edu/",
+  "officialUrl": "https://www.jccmi.edu/",
   "name": "Jackson College",
   "shortName": "Jackson",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lssu.edu/",
+  "officialUrl": "https://www.lssu.edu/",
   "name": "Lake Superior State University",
   "shortName": "Lake Superior State",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ltu.edu/",
+  "officialUrl": "https://www.ltu.edu/",
   "name": "Lawrence Technological University",
   "shortName": "Lawrence Technological",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "msp.edu/",
+  "officialUrl": "https://msp.edu/",
   "name": "Michigan School of Psychology",
   "shortName": "Michigan School Psychology",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northwood.edu/",
+  "officialUrl": "https://www.northwood.edu/",
   "name": "Northwood University",
   "shortName": "Northwood",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oakland.edu/",
+  "officialUrl": "https://www.oakland.edu/",
   "name": "Oakland University",
   "shortName": "Oakland",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "rcu.edu/",
+  "officialUrl": "https://rcu.edu/",
   "name": "Rochester Christian University",
   "shortName": "Rochester Christian",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shms.edu/",
+  "officialUrl": "https://www.shms.edu/",
   "name": "Sacred Heart Major Seminary",
   "shortName": "Sacred Heart Major Seminary",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.svsu.edu/",
+  "officialUrl": "https://www.svsu.edu/",
   "name": "Saginaw Valley State University",
   "shortName": "Saginaw Valley State",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "cooley.edu/",
+  "officialUrl": "https://cooley.edu/",
   "name": "Thomas M Cooley Law School",
   "shortName": "Thomas M Cooley Law School",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umflint.edu/",
+  "officialUrl": "https://www.umflint.edu/",
   "name": "University of Michigan-Flint",
   "shortName": "Michigan-Flint",
   "location": {
@@ -2049,7 +2049,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wmed.edu/",
+  "officialUrl": "https://wmed.edu/",
   "name": "Western Michigan University Homer Stryker M.D. School of Medicine",
   "shortName": "Western Michigan  Homer Stryker M.D. School Medicine",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_MI = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westernsem.edu/",
+  "officialUrl": "https://www.westernsem.edu/",
   "name": "Western Theological Seminary",
   "shortName": "Western Theological Seminary",
   "location": {

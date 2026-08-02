@@ -194,7 +194,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dewv.edu/",
+  "officialUrl": "https://www.dewv.edu/",
   "name": "Davis & Elkins College",
   "shortName": "Davis & Elkins",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.future.edu/",
+  "officialUrl": "https://www.future.edu/",
   "name": "Future Generations University",
   "shortName": "Future Generations",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.glenville.edu/",
+  "officialUrl": "https://www.glenville.edu/",
   "name": "Glenville State University",
   "shortName": "Glenville State",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.potomacstatecollege.edu/",
+  "officialUrl": "https://www.potomacstatecollege.edu/",
   "name": "Potomac State College of West Virginia University",
   "shortName": "Potomac State  West Virginia",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shepherd.edu/",
+  "officialUrl": "https://www.shepherd.edu/",
   "name": "Shepherd University",
   "shortName": "Shepherd",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/west-virginia/teays-valley",
+  "officialUrl": "https://www.strayer.edu/campus-locations/west-virginia/teays-valley",
   "name": "Strayer University-West Virginia",
   "shortName": "Strayer -West Virginia",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ucwv.edu/",
+  "officialUrl": "https://www.ucwv.edu/",
   "name": "University of Charleston",
   "shortName": "Charleston",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.valley.edu/",
+  "officialUrl": "https://www.valley.edu/",
   "name": "Valley College-Martinsburg",
   "shortName": "Valley -Martinsburg",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westliberty.edu/",
+  "officialUrl": "https://www.westliberty.edu/",
   "name": "West Liberty University",
   "shortName": "West Liberty",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvjc.edu/",
+  "officialUrl": "https://www.wvjc.edu/",
   "name": "West Virginia Junior College-Morgantown",
   "shortName": "West Virginia Junior -Morgantown",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvsom.edu/",
+  "officialUrl": "https://www.wvsom.edu/",
   "name": "West Virginia School of Osteopathic Medicine",
   "shortName": "West Virginia School Osteopathic Medicine",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvstateu.edu/",
+  "officialUrl": "https://www.wvstateu.edu/",
   "name": "West Virginia State University",
   "shortName": "West Virginia State",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvu.edu/",
+  "officialUrl": "https://www.wvu.edu/",
   "name": "West Virginia University",
   "shortName": "West Virginia",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvup.edu/",
+  "officialUrl": "https://www.wvup.edu/",
   "name": "West Virginia University at Parkersburg",
   "shortName": "West Virginia  at Parkersburg",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvutech.edu/",
+  "officialUrl": "https://www.wvutech.edu/",
   "name": "West Virginia University Institute of Technology",
   "shortName": "West Virginia   Technology",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wvwc.edu/",
+  "officialUrl": "https://www.wvwc.edu/",
   "name": "West Virginia Wesleyan College",
   "shortName": "West Virginia Wesleyan",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_WV = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wheeling.edu/",
+  "officialUrl": "https://www.wheeling.edu/",
   "name": "Wheeling University",
   "shortName": "Wheeling",
   "location": {

@@ -19,7 +19,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bates.edu/",
+  "officialUrl": "https://www.bates.edu/",
   "name": "Bates College",
   "shortName": "Bates",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.beal.edu/",
+  "officialUrl": "https://www.beal.edu/",
   "name": "Beal University",
   "shortName": "Beal",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.colby.edu/",
+  "officialUrl": "https://www.colby.edu/",
   "name": "Colby College",
   "shortName": "Colby",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.husson.edu/",
+  "officialUrl": "https://www.husson.edu/",
   "name": "Husson University",
   "shortName": "Husson",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.meca.edu/",
+  "officialUrl": "https://www.meca.edu/",
   "name": "Maine College of Art & Design",
   "shortName": "Maine  Art & Design",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mchp.edu/",
+  "officialUrl": "https://www.mchp.edu/",
   "name": "Maine College of Health Professions",
   "shortName": "Maine  Health Professions",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sjcme.edu/",
+  "officialUrl": "https://www.sjcme.edu/",
   "name": "Saint Joseph's College of Maine",
   "shortName": "Saint Joseph's  Maine",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.thomas.edu/",
+  "officialUrl": "https://www.thomas.edu/",
   "name": "Thomas College",
   "shortName": "Thomas",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umaine.edu/",
+  "officialUrl": "https://www.umaine.edu/",
   "name": "University of Maine",
   "shortName": "Maine",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uma.edu/",
+  "officialUrl": "https://www.uma.edu/",
   "name": "University of Maine at Augusta",
   "shortName": "Maine at Augusta",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umfk.maine.edu/",
+  "officialUrl": "https://www.umfk.maine.edu/",
   "name": "University of Maine at Fort Kent",
   "shortName": "Maine at Fort Kent",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umpi.edu/",
+  "officialUrl": "https://www.umpi.edu/",
   "name": "University of Maine at Presque Isle",
   "shortName": "Maine at Presque Isle",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_ME = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "usm.maine.edu/",
+  "officialUrl": "https://usm.maine.edu/",
   "name": "University of Southern Maine",
   "shortName": "Southern Maine",
   "location": {

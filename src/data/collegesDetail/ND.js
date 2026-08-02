@@ -54,7 +54,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dickinsonstate.edu/",
+  "officialUrl": "https://www.dickinsonstate.edu/",
   "name": "Dickinson State University",
   "shortName": "Dickinson State",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mayvillestate.edu/",
+  "officialUrl": "https://www.mayvillestate.edu/",
   "name": "Mayville State University",
   "shortName": "Mayville State",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.minotstateu.edu/",
+  "officialUrl": "https://www.minotstateu.edu/",
   "name": "Minot State University",
   "shortName": "Minot State",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nhsc.edu/",
+  "officialUrl": "https://www.nhsc.edu/",
   "name": "Nueta Hidatsa Sahnish College",
   "shortName": "Nueta Hidatsa Sahnish",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "trinitybiblecollege.edu/",
+  "officialUrl": "https://trinitybiblecollege.edu/",
   "name": "Trinity Bible College and Graduate School",
   "shortName": "Trinity Bible  and Graduate School",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tm.edu/",
+  "officialUrl": "https://www.tm.edu/",
   "name": "Turtle Mountain College",
   "shortName": "Turtle Mountain",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uj.edu/",
+  "officialUrl": "https://www.uj.edu/",
   "name": "University of Jamestown",
   "shortName": "Jamestown",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_ND = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vcsu.edu/",
+  "officialUrl": "https://www.vcsu.edu/",
   "name": "Valley City State University",
   "shortName": "Valley City State",
   "location": {

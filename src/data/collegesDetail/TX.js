@@ -19,7 +19,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acu.edu/",
+  "officialUrl": "https://www.acu.edu/",
   "name": "Abilene Christian University",
   "shortName": "Abilene Christian",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amberton.edu/",
+  "officialUrl": "https://www.amberton.edu/",
   "name": "Amberton University",
   "shortName": "Amberton",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acaom.edu/",
+  "officialUrl": "https://www.acaom.edu/",
   "name": "American College of Acupuncture and Oriental Med",
   "shortName": "American  Acupuncture and Oriental Med",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.aiuniv.edu/online-campus/campus-locations/houston",
+  "officialUrl": "https://www.aiuniv.edu/online-campus/campus-locations/houston",
   "name": "American InterContinental University-Houston",
   "shortName": "American InterContinental -Houston",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.angelo.edu/",
+  "officialUrl": "https://www.angelo.edu/",
   "name": "Angelo State University",
   "shortName": "Angelo State",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.austincollege.edu/",
+  "officialUrl": "https://www.austincollege.edu/",
   "name": "Austin College",
   "shortName": "Austin",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.austincc.edu/",
+  "officialUrl": "https://www.austincc.edu/",
   "name": "Austin Community College District",
   "shortName": "Austin Community  District",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bshp.edu/",
+  "officialUrl": "https://www.bshp.edu/",
   "name": "Baptist Health System School of Health Professions",
   "shortName": "Baptist Health System School Health Professions",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bmats.edu/",
+  "officialUrl": "https://www.bmats.edu/",
   "name": "Baptist Missionary Association Theological Seminary",
   "shortName": "Baptist Missionary Association Theological Seminary",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bua.edu/",
+  "officialUrl": "https://www.bua.edu/",
   "name": "Baptist University of the Americas",
   "shortName": "Baptist  the Americas",
   "location": {
@@ -544,7 +544,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bcm.edu/",
+  "officialUrl": "https://www.bcm.edu/",
   "name": "Baylor College of Medicine",
   "shortName": "Baylor  Medicine",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.baylor.edu/",
+  "officialUrl": "https://www.baylor.edu/",
   "name": "Baylor University",
   "shortName": "Baylor",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brazosport.edu/",
+  "officialUrl": "https://www.brazosport.edu/",
   "name": "Brazosport College",
   "shortName": "Brazosport",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brite.edu/",
+  "officialUrl": "https://www.brite.edu/",
   "name": "Brite Divinity School",
   "shortName": "Brite Divinity School",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.paralegal.edu/",
+  "officialUrl": "https://www.paralegal.edu/",
   "name": "Center for Advanced Legal Studies",
   "shortName": "Center for Advanced Legal Studies",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "cmctx.edu/",
+  "officialUrl": "https://cmctx.edu/",
   "name": "Christ Mission College",
   "shortName": "Christ Mission",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.chcp.edu/",
+  "officialUrl": "https://www.chcp.edu/",
   "name": "College of Health Care Professions-Northwest",
   "shortName": "Health Care Professions-Northwest",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.com.edu/",
+  "officialUrl": "https://www.com.edu/",
   "name": "College of the Mainland",
   "shortName": "the Mainland",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.criswell.edu/",
+  "officialUrl": "https://www.criswell.edu/",
   "name": "Criswell College",
   "shortName": "Criswell",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dallas.edu/",
+  "officialUrl": "https://www.dallas.edu/",
   "name": "Dallas Christian College",
   "shortName": "Dallas Christian",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dallascollege.edu/pages/default.aspx",
+  "officialUrl": "https://www.dallascollege.edu/pages/default.aspx",
   "name": "Dallas College",
   "shortName": "Dallas",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.dts.edu/",
+  "officialUrl": "https://www.dts.edu/",
   "name": "Dallas Theological Seminary",
   "shortName": "Dallas Theological Seminary",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.delmar.edu/",
+  "officialUrl": "https://www.delmar.edu/",
   "name": "Del Mar College",
   "shortName": "Del Mar",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.etamu.edu/",
+  "officialUrl": "https://www.etamu.edu/",
   "name": "East Texas A&M University",
   "shortName": "East Texas A&M",
   "location": {
@@ -1349,7 +1349,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ssw.edu/",
+  "officialUrl": "https://www.ssw.edu/",
   "name": "Episcopal Theological Seminary of the Southwest",
   "shortName": "Episcopal Theological Seminary the Southwest",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.galencollege.edu/sanantonio/",
+  "officialUrl": "https://www.galencollege.edu/sanantonio/",
   "name": "Galen College of Nursing-San Antonio",
   "shortName": "Galen  Nursing-San Antonio",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gsot.edu/",
+  "officialUrl": "https://www.gsot.edu/",
   "name": "Grace School of Theology",
   "shortName": "Grace School Theology",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "grayson.edu/",
+  "officialUrl": "https://grayson.edu/",
   "name": "Grayson College",
   "shortName": "Grayson",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hccs.edu/",
+  "officialUrl": "https://www.hccs.edu/",
   "name": "Houston City College",
   "shortName": "Houston City",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hputx.edu/",
+  "officialUrl": "https://www.hputx.edu/",
   "name": "Howard Payne University",
   "shortName": "Howard Payne",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.htu.edu/",
+  "officialUrl": "https://www.htu.edu/",
   "name": "Huston-Tillotson University",
   "shortName": "Huston-Tillotson",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jarvis.edu/",
+  "officialUrl": "https://www.jarvis.edu/",
   "name": "Jarvis Christian University",
   "shortName": "Jarvis Christian",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lamar.edu/",
+  "officialUrl": "https://www.lamar.edu/",
   "name": "Lamar University",
   "shortName": "Lamar",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.letu.edu/",
+  "officialUrl": "https://www.letu.edu/",
   "name": "LeTourneau University",
   "shortName": "LeTourneau",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lonestar.edu/",
+  "officialUrl": "https://www.lonestar.edu/",
   "name": "Lone Star College System",
   "shortName": "Lone Star  System",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.messengercollege.edu/",
+  "officialUrl": "https://www.messengercollege.edu/",
   "name": "Messenger College",
   "shortName": "Messenger",
   "location": {
@@ -2119,7 +2119,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.midland.edu/",
+  "officialUrl": "https://www.midland.edu/",
   "name": "Midland College",
   "shortName": "Midland",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msutexas.edu/",
+  "officialUrl": "https://www.msutexas.edu/",
   "name": "Midwestern State University",
   "shortName": "Midwestern State",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.navarrocollege.edu/",
+  "officialUrl": "https://www.navarrocollege.edu/",
   "name": "Navarro College",
   "shortName": "Navarro",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nelson.edu/",
+  "officialUrl": "https://www.nelson.edu/",
   "name": "Nelson University",
   "shortName": "Nelson",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.na.edu/",
+  "officialUrl": "https://www.na.edu/",
   "name": "North American University",
   "shortName": "North American",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ost.edu/",
+  "officialUrl": "https://www.ost.edu/",
   "name": "Oblate School of Theology",
   "shortName": "Oblate School Theology",
   "location": {
@@ -2329,7 +2329,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.odessa.edu/",
+  "officialUrl": "https://www.odessa.edu/",
   "name": "Odessa College",
   "shortName": "Odessa",
   "location": {
@@ -2399,7 +2399,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "alamo.edu/pac/",
+  "officialUrl": "https://alamo.edu/pac/",
   "name": "Palo Alto College",
   "shortName": "Palo Alto",
   "location": {
@@ -2434,7 +2434,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.parker.edu/",
+  "officialUrl": "https://www.parker.edu/",
   "name": "Parker University",
   "shortName": "Parker",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pvamu.edu/",
+  "officialUrl": "https://www.pvamu.edu/",
   "name": "Prairie View A & M University",
   "shortName": "Prairie View A & M",
   "location": {
@@ -2679,7 +2679,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.shsu.edu/",
+  "officialUrl": "https://www.shsu.edu/",
   "name": "Sam Houston State University",
   "shortName": "Sam Houston State",
   "location": {
@@ -2714,7 +2714,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alamo.edu/sac",
+  "officialUrl": "https://www.alamo.edu/sac",
   "name": "San Antonio College",
   "shortName": "San Antonio",
   "location": {
@@ -2749,7 +2749,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sanjac.edu/",
+  "officialUrl": "https://www.sanjac.edu/",
   "name": "San Jacinto Community College",
   "shortName": "San Jacinto Community",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stcl.edu/",
+  "officialUrl": "https://www.stcl.edu/",
   "name": "South Texas College of Law Houston",
   "shortName": "South Texas  Law Houston",
   "location": {
@@ -2889,7 +2889,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.southuniversity.edu/austin#location=Austin, TX",
+  "officialUrl": "https://www.southuniversity.edu/austin#location=Austin, TX",
   "name": "South University-Austin",
   "shortName": "South -Austin",
   "location": {
@@ -2959,7 +2959,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "southwestuniversity.edu/",
+  "officialUrl": "https://southwestuniversity.edu/",
   "name": "Southwest University at El Paso",
   "shortName": "Southwest  at El Paso",
   "location": {
@@ -2994,7 +2994,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.swau.edu/",
+  "officialUrl": "https://www.swau.edu/",
   "name": "Southwestern Adventist University",
   "shortName": "Southwestern Adventist",
   "location": {
@@ -3029,7 +3029,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "swbts.edu/",
+  "officialUrl": "https://swbts.edu/",
   "name": "Southwestern Baptist Theological Seminary",
   "shortName": "Southwestern Baptist Theological Seminary",
   "location": {
@@ -3064,7 +3064,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.swcc.edu/",
+  "officialUrl": "https://www.swcc.edu/",
   "name": "Southwestern Christian College",
   "shortName": "Southwestern Christian",
   "location": {
@@ -3134,7 +3134,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stmarytx.edu/",
+  "officialUrl": "https://www.stmarytx.edu/",
   "name": "St. Mary's University",
   "shortName": "St. Mary's",
   "location": {
@@ -3204,7 +3204,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations",
+  "officialUrl": "https://www.strayer.edu/campus-locations",
   "name": "Strayer University-Texas",
   "shortName": "Strayer -Texas",
   "location": {
@@ -3239,7 +3239,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sulross.edu/",
+  "officialUrl": "https://www.sulross.edu/",
   "name": "Sul Ross State University",
   "shortName": "Sul Ross State",
   "location": {
@@ -3274,7 +3274,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tarleton.edu/",
+  "officialUrl": "https://www.tarleton.edu/",
   "name": "Tarleton State University",
   "shortName": "Tarleton State",
   "location": {
@@ -3309,7 +3309,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tamiu.edu/",
+  "officialUrl": "https://www.tamiu.edu/",
   "name": "Texas A & M International University",
   "shortName": "Texas A & M International",
   "location": {
@@ -3414,7 +3414,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "tamuct.edu/",
+  "officialUrl": "https://tamuct.edu/",
   "name": "Texas A&M University-Central Texas",
   "shortName": "Texas A&M -Central Texas",
   "location": {
@@ -3484,7 +3484,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tamusa.edu/",
+  "officialUrl": "https://www.tamusa.edu/",
   "name": "Texas A&M University-San Antonio",
   "shortName": "Texas A&M -San Antonio",
   "location": {
@@ -3519,7 +3519,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tamut.edu/",
+  "officialUrl": "https://www.tamut.edu/",
   "name": "Texas A&M University-Texarkana",
   "shortName": "Texas A&M -Texarkana",
   "location": {
@@ -3554,7 +3554,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tamuv.edu/",
+  "officialUrl": "https://www.tamuv.edu/",
   "name": "Texas A&M University-Victoria",
   "shortName": "Texas A&M -Victoria",
   "location": {
@@ -3589,7 +3589,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.txchiro.edu/",
+  "officialUrl": "https://www.txchiro.edu/",
   "name": "Texas Chiropractic College Foundation Inc",
   "shortName": "Texas Chiropractic  Foundation Inc",
   "location": {
@@ -3659,7 +3659,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.texascollege.edu/",
+  "officialUrl": "https://www.texascollege.edu/",
   "name": "Texas College",
   "shortName": "Texas",
   "location": {
@@ -3729,7 +3729,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tlu.edu/",
+  "officialUrl": "https://www.tlu.edu/",
   "name": "Texas Lutheran University",
   "shortName": "Texas Lutheran",
   "location": {
@@ -3764,7 +3764,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tsu.edu/",
+  "officialUrl": "https://www.tsu.edu/",
   "name": "Texas Southern University",
   "shortName": "Texas Southern",
   "location": {
@@ -3834,7 +3834,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ttu.edu/",
+  "officialUrl": "https://www.ttu.edu/",
   "name": "Texas Tech University",
   "shortName": "Texas Tech",
   "location": {
@@ -3904,7 +3904,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "elpaso.ttuhsc.edu/",
+  "officialUrl": "https://elpaso.ttuhsc.edu/",
   "name": "Texas Tech University Health Scienes Center El Paso",
   "shortName": "Texas Tech  Health Scienes Center El Paso",
   "location": {
@@ -3939,7 +3939,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.txwes.edu/",
+  "officialUrl": "https://www.txwes.edu/",
   "name": "Texas Wesleyan University",
   "shortName": "Texas Wesleyan",
   "location": {
@@ -3974,7 +3974,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.twu.edu/",
+  "officialUrl": "https://www.twu.edu/",
   "name": "Texas Woman's University",
   "shortName": "Texas Woman's",
   "location": {
@@ -4044,7 +4044,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tvcc.edu/",
+  "officialUrl": "https://www.tvcc.edu/",
   "name": "Trinity Valley Community College",
   "shortName": "Trinity Valley Community",
   "location": {
@@ -4184,7 +4184,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uhcl.edu/",
+  "officialUrl": "https://www.uhcl.edu/",
   "name": "University of Houston-Clear Lake",
   "shortName": "Houston-Clear Lake",
   "location": {
@@ -4219,7 +4219,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uhd.edu/",
+  "officialUrl": "https://www.uhd.edu/",
   "name": "University of Houston-Downtown",
   "shortName": "Houston-Downtown",
   "location": {
@@ -4289,7 +4289,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unt.edu/",
+  "officialUrl": "https://www.unt.edu/",
   "name": "University of North Texas",
   "shortName": "North Texas",
   "location": {
@@ -4324,7 +4324,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "untdallas.edu/",
+  "officialUrl": "https://untdallas.edu/",
   "name": "University of North Texas at Dallas",
   "shortName": "North Texas at Dallas",
   "location": {
@@ -4359,7 +4359,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unthealth.edu/",
+  "officialUrl": "https://www.unthealth.edu/",
   "name": "University of North Texas Health Science Center",
   "shortName": "North Texas Health Science Center",
   "location": {
@@ -4464,7 +4464,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utdallas.edu/",
+  "officialUrl": "https://www.utdallas.edu/",
   "name": "University of Texas at Dallas",
   "shortName": "Texas at Dallas",
   "location": {
@@ -4534,7 +4534,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utsa.edu/",
+  "officialUrl": "https://www.utsa.edu/",
   "name": "University of Texas at San Antonio",
   "shortName": "Texas at San Antonio",
   "location": {
@@ -4604,7 +4604,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uth.edu/",
+  "officialUrl": "https://www.uth.edu/",
   "name": "University of Texas Health Science Center at Houston",
   "shortName": "Texas Health Science Center at Houston",
   "location": {
@@ -4639,7 +4639,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uthscsa.edu/",
+  "officialUrl": "https://www.uthscsa.edu/",
   "name": "University of Texas Health Science Center at San Antonio",
   "shortName": "Texas Health Science Center at San Antonio",
   "location": {
@@ -4674,7 +4674,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mdanderson.org/",
+  "officialUrl": "https://www.mdanderson.org/",
   "name": "University of Texas MD Anderson Cancer Center",
   "shortName": "Texas MD Anderson Cancer Center",
   "location": {
@@ -4779,7 +4779,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utrgv.edu/",
+  "officialUrl": "https://www.utrgv.edu/",
   "name": "University of Texas Rio Grande Valley",
   "shortName": "Texas Rio Grande Valley",
   "location": {
@@ -4814,7 +4814,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.utsouthwestern.edu/",
+  "officialUrl": "https://www.utsouthwestern.edu/",
   "name": "University of Texas Southwestern Medical Center",
   "shortName": "Texas Southwestern Medical Center",
   "location": {
@@ -4919,7 +4919,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wbu.edu/",
+  "officialUrl": "https://www.wbu.edu/",
   "name": "Wayland Baptist University",
   "shortName": "Wayland Baptist",
   "location": {
@@ -4989,7 +4989,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "name": "West Coast University-Texas",
   "shortName": "West Coast -Texas",
   "location": {
@@ -5059,7 +5059,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westerntech.edu/",
+  "officialUrl": "https://www.westerntech.edu/",
   "name": "Western Technical College",
   "shortName": "Western Technical",
   "location": {
@@ -5094,7 +5094,7 @@ export const DETAILS_TX = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wileyc.edu/",
+  "officialUrl": "https://wileyc.edu/",
   "name": "Wiley University",
   "shortName": "Wiley",
   "location": {

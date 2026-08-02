@@ -36,7 +36,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,760",
   "tuitionOutState": "$20,760",
   "undergradsCount": "500+",
-  "officialUrl": "www.alaskapacific.edu/",
+  "officialUrl": "https://www.alaskapacific.edu/",
   "detailKey": "unit-102669"
  },
  {
@@ -74,7 +74,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,260",
   "tuitionOutState": "$5,260",
   "undergradsCount": "100+",
-  "officialUrl": "www.ilisagvik.edu/",
+  "officialUrl": "https://www.ilisagvik.edu/",
   "detailKey": "unit-434584"
  },
  {
@@ -93,7 +93,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,738",
   "tuitionOutState": "$21,322",
   "undergradsCount": "7200+",
-  "officialUrl": "www.uaa.alaska.edu/",
+  "officialUrl": "https://www.uaa.alaska.edu/",
   "detailKey": "unit-102553"
  },
  {
@@ -112,7 +112,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,736",
   "tuitionOutState": "$22,320",
   "undergradsCount": "4200+",
-  "officialUrl": "www.uaf.edu/",
+  "officialUrl": "https://www.uaf.edu/",
   "detailKey": "unit-102614"
  },
  {
@@ -131,7 +131,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,056",
   "tuitionOutState": "$20,640",
   "undergradsCount": "900+",
-  "officialUrl": "www.uas.alaska.edu/",
+  "officialUrl": "https://www.uas.alaska.edu/",
   "detailKey": "unit-102632"
  },
  {
@@ -150,7 +150,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,024",
   "tuitionOutState": "$18,634",
   "undergradsCount": "6100+",
-  "officialUrl": "www.aamu.edu/",
+  "officialUrl": "https://www.aamu.edu/",
   "detailKey": "unit-100654"
  },
  {
@@ -188,7 +188,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,248",
   "tuitionOutState": "$19,576",
   "undergradsCount": "3500+",
-  "officialUrl": "www.alasu.edu/",
+  "officialUrl": "https://www.alasu.edu/",
   "detailKey": "unit-100724"
  },
  {
@@ -245,7 +245,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,890",
   "tuitionOutState": "$34,922",
   "undergradsCount": "26800+",
-  "officialUrl": "www.auburn.edu/",
+  "officialUrl": "https://www.auburn.edu/",
   "detailKey": "unit-100858"
  },
  {
@@ -264,7 +264,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,700",
   "tuitionOutState": "$20,668",
   "undergradsCount": "2500+",
-  "officialUrl": "www.aum.edu/",
+  "officialUrl": "https://www.aum.edu/",
   "detailKey": "unit-100830"
  },
  {
@@ -283,7 +283,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,760",
   "tuitionOutState": "$6,760",
   "undergradsCount": "12200+",
-  "officialUrl": "www.columbiasouthern.edu/",
+  "officialUrl": "https://www.columbiasouthern.edu/",
   "detailKey": "unit-450933"
  },
  {
@@ -302,7 +302,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,920",
   "tuitionOutState": "$23,920",
   "undergradsCount": "1500+",
-  "officialUrl": "www.faulkner.edu/",
+  "officialUrl": "https://www.faulkner.edu/",
   "detailKey": "unit-101189"
  },
  {
@@ -378,7 +378,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,730",
   "tuitionOutState": "$4,730",
   "undergradsCount": "100+",
-  "officialUrl": "www.huntsvillebiblecollege.org/",
+  "officialUrl": "https://www.huntsvillebiblecollege.org/",
   "detailKey": "unit-449348"
  },
  {
@@ -454,7 +454,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,150",
   "tuitionOutState": "$40,150",
   "undergradsCount": "4200+",
-  "officialUrl": "www.samford.edu/",
+  "officialUrl": "https://www.samford.edu/",
   "detailKey": "unit-102049"
  },
  {
@@ -473,7 +473,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "300+",
-  "officialUrl": "www.southuniversity.edu/",
+  "officialUrl": "https://www.southuniversity.edu/",
   "detailKey": "unit-101116"
  },
  {
@@ -530,7 +530,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1200+",
-  "officialUrl": "www.strayer.edu/campus-locations/alabama/birmingham",
+  "officialUrl": "https://www.strayer.edu/campus-locations/alabama/birmingham",
   "detailKey": "unit-450377"
  },
  {
@@ -549,7 +549,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,650",
   "tuitionOutState": "$15,650",
   "undergradsCount": "700+",
-  "officialUrl": "www.talladega.edu/",
+  "officialUrl": "https://www.talladega.edu/",
   "detailKey": "unit-102298"
  },
  {
@@ -568,7 +568,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,176",
   "tuitionOutState": "$20,352",
   "undergradsCount": "9800+",
-  "officialUrl": "www.troy.edu/",
+  "officialUrl": "https://www.troy.edu/",
   "detailKey": "unit-102368"
  },
  {
@@ -625,7 +625,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,180",
   "tuitionOutState": "$34,172",
   "undergradsCount": "33200+",
-  "officialUrl": "www.ua.edu/",
+  "officialUrl": "https://www.ua.edu/",
   "detailKey": "unit-100751"
  },
  {
@@ -663,7 +663,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,132",
   "tuitionOutState": "$26,408",
   "undergradsCount": "6600+",
-  "officialUrl": "www.uah.edu/",
+  "officialUrl": "https://www.uah.edu/",
   "detailKey": "unit-100706"
  },
  {
@@ -701,7 +701,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,948",
   "tuitionOutState": "$26,968",
   "undergradsCount": "2200+",
-  "officialUrl": "www.montevallo.edu/",
+  "officialUrl": "https://www.montevallo.edu/",
   "detailKey": "unit-101709"
  },
  {
@@ -739,7 +739,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,116",
   "tuitionOutState": "$19,092",
   "undergradsCount": "8900+",
-  "officialUrl": "www.southalabama.edu/",
+  "officialUrl": "https://www.southalabama.edu/",
   "detailKey": "unit-102094"
  },
  {
@@ -758,7 +758,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,990",
   "tuitionOutState": "$20,090",
   "undergradsCount": "3000+",
-  "officialUrl": "www.uwa.edu/",
+  "officialUrl": "https://www.uwa.edu/",
   "detailKey": "unit-101587"
  },
  {
@@ -796,7 +796,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "achehealth.edu/",
+  "officialUrl": "https://achehealth.edu/",
   "detailKey": "unit-488527"
  },
  {
@@ -853,7 +853,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,330",
   "tuitionOutState": "$21,330",
   "undergradsCount": "500+",
-  "officialUrl": "www.cbc.edu/",
+  "officialUrl": "https://www.cbc.edu/",
   "detailKey": "unit-106713"
  },
  {
@@ -872,7 +872,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,510",
   "tuitionOutState": "$11,510",
   "undergradsCount": "100+",
-  "officialUrl": "champion.edu/",
+  "officialUrl": "https://champion.edu/",
   "detailKey": "unit-492069"
  },
  {
@@ -891,7 +891,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,670",
   "tuitionOutState": "$16,670",
   "undergradsCount": "200+",
-  "officialUrl": "www.crc.edu/",
+  "officialUrl": "https://www.crc.edu/",
   "detailKey": "unit-106810"
  },
  {
@@ -910,7 +910,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,850",
   "tuitionOutState": "$16,850",
   "undergradsCount": "100+",
-  "officialUrl": "ecollege.edu/",
+  "officialUrl": "https://ecollege.edu/",
   "detailKey": "unit-446233"
  },
  {
@@ -929,7 +929,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,262",
   "tuitionOutState": "$26,262",
   "undergradsCount": "3400+",
-  "officialUrl": "www.harding.edu/",
+  "officialUrl": "https://www.harding.edu/",
   "detailKey": "unit-107044"
  },
  {
@@ -1024,7 +1024,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,000",
   "tuitionOutState": "$31,000",
   "undergradsCount": "600+",
-  "officialUrl": "www.lyon.edu/",
+  "officialUrl": "https://www.lyon.edu/",
   "detailKey": "unit-106342"
  },
  {
@@ -1100,7 +1100,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "700+",
-  "officialUrl": "www.strayer.edu/campus-locations/arkansas/little-rock",
+  "officialUrl": "https://www.strayer.edu/campus-locations/arkansas/little-rock",
   "detailKey": "unit-458885"
  },
  {
@@ -1157,7 +1157,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,292",
   "tuitionOutState": "$14,857",
   "undergradsCount": "1900+",
-  "officialUrl": "www.uamont.edu/",
+  "officialUrl": "https://www.uamont.edu/",
   "detailKey": "unit-106485"
  },
  {
@@ -1176,7 +1176,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,412",
   "tuitionOutState": "$17,992",
   "undergradsCount": "1800+",
-  "officialUrl": "www.uapb.edu/",
+  "officialUrl": "https://www.uapb.edu/",
   "detailKey": "unit-106412"
  },
  {
@@ -1252,7 +1252,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,523",
   "tuitionOutState": "$18,023",
   "undergradsCount": "7800+",
-  "officialUrl": "www.uca.edu/",
+  "officialUrl": "https://www.uca.edu/",
   "detailKey": "unit-106704"
  },
  {
@@ -1309,7 +1309,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,300",
   "tuitionOutState": "$5,600",
   "undergradsCount": "800+",
-  "officialUrl": "www.amsamoa.edu/",
+  "officialUrl": "https://www.amsamoa.edu/",
   "detailKey": "unit-240736"
  },
  {
@@ -1385,7 +1385,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,091",
   "tuitionOutState": "$26,091",
   "undergradsCount": "1200+",
-  "officialUrl": "www.arizonacollege.edu/",
+  "officialUrl": "https://www.arizonacollege.edu/",
   "detailKey": "unit-421708"
  },
  {
@@ -1423,7 +1423,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.asaom.edu/",
+  "officialUrl": "https://www.asaom.edu/",
   "detailKey": "unit-446039"
  },
  {
@@ -1442,7 +1442,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,223",
   "tuitionOutState": "$33,139",
   "undergradsCount": "64700+",
-  "officialUrl": "www.asu.edu/",
+  "officialUrl": "https://www.asu.edu/",
   "detailKey": "unit-104151"
  },
  {
@@ -1480,7 +1480,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "700+",
-  "officialUrl": "www.brooklinecollege.edu/",
+  "officialUrl": "https://www.brooklinecollege.edu/",
   "detailKey": "unit-104090"
  },
  {
@@ -1499,7 +1499,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,219",
   "tuitionOutState": "$12,219",
   "undergradsCount": "2500+",
-  "officialUrl": "bryanuniversity.edu/",
+  "officialUrl": "https://bryanuniversity.edu/",
   "detailKey": "unit-110219"
  },
  {
@@ -1594,7 +1594,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,149",
   "tuitionOutState": "$44,149",
   "undergradsCount": "3200+",
-  "officialUrl": "prescott.erau.edu/",
+  "officialUrl": "https://prescott.erau.edu/",
   "detailKey": "unit-104586"
  },
  {
@@ -1613,7 +1613,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,850",
   "tuitionOutState": "$17,850",
   "undergradsCount": "73400+",
-  "officialUrl": "www.gcu.edu/",
+  "officialUrl": "https://www.gcu.edu/",
   "detailKey": "unit-104717"
  },
  {
@@ -1727,7 +1727,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,232",
   "tuitionOutState": "$10,320",
   "undergradsCount": "1000+",
-  "officialUrl": "www.npc.edu/",
+  "officialUrl": "https://www.npc.edu/",
   "detailKey": "unit-105349"
  },
  {
@@ -1746,7 +1746,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,880",
   "tuitionOutState": "$35,880",
   "undergradsCount": "800+",
-  "officialUrl": "www.ottawa.edu/ouaz/home",
+  "officialUrl": "https://www.ottawa.edu/ouaz/home",
   "detailKey": "unit-464226"
  },
  {
@@ -1784,7 +1784,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.pihma.edu/",
+  "officialUrl": "https://www.pihma.edu/",
   "detailKey": "unit-447698"
  },
  {
@@ -1803,7 +1803,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ps.edu/",
+  "officialUrl": "https://www.ps.edu/",
   "detailKey": "unit-381459"
  },
  {
@@ -1898,7 +1898,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.sonoran.edu/",
+  "officialUrl": "https://www.sonoran.edu/",
   "detailKey": "unit-420246"
  },
  {
@@ -1955,7 +1955,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,960",
   "tuitionOutState": "$11,960",
   "undergradsCount": "20200+",
-  "officialUrl": "www.uagc.edu/",
+  "officialUrl": "https://www.uagc.edu/",
   "detailKey": "unit-154022"
  },
  {
@@ -2031,7 +2031,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ajrca.edu/",
+  "officialUrl": "https://www.ajrca.edu/",
   "detailKey": "unit-457271"
  },
  {
@@ -2050,7 +2050,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,736",
   "tuitionOutState": "$30,736",
   "undergradsCount": "3600+",
-  "officialUrl": "www.academyart.edu/",
+  "officialUrl": "https://www.academyart.edu/",
   "detailKey": "unit-108232"
  },
  {
@@ -2069,7 +2069,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.acchs.edu/",
+  "officialUrl": "https://www.acchs.edu/",
   "detailKey": "unit-108269"
  },
  {
@@ -2145,7 +2145,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.amu.edu/",
+  "officialUrl": "https://www.amu.edu/",
   "detailKey": "unit-487995"
  },
  {
@@ -2183,7 +2183,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,200",
   "tuitionOutState": "$6,200",
   "undergradsCount": "100+",
-  "officialUrl": "www.aeu.edu/",
+  "officialUrl": "https://www.aeu.edu/",
   "detailKey": "unit-490081"
  },
  {
@@ -2202,7 +2202,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.afi.com/",
+  "officialUrl": "https://www.afi.com/",
   "detailKey": "unit-108870"
  },
  {
@@ -2221,7 +2221,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.aju.edu/",
+  "officialUrl": "https://www.aju.edu/",
   "detailKey": "unit-116846"
  },
  {
@@ -2240,7 +2240,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "400+",
-  "officialUrl": "www.amsc.edu/",
+  "officialUrl": "https://www.amsc.edu/",
   "detailKey": "unit-461263"
  },
  {
@@ -2297,7 +2297,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,124",
   "tuitionOutState": "$9,548",
   "undergradsCount": "11500+",
-  "officialUrl": "www.avc.edu/",
+  "officialUrl": "https://www.avc.edu/",
   "detailKey": "unit-109350"
  },
  {
@@ -2316,7 +2316,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.antiochla.edu/",
+  "officialUrl": "https://www.antiochla.edu/",
   "detailKey": "unit-245838"
  },
  {
@@ -2335,7 +2335,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.antiochsb.edu/",
+  "officialUrl": "https://www.antiochsb.edu/",
   "detailKey": "unit-245847"
  },
  {
@@ -2373,7 +2373,7 @@ export const COLLEGES = [
   "tuitionInState": "$54,170",
   "tuitionOutState": "$54,170",
   "undergradsCount": "2000+",
-  "officialUrl": "www.artcenter.edu/",
+  "officialUrl": "https://www.artcenter.edu/",
   "detailKey": "unit-109651"
  },
  {
@@ -2392,7 +2392,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.ati.edu/",
+  "officialUrl": "https://www.ati.edu/",
   "detailKey": "unit-444325"
  },
  {
@@ -2411,7 +2411,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,458",
   "tuitionOutState": "$44,458",
   "undergradsCount": "2800+",
-  "officialUrl": "www.apu.edu/",
+  "officialUrl": "https://www.apu.edu/",
   "detailKey": "unit-109785"
  },
  {
@@ -2449,7 +2449,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,856",
   "tuitionOutState": "$2,856",
   "undergradsCount": "0+",
-  "officialUrl": "www.bst.edu/",
+  "officialUrl": "https://www.bst.edu/",
   "detailKey": "unit-108861"
  },
  {
@@ -2468,7 +2468,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,220",
   "tuitionOutState": "$7,220",
   "undergradsCount": "200+",
-  "officialUrl": "www.buc.edu/",
+  "officialUrl": "https://www.buc.edu/",
   "detailKey": "unit-110060"
  },
  {
@@ -2544,7 +2544,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,667",
   "tuitionOutState": "$37,667",
   "undergradsCount": "300+",
-  "officialUrl": "www.calaero.edu/",
+  "officialUrl": "https://www.calaero.edu/",
   "detailKey": "unit-433420"
  },
  {
@@ -2563,7 +2563,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,228",
   "tuitionOutState": "$41,228",
   "undergradsCount": "8200+",
-  "officialUrl": "www.calbaptist.edu/",
+  "officialUrl": "https://www.calbaptist.edu/",
   "detailKey": "unit-110361"
  },
  {
@@ -2582,7 +2582,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.californiacareercollege.edu/",
+  "officialUrl": "https://www.californiacareercollege.edu/",
   "detailKey": "unit-447713"
  },
  {
@@ -2601,7 +2601,7 @@ export const COLLEGES = [
   "tuitionInState": "$60,226",
   "tuitionOutState": "$60,226",
   "undergradsCount": "1000+",
-  "officialUrl": "www.cca.edu/",
+  "officialUrl": "https://www.cca.edu/",
   "detailKey": "unit-110370"
  },
  {
@@ -2639,7 +2639,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ciam.edu/",
+  "officialUrl": "https://www.ciam.edu/",
   "detailKey": "unit-487649"
  },
  {
@@ -2658,7 +2658,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,270",
   "tuitionOutState": "$22,270",
   "undergradsCount": "2100+",
-  "officialUrl": "www.ciat.edu/",
+  "officialUrl": "https://www.ciat.edu/",
   "detailKey": "unit-490285"
  },
  {
@@ -2696,7 +2696,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,898",
   "tuitionOutState": "$65,898",
   "undergradsCount": "1000+",
-  "officialUrl": "www.caltech.edu/",
+  "officialUrl": "https://www.caltech.edu/",
   "detailKey": "unit-110404"
  },
  {
@@ -2734,7 +2734,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,560",
   "tuitionOutState": "$52,560",
   "undergradsCount": "2300+",
-  "officialUrl": "www.callutheran.edu/",
+  "officialUrl": "https://www.callutheran.edu/",
   "detailKey": "unit-110413"
  },
  {
@@ -2753,7 +2753,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,442",
   "tuitionOutState": "$12,442",
   "undergradsCount": "100+",
-  "officialUrl": "www.calmu.edu/",
+  "officialUrl": "https://www.calmu.edu/",
   "detailKey": "unit-480781"
  },
  {
@@ -2772,7 +2772,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,463",
   "tuitionOutState": "$57,463",
   "undergradsCount": "0+",
-  "officialUrl": "www.cnsu.edu/",
+  "officialUrl": "https://www.cnsu.edu/",
   "detailKey": "unit-496627"
  },
  {
@@ -2791,7 +2791,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,596",
   "tuitionOutState": "$34,665",
   "undergradsCount": "22000+",
-  "officialUrl": "calpoly.edu/",
+  "officialUrl": "https://calpoly.edu/",
   "detailKey": "unit-110422"
  },
  {
@@ -2810,7 +2810,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,329",
   "tuitionOutState": "$9,329",
   "undergradsCount": "100+",
-  "officialUrl": "cpu.edu/",
+  "officialUrl": "https://cpu.edu/",
   "detailKey": "unit-490045"
  },
  {
@@ -2829,7 +2829,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,250",
   "tuitionOutState": "$20,850",
   "undergradsCount": "5600+",
-  "officialUrl": "www.humboldt.edu/",
+  "officialUrl": "https://www.humboldt.edu/",
   "detailKey": "unit-115755"
  },
  {
@@ -2848,7 +2848,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,780",
   "tuitionOutState": "$20,380",
   "undergradsCount": "25000+",
-  "officialUrl": "www.cpp.edu/",
+  "officialUrl": "https://www.cpp.edu/",
   "detailKey": "unit-110529"
  },
  {
@@ -2867,7 +2867,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,090",
   "tuitionOutState": "$20,690",
   "undergradsCount": "8600+",
-  "officialUrl": "www.csub.edu/",
+  "officialUrl": "https://www.csub.edu/",
   "detailKey": "unit-110486"
  },
  {
@@ -2886,7 +2886,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,159",
   "tuitionOutState": "$19,759",
   "undergradsCount": "5000+",
-  "officialUrl": "www.csuci.edu/",
+  "officialUrl": "https://www.csuci.edu/",
   "detailKey": "unit-441937"
  },
  {
@@ -2905,7 +2905,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,472",
   "tuitionOutState": "$21,072",
   "undergradsCount": "13600+",
-  "officialUrl": "www.csuchico.edu/",
+  "officialUrl": "https://www.csuchico.edu/",
   "detailKey": "unit-110538"
  },
  {
@@ -2962,7 +2962,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,350",
   "tuitionOutState": "$19,950",
   "undergradsCount": "21600+",
-  "officialUrl": "www.fresnostate.edu/",
+  "officialUrl": "https://www.fresnostate.edu/",
   "detailKey": "unit-110556"
  },
  {
@@ -3000,7 +3000,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,350",
   "tuitionOutState": "$19,950",
   "undergradsCount": "35900+",
-  "officialUrl": "www.csulb.edu/",
+  "officialUrl": "https://www.csulb.edu/",
   "detailKey": "unit-110583"
  },
  {
@@ -3095,7 +3095,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,093",
   "tuitionOutState": "$20,693",
   "undergradsCount": "15000+",
-  "officialUrl": "www.csusb.edu/",
+  "officialUrl": "https://www.csusb.edu/",
   "detailKey": "unit-110510"
  },
  {
@@ -3114,7 +3114,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,082",
   "tuitionOutState": "$20,682",
   "undergradsCount": "14900+",
-  "officialUrl": "www.csusm.edu/",
+  "officialUrl": "https://www.csusm.edu/",
   "detailKey": "unit-366711"
  },
  {
@@ -3190,7 +3190,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1100+",
-  "officialUrl": "www.cnicollege.edu/",
+  "officialUrl": "https://www.cnicollege.edu/",
   "detailKey": "unit-433013"
  },
  {
@@ -3247,7 +3247,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1600+",
-  "officialUrl": "www.cbd.edu/",
+  "officialUrl": "https://www.cbd.edu/",
   "detailKey": "unit-439367"
  },
  {
@@ -3304,7 +3304,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,000",
   "tuitionOutState": "$23,000",
   "undergradsCount": "300+",
-  "officialUrl": "www.cdrewu.edu/",
+  "officialUrl": "https://www.cdrewu.edu/",
   "detailKey": "unit-111966"
  },
  {
@@ -3380,7 +3380,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.cdsp.edu/",
+  "officialUrl": "https://www.cdsp.edu/",
   "detailKey": "unit-112127"
  },
  {
@@ -3399,7 +3399,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.cgu.edu/",
+  "officialUrl": "https://www.cgu.edu/",
   "detailKey": "unit-112251"
  },
  {
@@ -3437,7 +3437,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,980",
   "tuitionOutState": "$67,980",
   "undergradsCount": "1400+",
-  "officialUrl": "www.cmc.edu/",
+  "officialUrl": "https://www.cmc.edu/",
   "detailKey": "unit-112260"
  },
  {
@@ -3456,7 +3456,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.cst.edu/",
+  "officialUrl": "https://www.cst.edu/",
   "detailKey": "unit-124283"
  },
  {
@@ -3513,7 +3513,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,480",
   "tuitionOutState": "$43,480",
   "undergradsCount": "1500+",
-  "officialUrl": "www.cui.edu/",
+  "officialUrl": "https://www.cui.edu/",
   "detailKey": "unit-112075"
  },
  {
@@ -3532,7 +3532,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,188",
   "tuitionOutState": "$14,556",
   "undergradsCount": "5700+",
-  "officialUrl": "www.craftonhills.edu/",
+  "officialUrl": "https://www.craftonhills.edu/",
   "detailKey": "unit-113111"
  },
  {
@@ -3551,7 +3551,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,150",
   "tuitionOutState": "$12,379",
   "undergradsCount": "13400+",
-  "officialUrl": "www.cypresscollege.edu/",
+  "officialUrl": "https://www.cypresscollege.edu/",
   "detailKey": "unit-113236"
  },
  {
@@ -3589,7 +3589,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,300",
   "tuitionOutState": "$29,300",
   "undergradsCount": "100+",
-  "officialUrl": "www.disd.edu/",
+  "officialUrl": "https://www.disd.edu/",
   "detailKey": "unit-113582"
  },
  {
@@ -3665,7 +3665,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.dula.edu/",
+  "officialUrl": "https://www.dula.edu/",
   "detailKey": "unit-122117"
  },
  {
@@ -3703,7 +3703,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,072",
   "tuitionOutState": "$15,072",
   "undergradsCount": "100+",
-  "officialUrl": "epic.edu/",
+  "officialUrl": "https://epic.edu/",
   "detailKey": "unit-124487"
  },
  {
@@ -3722,7 +3722,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,465",
   "tuitionOutState": "$10,435",
   "undergradsCount": "1800+",
-  "officialUrl": "www.frc.edu/",
+  "officialUrl": "https://www.frc.edu/",
   "detailKey": "unit-114433"
  },
  {
@@ -3741,7 +3741,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.fielding.edu/",
+  "officialUrl": "https://www.fielding.edu/",
   "detailKey": "unit-114549"
  },
  {
@@ -3836,7 +3836,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,660",
   "tuitionOutState": "$36,660",
   "undergradsCount": "1500+",
-  "officialUrl": "www.fresno.edu/",
+  "officialUrl": "https://www.fresno.edu/",
   "detailKey": "unit-114813"
  },
  {
@@ -3912,7 +3912,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.ggu.edu/",
+  "officialUrl": "https://www.ggu.edu/",
   "detailKey": "unit-115083"
  },
  {
@@ -3931,7 +3931,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,370",
   "tuitionOutState": "$3,370",
   "undergradsCount": "100+",
-  "officialUrl": "www.gm.edu/",
+  "officialUrl": "https://www.gm.edu/",
   "detailKey": "unit-481058"
  },
  {
@@ -3950,7 +3950,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.gtu.edu/",
+  "officialUrl": "https://www.gtu.edu/",
   "detailKey": "unit-115214"
  },
  {
@@ -3969,7 +3969,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "3400+",
-  "officialUrl": "www.gurnick.edu/",
+  "officialUrl": "https://www.gurnick.edu/",
   "detailKey": "unit-459213"
  },
  {
@@ -4007,7 +4007,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,010",
   "tuitionOutState": "$7,010",
   "undergradsCount": "0+",
-  "officialUrl": "www.haven.edu/",
+  "officialUrl": "https://www.haven.edu/",
   "detailKey": "unit-111045"
  },
  {
@@ -4045,7 +4045,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.homesteadschools.net/",
+  "officialUrl": "https://www.homesteadschools.net/",
   "detailKey": "unit-457086"
  },
  {
@@ -4064,7 +4064,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,050",
   "tuitionOutState": "$38,050",
   "undergradsCount": "600+",
-  "officialUrl": "www.hiu.edu/",
+  "officialUrl": "https://www.hiu.edu/",
   "detailKey": "unit-120537"
  },
  {
@@ -4083,7 +4083,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,500",
   "tuitionOutState": "$13,500",
   "undergradsCount": "100+",
-  "officialUrl": "www.humphreys.edu/",
+  "officialUrl": "https://www.humphreys.edu/",
   "detailKey": "unit-115773"
  },
  {
@@ -4102,7 +4102,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.shin-ibs.edu/",
+  "officialUrl": "https://www.shin-ibs.edu/",
   "detailKey": "unit-489335"
  },
  {
@@ -4178,7 +4178,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.kgi.edu/",
+  "officialUrl": "https://www.kgi.edu/",
   "detailKey": "unit-440031"
  },
  {
@@ -4216,7 +4216,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,500",
   "tuitionOutState": "$37,500",
   "undergradsCount": "700+",
-  "officialUrl": "www.lcad.edu/",
+  "officialUrl": "https://www.lcad.edu/",
   "detailKey": "unit-117168"
  },
  {
@@ -4235,7 +4235,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1100+",
-  "officialUrl": "www.lauruscollege.edu/",
+  "officialUrl": "https://www.lauruscollege.edu/",
   "detailKey": "unit-454786"
  },
  {
@@ -4311,7 +4311,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,265",
   "tuitionOutState": "$15,265",
   "undergradsCount": "400+",
-  "officialUrl": "lionel.edu/",
+  "officialUrl": "https://lionel.edu/",
   "detailKey": "unit-485519"
  },
  {
@@ -4330,7 +4330,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "900+",
-  "officialUrl": "www.llu.edu/index.html",
+  "officialUrl": "https://www.llu.edu/index.html",
   "detailKey": "unit-117636"
  },
  {
@@ -4349,7 +4349,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,540",
   "tuitionOutState": "$30,540",
   "undergradsCount": "200+",
-  "officialUrl": "www.lacm.edu/",
+  "officialUrl": "https://www.lacm.edu/",
   "detailKey": "unit-446385"
  },
  {
@@ -4368,7 +4368,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "5500+",
-  "officialUrl": "www.lafilm.edu/",
+  "officialUrl": "https://www.lafilm.edu/",
   "detailKey": "unit-436429"
  },
  {
@@ -4425,7 +4425,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ketchum.edu/",
+  "officialUrl": "https://www.ketchum.edu/",
   "detailKey": "unit-123943"
  },
  {
@@ -4444,7 +4444,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,020",
   "tuitionOutState": "$39,020",
   "undergradsCount": "1600+",
-  "officialUrl": "www.masters.edu/",
+  "officialUrl": "https://www.masters.edu/",
   "detailKey": "unit-117751"
  },
  {
@@ -4539,7 +4539,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,158",
   "tuitionOutState": "$9,750",
   "undergradsCount": "10300+",
-  "officialUrl": "www.miracosta.edu/",
+  "officialUrl": "https://www.miracosta.edu/",
   "detailKey": "unit-118912"
  },
  {
@@ -4596,7 +4596,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,322",
   "tuitionOutState": "$34,322",
   "undergradsCount": "800+",
-  "officialUrl": "www.mi.edu/",
+  "officialUrl": "https://www.mi.edu/",
   "detailKey": "unit-119270"
  },
  {
@@ -4615,7 +4615,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,284",
   "tuitionOutState": "$13,284",
   "undergradsCount": "10800+",
-  "officialUrl": "www.nu.edu/",
+  "officialUrl": "https://www.nu.edu/",
   "detailKey": "unit-119605"
  },
  {
@@ -4672,7 +4672,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,291",
   "tuitionOutState": "$30,291",
   "undergradsCount": "200+",
-  "officialUrl": "www.newschoolarch.edu/",
+  "officialUrl": "https://www.newschoolarch.edu/",
   "detailKey": "unit-119775"
  },
  {
@@ -4691,7 +4691,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "600+",
-  "officialUrl": "nw.edu/",
+  "officialUrl": "https://nw.edu/",
   "detailKey": "unit-494746"
  },
  {
@@ -4710,7 +4710,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.nu.edu/",
+  "officialUrl": "https://www.nu.edu/",
   "detailKey": "unit-444130"
  },
  {
@@ -4748,7 +4748,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.ndnu.edu/",
+  "officialUrl": "https://www.ndnu.edu/",
   "detailKey": "unit-120184"
  },
  {
@@ -4805,7 +4805,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,488",
   "tuitionOutState": "$56,488",
   "undergradsCount": "1200+",
-  "officialUrl": "www.otis.edu/",
+  "officialUrl": "https://www.otis.edu/",
   "detailKey": "unit-120403"
  },
  {
@@ -4843,7 +4843,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,000",
   "tuitionOutState": "$11,000",
   "undergradsCount": "100+",
-  "officialUrl": "www.pacificcollege.edu/",
+  "officialUrl": "https://www.pacificcollege.edu/",
   "detailKey": "unit-378576"
  },
  {
@@ -4881,7 +4881,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.psr.edu/",
+  "officialUrl": "https://www.psr.edu/",
   "detailKey": "unit-120795"
  },
  {
@@ -4919,7 +4919,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.pacifica.edu/",
+  "officialUrl": "https://www.pacifica.edu/",
   "detailKey": "unit-115746"
  },
  {
@@ -4938,7 +4938,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.paloaltou.edu/",
+  "officialUrl": "https://www.paloaltou.edu/",
   "detailKey": "unit-120698"
  },
  {
@@ -4957,7 +4957,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.pci-ed.com/",
+  "officialUrl": "https://www.pci-ed.com/",
   "detailKey": "unit-439871"
  },
  {
@@ -4976,7 +4976,7 @@ export const COLLEGES = [
   "tuitionInState": "$69,918",
   "tuitionOutState": "$69,918",
   "undergradsCount": "3600+",
-  "officialUrl": "www.pepperdine.edu/",
+  "officialUrl": "https://www.pepperdine.edu/",
   "detailKey": "unit-121150"
  },
  {
@@ -5014,7 +5014,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,922",
   "tuitionOutState": "$14,922",
   "undergradsCount": "500+",
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "detailKey": "unit-490878"
  },
  {
@@ -5033,7 +5033,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,922",
   "tuitionOutState": "$14,922",
   "undergradsCount": "600+",
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "detailKey": "unit-260789"
  },
  {
@@ -5052,7 +5052,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,922",
   "tuitionOutState": "$14,922",
   "undergradsCount": "500+",
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "detailKey": "unit-432384"
  },
  {
@@ -5071,7 +5071,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,922",
   "tuitionOutState": "$14,922",
   "undergradsCount": "400+",
-  "officialUrl": "www.plattcollege.edu/",
+  "officialUrl": "https://www.plattcollege.edu/",
   "detailKey": "unit-480204"
  },
  {
@@ -5090,7 +5090,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,250",
   "tuitionOutState": "$46,250",
   "undergradsCount": "3200+",
-  "officialUrl": "www.pointloma.edu/",
+  "officialUrl": "https://www.pointloma.edu/",
   "detailKey": "unit-121309"
  },
  {
@@ -5109,7 +5109,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,420",
   "tuitionOutState": "$65,420",
   "undergradsCount": "1700+",
-  "officialUrl": "www.pomona.edu/",
+  "officialUrl": "https://www.pomona.edu/",
   "detailKey": "unit-121345"
  },
  {
@@ -5128,7 +5128,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,963",
   "tuitionOutState": "$36,963",
   "undergradsCount": "200+",
-  "officialUrl": "www.providencecc.edu/",
+  "officialUrl": "https://www.providencecc.edu/",
   "detailKey": "unit-455770"
  },
  {
@@ -5185,7 +5185,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,388",
   "tuitionOutState": "$9,884",
   "undergradsCount": "15700+",
-  "officialUrl": "www.riohondo.edu/",
+  "officialUrl": "https://www.riohondo.edu/",
   "detailKey": "unit-121886"
  },
  {
@@ -5223,7 +5223,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "700+",
-  "officialUrl": "www.samuelmerritt.edu/",
+  "officialUrl": "https://www.samuelmerritt.edu/",
   "detailKey": "unit-122296"
  },
  {
@@ -5280,7 +5280,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,146",
   "tuitionOutState": "$10,002",
   "undergradsCount": "16100+",
-  "officialUrl": "www.sdmesa.edu/",
+  "officialUrl": "https://www.sdmesa.edu/",
   "detailKey": "unit-122375"
  },
  {
@@ -5356,7 +5356,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,950",
   "tuitionOutState": "$20,550",
   "undergradsCount": "18600+",
-  "officialUrl": "www.sfsu.edu/",
+  "officialUrl": "https://www.sfsu.edu/",
   "detailKey": "unit-122597"
  },
  {
@@ -5375,7 +5375,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.sjcl.edu/",
+  "officialUrl": "https://www.sjcl.edu/",
   "detailKey": "unit-122649"
  },
  {
@@ -5394,7 +5394,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "2200+",
-  "officialUrl": "www.sjvc.edu/",
+  "officialUrl": "https://www.sjvc.edu/",
   "detailKey": "unit-122685"
  },
  {
@@ -5413,7 +5413,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,410",
   "tuitionOutState": "$21,010",
   "undergradsCount": "27600+",
-  "officialUrl": "www.sjsu.edu/",
+  "officialUrl": "https://www.sjsu.edu/",
   "detailKey": "unit-122755"
  },
  {
@@ -5451,7 +5451,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,180",
   "tuitionOutState": "$10,756",
   "undergradsCount": "22500+",
-  "officialUrl": "www.sac.edu/",
+  "officialUrl": "https://www.sac.edu/",
   "detailKey": "unit-121619"
  },
  {
@@ -5470,7 +5470,7 @@ export const COLLEGES = [
   "tuitionInState": "$61,293",
   "tuitionOutState": "$61,293",
   "undergradsCount": "6600+",
-  "officialUrl": "www.scu.edu/",
+  "officialUrl": "https://www.scu.edu/",
   "detailKey": "unit-122931"
  },
  {
@@ -5527,7 +5527,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,950",
   "tuitionOutState": "$65,950",
   "undergradsCount": "1100+",
-  "officialUrl": "www.scrippscollege.edu/",
+  "officialUrl": "https://www.scrippscollege.edu/",
   "detailKey": "unit-123165"
  },
  {
@@ -5546,7 +5546,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,535",
   "tuitionOutState": "$14,535",
   "undergradsCount": "0+",
-  "officialUrl": "www.shasta.edu/",
+  "officialUrl": "https://www.shasta.edu/",
   "detailKey": "unit-123280"
  },
  {
@@ -5584,7 +5584,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,708",
   "tuitionOutState": "$39,708",
   "undergradsCount": "800+",
-  "officialUrl": "www.simpsonu.edu/",
+  "officialUrl": "https://www.simpsonu.edu/",
   "detailKey": "unit-123457"
  },
  {
@@ -5603,7 +5603,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,272",
   "tuitionOutState": "$9,956",
   "undergradsCount": "7600+",
-  "officialUrl": "skylinecollege.edu/",
+  "officialUrl": "https://skylinecollege.edu/",
   "detailKey": "unit-123509"
  },
  {
@@ -5641,7 +5641,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.sofia.edu/",
+  "officialUrl": "https://www.sofia.edu/",
   "detailKey": "unit-110778"
  },
  {
@@ -5660,7 +5660,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,728",
   "tuitionOutState": "$38,728",
   "undergradsCount": "500+",
-  "officialUrl": "www.soka.edu/",
+  "officialUrl": "https://www.soka.edu/",
   "detailKey": "unit-399911"
  },
  {
@@ -5679,7 +5679,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,172",
   "tuitionOutState": "$9,812",
   "undergradsCount": "8100+",
-  "officialUrl": "welcome.solano.edu/",
+  "officialUrl": "https://welcome.solano.edu/",
   "detailKey": "unit-123563"
  },
  {
@@ -5717,7 +5717,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "southbaylo.edu/web",
+  "officialUrl": "https://southbaylo.edu/web",
   "detailKey": "unit-123633"
  },
  {
@@ -5736,7 +5736,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,162",
   "tuitionOutState": "$56,162",
   "undergradsCount": "200+",
-  "officialUrl": "www.sciarc.edu/",
+  "officialUrl": "https://www.sciarc.edu/",
   "detailKey": "unit-123952"
  },
  {
@@ -5774,7 +5774,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,080",
   "tuitionOutState": "$19,080",
   "undergradsCount": "0+",
-  "officialUrl": "www.socalsem.edu/",
+  "officialUrl": "https://www.socalsem.edu/",
   "detailKey": "unit-117575"
  },
  {
@@ -5831,7 +5831,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "2600+",
-  "officialUrl": "www.stanbridge.edu/",
+  "officialUrl": "https://www.stanbridge.edu/",
   "detailKey": "unit-446561"
  },
  {
@@ -5850,7 +5850,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,910",
   "tuitionOutState": "$65,910",
   "undergradsCount": "7600+",
-  "officialUrl": "www.stanford.edu/",
+  "officialUrl": "https://www.stanford.edu/",
   "detailKey": "unit-243744"
  },
  {
@@ -5888,7 +5888,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,460",
   "tuitionOutState": "$10,460",
   "undergradsCount": "200+",
-  "officialUrl": "www.sum.edu/",
+  "officialUrl": "https://www.sum.edu/",
   "detailKey": "unit-447953"
  },
  {
@@ -5907,7 +5907,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "600+",
-  "officialUrl": "www.teacherscollegesj.edu/",
+  "officialUrl": "https://www.teacherscollegesj.edu/",
   "detailKey": "unit-488800"
  },
  {
@@ -5945,7 +5945,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.tjsl.edu/",
+  "officialUrl": "https://www.tjsl.edu/",
   "detailKey": "unit-126049"
  },
  {
@@ -5964,7 +5964,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,005",
   "tuitionOutState": "$20,005",
   "undergradsCount": "0+",
-  "officialUrl": "www.tu.edu/",
+  "officialUrl": "https://www.tu.edu/",
   "detailKey": "unit-459736"
  },
  {
@@ -6040,7 +6040,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "5000+",
-  "officialUrl": "unitekcollege.edu/",
+  "officialUrl": "https://unitekcollege.edu/",
   "detailKey": "unit-459204"
  },
  {
@@ -6078,7 +6078,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,774",
   "tuitionOutState": "$50,974",
   "undergradsCount": "32300+",
-  "officialUrl": "ucdavis.edu/",
+  "officialUrl": "https://ucdavis.edu/",
   "detailKey": "unit-110644"
  },
  {
@@ -6097,7 +6097,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,722",
   "tuitionOutState": "$49,922",
   "undergradsCount": "30200+",
-  "officialUrl": "www.uci.edu/",
+  "officialUrl": "https://www.uci.edu/",
   "detailKey": "unit-110653"
  },
  {
@@ -6116,7 +6116,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,623",
   "tuitionOutState": "$49,823",
   "undergradsCount": "8400+",
-  "officialUrl": "ucmerced.edu/",
+  "officialUrl": "https://ucmerced.edu/",
   "detailKey": "unit-445188"
  },
  {
@@ -6135,7 +6135,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,606",
   "tuitionOutState": "$49,806",
   "undergradsCount": "22600+",
-  "officialUrl": "www.ucr.edu/",
+  "officialUrl": "https://www.ucr.edu/",
   "detailKey": "unit-110671"
  },
  {
@@ -6154,7 +6154,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "ucsf.edu/",
+  "officialUrl": "https://ucsf.edu/",
   "detailKey": "unit-110699"
  },
  {
@@ -6173,7 +6173,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,414",
   "tuitionOutState": "$50,614",
   "undergradsCount": "23100+",
-  "officialUrl": "www.ucsb.edu/",
+  "officialUrl": "https://www.ucsb.edu/",
   "detailKey": "unit-110705"
  },
  {
@@ -6192,7 +6192,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,005",
   "tuitionOutState": "$50,205",
   "undergradsCount": "17900+",
-  "officialUrl": "www.ucsc.edu/",
+  "officialUrl": "https://www.ucsc.edu/",
   "detailKey": "unit-110714"
  },
  {
@@ -6211,7 +6211,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,347",
   "tuitionOutState": "$50,547",
   "undergradsCount": "33100+",
-  "officialUrl": "www.berkeley.edu/",
+  "officialUrl": "https://www.berkeley.edu/",
   "detailKey": "unit-110635"
  },
  {
@@ -6230,7 +6230,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,203",
   "tuitionOutState": "$49,403",
   "undergradsCount": "33500+",
-  "officialUrl": "www.ucla.edu/",
+  "officialUrl": "https://www.ucla.edu/",
   "detailKey": "unit-110662"
  },
  {
@@ -6249,7 +6249,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,758",
   "tuitionOutState": "$50,958",
   "undergradsCount": "34900+",
-  "officialUrl": "www.ucsd.edu/",
+  "officialUrl": "https://www.ucsd.edu/",
   "detailKey": "unit-110680"
  },
  {
@@ -6268,7 +6268,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.uewm.edu/",
+  "officialUrl": "https://www.uewm.edu/",
   "detailKey": "unit-447801"
  },
  {
@@ -6325,7 +6325,7 @@ export const COLLEGES = [
   "tuitionInState": "$60,878",
   "tuitionOutState": "$60,878",
   "undergradsCount": "2000+",
-  "officialUrl": "www.redlands.edu/",
+  "officialUrl": "https://www.redlands.edu/",
   "detailKey": "unit-121691"
  },
  {
@@ -6344,7 +6344,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,486",
   "tuitionOutState": "$59,486",
   "undergradsCount": "5700+",
-  "officialUrl": "www.sandiego.edu/",
+  "officialUrl": "https://www.sandiego.edu/",
   "detailKey": "unit-122436"
  },
  {
@@ -6401,7 +6401,7 @@ export const COLLEGES = [
   "tuitionInState": "$72,097",
   "tuitionOutState": "$72,097",
   "undergradsCount": "20400+",
-  "officialUrl": "www.usc.edu/",
+  "officialUrl": "https://www.usc.edu/",
   "detailKey": "unit-123961"
  },
  {
@@ -6420,7 +6420,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.usa.edu/",
+  "officialUrl": "https://www.usa.edu/",
   "detailKey": "unit-367954"
  },
  {
@@ -6458,7 +6458,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,400",
   "tuitionOutState": "$1,400",
   "undergradsCount": "22700+",
-  "officialUrl": "www.uopeople.edu/",
+  "officialUrl": "https://www.uopeople.edu/",
   "detailKey": "unit-488846"
  },
  {
@@ -6496,7 +6496,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.uwla.edu/",
+  "officialUrl": "https://www.uwla.edu/",
   "detailKey": "unit-484862"
  },
  {
@@ -6534,7 +6534,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,506",
   "tuitionOutState": "$22,506",
   "undergradsCount": "3200+",
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "detailKey": "unit-458210"
  },
  {
@@ -6591,7 +6591,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,854",
   "tuitionOutState": "$36,854",
   "undergradsCount": "2700+",
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "detailKey": "unit-458229"
  },
  {
@@ -6610,7 +6610,7 @@ export const COLLEGES = [
   "tuitionInState": "$1,238",
   "tuitionOutState": "$10,572",
   "undergradsCount": "7300+",
-  "officialUrl": "www.wlac.edu/",
+  "officialUrl": "https://www.wlac.edu/",
   "detailKey": "unit-125471"
  },
  {
@@ -6629,7 +6629,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,670",
   "tuitionOutState": "$17,670",
   "undergradsCount": "2400+",
-  "officialUrl": "www.westcliff.edu/",
+  "officialUrl": "https://www.westcliff.edu/",
   "detailKey": "unit-490133"
  },
  {
@@ -6667,7 +6667,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wscal.edu/",
+  "officialUrl": "https://www.wscal.edu/",
   "detailKey": "unit-125718"
  },
  {
@@ -6686,7 +6686,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,584",
   "tuitionOutState": "$53,584",
   "undergradsCount": "1300+",
-  "officialUrl": "www.westmont.edu/",
+  "officialUrl": "https://www.westmont.edu/",
   "detailKey": "unit-125727"
  },
  {
@@ -6705,7 +6705,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,350",
   "tuitionOutState": "$51,350",
   "undergradsCount": "800+",
-  "officialUrl": "www.whittier.edu/",
+  "officialUrl": "https://www.whittier.edu/",
   "detailKey": "unit-125763"
  },
  {
@@ -6724,7 +6724,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,150",
   "tuitionOutState": "$37,150",
   "undergradsCount": "1300+",
-  "officialUrl": "www.jessup.edu/",
+  "officialUrl": "https://www.jessup.edu/",
   "detailKey": "unit-122728"
  },
  {
@@ -6762,7 +6762,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,920",
   "tuitionOutState": "$6,920",
   "undergradsCount": "200+",
-  "officialUrl": "www.wmu.edu/",
+  "officialUrl": "https://www.wmu.edu/",
   "detailKey": "unit-401223"
  },
  {
@@ -6781,7 +6781,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wi.edu/",
+  "officialUrl": "https://www.wi.edu/",
   "detailKey": "unit-126012"
  },
  {
@@ -6800,7 +6800,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,900",
   "tuitionOutState": "$16,900",
   "undergradsCount": "200+",
-  "officialUrl": "www.yoec.edu/",
+  "officialUrl": "https://www.yoec.edu/",
   "detailKey": "unit-126076"
  },
  {
@@ -6819,7 +6819,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "yosan.edu/",
+  "officialUrl": "https://yosan.edu/",
   "detailKey": "unit-401250"
  },
  {
@@ -6838,7 +6838,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,824",
   "tuitionOutState": "$21,944",
   "undergradsCount": "1300+",
-  "officialUrl": "www.adams.edu/",
+  "officialUrl": "https://www.adams.edu/",
   "detailKey": "unit-126182"
  },
  {
@@ -6857,7 +6857,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,258",
   "tuitionOutState": "$11,786",
   "undergradsCount": "3600+",
-  "officialUrl": "www.aims.edu/",
+  "officialUrl": "https://www.aims.edu/",
   "detailKey": "unit-126207"
  },
  {
@@ -6876,7 +6876,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,434",
   "tuitionOutState": "$17,034",
   "undergradsCount": "5400+",
-  "officialUrl": "www.arapahoe.edu/",
+  "officialUrl": "https://www.arapahoe.edu/",
   "detailKey": "unit-126289"
  },
  {
@@ -6914,7 +6914,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ccmu.edu/",
+  "officialUrl": "https://www.ccmu.edu/",
   "detailKey": "unit-381352"
  },
  {
@@ -6952,7 +6952,7 @@ export const COLLEGES = [
   "tuitionInState": "$70,734",
   "tuitionOutState": "$70,734",
   "undergradsCount": "2000+",
-  "officialUrl": "www.coloradocollege.edu/",
+  "officialUrl": "https://www.coloradocollege.edu/",
   "detailKey": "unit-126678"
  },
  {
@@ -6971,7 +6971,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,927",
   "tuitionOutState": "$25,124",
   "undergradsCount": "8100+",
-  "officialUrl": "www.coloradomesa.edu/",
+  "officialUrl": "https://www.coloradomesa.edu/",
   "detailKey": "unit-127556"
  },
  {
@@ -6990,7 +6990,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,616",
   "tuitionOutState": "$12,840",
   "undergradsCount": "2800+",
-  "officialUrl": "coloradomtn.edu/",
+  "officialUrl": "https://coloradomtn.edu/",
   "detailKey": "unit-126711"
  },
  {
@@ -7028,7 +7028,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,914",
   "tuitionOutState": "$45,824",
   "undergradsCount": "6200+",
-  "officialUrl": "www.mines.edu/",
+  "officialUrl": "https://www.mines.edu/",
   "detailKey": "unit-126775"
  },
  {
@@ -7085,7 +7085,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,373",
   "tuitionOutState": "$34,783",
   "undergradsCount": "25500+",
-  "officialUrl": "colostate.edu/",
+  "officialUrl": "https://colostate.edu/",
   "detailKey": "unit-126818"
  },
  {
@@ -7104,7 +7104,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,750",
   "tuitionOutState": "$12,750",
   "undergradsCount": "28100+",
-  "officialUrl": "www.coloradotech.edu/Colorado-Springs",
+  "officialUrl": "https://www.coloradotech.edu/Colorado-Springs",
   "detailKey": "unit-126827"
  },
  {
@@ -7123,7 +7123,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,902",
   "tuitionOutState": "$17,136",
   "undergradsCount": "5100+",
-  "officialUrl": "www.ccd.edu/",
+  "officialUrl": "https://www.ccd.edu/",
   "detailKey": "unit-126942"
  },
  {
@@ -7161,7 +7161,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "800+",
-  "officialUrl": "www.denvercollegeofnursing.edu/",
+  "officialUrl": "https://www.denvercollegeofnursing.edu/",
   "detailKey": "unit-454856"
  },
  {
@@ -7180,7 +7180,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.denverseminary.edu/",
+  "officialUrl": "https://www.denverseminary.edu/",
   "detailKey": "unit-126979"
  },
  {
@@ -7199,7 +7199,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,958",
   "tuitionOutState": "$21,526",
   "undergradsCount": "3100+",
-  "officialUrl": "fortlewis.edu/",
+  "officialUrl": "https://fortlewis.edu/",
   "detailKey": "unit-127185"
  },
  {
@@ -7237,7 +7237,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.iliff.edu/",
+  "officialUrl": "https://www.iliff.edu/",
   "detailKey": "unit-127273"
  },
  {
@@ -7256,7 +7256,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.itea.edu/",
+  "officialUrl": "https://www.itea.edu/",
   "detailKey": "unit-454838"
  },
  {
@@ -7275,7 +7275,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,124",
   "tuitionOutState": "$30,684",
   "undergradsCount": "15000+",
-  "officialUrl": "www.msudenver.edu/",
+  "officialUrl": "https://www.msudenver.edu/",
   "detailKey": "unit-127565"
  },
  {
@@ -7332,7 +7332,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,482",
   "tuitionOutState": "$10,482",
   "undergradsCount": "300+",
-  "officialUrl": "www.nbc.edu/",
+  "officialUrl": "https://www.nbc.edu/",
   "detailKey": "unit-127714"
  },
  {
@@ -7370,7 +7370,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,049",
   "tuitionOutState": "$17,649",
   "undergradsCount": "3600+",
-  "officialUrl": "www.pueblocc.edu/",
+  "officialUrl": "https://www.pueblocc.edu/",
   "detailKey": "unit-127884"
  },
  {
@@ -7389,7 +7389,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,859",
   "tuitionOutState": "$17,459",
   "undergradsCount": "4900+",
-  "officialUrl": "www.rrcc.edu/",
+  "officialUrl": "https://www.rrcc.edu/",
   "detailKey": "unit-127909"
  },
  {
@@ -7446,7 +7446,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.rvu.edu/",
+  "officialUrl": "https://www.rvu.edu/",
   "detailKey": "unit-480790"
  },
  {
@@ -7465,7 +7465,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.taftu.edu/",
+  "officialUrl": "https://www.taftu.edu/",
   "detailKey": "unit-454689"
  },
  {
@@ -7484,7 +7484,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,608",
   "tuitionOutState": "$7,318",
   "undergradsCount": "1200+",
-  "officialUrl": "www.trinidadstate.edu/",
+  "officialUrl": "https://www.trinidadstate.edu/",
   "detailKey": "unit-128258"
  },
  {
@@ -7503,7 +7503,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4100+",
-  "officialUrl": "www.usafa.edu/",
+  "officialUrl": "https://www.usafa.edu/",
   "detailKey": "unit-128328"
  },
  {
@@ -7560,7 +7560,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,383",
   "tuitionOutState": "$29,391",
   "undergradsCount": "10500+",
-  "officialUrl": "www.ucdenver.edu/",
+  "officialUrl": "https://www.ucdenver.edu/",
   "detailKey": "unit-126562"
  },
  {
@@ -7579,7 +7579,7 @@ export const COLLEGES = [
   "tuitionInState": "$61,398",
   "tuitionOutState": "$61,398",
   "undergradsCount": "6000+",
-  "officialUrl": "www.du.edu/",
+  "officialUrl": "https://www.du.edu/",
   "detailKey": "unit-127060"
  },
  {
@@ -7617,7 +7617,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,318",
   "tuitionOutState": "$24,434",
   "undergradsCount": "1600+",
-  "officialUrl": "www.western.edu/",
+  "officialUrl": "https://www.western.edu/",
   "detailKey": "unit-128391"
  },
  {
@@ -7655,7 +7655,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,050",
   "tuitionOutState": "$16,550",
   "undergradsCount": "7800+",
-  "officialUrl": "www.ccsu.edu/",
+  "officialUrl": "https://www.ccsu.edu/",
   "detailKey": "unit-128771"
  },
  {
@@ -7693,7 +7693,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,242",
   "tuitionOutState": "$67,242",
   "undergradsCount": "1900+",
-  "officialUrl": "www.conncoll.edu/",
+  "officialUrl": "https://www.conncoll.edu/",
   "detailKey": "unit-128902"
  },
  {
@@ -7731,7 +7731,7 @@ export const COLLEGES = [
   "tuitionInState": "$58,350",
   "tuitionOutState": "$58,350",
   "undergradsCount": "5400+",
-  "officialUrl": "fairfield.edu/",
+  "officialUrl": "https://fairfield.edu/",
   "detailKey": "unit-129242"
  },
  {
@@ -7750,7 +7750,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,198",
   "tuitionOutState": "$21,198",
   "undergradsCount": "2700+",
-  "officialUrl": "www.goodwin.edu/",
+  "officialUrl": "https://www.goodwin.edu/",
   "detailKey": "unit-129154"
  },
  {
@@ -7769,7 +7769,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.hartfordinternational.edu/",
+  "officialUrl": "https://www.hartfordinternational.edu/",
   "detailKey": "unit-129491"
  },
  {
@@ -7788,7 +7788,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,580",
   "tuitionOutState": "$9,580",
   "undergradsCount": "200+",
-  "officialUrl": "www.holyapostles.edu/",
+  "officialUrl": "https://www.holyapostles.edu/",
   "detailKey": "unit-129534"
  },
  {
@@ -7826,7 +7826,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,327",
   "tuitionOutState": "$16,327",
   "undergradsCount": "13600+",
-  "officialUrl": "www.post.edu/",
+  "officialUrl": "https://www.post.edu/",
   "detailKey": "unit-130183"
  },
  {
@@ -7845,7 +7845,7 @@ export const COLLEGES = [
   "tuitionInState": "$55,480",
   "tuitionOutState": "$55,480",
   "undergradsCount": "6500+",
-  "officialUrl": "www.qu.edu/",
+  "officialUrl": "https://www.qu.edu/",
   "detailKey": "unit-130226"
  },
  {
@@ -7883,7 +7883,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,438",
   "tuitionOutState": "$27,378",
   "undergradsCount": "6300+",
-  "officialUrl": "www.southernct.edu/",
+  "officialUrl": "https://www.southernct.edu/",
   "detailKey": "unit-130493"
  },
  {
@@ -7940,7 +7940,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,760",
   "tuitionOutState": "$35,760",
   "undergradsCount": "1500+",
-  "officialUrl": "www.bridgeport.edu/",
+  "officialUrl": "https://www.bridgeport.edu/",
   "detailKey": "unit-128744"
  },
  {
@@ -8016,7 +8016,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,075",
   "tuitionOutState": "$49,075",
   "undergradsCount": "4100+",
-  "officialUrl": "www.hartford.edu/",
+  "officialUrl": "https://www.hartford.edu/",
   "detailKey": "unit-129525"
  },
  {
@@ -8035,7 +8035,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,332",
   "tuitionOutState": "$47,332",
   "undergradsCount": "4800+",
-  "officialUrl": "www.newhaven.edu/",
+  "officialUrl": "https://www.newhaven.edu/",
   "detailKey": "unit-129941"
  },
  {
@@ -8130,7 +8130,7 @@ export const COLLEGES = [
   "tuitionInState": "$58,771",
   "tuitionOutState": "$58,771",
   "undergradsCount": "7300+",
-  "officialUrl": "www.american.edu/",
+  "officialUrl": "https://www.american.edu/",
   "detailKey": "unit-131159"
  },
  {
@@ -8244,7 +8244,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,810",
   "tuitionOutState": "$35,810",
   "undergradsCount": "10100+",
-  "officialUrl": "www.howard.edu/",
+  "officialUrl": "https://www.howard.edu/",
   "detailKey": "unit-131520"
  },
  {
@@ -8263,7 +8263,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.iwp.edu/",
+  "officialUrl": "https://www.iwp.edu/",
   "detailKey": "unit-455804"
  },
  {
@@ -8301,7 +8301,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.dhs.edu/",
+  "officialUrl": "https://www.dhs.edu/",
   "detailKey": "unit-131405"
  },
  {
@@ -8320,7 +8320,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.johnpaulii.edu/",
+  "officialUrl": "https://www.johnpaulii.edu/",
   "detailKey": "unit-455813"
  },
  {
@@ -8339,7 +8339,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "200+",
-  "officialUrl": "www.strayer.edu/campus-locations/district-columbia/washington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/district-columbia/washington",
   "detailKey": "unit-131803"
  },
  {
@@ -8358,7 +8358,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "9400+",
-  "officialUrl": "www.strayer.edu/",
+  "officialUrl": "https://www.strayer.edu/",
   "detailKey": "unit-459994"
  },
  {
@@ -8377,7 +8377,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,610",
   "tuitionOutState": "$26,610",
   "undergradsCount": "1400+",
-  "officialUrl": "www2.trinitydc.edu/",
+  "officialUrl": "https://www2.trinitydc.edu/",
   "detailKey": "unit-131876"
  },
  {
@@ -8396,7 +8396,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,662",
   "tuitionOutState": "$12,514",
   "undergradsCount": "3400+",
-  "officialUrl": "www.udc.edu/",
+  "officialUrl": "https://www.udc.edu/",
   "detailKey": "unit-131399"
  },
  {
@@ -8415,7 +8415,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,660",
   "tuitionOutState": "$6,660",
   "undergradsCount": "800+",
-  "officialUrl": "www.potomac.edu/",
+  "officialUrl": "https://www.potomac.edu/",
   "detailKey": "unit-384412"
  },
  {
@@ -8434,7 +8434,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wesleyseminary.edu/",
+  "officialUrl": "https://www.wesleyseminary.edu/",
   "detailKey": "unit-131973"
  },
  {
@@ -8453,7 +8453,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,670",
   "tuitionOutState": "$20,634",
   "undergradsCount": "4400+",
-  "officialUrl": "www.desu.edu/",
+  "officialUrl": "https://www.desu.edu/",
   "detailKey": "unit-130934"
  },
  {
@@ -8491,7 +8491,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,940",
   "tuitionOutState": "$14,940",
   "undergradsCount": "700+",
-  "officialUrl": "www.gbc.edu/",
+  "officialUrl": "https://www.gbc.edu/",
   "detailKey": "unit-130989"
  },
  {
@@ -8510,7 +8510,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "200+",
-  "officialUrl": "www.strayer.edu/campus-locations/delaware/wilmington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/delaware/wilmington",
   "detailKey": "unit-450298"
  },
  {
@@ -8529,7 +8529,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,810",
   "tuitionOutState": "$41,400",
   "undergradsCount": "19100+",
-  "officialUrl": "www.udel.edu/",
+  "officialUrl": "https://www.udel.edu/",
   "detailKey": "unit-130943"
  },
  {
@@ -8548,7 +8548,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,630",
   "tuitionOutState": "$12,630",
   "undergradsCount": "7900+",
-  "officialUrl": "www.wilmu.edu/",
+  "officialUrl": "https://www.wilmu.edu/",
   "detailKey": "unit-131113"
  },
  {
@@ -8567,7 +8567,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.acupuncturist.edu/",
+  "officialUrl": "https://www.acupuncturist.edu/",
   "detailKey": "unit-451079"
  },
  {
@@ -8586,7 +8586,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,420",
   "tuitionOutState": "$21,420",
   "undergradsCount": "1400+",
-  "officialUrl": "www.ahu.edu/",
+  "officialUrl": "https://www.ahu.edu/",
   "detailKey": "unit-133872"
  },
  {
@@ -8624,7 +8624,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "400+",
-  "officialUrl": "www.ama.edu/",
+  "officialUrl": "https://www.ama.edu/",
   "detailKey": "unit-475714"
  },
  {
@@ -8643,7 +8643,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,575",
   "tuitionOutState": "$13,575",
   "undergradsCount": "4800+",
-  "officialUrl": "www.agmu.edu/",
+  "officialUrl": "https://www.agmu.edu/",
   "detailKey": "unit-483595"
  },
  {
@@ -8662,7 +8662,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,400",
   "tuitionOutState": "$13,400",
   "undergradsCount": "300+",
-  "officialUrl": "www.antigua.edu/",
+  "officialUrl": "https://www.antigua.edu/",
   "detailKey": "unit-496636"
  },
  {
@@ -8738,7 +8738,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,895",
   "tuitionOutState": "$14,895",
   "undergradsCount": "200+",
-  "officialUrl": "www.atafl.edu/",
+  "officialUrl": "https://www.atafl.edu/",
   "detailKey": "unit-446127"
  },
  {
@@ -8757,7 +8757,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.atom.edu/",
+  "officialUrl": "https://www.atom.edu/",
   "detailKey": "unit-439446"
  },
  {
@@ -8814,7 +8814,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,198",
   "tuitionOutState": "$30,198",
   "undergradsCount": "1300+",
-  "officialUrl": "www.avemaria.edu/",
+  "officialUrl": "https://www.avemaria.edu/",
   "detailKey": "unit-446048"
  },
  {
@@ -8833,7 +8833,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,000",
   "tuitionOutState": "$15,000",
   "undergradsCount": "400+",
-  "officialUrl": "www.buf.edu/",
+  "officialUrl": "https://www.buf.edu/",
   "detailKey": "unit-132408"
  },
  {
@@ -8852,7 +8852,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,350",
   "tuitionOutState": "$34,350",
   "undergradsCount": "2200+",
-  "officialUrl": "www.barry.edu/",
+  "officialUrl": "https://www.barry.edu/",
   "detailKey": "unit-132471"
  },
  {
@@ -8909,7 +8909,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,830",
   "tuitionOutState": "$8,952",
   "undergradsCount": "24900+",
-  "officialUrl": "www.broward.edu/",
+  "officialUrl": "https://www.broward.edu/",
   "detailKey": "unit-132709"
  },
  {
@@ -8928,7 +8928,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,168",
   "tuitionOutState": "$18,168",
   "undergradsCount": "1300+",
-  "officialUrl": "www.cambridgehealth.edu/",
+  "officialUrl": "https://www.cambridgehealth.edu/",
   "detailKey": "unit-454865"
  },
  {
@@ -8985,7 +8985,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,710",
   "tuitionOutState": "$10,517",
   "undergradsCount": "5000+",
-  "officialUrl": "www.cf.edu/",
+  "officialUrl": "https://www.cf.edu/",
   "detailKey": "unit-132851"
  },
  {
@@ -9023,7 +9023,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,106",
   "tuitionOutState": "$11,994",
   "undergradsCount": "10200+",
-  "officialUrl": "www.daytonastate.edu/",
+  "officialUrl": "https://www.daytonastate.edu/",
   "detailKey": "unit-133386"
  },
  {
@@ -9137,7 +9137,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,366",
   "tuitionOutState": "$16,366",
   "undergradsCount": "1100+",
-  "officialUrl": "www.ew.edu/",
+  "officialUrl": "https://www.ew.edu/",
   "detailKey": "unit-133526"
  },
  {
@@ -9156,7 +9156,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,249",
   "tuitionOutState": "$44,249",
   "undergradsCount": "7900+",
-  "officialUrl": "daytonabeach.erau.edu/",
+  "officialUrl": "https://daytonabeach.erau.edu/",
   "detailKey": "unit-133553"
  },
  {
@@ -9175,7 +9175,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,097",
   "tuitionOutState": "$12,097",
   "undergradsCount": "9100+",
-  "officialUrl": "worldwide.erau.edu/",
+  "officialUrl": "https://worldwide.erau.edu/",
   "detailKey": "unit-426314"
  },
  {
@@ -9232,7 +9232,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.fan.edu/",
+  "officialUrl": "https://www.fan.edu/",
   "detailKey": "unit-496681"
  },
  {
@@ -9270,7 +9270,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,879",
   "tuitionOutState": "$17,324",
   "undergradsCount": "23800+",
-  "officialUrl": "www.fau.edu/",
+  "officialUrl": "https://www.fau.edu/",
   "detailKey": "unit-133669"
  },
  {
@@ -9289,7 +9289,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,360",
   "tuitionOutState": "$20,360",
   "undergradsCount": "600+",
-  "officialUrl": "www.floridacollege.edu/",
+  "officialUrl": "https://www.floridacollege.edu/",
   "detailKey": "unit-133809"
  },
  {
@@ -9346,7 +9346,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,118",
   "tuitionOutState": "$25,162",
   "undergradsCount": "13900+",
-  "officialUrl": "www.fgcu.edu/",
+  "officialUrl": "https://www.fgcu.edu/",
   "detailKey": "unit-433660"
  },
  {
@@ -9384,7 +9384,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,565",
   "tuitionOutState": "$18,964",
   "undergradsCount": "39500+",
-  "officialUrl": "www.fiu.edu/",
+  "officialUrl": "https://www.fiu.edu/",
   "detailKey": "unit-133951"
  },
  {
@@ -9403,7 +9403,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,174",
   "tuitionOutState": "$20,174",
   "undergradsCount": "1200+",
-  "officialUrl": "www.fmuniv.edu/",
+  "officialUrl": "https://www.fmuniv.edu/",
   "detailKey": "unit-133979"
  },
  {
@@ -9422,7 +9422,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,368",
   "tuitionOutState": "$17,368",
   "undergradsCount": "2400+",
-  "officialUrl": "www.fnu.edu/",
+  "officialUrl": "https://www.fnu.edu/",
   "detailKey": "unit-408844"
  },
  {
@@ -9441,7 +9441,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,940",
   "tuitionOutState": "$21,005",
   "undergradsCount": "1700+",
-  "officialUrl": "floridapoly.edu/",
+  "officialUrl": "https://floridapoly.edu/",
   "detailKey": "unit-482936"
  },
  {
@@ -9460,7 +9460,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,040",
   "tuitionOutState": "$44,040",
   "undergradsCount": "2700+",
-  "officialUrl": "www.flsouthern.edu/",
+  "officialUrl": "https://www.flsouthern.edu/",
   "detailKey": "unit-134079"
  },
  {
@@ -9498,7 +9498,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,878",
   "tuitionOutState": "$9,992",
   "undergradsCount": "19600+",
-  "officialUrl": "www.fscj.edu/",
+  "officialUrl": "https://www.fscj.edu/",
   "detailKey": "unit-133702"
  },
  {
@@ -9536,7 +9536,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,906",
   "tuitionOutState": "$26,906",
   "undergradsCount": "25800+",
-  "officialUrl": "www.fullsail.edu/",
+  "officialUrl": "https://www.fullsail.edu/",
   "detailKey": "unit-134237"
  },
  {
@@ -9555,7 +9555,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,048",
   "tuitionOutState": "$17,048",
   "undergradsCount": "1500+",
-  "officialUrl": "www.galencollege.edu/tampabay",
+  "officialUrl": "https://www.galencollege.edu/tampabay",
   "detailKey": "unit-406024"
  },
  {
@@ -9745,7 +9745,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,764",
   "tuitionOutState": "$10,201",
   "undergradsCount": "11800+",
-  "officialUrl": "www.irsc.edu/",
+  "officialUrl": "https://www.irsc.edu/",
   "detailKey": "unit-134608"
  },
  {
@@ -9783,7 +9783,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,660",
   "tuitionOutState": "$13,660",
   "undergradsCount": "100+",
-  "officialUrl": "www.jmvu.edu/",
+  "officialUrl": "https://www.jmvu.edu/",
   "detailKey": "unit-461281"
  },
  {
@@ -9802,7 +9802,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,056",
   "tuitionOutState": "$25,056",
   "undergradsCount": "17700+",
-  "officialUrl": "www.keiseruniversity.edu/",
+  "officialUrl": "https://www.keiseruniversity.edu/",
   "detailKey": "unit-135081"
  },
  {
@@ -9878,7 +9878,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,838",
   "tuitionOutState": "$9,661",
   "undergradsCount": "46200+",
-  "officialUrl": "www.mdc.edu/",
+  "officialUrl": "https://www.mdc.edu/",
   "detailKey": "unit-135717"
  },
  {
@@ -9916,7 +9916,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,778",
   "tuitionOutState": "$13,778",
   "undergradsCount": "200+",
-  "officialUrl": "www.maufl.edu/en/home",
+  "officialUrl": "https://www.maufl.edu/en/home",
   "detailKey": "unit-461883"
  },
  {
@@ -9935,7 +9935,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,916",
   "tuitionOutState": "$29,944",
   "undergradsCount": "800+",
-  "officialUrl": "www.ncf.edu/",
+  "officialUrl": "https://www.ncf.edu/",
   "detailKey": "unit-262129"
  },
  {
@@ -10030,7 +10030,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,050",
   "tuitionOutState": "$10,910",
   "undergradsCount": "22000+",
-  "officialUrl": "www.pbsc.edu/",
+  "officialUrl": "https://www.pbsc.edu/",
   "detailKey": "unit-136358"
  },
  {
@@ -10087,7 +10087,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,361",
   "tuitionOutState": "$9,460",
   "undergradsCount": "7500+",
-  "officialUrl": "www.pensacolastate.edu/",
+  "officialUrl": "https://www.pensacolastate.edu/",
   "detailKey": "unit-136473"
  },
  {
@@ -10106,7 +10106,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,694",
   "tuitionOutState": "$9,817",
   "undergradsCount": "7200+",
-  "officialUrl": "www.polk.edu/",
+  "officialUrl": "https://www.polk.edu/",
   "detailKey": "unit-136516"
  },
  {
@@ -10125,7 +10125,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,547",
   "tuitionOutState": "$14,547",
   "undergradsCount": "100+",
-  "officialUrl": "www.pupr.edu/orlando",
+  "officialUrl": "https://www.pupr.edu/orlando",
   "detailKey": "unit-456490"
  },
  {
@@ -10201,7 +10201,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,591",
   "tuitionOutState": "$9,335",
   "undergradsCount": "4400+",
-  "officialUrl": "www.sjrstate.edu/",
+  "officialUrl": "https://www.sjrstate.edu/",
   "detailKey": "unit-137281"
  },
  {
@@ -10220,7 +10220,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,000",
   "tuitionOutState": "$30,000",
   "undergradsCount": "6700+",
-  "officialUrl": "www.saintleo.edu/",
+  "officialUrl": "https://www.saintleo.edu/",
   "detailKey": "unit-137032"
  },
  {
@@ -10239,7 +10239,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.svdp.edu/",
+  "officialUrl": "https://www.svdp.edu/",
   "detailKey": "unit-136701"
  },
  {
@@ -10258,7 +10258,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,405",
   "tuitionOutState": "$10,405",
   "undergradsCount": "100+",
-  "officialUrl": "www.sanignaciouniversity.edu/",
+  "officialUrl": "https://www.sanignaciouniversity.edu/",
   "detailKey": "unit-486239"
  },
  {
@@ -10277,7 +10277,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,563",
   "tuitionOutState": "$9,189",
   "undergradsCount": "11100+",
-  "officialUrl": "www.sfcollege.edu/",
+  "officialUrl": "https://www.sfcollege.edu/",
   "detailKey": "unit-137096"
  },
  {
@@ -10296,7 +10296,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,680",
   "tuitionOutState": "$13,680",
   "undergradsCount": "0+",
-  "officialUrl": "www.schiller.edu/",
+  "officialUrl": "https://www.schiller.edu/",
   "detailKey": "unit-404338"
  },
  {
@@ -10353,7 +10353,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,165",
   "tuitionOutState": "$11,859",
   "undergradsCount": "2000+",
-  "officialUrl": "www.southflorida.edu/",
+  "officialUrl": "https://www.southflorida.edu/",
   "detailKey": "unit-137315"
  },
  {
@@ -10372,7 +10372,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "400+",
-  "officialUrl": "www.southuniversity.edu/tampa#location=Tampa, FL",
+  "officialUrl": "https://www.southuniversity.edu/tampa#location=Tampa, FL",
   "detailKey": "unit-449898"
  },
  {
@@ -10391,7 +10391,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "300+",
-  "officialUrl": "www.southuniversity.edu/west-palm-beach#location=West Palm Beach, FL",
+  "officialUrl": "https://www.southuniversity.edu/west-palm-beach#location=West Palm Beach, FL",
   "detailKey": "unit-133465"
  },
  {
@@ -10410,7 +10410,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,480",
   "tuitionOutState": "$24,480",
   "undergradsCount": "600+",
-  "officialUrl": "www.sec.edu/",
+  "officialUrl": "https://www.sec.edu/",
   "detailKey": "unit-428170"
  },
  {
@@ -10448,7 +10448,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,682",
   "tuitionOutState": "$9,286",
   "undergradsCount": "19000+",
-  "officialUrl": "www.spcollege.edu/",
+  "officialUrl": "https://www.spcollege.edu/",
   "detailKey": "unit-137078"
  },
  {
@@ -10467,7 +10467,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,500",
   "tuitionOutState": "$25,500",
   "undergradsCount": "100+",
-  "officialUrl": "www.sjvcs.edu/",
+  "officialUrl": "https://www.sjvcs.edu/",
   "detailKey": "unit-137272"
  },
  {
@@ -10486,7 +10486,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,770",
   "tuitionOutState": "$34,770",
   "undergradsCount": "2200+",
-  "officialUrl": "www.stu.edu/",
+  "officialUrl": "https://www.stu.edu/",
   "detailKey": "unit-137476"
  },
  {
@@ -10505,7 +10505,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,074",
   "tuitionOutState": "$11,595",
   "undergradsCount": "7400+",
-  "officialUrl": "www.scf.edu/",
+  "officialUrl": "https://www.scf.edu/",
   "detailKey": "unit-135391"
  },
  {
@@ -10543,7 +10543,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1100+",
-  "officialUrl": "www.strayer.edu/campus-locations/florida/tampa-east",
+  "officialUrl": "https://www.strayer.edu/campus-locations/florida/tampa-east",
   "detailKey": "unit-449038"
  },
  {
@@ -10562,7 +10562,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,026",
   "tuitionOutState": "$8,062",
   "undergradsCount": "11100+",
-  "officialUrl": "www.tsc.fl.edu/",
+  "officialUrl": "https://www.tsc.fl.edu/",
   "detailKey": "unit-137759"
  },
  {
@@ -10581,7 +10581,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,750",
   "tuitionOutState": "$16,750",
   "undergradsCount": "0+",
-  "officialUrl": "www.talmudicu.edu/",
+  "officialUrl": "https://www.talmudicu.edu/",
   "detailKey": "unit-137777"
  },
  {
@@ -10600,7 +10600,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,300",
   "tuitionOutState": "$16,300",
   "undergradsCount": "100+",
-  "officialUrl": "trinitycollege.edu/",
+  "officialUrl": "https://trinitycollege.edu/",
   "detailKey": "unit-137962"
  },
  {
@@ -10619,7 +10619,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,100",
   "tuitionOutState": "$15,100",
   "undergradsCount": "400+",
-  "officialUrl": "www.tcj.edu/",
+  "officialUrl": "https://www.tcj.edu/",
   "detailKey": "unit-137953"
  },
  {
@@ -10638,7 +10638,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,320",
   "tuitionOutState": "$10,320",
   "undergradsCount": "100+",
-  "officialUrl": "www.uinternational.edu/",
+  "officialUrl": "https://www.uinternational.edu/",
   "detailKey": "unit-486354"
  },
  {
@@ -10695,7 +10695,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,810",
   "tuitionOutState": "$9,810",
   "undergradsCount": "300+",
-  "officialUrl": "uftl.edu/",
+  "officialUrl": "https://uftl.edu/",
   "detailKey": "unit-457402"
  },
  {
@@ -10714,7 +10714,7 @@ export const COLLEGES = [
   "tuitionInState": "$62,616",
   "tuitionOutState": "$62,616",
   "undergradsCount": "12900+",
-  "officialUrl": "www.miami.edu/",
+  "officialUrl": "https://www.miami.edu/",
   "detailKey": "unit-135726"
  },
  {
@@ -10752,7 +10752,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,410",
   "tuitionOutState": "$17,324",
   "undergradsCount": "37200+",
-  "officialUrl": "www.usf.edu/",
+  "officialUrl": "https://www.usf.edu/",
   "detailKey": "unit-137351"
  },
  {
@@ -10790,7 +10790,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,360",
   "tuitionOutState": "$19,241",
   "undergradsCount": "9300+",
-  "officialUrl": "uwf.edu/",
+  "officialUrl": "https://uwf.edu/",
   "detailKey": "unit-138354"
  },
  {
@@ -10847,7 +10847,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,664",
   "tuitionOutState": "$9,576",
   "undergradsCount": "39500+",
-  "officialUrl": "valenciacollege.edu/",
+  "officialUrl": "https://valenciacollege.edu/",
   "detailKey": "unit-138187"
  },
  {
@@ -10866,7 +10866,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,992",
   "tuitionOutState": "$29,992",
   "undergradsCount": "800+",
-  "officialUrl": "www.warner.edu/",
+  "officialUrl": "https://www.warner.edu/",
   "detailKey": "unit-138275"
  },
  {
@@ -10885,7 +10885,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,770",
   "tuitionOutState": "$33,770",
   "undergradsCount": "800+",
-  "officialUrl": "www.webber.edu/",
+  "officialUrl": "https://www.webber.edu/",
   "detailKey": "unit-138293"
  },
  {
@@ -10923,7 +10923,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,050",
   "tuitionOutState": "$5,050",
   "undergradsCount": "1700+",
-  "officialUrl": "www.comfsm.fm/",
+  "officialUrl": "https://www.comfsm.fm/",
   "detailKey": "unit-243638"
  },
  {
@@ -10961,7 +10961,7 @@ export const COLLEGES = [
   "tuitionInState": "$50,604",
   "tuitionOutState": "$50,604",
   "undergradsCount": "800+",
-  "officialUrl": "www.agnesscott.edu/",
+  "officialUrl": "https://www.agnesscott.edu/",
   "detailKey": "unit-138600"
  },
  {
@@ -10999,7 +10999,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,527",
   "tuitionOutState": "$13,527",
   "undergradsCount": "700+",
-  "officialUrl": "www.aiuniv.edu/online-campus/campus-locations/atlanta",
+  "officialUrl": "https://www.aiuniv.edu/online-campus/campus-locations/atlanta",
   "detailKey": "unit-438586"
  },
  {
@@ -11037,7 +11037,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.johnmarshall.edu/",
+  "officialUrl": "https://www.johnmarshall.edu/",
   "detailKey": "unit-138929"
  },
  {
@@ -11056,7 +11056,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,414",
   "tuitionOutState": "$24,734",
   "undergradsCount": "5600+",
-  "officialUrl": "www.augusta.edu/",
+  "officialUrl": "https://www.augusta.edu/",
   "detailKey": "unit-482149"
  },
  {
@@ -11094,7 +11094,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,492",
   "tuitionOutState": "$8,492",
   "undergradsCount": "100+",
-  "officialUrl": "www.beulah.edu/",
+  "officialUrl": "https://www.beulah.edu/",
   "detailKey": "unit-139153"
  },
  {
@@ -11170,7 +11170,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,310",
   "tuitionOutState": "$28,310",
   "undergradsCount": "3600+",
-  "officialUrl": "www.cau.edu/",
+  "officialUrl": "https://www.cau.edu/",
   "detailKey": "unit-138947"
  },
  {
@@ -11189,7 +11189,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,180",
   "tuitionOutState": "$16,532",
   "undergradsCount": "4300+",
-  "officialUrl": "www.clayton.edu/",
+  "officialUrl": "https://www.clayton.edu/",
   "detailKey": "unit-139311"
  },
  {
@@ -11246,7 +11246,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ctsnet.edu/",
+  "officialUrl": "https://www.ctsnet.edu/",
   "detailKey": "unit-139348"
  },
  {
@@ -11265,7 +11265,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,898",
   "tuitionOutState": "$17,610",
   "undergradsCount": "5600+",
-  "officialUrl": "www.columbusstate.edu/",
+  "officialUrl": "https://www.columbusstate.edu/",
   "detailKey": "unit-139366"
  },
  {
@@ -11284,7 +11284,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,040",
   "tuitionOutState": "$42,040",
   "undergradsCount": "900+",
-  "officialUrl": "www.covenant.edu/",
+  "officialUrl": "https://www.covenant.edu/",
   "detailKey": "unit-139393"
  },
  {
@@ -11360,7 +11360,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,500",
   "tuitionOutState": "$25,500",
   "undergradsCount": "800+",
-  "officialUrl": "eu.edu/",
+  "officialUrl": "https://eu.edu/",
   "detailKey": "unit-139630"
  },
  {
@@ -11379,7 +11379,7 @@ export const COLLEGES = [
   "tuitionInState": "$64,280",
   "tuitionOutState": "$64,280",
   "undergradsCount": "7300+",
-  "officialUrl": "www.emory.edu/",
+  "officialUrl": "https://www.emory.edu/",
   "detailKey": "unit-139658"
  },
  {
@@ -11398,7 +11398,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,526",
   "tuitionOutState": "$16,932",
   "undergradsCount": "2700+",
-  "officialUrl": "www.fvsu.edu/",
+  "officialUrl": "https://www.fvsu.edu/",
   "detailKey": "unit-139719"
  },
  {
@@ -11417,7 +11417,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,186",
   "tuitionOutState": "$29,512",
   "undergradsCount": "5900+",
-  "officialUrl": "www.gcsu.edu/",
+  "officialUrl": "https://www.gcsu.edu/",
   "detailKey": "unit-139861"
  },
  {
@@ -11436,7 +11436,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,532",
   "tuitionOutState": "$13,844",
   "undergradsCount": "11300+",
-  "officialUrl": "www.ggc.edu/",
+  "officialUrl": "https://www.ggc.edu/",
   "detailKey": "unit-447689"
  },
  {
@@ -11455,7 +11455,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,120",
   "tuitionOutState": "$10,080",
   "undergradsCount": "4800+",
-  "officialUrl": "www.highlands.edu/",
+  "officialUrl": "https://www.highlands.edu/",
   "detailKey": "unit-139700"
  },
  {
@@ -11474,7 +11474,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,058",
   "tuitionOutState": "$34,484",
   "undergradsCount": "18800+",
-  "officialUrl": "www.gatech.edu/",
+  "officialUrl": "https://www.gatech.edu/",
   "detailKey": "unit-139755"
  },
  {
@@ -11512,7 +11512,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,022",
   "tuitionOutState": "$17,734",
   "undergradsCount": "21800+",
-  "officialUrl": "www.georgiasouthern.edu/",
+  "officialUrl": "https://www.georgiasouthern.edu/",
   "detailKey": "unit-139931"
  },
  {
@@ -11550,7 +11550,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,664",
   "tuitionOutState": "$24,840",
   "undergradsCount": "26600+",
-  "officialUrl": "www.gsu.edu/",
+  "officialUrl": "https://www.gsu.edu/",
   "detailKey": "unit-139940"
  },
  {
@@ -11607,7 +11607,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.itc.edu/",
+  "officialUrl": "https://www.itc.edu/",
   "detailKey": "unit-140146"
  },
  {
@@ -11626,7 +11626,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,808",
   "tuitionOutState": "$17,736",
   "undergradsCount": "41300+",
-  "officialUrl": "www.kennesaw.edu/",
+  "officialUrl": "https://www.kennesaw.edu/",
   "detailKey": "unit-486840"
  },
  {
@@ -11664,7 +11664,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,036",
   "tuitionOutState": "$15,036",
   "undergradsCount": "900+",
-  "officialUrl": "www.life.edu/",
+  "officialUrl": "https://www.life.edu/",
   "detailKey": "unit-140252"
  },
  {
@@ -11683,7 +11683,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,320",
   "tuitionOutState": "$11,320",
   "undergradsCount": "200+",
-  "officialUrl": "www.lutherrice.edu/",
+  "officialUrl": "https://www.lutherrice.edu/",
   "detailKey": "unit-135364"
  },
  {
@@ -11740,7 +11740,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,893",
   "tuitionOutState": "$32,893",
   "undergradsCount": "2800+",
-  "officialUrl": "www.morehouse.edu/",
+  "officialUrl": "https://www.morehouse.edu/",
   "detailKey": "unit-140553"
  },
  {
@@ -11759,7 +11759,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.msm.edu/",
+  "officialUrl": "https://www.msm.edu/",
   "detailKey": "unit-140562"
  },
  {
@@ -11816,7 +11816,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,596",
   "tuitionOutState": "$14,596",
   "undergradsCount": "400+",
-  "officialUrl": "www.paine.edu/",
+  "officialUrl": "https://www.paine.edu/",
   "detailKey": "unit-140720"
  },
  {
@@ -11854,7 +11854,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,000",
   "tuitionOutState": "$24,000",
   "undergradsCount": "2000+",
-  "officialUrl": "point.edu/",
+  "officialUrl": "https://point.edu/",
   "detailKey": "unit-138868"
  },
  {
@@ -11892,7 +11892,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,630",
   "tuitionOutState": "$41,630",
   "undergradsCount": "15200+",
-  "officialUrl": "www.scad.edu/",
+  "officialUrl": "https://www.scad.edu/",
   "detailKey": "unit-140951"
  },
  {
@@ -11949,7 +11949,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,314",
   "tuitionOutState": "$10,274",
   "undergradsCount": "1500+",
-  "officialUrl": "www.sgsc.edu/",
+  "officialUrl": "https://www.sgsc.edu/",
   "detailKey": "unit-482699"
  },
  {
@@ -11968,7 +11968,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "6400+",
-  "officialUrl": "www.southuniversity.edu/online#location=Online Programs",
+  "officialUrl": "https://www.southuniversity.edu/online#location=Online Programs",
   "detailKey": "unit-475121"
  },
  {
@@ -11987,7 +11987,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "300+",
-  "officialUrl": "www.southuniversity.edu/savannah#location=Savannah, GA",
+  "officialUrl": "https://www.southuniversity.edu/savannah#location=Savannah, GA",
   "detailKey": "unit-139579"
  },
  {
@@ -12006,7 +12006,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,556",
   "tuitionOutState": "$31,556",
   "undergradsCount": "3400+",
-  "officialUrl": "www.spelman.edu/",
+  "officialUrl": "https://www.spelman.edu/",
   "detailKey": "unit-141060"
  },
  {
@@ -12025,7 +12025,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "4300+",
-  "officialUrl": "www.strayer.edu/campus-locations/georgia/chamblee",
+  "officialUrl": "https://www.strayer.edu/campus-locations/georgia/chamblee",
   "detailKey": "unit-458919"
  },
  {
@@ -12044,7 +12044,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,640",
   "tuitionOutState": "$11,640",
   "undergradsCount": "1000+",
-  "officialUrl": "www.thomasu.edu/",
+  "officialUrl": "https://www.thomasu.edu/",
   "detailKey": "unit-141167"
  },
  {
@@ -12101,7 +12101,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,450",
   "tuitionOutState": "$31,688",
   "undergradsCount": "32100+",
-  "officialUrl": "www.uga.edu/",
+  "officialUrl": "https://www.uga.edu/",
   "detailKey": "unit-139959"
  },
  {
@@ -12120,7 +12120,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,285",
   "tuitionOutState": "$16,503",
   "undergradsCount": "16100+",
-  "officialUrl": "www.ung.edu/",
+  "officialUrl": "https://www.ung.edu/",
   "detailKey": "unit-482680"
  },
  {
@@ -12139,7 +12139,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,088",
   "tuitionOutState": "$17,800",
   "undergradsCount": "7500+",
-  "officialUrl": "www.westga.edu/",
+  "officialUrl": "https://www.westga.edu/",
   "detailKey": "unit-141334"
  },
  {
@@ -12158,7 +12158,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,124",
   "tuitionOutState": "$17,836",
   "undergradsCount": "6600+",
-  "officialUrl": "www.valdosta.edu/",
+  "officialUrl": "https://www.valdosta.edu/",
   "detailKey": "unit-141264"
  },
  {
@@ -12196,7 +12196,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,305",
   "tuitionOutState": "$32,305",
   "undergradsCount": "800+",
-  "officialUrl": "www.yhc.edu/",
+  "officialUrl": "https://www.yhc.edu/",
   "detailKey": "unit-141361"
  },
  {
@@ -12215,7 +12215,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,203",
   "tuitionOutState": "$7,516",
   "undergradsCount": "100+",
-  "officialUrl": "www.piu.edu/",
+  "officialUrl": "https://www.piu.edu/",
   "detailKey": "unit-439862"
  },
  {
@@ -12253,7 +12253,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,630",
   "tuitionOutState": "$6,630",
   "undergradsCount": "2900+",
-  "officialUrl": "www.byuh.edu/",
+  "officialUrl": "https://www.byuh.edu/",
   "detailKey": "unit-230047"
  },
  {
@@ -12310,7 +12310,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.orientalmedicine.edu/",
+  "officialUrl": "https://www.orientalmedicine.edu/",
   "detailKey": "unit-444699"
  },
  {
@@ -12386,7 +12386,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,284",
   "tuitionOutState": "$8,420",
   "undergradsCount": "1700+",
-  "officialUrl": "maui.hawaii.edu/",
+  "officialUrl": "https://maui.hawaii.edu/",
   "detailKey": "unit-141839"
  },
  {
@@ -12424,7 +12424,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.allencollege.edu/",
+  "officialUrl": "https://www.allencollege.edu/",
   "detailKey": "unit-152798"
  },
  {
@@ -12443,7 +12443,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,956",
   "tuitionOutState": "$36,956",
   "undergradsCount": "600+",
-  "officialUrl": "www.briarcliff.edu/",
+  "officialUrl": "https://www.briarcliff.edu/",
   "detailKey": "unit-152992"
  },
  {
@@ -12481,7 +12481,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,988",
   "tuitionOutState": "$20,988",
   "undergradsCount": "1100+",
-  "officialUrl": "www.central.edu/",
+  "officialUrl": "https://www.central.edu/",
   "detailKey": "unit-153108"
  },
  {
@@ -12500,7 +12500,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,910",
   "tuitionOutState": "$40,910",
   "undergradsCount": "700+",
-  "officialUrl": "www.clarke.edu/",
+  "officialUrl": "https://www.clarke.edu/",
   "detailKey": "unit-153126"
  },
  {
@@ -12519,7 +12519,7 @@ export const COLLEGES = [
   "tuitionInState": "$54,666",
   "tuitionOutState": "$54,666",
   "undergradsCount": "1200+",
-  "officialUrl": "www.coe.edu/",
+  "officialUrl": "https://www.coe.edu/",
   "detailKey": "unit-153144"
  },
  {
@@ -12557,7 +12557,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.dmu.edu/",
+  "officialUrl": "https://www.dmu.edu/",
   "detailKey": "unit-154156"
  },
  {
@@ -12576,7 +12576,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,600",
   "tuitionOutState": "$15,600",
   "undergradsCount": "100+",
-  "officialUrl": "www.dwci.edu/",
+  "officialUrl": "https://www.dwci.edu/",
   "detailKey": "unit-153241"
  },
  {
@@ -12614,7 +12614,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,130",
   "tuitionOutState": "$52,130",
   "undergradsCount": "2500+",
-  "officialUrl": "www.drake.edu/",
+  "officialUrl": "https://www.drake.edu/",
   "detailKey": "unit-153269"
  },
  {
@@ -12671,7 +12671,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,950",
   "tuitionOutState": "$20,950",
   "undergradsCount": "800+",
-  "officialUrl": "www.graceland.edu/",
+  "officialUrl": "https://www.graceland.edu/",
   "detailKey": "unit-153366"
  },
  {
@@ -12690,7 +12690,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,762",
   "tuitionOutState": "$34,762",
   "undergradsCount": "1500+",
-  "officialUrl": "www.grandview.edu/",
+  "officialUrl": "https://www.grandview.edu/",
   "detailKey": "unit-153375"
  },
  {
@@ -12709,7 +12709,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,106",
   "tuitionOutState": "$68,106",
   "undergradsCount": "1700+",
-  "officialUrl": "www.grinnell.edu/",
+  "officialUrl": "https://www.grinnell.edu/",
   "detailKey": "unit-153384"
  },
  {
@@ -12842,7 +12842,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,878",
   "tuitionOutState": "$40,878",
   "undergradsCount": "1100+",
-  "officialUrl": "www.mtmercy.edu/",
+  "officialUrl": "https://www.mtmercy.edu/",
   "detailKey": "unit-154013"
  },
  {
@@ -12880,7 +12880,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,600",
   "tuitionOutState": "$15,600",
   "undergradsCount": "0+",
-  "officialUrl": "orion.edu/",
+  "officialUrl": "https://orion.edu/",
   "detailKey": "unit-153427"
  },
  {
@@ -12899,7 +12899,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.palmer.edu/",
+  "officialUrl": "https://www.palmer.edu/",
   "detailKey": "unit-154174"
  },
  {
@@ -12918,7 +12918,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,658",
   "tuitionOutState": "$36,658",
   "undergradsCount": "1900+",
-  "officialUrl": "www.sau.edu/",
+  "officialUrl": "https://www.sau.edu/",
   "detailKey": "unit-154235"
  },
  {
@@ -12937,7 +12937,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,656",
   "tuitionOutState": "$47,656",
   "undergradsCount": "1200+",
-  "officialUrl": "simpson.edu/",
+  "officialUrl": "https://simpson.edu/",
   "detailKey": "unit-154350"
  },
  {
@@ -12956,7 +12956,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,175",
   "tuitionOutState": "$24,175",
   "undergradsCount": "200+",
-  "officialUrl": "www.stlukescollege.edu/",
+  "officialUrl": "https://www.stlukescollege.edu/",
   "detailKey": "unit-154262"
  },
  {
@@ -12975,7 +12975,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,095",
   "tuitionOutState": "$42,095",
   "undergradsCount": "1400+",
-  "officialUrl": "www.dbq.edu/",
+  "officialUrl": "https://www.dbq.edu/",
   "detailKey": "unit-153278"
  },
  {
@@ -13051,7 +13051,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,978",
   "tuitionOutState": "$25,978",
   "undergradsCount": "1800+",
-  "officialUrl": "www.waldorf.edu/",
+  "officialUrl": "https://www.waldorf.edu/",
   "detailKey": "unit-154518"
  },
  {
@@ -13184,7 +13184,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,845",
   "tuitionOutState": "$37,845",
   "undergradsCount": "1000+",
-  "officialUrl": "www.collegeofidaho.edu/",
+  "officialUrl": "https://www.collegeofidaho.edu/",
   "detailKey": "unit-142294"
  },
  {
@@ -13260,7 +13260,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,610",
   "tuitionOutState": "$27,720",
   "undergradsCount": "7600+",
-  "officialUrl": "www.isu.edu/",
+  "officialUrl": "https://www.isu.edu/",
   "detailKey": "unit-142276"
  },
  {
@@ -13298,7 +13298,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,800",
   "tuitionOutState": "$16,800",
   "undergradsCount": "300+",
-  "officialUrl": "nsa.edu/",
+  "officialUrl": "https://nsa.edu/",
   "detailKey": "unit-440396"
  },
  {
@@ -13336,7 +13336,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,084",
   "tuitionOutState": "$28,320",
   "undergradsCount": "7700+",
-  "officialUrl": "www.uidaho.edu/",
+  "officialUrl": "https://www.uidaho.edu/",
   "detailKey": "unit-142285"
  },
  {
@@ -13374,7 +13374,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,650",
   "tuitionOutState": "$7,650",
   "undergradsCount": "0+",
-  "officialUrl": "aicusa.edu/",
+  "officialUrl": "https://aicusa.edu/",
   "detailKey": "unit-142957"
  },
  {
@@ -13393,7 +13393,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,598",
   "tuitionOutState": "$51,598",
   "undergradsCount": "2500+",
-  "officialUrl": "www.augustana.edu/",
+  "officialUrl": "https://www.augustana.edu/",
   "detailKey": "unit-143084"
  },
  {
@@ -13450,7 +13450,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.bexleyseabury.edu/",
+  "officialUrl": "https://www.bexleyseabury.edu/",
   "detailKey": "unit-443702"
  },
  {
@@ -13469,7 +13469,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,149",
   "tuitionOutState": "$28,149",
   "undergradsCount": "500+",
-  "officialUrl": "www.blackburn.edu/",
+  "officialUrl": "https://www.blackburn.edu/",
   "detailKey": "unit-143288"
  },
  {
@@ -13488,7 +13488,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.brcn.edu/",
+  "officialUrl": "https://www.brcn.edu/",
   "detailKey": "unit-143297"
  },
  {
@@ -13507,7 +13507,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,160",
   "tuitionOutState": "$42,160",
   "undergradsCount": "3600+",
-  "officialUrl": "www.bradley.edu/",
+  "officialUrl": "https://www.bradley.edu/",
   "detailKey": "unit-143358"
  },
  {
@@ -13526,7 +13526,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ctu.edu/",
+  "officialUrl": "https://www.ctu.edu/",
   "detailKey": "unit-143659"
  },
  {
@@ -13602,7 +13602,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,754",
   "tuitionOutState": "$12,754",
   "undergradsCount": "1400+",
-  "officialUrl": "www.csu.edu/",
+  "officialUrl": "https://www.csu.edu/",
   "detailKey": "unit-144005"
  },
  {
@@ -13640,7 +13640,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,088",
   "tuitionOutState": "$34,088",
   "undergradsCount": "5400+",
-  "officialUrl": "www.colum.edu/",
+  "officialUrl": "https://www.colum.edu/",
   "detailKey": "unit-144281"
  },
  {
@@ -13735,7 +13735,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,395",
   "tuitionOutState": "$25,395",
   "undergradsCount": "500+",
-  "officialUrl": "www.eastwest.edu/",
+  "officialUrl": "https://www.eastwest.edu/",
   "detailKey": "unit-144883"
  },
  {
@@ -13773,7 +13773,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,955",
   "tuitionOutState": "$42,955",
   "undergradsCount": "3000+",
-  "officialUrl": "www.elmhurst.edu/",
+  "officialUrl": "https://www.elmhurst.edu/",
   "detailKey": "unit-144962"
  },
  {
@@ -13830,7 +13830,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,096",
   "tuitionOutState": "$29,096",
   "undergradsCount": "500+",
-  "officialUrl": "www.eureka.edu/",
+  "officialUrl": "https://www.eureka.edu/",
   "detailKey": "unit-144971"
  },
  {
@@ -13849,7 +13849,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.garrett.edu/",
+  "officialUrl": "https://www.garrett.edu/",
   "detailKey": "unit-145275"
  },
  {
@@ -13887,7 +13887,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,200",
   "tuitionOutState": "$32,200",
   "undergradsCount": "1000+",
-  "officialUrl": "www.greenville.edu/",
+  "officialUrl": "https://www.greenville.edu/",
   "detailKey": "unit-145372"
  },
  {
@@ -13925,7 +13925,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,676",
   "tuitionOutState": "$38,676",
   "undergradsCount": "900+",
-  "officialUrl": "www.ic.edu/",
+  "officialUrl": "https://www.ic.edu/",
   "detailKey": "unit-145691"
  },
  {
@@ -13944,7 +13944,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ico.edu/",
+  "officialUrl": "https://www.ico.edu/",
   "detailKey": "unit-145628"
  },
  {
@@ -13982,7 +13982,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,144",
   "tuitionOutState": "$28,210",
   "undergradsCount": "19100+",
-  "officialUrl": "illinoisstate.edu/",
+  "officialUrl": "https://illinoisstate.edu/",
   "detailKey": "unit-145813"
  },
  {
@@ -14001,7 +14001,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,704",
   "tuitionOutState": "$57,704",
   "undergradsCount": "1600+",
-  "officialUrl": "www.iwu.edu/",
+  "officialUrl": "https://www.iwu.edu/",
   "detailKey": "unit-145646"
  },
  {
@@ -14020,7 +14020,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.icsw.edu/",
+  "officialUrl": "https://www.icsw.edu/",
   "detailKey": "unit-145886"
  },
  {
@@ -14039,7 +14039,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,360",
   "tuitionOutState": "$31,360",
   "undergradsCount": "700+",
-  "officialUrl": "www.judsonu.edu/",
+  "officialUrl": "https://www.judsonu.edu/",
   "detailKey": "unit-146339"
  },
  {
@@ -14077,7 +14077,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,402",
   "tuitionOutState": "$56,402",
   "undergradsCount": "1800+",
-  "officialUrl": "www.lakeforest.edu/",
+  "officialUrl": "https://www.lakeforest.edu/",
   "detailKey": "unit-146481"
  },
  {
@@ -14134,7 +14134,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,200",
   "tuitionOutState": "$39,200",
   "undergradsCount": "4000+",
-  "officialUrl": "www.lewisu.edu/",
+  "officialUrl": "https://www.lewisu.edu/",
   "detailKey": "unit-146612"
  },
  {
@@ -14172,7 +14172,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.lstc.edu/",
+  "officialUrl": "https://www.lstc.edu/",
   "detailKey": "unit-146728"
  },
  {
@@ -14229,7 +14229,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.meadville.edu/",
+  "officialUrl": "https://www.meadville.edu/",
   "detailKey": "unit-147031"
  },
  {
@@ -14248,7 +14248,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,008",
   "tuitionOutState": "$18,008",
   "undergradsCount": "200+",
-  "officialUrl": "www.methodistcol.edu/",
+  "officialUrl": "https://www.methodistcol.edu/",
   "detailKey": "unit-147129"
  },
  {
@@ -14267,7 +14267,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.acupuncture.edu/",
+  "officialUrl": "https://www.acupuncture.edu/",
   "detailKey": "unit-439020"
  },
  {
@@ -14400,7 +14400,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,726",
   "tuitionOutState": "$45,726",
   "undergradsCount": "2400+",
-  "officialUrl": "northcentralcollege.edu/",
+  "officialUrl": "https://northcentralcollege.edu/",
   "detailKey": "unit-147660"
  },
  {
@@ -14419,7 +14419,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,710",
   "tuitionOutState": "$36,710",
   "undergradsCount": "1800+",
-  "officialUrl": "www.northpark.edu/",
+  "officialUrl": "https://www.northpark.edu/",
   "detailKey": "unit-147679"
  },
  {
@@ -14438,7 +14438,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,383",
   "tuitionOutState": "$22,726",
   "undergradsCount": "4000+",
-  "officialUrl": "www.neiu.edu/",
+  "officialUrl": "https://www.neiu.edu/",
   "detailKey": "unit-147776"
  },
  {
@@ -14457,7 +14457,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.seminary.edu/",
+  "officialUrl": "https://www.seminary.edu/",
   "detailKey": "unit-147697"
  },
  {
@@ -14476,7 +14476,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,248",
   "tuitionOutState": "$13,248",
   "undergradsCount": "11300+",
-  "officialUrl": "www.niu.edu/",
+  "officialUrl": "https://www.niu.edu/",
   "detailKey": "unit-147703"
  },
  {
@@ -14495,7 +14495,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,322",
   "tuitionOutState": "$68,322",
   "undergradsCount": "9200+",
-  "officialUrl": "www.northwestern.edu/",
+  "officialUrl": "https://www.northwestern.edu/",
   "detailKey": "unit-147767"
  },
  {
@@ -14533,7 +14533,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,680",
   "tuitionOutState": "$34,680",
   "undergradsCount": "300+",
-  "officialUrl": "www.principiacollege.edu/",
+  "officialUrl": "https://www.principiacollege.edu/",
   "detailKey": "unit-148016"
  },
  {
@@ -14571,7 +14571,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,780",
   "tuitionOutState": "$37,780",
   "undergradsCount": "1000+",
-  "officialUrl": "www.rockford.edu/",
+  "officialUrl": "https://www.rockford.edu/",
   "detailKey": "unit-148405"
  },
  {
@@ -14590,7 +14590,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,315",
   "tuitionOutState": "$21,315",
   "undergradsCount": "2800+",
-  "officialUrl": "www.roosevelt.edu/",
+  "officialUrl": "https://www.roosevelt.edu/",
   "detailKey": "unit-148487"
  },
  {
@@ -14609,7 +14609,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.rosalindfranklin.edu/",
+  "officialUrl": "https://www.rosalindfranklin.edu/",
   "detailKey": "unit-145558"
  },
  {
@@ -14628,7 +14628,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.rushu.rush.edu/",
+  "officialUrl": "https://www.rushu.rush.edu/",
   "detailKey": "unit-148511"
  },
  {
@@ -14666,7 +14666,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.sfmccon.edu/",
+  "officialUrl": "https://www.sfmccon.edu/",
   "detailKey": "unit-148575"
  },
  {
@@ -14704,7 +14704,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,420",
   "tuitionOutState": "$56,420",
   "undergradsCount": "2800+",
-  "officialUrl": "www.saic.edu/",
+  "officialUrl": "https://www.saic.edu/",
   "detailKey": "unit-143048"
  },
  {
@@ -14723,7 +14723,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,922",
   "tuitionOutState": "$12,922",
   "undergradsCount": "8800+",
-  "officialUrl": "www.siue.edu/",
+  "officialUrl": "https://www.siue.edu/",
   "detailKey": "unit-149231"
  },
  {
@@ -14761,7 +14761,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.spertus.edu/",
+  "officialUrl": "https://www.spertus.edu/",
   "detailKey": "unit-148982"
  },
  {
@@ -14818,7 +14818,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ttic.edu/",
+  "officialUrl": "https://www.ttic.edu/",
   "detailKey": "unit-445054"
  },
  {
@@ -14837,7 +14837,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,605",
   "tuitionOutState": "$20,605",
   "undergradsCount": "800+",
-  "officialUrl": "www.trnty.edu/",
+  "officialUrl": "https://www.trnty.edu/",
   "detailKey": "unit-149505"
  },
  {
@@ -14856,7 +14856,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.trinitycollegeqc.edu/",
+  "officialUrl": "https://www.trinitycollegeqc.edu/",
   "detailKey": "unit-146755"
  },
  {
@@ -14894,7 +14894,7 @@ export const COLLEGES = [
   "tuitionInState": "$70,662",
   "tuitionOutState": "$70,662",
   "undergradsCount": "7600+",
-  "officialUrl": "www.uchicago.edu/",
+  "officialUrl": "https://www.uchicago.edu/",
   "detailKey": "unit-144050"
  },
  {
@@ -14913,7 +14913,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,338",
   "tuitionOutState": "$29,884",
   "undergradsCount": "22200+",
-  "officialUrl": "www.uic.edu/",
+  "officialUrl": "https://www.uic.edu/",
   "detailKey": "unit-145600"
  },
  {
@@ -14932,7 +14932,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,252",
   "tuitionOutState": "$22,017",
   "undergradsCount": "2300+",
-  "officialUrl": "www.uis.edu/",
+  "officialUrl": "https://www.uis.edu/",
   "detailKey": "unit-148654"
  },
  {
@@ -14951,7 +14951,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,004",
   "tuitionOutState": "$35,124",
   "undergradsCount": "36300+",
-  "officialUrl": "www.illinois.edu/",
+  "officialUrl": "https://www.illinois.edu/",
   "detailKey": "unit-145637"
  },
  {
@@ -15027,7 +15027,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,264",
   "tuitionOutState": "$15,264",
   "undergradsCount": "4400+",
-  "officialUrl": "www.wiu.edu/",
+  "officialUrl": "https://www.wiu.edu/",
   "detailKey": "unit-149772"
  },
  {
@@ -15046,7 +15046,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,546",
   "tuitionOutState": "$45,546",
   "undergradsCount": "2100+",
-  "officialUrl": "www.wheaton.edu/",
+  "officialUrl": "https://www.wheaton.edu/",
   "detailKey": "unit-149781"
  },
  {
@@ -15065,7 +15065,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "400+",
-  "officialUrl": "www.ace.edu/",
+  "officialUrl": "https://www.ace.edu/",
   "detailKey": "unit-449889"
  },
  {
@@ -15084,7 +15084,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ambs.edu/",
+  "officialUrl": "https://www.ambs.edu/",
   "detailKey": "unit-151865"
  },
  {
@@ -15141,7 +15141,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.bethanyseminary.edu/",
+  "officialUrl": "https://www.bethanyseminary.edu/",
   "detailKey": "unit-143233"
  },
  {
@@ -15179,7 +15179,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,560",
   "tuitionOutState": "$47,560",
   "undergradsCount": "4300+",
-  "officialUrl": "www.butler.edu/",
+  "officialUrl": "https://www.butler.edu/",
   "detailKey": "unit-150163"
  },
  {
@@ -15198,7 +15198,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,850",
   "tuitionOutState": "$23,850",
   "undergradsCount": "500+",
-  "officialUrl": "www.ccsj.edu/",
+  "officialUrl": "https://www.ccsj.edu/",
   "detailKey": "unit-150172"
  },
  {
@@ -15236,7 +15236,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.cts.edu/",
+  "officialUrl": "https://www.cts.edu/",
   "detailKey": "unit-150215"
  },
  {
@@ -15274,7 +15274,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,070",
   "tuitionOutState": "$59,070",
   "undergradsCount": "1900+",
-  "officialUrl": "www.depauw.edu/",
+  "officialUrl": "https://www.depauw.edu/",
   "detailKey": "unit-150400"
  },
  {
@@ -15312,7 +15312,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,710",
   "tuitionOutState": "$38,710",
   "undergradsCount": "900+",
-  "officialUrl": "www.franklincollege.edu/",
+  "officialUrl": "https://www.franklincollege.edu/",
   "detailKey": "unit-150604"
  },
  {
@@ -15331,7 +15331,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,890",
   "tuitionOutState": "$38,890",
   "undergradsCount": "800+",
-  "officialUrl": "www.goshen.edu/",
+  "officialUrl": "https://www.goshen.edu/",
   "detailKey": "unit-150668"
  },
  {
@@ -15350,7 +15350,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,200",
   "tuitionOutState": "$31,200",
   "undergradsCount": "1500+",
-  "officialUrl": "www.grace.edu/",
+  "officialUrl": "https://www.grace.edu/",
   "detailKey": "unit-150677"
  },
  {
@@ -15369,7 +15369,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,638",
   "tuitionOutState": "$44,638",
   "undergradsCount": "1000+",
-  "officialUrl": "www.hanover.edu/",
+  "officialUrl": "https://www.hanover.edu/",
   "detailKey": "unit-150756"
  },
  {
@@ -15388,7 +15388,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,600",
   "tuitionOutState": "$36,600",
   "undergradsCount": "600+",
-  "officialUrl": "www.hcc-nd.edu/",
+  "officialUrl": "https://www.hcc-nd.edu/",
   "detailKey": "unit-150774"
  },
  {
@@ -15407,7 +15407,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,840",
   "tuitionOutState": "$9,840",
   "undergradsCount": "100+",
-  "officialUrl": "www.horizonuniversity.edu/",
+  "officialUrl": "https://www.horizonuniversity.edu/",
   "detailKey": "unit-457226"
  },
  {
@@ -15426,7 +15426,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,870",
   "tuitionOutState": "$31,870",
   "undergradsCount": "1100+",
-  "officialUrl": "www.huntington.edu/",
+  "officialUrl": "https://www.huntington.edu/",
   "detailKey": "unit-150941"
  },
  {
@@ -15445,7 +15445,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,361",
   "tuitionOutState": "$31,361",
   "undergradsCount": "1400+",
-  "officialUrl": "www.indianatech.edu/",
+  "officialUrl": "https://www.indianatech.edu/",
   "detailKey": "unit-151290"
  },
  {
@@ -15464,7 +15464,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,896",
   "tuitionOutState": "$9,896",
   "undergradsCount": "2700+",
-  "officialUrl": "cps.indianatech.edu/",
+  "officialUrl": "https://cps.indianatech.edu/",
   "detailKey": "unit-492962"
  },
  {
@@ -15749,7 +15749,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,000",
   "tuitionOutState": "$19,000",
   "undergradsCount": "300+",
-  "officialUrl": "www.mid-america.edu/",
+  "officialUrl": "https://www.mid-america.edu/",
   "detailKey": "unit-151962"
  },
  {
@@ -15768,7 +15768,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,900",
   "tuitionOutState": "$27,900",
   "undergradsCount": "500+",
-  "officialUrl": "www.oak.edu/",
+  "officialUrl": "https://www.oak.edu/",
   "detailKey": "unit-152099"
  },
  {
@@ -15806,7 +15806,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,532",
   "tuitionOutState": "$22,887",
   "undergradsCount": "5500+",
-  "officialUrl": "www.pfw.edu/",
+  "officialUrl": "https://www.pfw.edu/",
   "detailKey": "unit-151102"
  },
  {
@@ -15825,7 +15825,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,675",
   "tuitionOutState": "$16,094",
   "undergradsCount": "5700+",
-  "officialUrl": "www.pnw.edu/",
+  "officialUrl": "https://www.pnw.edu/",
   "detailKey": "unit-490805"
  },
  {
@@ -15863,7 +15863,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,270",
   "tuitionOutState": "$35,270",
   "undergradsCount": "900+",
-  "officialUrl": "www.smwc.edu/",
+  "officialUrl": "https://www.smwc.edu/",
   "detailKey": "unit-152381"
  },
  {
@@ -15939,7 +15939,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,560",
   "tuitionOutState": "$36,560",
   "undergradsCount": "2300+",
-  "officialUrl": "www.trine.edu/",
+  "officialUrl": "https://www.trine.edu/",
   "detailKey": "unit-152567"
  },
  {
@@ -15958,7 +15958,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,176",
   "tuitionOutState": "$7,176",
   "undergradsCount": "600+",
-  "officialUrl": "trine.edu/online/index.aspx",
+  "officialUrl": "https://trine.edu/online/index.aspx",
   "detailKey": "unit-414878"
  },
  {
@@ -16034,7 +16034,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,025",
   "tuitionOutState": "$65,025",
   "undergradsCount": "8800+",
-  "officialUrl": "www.nd.edu/",
+  "officialUrl": "https://www.nd.edu/",
   "detailKey": "unit-152080"
  },
  {
@@ -16072,7 +16072,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,066",
   "tuitionOutState": "$22,907",
   "undergradsCount": "5300+",
-  "officialUrl": "www.usi.edu/",
+  "officialUrl": "https://www.usi.edu/",
   "detailKey": "unit-151306"
  },
  {
@@ -16110,7 +16110,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,522",
   "tuitionOutState": "$10,522",
   "undergradsCount": "100+",
-  "officialUrl": "www.vbc.edu/",
+  "officialUrl": "https://www.vbc.edu/",
   "detailKey": "unit-482228"
  },
  {
@@ -16148,7 +16148,7 @@ export const COLLEGES = [
   "tuitionInState": "$50,800",
   "tuitionOutState": "$50,800",
   "undergradsCount": "900+",
-  "officialUrl": "www.wabash.edu/",
+  "officialUrl": "https://www.wabash.edu/",
   "detailKey": "unit-152673"
  },
  {
@@ -16186,7 +16186,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,590",
   "tuitionOutState": "$24,590",
   "undergradsCount": "200+",
-  "officialUrl": "www.barclaycollege.edu/",
+  "officialUrl": "https://www.barclaycollege.edu/",
   "detailKey": "unit-155070"
  },
  {
@@ -16205,7 +16205,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,350",
   "tuitionOutState": "$36,350",
   "undergradsCount": "2300+",
-  "officialUrl": "www.benedictine.edu/",
+  "officialUrl": "https://www.benedictine.edu/",
   "detailKey": "unit-154712"
  },
  {
@@ -16243,7 +16243,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,014",
   "tuitionOutState": "$35,014",
   "undergradsCount": "500+",
-  "officialUrl": "www.bethelks.edu/",
+  "officialUrl": "https://www.bethelks.edu/",
   "detailKey": "unit-154749"
  },
  {
@@ -16281,7 +16281,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,400",
   "tuitionOutState": "$14,400",
   "undergradsCount": "100+",
-  "officialUrl": "www.cleveland.edu/",
+  "officialUrl": "https://www.cleveland.edu/",
   "detailKey": "unit-177038"
  },
  {
@@ -16300,7 +16300,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,440",
   "tuitionOutState": "$10,440",
   "undergradsCount": "400+",
-  "officialUrl": "www.donnelly.edu/",
+  "officialUrl": "https://www.donnelly.edu/",
   "detailKey": "unit-155007"
  },
  {
@@ -16319,7 +16319,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,106",
   "tuitionOutState": "$15,419",
   "undergradsCount": "2200+",
-  "officialUrl": "www.emporia.edu/",
+  "officialUrl": "https://www.emporia.edu/",
   "detailKey": "unit-155025"
  },
  {
@@ -16338,7 +16338,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,923",
   "tuitionOutState": "$17,741",
   "undergradsCount": "9700+",
-  "officialUrl": "www.fhsu.edu/",
+  "officialUrl": "https://www.fhsu.edu/",
   "detailKey": "unit-155061"
  },
  {
@@ -16357,7 +16357,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,192",
   "tuitionOutState": "$34,192",
   "undergradsCount": "1000+",
-  "officialUrl": "www.friends.edu/",
+  "officialUrl": "https://www.friends.edu/",
   "detailKey": "unit-155089"
  },
  {
@@ -16376,7 +16376,7 @@ export const COLLEGES = [
   "tuitionInState": "$600",
   "tuitionOutState": "$600",
   "undergradsCount": "1000+",
-  "officialUrl": "www.haskell.edu/",
+  "officialUrl": "https://www.haskell.edu/",
   "detailKey": "unit-155140"
  },
  {
@@ -16395,7 +16395,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,936",
   "tuitionOutState": "$32,936",
   "undergradsCount": "400+",
-  "officialUrl": "www.hesston.edu/",
+  "officialUrl": "https://www.hesston.edu/",
   "detailKey": "unit-155177"
  },
  {
@@ -16433,7 +16433,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,221",
   "tuitionOutState": "$28,568",
   "undergradsCount": "15100+",
-  "officialUrl": "www.k-state.edu/",
+  "officialUrl": "https://www.k-state.edu/",
   "detailKey": "unit-155399"
  },
  {
@@ -16452,7 +16452,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,630",
   "tuitionOutState": "$34,630",
   "undergradsCount": "1000+",
-  "officialUrl": "www.kwu.edu/",
+  "officialUrl": "https://www.kwu.edu/",
   "detailKey": "unit-155414"
  },
  {
@@ -16471,7 +16471,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,126",
   "tuitionOutState": "$19,126",
   "undergradsCount": "100+",
-  "officialUrl": "www.mccks.edu/",
+  "officialUrl": "https://www.mccks.edu/",
   "detailKey": "unit-155496"
  },
  {
@@ -16490,7 +16490,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,310",
   "tuitionOutState": "$37,310",
   "undergradsCount": "900+",
-  "officialUrl": "www.mcpherson.edu/",
+  "officialUrl": "https://www.mcpherson.edu/",
   "detailKey": "unit-155511"
  },
  {
@@ -16528,7 +16528,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,500",
   "tuitionOutState": "$35,500",
   "undergradsCount": "900+",
-  "officialUrl": "www.newmanu.edu/",
+  "officialUrl": "https://www.newmanu.edu/",
   "detailKey": "unit-155335"
  },
  {
@@ -16547,7 +16547,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,296",
   "tuitionOutState": "$13,296",
   "undergradsCount": "300+",
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "detailKey": "unit-454582"
  },
  {
@@ -16566,7 +16566,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "detailKey": "unit-155636"
  },
  {
@@ -16585,7 +16585,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,880",
   "tuitionOutState": "$35,880",
   "undergradsCount": "900+",
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "detailKey": "unit-155627"
  },
  {
@@ -16680,7 +16680,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,700",
   "tuitionOutState": "$33,700",
   "undergradsCount": "500+",
-  "officialUrl": "www.sterling.edu/",
+  "officialUrl": "https://www.sterling.edu/",
   "detailKey": "unit-155937"
  },
  {
@@ -16699,7 +16699,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,200",
   "tuitionOutState": "$36,200",
   "undergradsCount": "500+",
-  "officialUrl": "tabor.edu/",
+  "officialUrl": "https://tabor.edu/",
   "detailKey": "unit-155973"
  },
  {
@@ -16737,7 +16737,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,380",
   "tuitionOutState": "$35,380",
   "undergradsCount": "900+",
-  "officialUrl": "www.stmary.edu/",
+  "officialUrl": "https://www.stmary.edu/",
   "detailKey": "unit-155812"
  },
  {
@@ -16756,7 +16756,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,945",
   "tuitionOutState": "$20,949",
   "undergradsCount": "4600+",
-  "officialUrl": "www.washburn.edu/",
+  "officialUrl": "https://www.washburn.edu/",
   "detailKey": "unit-156082"
  },
  {
@@ -16775,7 +16775,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,684",
   "tuitionOutState": "$19,869",
   "undergradsCount": "10800+",
-  "officialUrl": "www.wichita.edu/",
+  "officialUrl": "https://www.wichita.edu/",
   "detailKey": "unit-156125"
  },
  {
@@ -16794,7 +16794,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,960",
   "tuitionOutState": "$13,960",
   "undergradsCount": "600+",
-  "officialUrl": "www.alc.edu/",
+  "officialUrl": "https://www.alc.edu/",
   "detailKey": "unit-156189"
  },
  {
@@ -16832,7 +16832,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.asburyseminary.edu/",
+  "officialUrl": "https://www.asburyseminary.edu/",
   "detailKey": "unit-156222"
  },
  {
@@ -16870,7 +16870,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,295",
   "tuitionOutState": "$13,295",
   "undergradsCount": "500+",
-  "officialUrl": "www.beckfield.edu/",
+  "officialUrl": "https://www.beckfield.edu/",
   "detailKey": "unit-247065"
  },
  {
@@ -16927,7 +16927,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,550",
   "tuitionOutState": "$31,550",
   "undergradsCount": "500+",
-  "officialUrl": "www.brescia.edu/",
+  "officialUrl": "https://www.brescia.edu/",
   "detailKey": "unit-156356"
  },
  {
@@ -17022,7 +17022,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.frontier.edu/",
+  "officialUrl": "https://www.frontier.edu/",
   "detailKey": "unit-156727"
  },
  {
@@ -17041,7 +17041,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4800+",
-  "officialUrl": "www.galencollege.edu/louisville",
+  "officialUrl": "https://www.galencollege.edu/louisville",
   "detailKey": "unit-156471"
  },
  {
@@ -17060,7 +17060,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,840",
   "tuitionOutState": "$42,840",
   "undergradsCount": "1100+",
-  "officialUrl": "www.georgetowncollege.edu/",
+  "officialUrl": "https://www.georgetowncollege.edu/",
   "detailKey": "unit-156745"
  },
  {
@@ -17079,7 +17079,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,625",
   "tuitionOutState": "$26,625",
   "undergradsCount": "400+",
-  "officialUrl": "www.kcu.edu/",
+  "officialUrl": "https://www.kcu.edu/",
   "detailKey": "unit-157100"
  },
  {
@@ -17117,7 +17117,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,387",
   "tuitionOutState": "$13,658",
   "undergradsCount": "1300+",
-  "officialUrl": "www.kysu.edu/",
+  "officialUrl": "https://www.kysu.edu/",
   "detailKey": "unit-157058"
  },
  {
@@ -17155,7 +17155,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.lextheo.edu/",
+  "officialUrl": "https://www.lextheo.edu/",
   "detailKey": "unit-157207"
  },
  {
@@ -17193,7 +17193,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.lpts.edu/",
+  "officialUrl": "https://www.lpts.edu/",
   "detailKey": "unit-157298"
  },
  {
@@ -17212,7 +17212,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,220",
   "tuitionOutState": "$27,220",
   "undergradsCount": "1300+",
-  "officialUrl": "www.midway.edu/",
+  "officialUrl": "https://www.midway.edu/",
   "detailKey": "unit-157377"
  },
  {
@@ -17250,7 +17250,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,900",
   "tuitionOutState": "$19,836",
   "undergradsCount": "6700+",
-  "officialUrl": "www.murraystate.edu/",
+  "officialUrl": "https://www.murraystate.edu/",
   "detailKey": "unit-157401"
  },
  {
@@ -17269,7 +17269,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,088",
   "tuitionOutState": "$21,912",
   "undergradsCount": "8200+",
-  "officialUrl": "www.nku.edu/",
+  "officialUrl": "https://www.nku.edu/",
   "detailKey": "unit-157447"
  },
  {
@@ -17307,7 +17307,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,046",
   "tuitionOutState": "$11,046",
   "undergradsCount": "800+",
-  "officialUrl": "www.sbts.edu/",
+  "officialUrl": "https://www.sbts.edu/",
   "detailKey": "unit-157748"
  },
  {
@@ -17345,7 +17345,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,480",
   "tuitionOutState": "$15,480",
   "undergradsCount": "2000+",
-  "officialUrl": "www.sullivan.edu/",
+  "officialUrl": "https://www.sullivan.edu/",
   "detailKey": "unit-157793"
  },
  {
@@ -17440,7 +17440,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,136",
   "tuitionOutState": "$29,482",
   "undergradsCount": "14700+",
-  "officialUrl": "www.louisville.edu/",
+  "officialUrl": "https://www.louisville.edu/",
   "detailKey": "unit-157289"
  },
  {
@@ -17459,7 +17459,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,850",
   "tuitionOutState": "$24,850",
   "undergradsCount": "1100+",
-  "officialUrl": "www.upike.edu/",
+  "officialUrl": "https://www.upike.edu/",
   "detailKey": "unit-157535"
  },
  {
@@ -17478,7 +17478,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,875",
   "tuitionOutState": "$9,875",
   "undergradsCount": "6900+",
-  "officialUrl": "www.ucumberlands.edu/",
+  "officialUrl": "https://www.ucumberlands.edu/",
   "detailKey": "unit-156541"
  },
  {
@@ -17535,7 +17535,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,200",
   "tuitionOutState": "$41,200",
   "undergradsCount": "700+",
-  "officialUrl": "www.centenary.edu/",
+  "officialUrl": "https://www.centenary.edu/",
   "detailKey": "unit-158477"
  },
  {
@@ -17611,7 +17611,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,310",
   "tuitionOutState": "$18,310",
   "undergradsCount": "800+",
-  "officialUrl": "www.franu.edu/",
+  "officialUrl": "https://www.franu.edu/",
   "detailKey": "unit-160074"
  },
  {
@@ -17630,7 +17630,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,683",
   "tuitionOutState": "$16,706",
   "undergradsCount": "4200+",
-  "officialUrl": "www.gram.edu/",
+  "officialUrl": "https://www.gram.edu/",
   "detailKey": "unit-159009"
  },
  {
@@ -17668,7 +17668,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,266",
   "tuitionOutState": "$20,266",
   "undergradsCount": "700+",
-  "officialUrl": "www.lcuniversity.edu/",
+  "officialUrl": "https://www.lcuniversity.edu/",
   "detailKey": "unit-159568"
  },
  {
@@ -17687,7 +17687,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,954",
   "tuitionOutState": "$28,631",
   "undergradsCount": "30600+",
-  "officialUrl": "www.lsu.edu/",
+  "officialUrl": "https://www.lsu.edu/",
   "detailKey": "unit-159391"
  },
  {
@@ -17706,7 +17706,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,050",
   "tuitionOutState": "$14,650",
   "undergradsCount": "5600+",
-  "officialUrl": "www.lsua.edu/",
+  "officialUrl": "https://www.lsua.edu/",
   "detailKey": "unit-159382"
  },
  {
@@ -17725,7 +17725,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "900+",
-  "officialUrl": "www.lsuhsc.edu/",
+  "officialUrl": "https://www.lsuhsc.edu/",
   "detailKey": "unit-159373"
  },
  {
@@ -17763,7 +17763,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,518",
   "tuitionOutState": "$7,518",
   "undergradsCount": "2200+",
-  "officialUrl": "www.lsus.edu/",
+  "officialUrl": "https://www.lsus.edu/",
   "detailKey": "unit-159416"
  },
  {
@@ -17801,7 +17801,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,440",
   "tuitionOutState": "$49,440",
   "undergradsCount": "2800+",
-  "officialUrl": "www.loyno.edu/",
+  "officialUrl": "https://www.loyno.edu/",
   "detailKey": "unit-159656"
  },
  {
@@ -17820,7 +17820,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,489",
   "tuitionOutState": "$9,989",
   "undergradsCount": "5000+",
-  "officialUrl": "www.mcneese.edu/",
+  "officialUrl": "https://www.mcneese.edu/",
   "detailKey": "unit-159717"
  },
  {
@@ -17839,7 +17839,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,468",
   "tuitionOutState": "$12,468",
   "undergradsCount": "900+",
-  "officialUrl": "www.nobts.edu/",
+  "officialUrl": "https://www.nobts.edu/",
   "detailKey": "unit-159948"
  },
  {
@@ -17858,7 +17858,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,149",
   "tuitionOutState": "$9,242",
   "undergradsCount": "4700+",
-  "officialUrl": "www.nicholls.edu/",
+  "officialUrl": "https://www.nicholls.edu/",
   "detailKey": "unit-159966"
  },
  {
@@ -17934,7 +17934,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,922",
   "tuitionOutState": "$17,272",
   "undergradsCount": "5500+",
-  "officialUrl": "www.subr.edu/",
+  "officialUrl": "https://www.subr.edu/",
   "detailKey": "unit-160621"
  },
  {
@@ -17953,7 +17953,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,054",
   "tuitionOutState": "$16,954",
   "undergradsCount": "1100+",
-  "officialUrl": "www.suno.edu/",
+  "officialUrl": "https://www.suno.edu/",
   "detailKey": "unit-160630"
  },
  {
@@ -17972,7 +17972,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "600+",
-  "officialUrl": "www.sulc.edu/",
+  "officialUrl": "https://www.sulc.edu/",
   "detailKey": "unit-440916"
  },
  {
@@ -18010,7 +18010,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,576",
   "tuitionOutState": "$16,576",
   "undergradsCount": "500+",
-  "officialUrl": "uhcno.edu/",
+  "officialUrl": "https://uhcno.edu/",
   "detailKey": "unit-160065"
  },
  {
@@ -18029,7 +18029,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,418",
   "tuitionOutState": "$24,146",
   "undergradsCount": "12400+",
-  "officialUrl": "www.louisiana.edu/",
+  "officialUrl": "https://www.louisiana.edu/",
   "detailKey": "unit-160658"
  },
  {
@@ -18048,7 +18048,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,190",
   "tuitionOutState": "$21,290",
   "undergradsCount": "5000+",
-  "officialUrl": "www.ulm.edu/",
+  "officialUrl": "https://www.ulm.edu/",
   "detailKey": "unit-159993"
  },
  {
@@ -18067,7 +18067,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,172",
   "tuitionOutState": "$14,008",
   "undergradsCount": "4600+",
-  "officialUrl": "new.uno.edu/",
+  "officialUrl": "https://new.uno.edu/",
   "detailKey": "unit-159939"
  },
  {
@@ -18105,7 +18105,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,230",
   "tuitionOutState": "$44,230",
   "undergradsCount": "1000+",
-  "officialUrl": "www.aic.edu/",
+  "officialUrl": "https://www.aic.edu/",
   "detailKey": "unit-164447"
  },
  {
@@ -18124,7 +18124,7 @@ export const COLLEGES = [
   "tuitionInState": "$70,480",
   "tuitionOutState": "$70,480",
   "undergradsCount": "1900+",
-  "officialUrl": "www.amherst.edu/",
+  "officialUrl": "https://www.amherst.edu/",
   "detailKey": "unit-164465"
  },
  {
@@ -18143,7 +18143,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,571",
   "tuitionOutState": "$44,571",
   "undergradsCount": "900+",
-  "officialUrl": "www.annamaria.edu/",
+  "officialUrl": "https://www.annamaria.edu/",
   "detailKey": "unit-164492"
  },
  {
@@ -18181,7 +18181,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,152",
   "tuitionOutState": "$57,152",
   "undergradsCount": "2700+",
-  "officialUrl": "www.babson.edu/",
+  "officialUrl": "https://www.babson.edu/",
   "detailKey": "unit-164580"
  },
  {
@@ -18200,7 +18200,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,302",
   "tuitionOutState": "$38,302",
   "undergradsCount": "1100+",
-  "officialUrl": "www.baypath.edu/",
+  "officialUrl": "https://www.baypath.edu/",
   "detailKey": "unit-164632"
  },
  {
@@ -18219,7 +18219,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,906",
   "tuitionOutState": "$18,906",
   "undergradsCount": "500+",
-  "officialUrl": "www.bfit.edu/",
+  "officialUrl": "https://www.bfit.edu/",
   "detailKey": "unit-165884"
  },
  {
@@ -18238,7 +18238,7 @@ export const COLLEGES = [
   "tuitionInState": "$61,000",
   "tuitionOutState": "$61,000",
   "undergradsCount": "4500+",
-  "officialUrl": "www.bentley.edu/",
+  "officialUrl": "https://www.bentley.edu/",
   "detailKey": "unit-164739"
  },
  {
@@ -18257,7 +18257,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,040",
   "tuitionOutState": "$52,040",
   "undergradsCount": "7500+",
-  "officialUrl": "www.berklee.edu/",
+  "officialUrl": "https://www.berklee.edu/",
   "detailKey": "unit-164748"
  },
  {
@@ -18276,7 +18276,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,470",
   "tuitionOutState": "$27,470",
   "undergradsCount": "300+",
-  "officialUrl": "www.the-bac.edu/",
+  "officialUrl": "https://www.the-bac.edu/",
   "detailKey": "unit-164872"
  },
  {
@@ -18295,7 +18295,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,304",
   "tuitionOutState": "$14,304",
   "undergradsCount": "0+",
-  "officialUrl": "www.boston.edu/",
+  "officialUrl": "https://www.boston.edu/",
   "detailKey": "unit-164614"
  },
  {
@@ -18314,7 +18314,7 @@ export const COLLEGES = [
   "tuitionInState": "$70,702",
   "tuitionOutState": "$70,702",
   "undergradsCount": "10100+",
-  "officialUrl": "www.bc.edu/",
+  "officialUrl": "https://www.bc.edu/",
   "detailKey": "unit-164924"
  },
  {
@@ -18352,7 +18352,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,102",
   "tuitionOutState": "$68,102",
   "undergradsCount": "18200+",
-  "officialUrl": "www.bu.edu/",
+  "officialUrl": "https://www.bu.edu/",
   "detailKey": "unit-164988"
  },
  {
@@ -18390,7 +18390,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,808",
   "tuitionOutState": "$17,948",
   "undergradsCount": "7800+",
-  "officialUrl": "www.bridgew.edu/",
+  "officialUrl": "https://www.bridgew.edu/",
   "detailKey": "unit-165024"
  },
  {
@@ -18409,7 +18409,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,378",
   "tuitionOutState": "$18,378",
   "undergradsCount": "500+",
-  "officialUrl": "www.cambridgecollege.edu/",
+  "officialUrl": "https://www.cambridgecollege.edu/",
   "detailKey": "unit-165167"
  },
  {
@@ -18428,7 +18428,7 @@ export const COLLEGES = [
   "tuitionInState": "$58,867",
   "tuitionOutState": "$58,867",
   "undergradsCount": "2200+",
-  "officialUrl": "www.clarku.edu/",
+  "officialUrl": "https://www.clarku.edu/",
   "detailKey": "unit-165334"
  },
  {
@@ -18485,7 +18485,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.csld.edu/",
+  "officialUrl": "https://www.csld.edu/",
   "detailKey": "unit-165495"
  },
  {
@@ -18523,7 +18523,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,526",
   "tuitionOutState": "$46,526",
   "undergradsCount": "1100+",
-  "officialUrl": "www.dean.edu/",
+  "officialUrl": "https://www.dean.edu/",
   "detailKey": "unit-165574"
  },
  {
@@ -18542,7 +18542,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,056",
   "tuitionOutState": "$57,056",
   "undergradsCount": "3900+",
-  "officialUrl": "www.emerson.edu/",
+  "officialUrl": "https://www.emerson.edu/",
   "detailKey": "unit-165662"
  },
  {
@@ -18561,7 +18561,7 @@ export const COLLEGES = [
   "tuitionInState": "$48,550",
   "tuitionOutState": "$48,550",
   "undergradsCount": "1900+",
-  "officialUrl": "www.emmanuel.edu/",
+  "officialUrl": "https://www.emmanuel.edu/",
   "detailKey": "unit-165671"
  },
  {
@@ -18580,7 +18580,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,650",
   "tuitionOutState": "$40,650",
   "undergradsCount": "3100+",
-  "officialUrl": "www.endicott.edu/",
+  "officialUrl": "https://www.endicott.edu/",
   "detailKey": "unit-165699"
  },
  {
@@ -18618,7 +18618,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,346",
   "tuitionOutState": "$17,426",
   "undergradsCount": "2800+",
-  "officialUrl": "www.fitchburgstate.edu/",
+  "officialUrl": "https://www.fitchburgstate.edu/",
   "detailKey": "unit-165820"
  },
  {
@@ -18637,7 +18637,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,920",
   "tuitionOutState": "$18,000",
   "undergradsCount": "2600+",
-  "officialUrl": "www.framingham.edu/",
+  "officialUrl": "https://www.framingham.edu/",
   "detailKey": "unit-165866"
  },
  {
@@ -18656,7 +18656,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,398",
   "tuitionOutState": "$66,398",
   "undergradsCount": "400+",
-  "officialUrl": "www.olin.edu/",
+  "officialUrl": "https://www.olin.edu/",
   "detailKey": "unit-441982"
  },
  {
@@ -18675,7 +18675,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,700",
   "tuitionOutState": "$30,700",
   "undergradsCount": "1300+",
-  "officialUrl": "www.gordon.edu/",
+  "officialUrl": "https://www.gordon.edu/",
   "detailKey": "unit-165936"
  },
  {
@@ -18694,7 +18694,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.gordonconwell.edu/",
+  "officialUrl": "https://www.gordonconwell.edu/",
   "detailKey": "unit-165945"
  },
  {
@@ -18732,7 +18732,7 @@ export const COLLEGES = [
   "tuitionInState": "$61,676",
   "tuitionOutState": "$61,676",
   "undergradsCount": "7600+",
-  "officialUrl": "www.harvard.edu/",
+  "officialUrl": "https://www.harvard.edu/",
   "detailKey": "unit-166027"
  },
  {
@@ -18770,7 +18770,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,490",
   "tuitionOutState": "$22,490",
   "undergradsCount": "100+",
-  "officialUrl": "www.hchc.edu/",
+  "officialUrl": "https://www.hchc.edu/",
   "detailKey": "unit-166054"
  },
  {
@@ -18789,7 +18789,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,160",
   "tuitionOutState": "$57,160",
   "undergradsCount": "600+",
-  "officialUrl": "www.hult.edu/",
+  "officialUrl": "https://www.hult.edu/",
   "detailKey": "unit-164368"
  },
  {
@@ -18827,7 +18827,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,040",
   "tuitionOutState": "$27,040",
   "undergradsCount": "1200+",
-  "officialUrl": "www.lasell.edu/",
+  "officialUrl": "https://www.lasell.edu/",
   "detailKey": "unit-166391"
  },
  {
@@ -18846,7 +18846,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,256",
   "tuitionOutState": "$34,256",
   "undergradsCount": "1100+",
-  "officialUrl": "www.lesley.edu/",
+  "officialUrl": "https://www.lesley.edu/",
   "detailKey": "unit-166452"
  },
  {
@@ -18865,7 +18865,7 @@ export const COLLEGES = [
   "tuitionInState": "$55,275",
   "tuitionOutState": "$55,275",
   "undergradsCount": "0+",
-  "officialUrl": "longy.edu/",
+  "officialUrl": "https://longy.edu/",
   "detailKey": "unit-166489"
  },
  {
@@ -18922,7 +18922,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,530",
   "tuitionOutState": "$40,530",
   "undergradsCount": "3500+",
-  "officialUrl": "www.mcphs.edu/",
+  "officialUrl": "https://www.mcphs.edu/",
   "detailKey": "unit-166656"
  },
  {
@@ -18941,7 +18941,7 @@ export const COLLEGES = [
   "tuitionInState": "$62,396",
   "tuitionOutState": "$62,396",
   "undergradsCount": "4500+",
-  "officialUrl": "web.mit.edu/",
+  "officialUrl": "https://web.mit.edu/",
   "detailKey": "unit-166683"
  },
  {
@@ -18979,7 +18979,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.mslaw.edu/",
+  "officialUrl": "https://www.mslaw.edu/",
   "detailKey": "unit-369002"
  },
  {
@@ -19017,7 +19017,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.mghihp.edu/",
+  "officialUrl": "https://www.mghihp.edu/",
   "detailKey": "unit-166869"
  },
  {
@@ -19131,7 +19131,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,705",
   "tuitionOutState": "$42,705",
   "undergradsCount": "1200+",
-  "officialUrl": "www.nichols.edu/",
+  "officialUrl": "https://www.nichols.edu/",
   "detailKey": "unit-167260"
  },
  {
@@ -19150,7 +19150,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,162",
   "tuitionOutState": "$66,162",
   "undergradsCount": "17300+",
-  "officialUrl": "www.northeastern.edu/",
+  "officialUrl": "https://www.northeastern.edu/",
   "detailKey": "unit-167358"
  },
  {
@@ -19188,7 +19188,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,160",
   "tuitionOutState": "$14,160",
   "undergradsCount": "100+",
-  "officialUrl": "www.northpoint.edu/",
+  "officialUrl": "https://www.northpoint.edu/",
   "detailKey": "unit-217606"
  },
  {
@@ -19226,7 +19226,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,680",
   "tuitionOutState": "$49,680",
   "undergradsCount": "1000+",
-  "officialUrl": "www.regiscollege.edu/",
+  "officialUrl": "https://www.regiscollege.edu/",
   "detailKey": "unit-167598"
  },
  {
@@ -19245,7 +19245,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.sjs.edu/",
+  "officialUrl": "https://www.sjs.edu/",
   "detailKey": "unit-167677"
  },
  {
@@ -19302,7 +19302,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,874",
   "tuitionOutState": "$46,874",
   "undergradsCount": "1700+",
-  "officialUrl": "www.simmons.edu/",
+  "officialUrl": "https://www.simmons.edu/",
   "detailKey": "unit-167783"
  },
  {
@@ -19321,7 +19321,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,178",
   "tuitionOutState": "$65,178",
   "undergradsCount": "2500+",
-  "officialUrl": "www.smith.edu/",
+  "officialUrl": "https://www.smith.edu/",
   "detailKey": "unit-167835"
  },
  {
@@ -19340,7 +19340,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,174",
   "tuitionOutState": "$45,174",
   "undergradsCount": "1800+",
-  "officialUrl": "springfield.edu/",
+  "officialUrl": "https://springfield.edu/",
   "detailKey": "unit-167899"
  },
  {
@@ -19435,7 +19435,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,772",
   "tuitionOutState": "$40,449",
   "undergradsCount": "23700+",
-  "officialUrl": "www.umass.edu/",
+  "officialUrl": "https://www.umass.edu/",
   "detailKey": "unit-166629"
  },
  {
@@ -19454,7 +19454,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.umassmed.edu/",
+  "officialUrl": "https://www.umassmed.edu/",
   "detailKey": "unit-166708"
  },
  {
@@ -19473,7 +19473,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,908",
   "tuitionOutState": "$38,125",
   "undergradsCount": "11500+",
-  "officialUrl": "www.umb.edu/",
+  "officialUrl": "https://www.umb.edu/",
   "detailKey": "unit-166638"
  },
  {
@@ -19492,7 +19492,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,612",
   "tuitionOutState": "$32,567",
   "undergradsCount": "5200+",
-  "officialUrl": "www.umassd.edu/",
+  "officialUrl": "https://www.umassd.edu/",
   "detailKey": "unit-167987"
  },
  {
@@ -19511,7 +19511,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,966",
   "tuitionOutState": "$36,264",
   "undergradsCount": "11400+",
-  "officialUrl": "www.uml.edu/",
+  "officialUrl": "https://www.uml.edu/",
   "detailKey": "unit-166513"
  },
  {
@@ -19530,7 +19530,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,176",
   "tuitionOutState": "$67,176",
   "undergradsCount": "2300+",
-  "officialUrl": "www.wellesley.edu/",
+  "officialUrl": "https://www.wellesley.edu/",
   "detailKey": "unit-168218"
  },
  {
@@ -19568,7 +19568,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,820",
   "tuitionOutState": "$47,820",
   "undergradsCount": "2600+",
-  "officialUrl": "wne.edu/",
+  "officialUrl": "https://wne.edu/",
   "detailKey": "unit-168254"
  },
  {
@@ -19587,7 +19587,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,179",
   "tuitionOutState": "$18,259",
   "undergradsCount": "3600+",
-  "officialUrl": "www.westfield.ma.edu/",
+  "officialUrl": "https://www.westfield.ma.edu/",
   "detailKey": "unit-168263"
  },
  {
@@ -19606,7 +19606,7 @@ export const COLLEGES = [
   "tuitionInState": "$63,960",
   "tuitionOutState": "$63,960",
   "undergradsCount": "1800+",
-  "officialUrl": "www.wheatoncollege.edu/",
+  "officialUrl": "https://www.wheatoncollege.edu/",
   "detailKey": "unit-168281"
  },
  {
@@ -19625,7 +19625,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.williamjames.edu/",
+  "officialUrl": "https://www.williamjames.edu/",
   "detailKey": "unit-166717"
  },
  {
@@ -19701,7 +19701,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,100",
   "tuitionOutState": "$13,100",
   "undergradsCount": "100+",
-  "officialUrl": "www.bhmb.edu/",
+  "officialUrl": "https://www.bhmb.edu/",
   "detailKey": "unit-476601"
  },
  {
@@ -19720,7 +19720,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,218",
   "tuitionOutState": "$19,938",
   "undergradsCount": "5000+",
-  "officialUrl": "www.bowiestate.edu/",
+  "officialUrl": "https://www.bowiestate.edu/",
   "detailKey": "unit-162007"
  },
  {
@@ -19739,7 +19739,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,592",
   "tuitionOutState": "$27,592",
   "undergradsCount": "300+",
-  "officialUrl": "www.captechu.edu/",
+  "officialUrl": "https://www.captechu.edu/",
   "detailKey": "unit-162061"
  },
  {
@@ -19758,7 +19758,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,100",
   "tuitionOutState": "$14,024",
   "undergradsCount": "1800+",
-  "officialUrl": "www.coppin.edu/",
+  "officialUrl": "https://www.coppin.edu/",
   "detailKey": "unit-162283"
  },
  {
@@ -19777,7 +19777,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,220",
   "tuitionOutState": "$25,814",
   "undergradsCount": "2900+",
-  "officialUrl": "www.frostburg.edu/",
+  "officialUrl": "https://www.frostburg.edu/",
   "detailKey": "unit-162584"
  },
  {
@@ -19796,7 +19796,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,350",
   "tuitionOutState": "$53,350",
   "undergradsCount": "1000+",
-  "officialUrl": "www.goucher.edu/",
+  "officialUrl": "https://www.goucher.edu/",
   "detailKey": "unit-162654"
  },
  {
@@ -19815,7 +19815,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,700",
   "tuitionOutState": "$47,700",
   "undergradsCount": "1200+",
-  "officialUrl": "www.hood.edu/",
+  "officialUrl": "https://www.hood.edu/",
   "detailKey": "unit-162760"
  },
  {
@@ -19834,7 +19834,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,230",
   "tuitionOutState": "$65,230",
   "undergradsCount": "5700+",
-  "officialUrl": "www.jhu.edu/",
+  "officialUrl": "https://www.jhu.edu/",
   "detailKey": "unit-162928"
  },
  {
@@ -19872,7 +19872,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,800",
   "tuitionOutState": "$56,800",
   "undergradsCount": "1200+",
-  "officialUrl": "www.mica.edu/",
+  "officialUrl": "https://www.mica.edu/",
   "detailKey": "unit-163295"
  },
  {
@@ -19891,7 +19891,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,081",
   "tuitionOutState": "$52,081",
   "undergradsCount": "1600+",
-  "officialUrl": "www.mcdaniel.edu/",
+  "officialUrl": "https://www.mcdaniel.edu/",
   "detailKey": "unit-164270"
  },
  {
@@ -19967,7 +19967,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,360",
   "tuitionOutState": "$43,360",
   "undergradsCount": "700+",
-  "officialUrl": "www.ndm.edu/",
+  "officialUrl": "https://www.ndm.edu/",
   "detailKey": "unit-163578"
  },
  {
@@ -20005,7 +20005,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "800+",
-  "officialUrl": "www.sans.edu/",
+  "officialUrl": "https://www.sans.edu/",
   "detailKey": "unit-493895"
  },
  {
@@ -20043,7 +20043,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,560",
   "tuitionOutState": "$40,560",
   "undergradsCount": "3100+",
-  "officialUrl": "www.stevenson.edu/",
+  "officialUrl": "https://www.stevenson.edu/",
   "detailKey": "unit-164173"
  },
  {
@@ -20062,7 +20062,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1000+",
-  "officialUrl": "www.strayer.edu/campus-locations/maryland/prince-georges",
+  "officialUrl": "https://www.strayer.edu/campus-locations/maryland/prince-georges",
   "detailKey": "unit-430184"
  },
  {
@@ -20081,7 +20081,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,728",
   "tuitionOutState": "$29,820",
   "undergradsCount": "16100+",
-  "officialUrl": "www.towson.edu/",
+  "officialUrl": "https://www.towson.edu/",
   "detailKey": "unit-164076"
  },
  {
@@ -20100,7 +20100,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4500+",
-  "officialUrl": "www.usna.edu/",
+  "officialUrl": "https://www.usna.edu/",
   "detailKey": "unit-164155"
  },
  {
@@ -20119,7 +20119,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,992",
   "tuitionOutState": "$23,984",
   "undergradsCount": "1100+",
-  "officialUrl": "www.ubalt.edu/",
+  "officialUrl": "https://www.ubalt.edu/",
   "detailKey": "unit-161873"
  },
  {
@@ -20138,7 +20138,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1000+",
-  "officialUrl": "www.umaryland.edu/",
+  "officialUrl": "https://www.umaryland.edu/",
   "detailKey": "unit-163259"
  },
  {
@@ -20157,7 +20157,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,076",
   "tuitionOutState": "$20,122",
   "undergradsCount": "2400+",
-  "officialUrl": "wwwcp.umes.edu/",
+  "officialUrl": "https://wwwcp.umes.edu/",
   "detailKey": "unit-163338"
  },
  {
@@ -20176,7 +20176,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,136",
   "tuitionOutState": "$12,336",
   "undergradsCount": "49700+",
-  "officialUrl": "www.umgc.edu/",
+  "officialUrl": "https://www.umgc.edu/",
   "detailKey": "unit-163204"
  },
  {
@@ -20195,7 +20195,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,256",
   "tuitionOutState": "$31,275",
   "undergradsCount": "10700+",
-  "officialUrl": "umbc.edu/",
+  "officialUrl": "https://umbc.edu/",
   "detailKey": "unit-163268"
  },
  {
@@ -20214,7 +20214,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,809",
   "tuitionOutState": "$41,186",
   "undergradsCount": "30800+",
-  "officialUrl": "www.umd.edu/",
+  "officialUrl": "https://www.umd.edu/",
   "detailKey": "unit-163286"
  },
  {
@@ -20252,7 +20252,7 @@ export const COLLEGES = [
   "tuitionInState": "$55,326",
   "tuitionOutState": "$55,326",
   "undergradsCount": "900+",
-  "officialUrl": "www.washcoll.edu/",
+  "officialUrl": "https://www.washcoll.edu/",
   "detailKey": "unit-164216"
  },
  {
@@ -20271,7 +20271,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,780",
   "tuitionOutState": "$9,780",
   "undergradsCount": "100+",
-  "officialUrl": "www.wits.edu/",
+  "officialUrl": "https://www.wits.edu/",
   "detailKey": "unit-491631"
  },
  {
@@ -20290,7 +20290,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,500",
   "tuitionOutState": "$11,500",
   "undergradsCount": "100+",
-  "officialUrl": "ycnc.org/",
+  "officialUrl": "https://ycnc.org/",
   "detailKey": "unit-434937"
  },
  {
@@ -20309,7 +20309,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,590",
   "tuitionOutState": "$66,590",
   "undergradsCount": "1800+",
-  "officialUrl": "www.bates.edu/",
+  "officialUrl": "https://www.bates.edu/",
   "detailKey": "unit-160977"
  },
  {
@@ -20328,7 +20328,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "500+",
-  "officialUrl": "www.beal.edu/",
+  "officialUrl": "https://www.beal.edu/",
   "detailKey": "unit-160995"
  },
  {
@@ -20366,7 +20366,7 @@ export const COLLEGES = [
   "tuitionInState": "$69,600",
   "tuitionOutState": "$69,600",
   "undergradsCount": "2400+",
-  "officialUrl": "www.colby.edu/",
+  "officialUrl": "https://www.colby.edu/",
   "detailKey": "unit-161086"
  },
  {
@@ -20404,7 +20404,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,304",
   "tuitionOutState": "$23,304",
   "undergradsCount": "2600+",
-  "officialUrl": "www.husson.edu/",
+  "officialUrl": "https://www.husson.edu/",
   "detailKey": "unit-487524"
  },
  {
@@ -20442,7 +20442,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,942",
   "tuitionOutState": "$42,942",
   "undergradsCount": "400+",
-  "officialUrl": "www.meca.edu/",
+  "officialUrl": "https://www.meca.edu/",
   "detailKey": "unit-161509"
  },
  {
@@ -20461,7 +20461,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,952",
   "tuitionOutState": "$20,952",
   "undergradsCount": "200+",
-  "officialUrl": "www.mchp.edu/",
+  "officialUrl": "https://www.mchp.edu/",
   "detailKey": "unit-161022"
  },
  {
@@ -20518,7 +20518,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,420",
   "tuitionOutState": "$44,420",
   "undergradsCount": "1000+",
-  "officialUrl": "www.sjcme.edu/",
+  "officialUrl": "https://www.sjcme.edu/",
   "detailKey": "unit-161518"
  },
  {
@@ -20537,7 +20537,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,824",
   "tuitionOutState": "$31,824",
   "undergradsCount": "600+",
-  "officialUrl": "www.thomas.edu/",
+  "officialUrl": "https://www.thomas.edu/",
   "detailKey": "unit-161563"
  },
  {
@@ -20575,7 +20575,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,326",
   "tuitionOutState": "$36,756",
   "undergradsCount": "8500+",
-  "officialUrl": "www.umaine.edu/",
+  "officialUrl": "https://www.umaine.edu/",
   "detailKey": "unit-161253"
  },
  {
@@ -20594,7 +20594,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,888",
   "tuitionOutState": "$22,178",
   "undergradsCount": "2700+",
-  "officialUrl": "www.uma.edu/",
+  "officialUrl": "https://www.uma.edu/",
   "detailKey": "unit-161217"
  },
  {
@@ -20632,7 +20632,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,420",
   "tuitionOutState": "$14,880",
   "undergradsCount": "600+",
-  "officialUrl": "www.umfk.maine.edu/",
+  "officialUrl": "https://www.umfk.maine.edu/",
   "detailKey": "unit-161235"
  },
  {
@@ -20651,7 +20651,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,402",
   "tuitionOutState": "$14,862",
   "undergradsCount": "1900+",
-  "officialUrl": "www.umpi.edu/",
+  "officialUrl": "https://www.umpi.edu/",
   "detailKey": "unit-161341"
  },
  {
@@ -20689,7 +20689,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,284",
   "tuitionOutState": "$27,944",
   "undergradsCount": "4200+",
-  "officialUrl": "usm.maine.edu/",
+  "officialUrl": "https://usm.maine.edu/",
   "detailKey": "unit-161554"
  },
  {
@@ -20727,7 +20727,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,684",
   "tuitionOutState": "$41,684",
   "undergradsCount": "1600+",
-  "officialUrl": "www.adrian.edu/",
+  "officialUrl": "https://www.adrian.edu/",
   "detailKey": "unit-168528"
  },
  {
@@ -20746,7 +20746,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,950",
   "tuitionOutState": "$56,950",
   "undergradsCount": "1300+",
-  "officialUrl": "www.albion.edu/",
+  "officialUrl": "https://www.albion.edu/",
   "detailKey": "unit-168546"
  },
  {
@@ -20765,7 +20765,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,552",
   "tuitionOutState": "$49,552",
   "undergradsCount": "1100+",
-  "officialUrl": "www.alma.edu/",
+  "officialUrl": "https://www.alma.edu/",
   "detailKey": "unit-168591"
  },
  {
@@ -20784,7 +20784,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,250",
   "tuitionOutState": "$8,010",
   "undergradsCount": "700+",
-  "officialUrl": "www.alpenacc.edu/",
+  "officialUrl": "https://www.alpenacc.edu/",
   "detailKey": "unit-168607"
  },
  {
@@ -20860,7 +20860,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,000",
   "tuitionOutState": "$13,000",
   "undergradsCount": "3000+",
-  "officialUrl": "www.baker.edu/",
+  "officialUrl": "https://www.baker.edu/",
   "detailKey": "unit-168847"
  },
  {
@@ -20898,7 +20898,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.calvinseminary.edu/",
+  "officialUrl": "https://www.calvinseminary.edu/",
   "detailKey": "unit-169099"
  },
  {
@@ -20917,7 +20917,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,350",
   "tuitionOutState": "$39,350",
   "undergradsCount": "3200+",
-  "officialUrl": "www.calvin.edu/",
+  "officialUrl": "https://www.calvin.edu/",
   "detailKey": "unit-169080"
  },
  {
@@ -20974,7 +20974,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,102",
   "tuitionOutState": "$26,102",
   "undergradsCount": "700+",
-  "officialUrl": "www.cleary.edu/",
+  "officialUrl": "https://www.cleary.edu/",
   "detailKey": "unit-169327"
  },
  {
@@ -21031,7 +21031,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,000",
   "tuitionOutState": "$23,000",
   "undergradsCount": "1300+",
-  "officialUrl": "www.cornerstone.edu/",
+  "officialUrl": "https://www.cornerstone.edu/",
   "detailKey": "unit-170037"
  },
  {
@@ -21069,7 +21069,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,466",
   "tuitionOutState": "$24,466",
   "undergradsCount": "3100+",
-  "officialUrl": "www.davenport.edu/",
+  "officialUrl": "https://www.davenport.edu/",
   "detailKey": "unit-169479"
  },
  {
@@ -21088,7 +21088,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,240",
   "tuitionOutState": "$16,240",
   "undergradsCount": "10100+",
-  "officialUrl": "www.emich.edu/",
+  "officialUrl": "https://www.emich.edu/",
   "detailKey": "unit-169798"
  },
  {
@@ -21107,7 +21107,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.etseminary.edu/",
+  "officialUrl": "https://www.etseminary.edu/",
   "detailKey": "unit-247162"
  },
  {
@@ -21126,7 +21126,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,778",
   "tuitionOutState": "$14,778",
   "undergradsCount": "8100+",
-  "officialUrl": "www.ferris.edu/",
+  "officialUrl": "https://www.ferris.edu/",
   "detailKey": "unit-169910"
  },
  {
@@ -21164,7 +21164,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,140",
   "tuitionOutState": "$21,548",
   "undergradsCount": "18900+",
-  "officialUrl": "www.gvsu.edu/",
+  "officialUrl": "https://www.gvsu.edu/",
   "detailKey": "unit-170082"
  },
  {
@@ -21183,7 +21183,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,520",
   "tuitionOutState": "$19,520",
   "undergradsCount": "200+",
-  "officialUrl": "www.glcc.edu/",
+  "officialUrl": "https://www.glcc.edu/",
   "detailKey": "unit-170091"
  },
  {
@@ -21259,7 +21259,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,350",
   "tuitionOutState": "$10,200",
   "undergradsCount": "3400+",
-  "officialUrl": "www.jccmi.edu/",
+  "officialUrl": "https://www.jccmi.edu/",
   "detailKey": "unit-170444"
  },
  {
@@ -21335,7 +21335,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,890",
   "tuitionOutState": "$14,890",
   "undergradsCount": "1300+",
-  "officialUrl": "www.lssu.edu/",
+  "officialUrl": "https://www.lssu.edu/",
   "detailKey": "unit-170639"
  },
  {
@@ -21354,7 +21354,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,760",
   "tuitionOutState": "$44,760",
   "undergradsCount": "1700+",
-  "officialUrl": "www.ltu.edu/",
+  "officialUrl": "https://www.ltu.edu/",
   "detailKey": "unit-170675"
  },
  {
@@ -21392,7 +21392,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "msp.edu/",
+  "officialUrl": "https://msp.edu/",
   "detailKey": "unit-169220"
  },
  {
@@ -21506,7 +21506,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,400",
   "tuitionOutState": "$34,400",
   "undergradsCount": "2000+",
-  "officialUrl": "www.northwood.edu/",
+  "officialUrl": "https://www.northwood.edu/",
   "detailKey": "unit-171492"
  },
  {
@@ -21525,7 +21525,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,262",
   "tuitionOutState": "$23,188",
   "undergradsCount": "12400+",
-  "officialUrl": "www.oakland.edu/",
+  "officialUrl": "https://www.oakland.edu/",
   "detailKey": "unit-171571"
  },
  {
@@ -21544,7 +21544,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,196",
   "tuitionOutState": "$29,196",
   "undergradsCount": "800+",
-  "officialUrl": "rcu.edu/",
+  "officialUrl": "https://rcu.edu/",
   "detailKey": "unit-170967"
  },
  {
@@ -21563,7 +21563,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,120",
   "tuitionOutState": "$24,120",
   "undergradsCount": "200+",
-  "officialUrl": "www.shms.edu/",
+  "officialUrl": "https://www.shms.edu/",
   "detailKey": "unit-172033"
  },
  {
@@ -21582,7 +21582,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,930",
   "tuitionOutState": "$30,450",
   "undergradsCount": "6000+",
-  "officialUrl": "www.svsu.edu/",
+  "officialUrl": "https://www.svsu.edu/",
   "detailKey": "unit-172051"
  },
  {
@@ -21658,7 +21658,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "cooley.edu/",
+  "officialUrl": "https://cooley.edu/",
   "detailKey": "unit-172477"
  },
  {
@@ -21734,7 +21734,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,704",
   "tuitionOutState": "$28,320",
   "undergradsCount": "4400+",
-  "officialUrl": "www.umflint.edu/",
+  "officialUrl": "https://www.umflint.edu/",
   "detailKey": "unit-171146"
  },
  {
@@ -21829,7 +21829,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "wmed.edu/",
+  "officialUrl": "https://wmed.edu/",
   "detailKey": "unit-490373"
  },
  {
@@ -21848,7 +21848,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.westernsem.edu/",
+  "officialUrl": "https://www.westernsem.edu/",
   "detailKey": "unit-172705"
  },
  {
@@ -21886,7 +21886,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,680",
   "tuitionOutState": "$18,680",
   "undergradsCount": "100+",
-  "officialUrl": "www.academycollege.edu/",
+  "officialUrl": "https://www.academycollege.edu/",
   "detailKey": "unit-172866"
  },
  {
@@ -21943,7 +21943,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,452",
   "tuitionOutState": "$45,452",
   "undergradsCount": "2500+",
-  "officialUrl": "www.augsburg.edu/",
+  "officialUrl": "https://www.augsburg.edu/",
   "detailKey": "unit-173045"
  },
  {
@@ -22019,7 +22019,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,200",
   "tuitionOutState": "$8,200",
   "undergradsCount": "100+",
-  "officialUrl": "bcsmn.edu/",
+  "officialUrl": "https://bcsmn.edu/",
   "detailKey": "unit-486053"
  },
  {
@@ -22038,7 +22038,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,400",
   "tuitionOutState": "$14,400",
   "undergradsCount": "18400+",
-  "officialUrl": "www.capella.edu/",
+  "officialUrl": "https://www.capella.edu/",
   "detailKey": "unit-413413"
  },
  {
@@ -22095,7 +22095,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,778",
   "tuitionOutState": "$41,778",
   "undergradsCount": "1800+",
-  "officialUrl": "www.css.edu/",
+  "officialUrl": "https://www.css.edu/",
   "detailKey": "unit-174899"
  },
  {
@@ -22152,7 +22152,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,410",
   "tuitionOutState": "$31,410",
   "undergradsCount": "800+",
-  "officialUrl": "www.crown.edu/",
+  "officialUrl": "https://www.crown.edu/",
   "detailKey": "unit-174862"
  },
  {
@@ -22171,7 +22171,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,836",
   "tuitionOutState": "$27,836",
   "undergradsCount": "1500+",
-  "officialUrl": "www.dunwoody.edu/",
+  "officialUrl": "https://www.dunwoody.edu/",
   "detailKey": "unit-175227"
  },
  {
@@ -22190,7 +22190,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,006",
   "tuitionOutState": "$6,006",
   "undergradsCount": "600+",
-  "officialUrl": "www.fdltcc.edu/",
+  "officialUrl": "https://www.fdltcc.edu/",
   "detailKey": "unit-380368"
  },
  {
@@ -22247,7 +22247,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.hazeldenbettyford.org/education/graduate-school-addiction-studies",
+  "officialUrl": "https://www.hazeldenbettyford.org/education/graduate-school-addiction-studies",
   "detailKey": "unit-173683"
  },
  {
@@ -22304,7 +22304,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,104",
   "tuitionOutState": "$68,104",
   "undergradsCount": "2100+",
-  "officialUrl": "www.macalester.edu/",
+  "officialUrl": "https://www.macalester.edu/",
   "detailKey": "unit-173902"
  },
  {
@@ -22323,7 +22323,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,120",
   "tuitionOutState": "$18,120",
   "undergradsCount": "700+",
-  "officialUrl": "www.mlc-wels.edu/",
+  "officialUrl": "https://www.mlc-wels.edu/",
   "detailKey": "unit-173452"
  },
  {
@@ -22361,7 +22361,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,840",
   "tuitionOutState": "$9,840",
   "undergradsCount": "5600+",
-  "officialUrl": "www.metrostate.edu/",
+  "officialUrl": "https://www.metrostate.edu/",
   "detailKey": "unit-174020"
  },
  {
@@ -22437,7 +22437,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.mitchellhamline.edu/",
+  "officialUrl": "https://www.mitchellhamline.edu/",
   "detailKey": "unit-175281"
  },
  {
@@ -22456,7 +22456,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,220",
   "tuitionOutState": "$32,220",
   "undergradsCount": "700+",
-  "officialUrl": "www.northcentral.edu/",
+  "officialUrl": "https://www.northcentral.edu/",
   "detailKey": "unit-174437"
  },
  {
@@ -22475,7 +22475,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,015",
   "tuitionOutState": "$12,015",
   "undergradsCount": "300+",
-  "officialUrl": "www.nwhealth.edu/",
+  "officialUrl": "https://www.nwhealth.edu/",
   "detailKey": "unit-174507"
  },
  {
@@ -22494,7 +22494,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,440",
   "tuitionOutState": "$19,440",
   "undergradsCount": "100+",
-  "officialUrl": "www.oakhills.edu/",
+  "officialUrl": "https://www.oakhills.edu/",
   "detailKey": "unit-174525"
  },
  {
@@ -22570,7 +22570,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,080",
   "tuitionOutState": "$45,080",
   "undergradsCount": "1100+",
-  "officialUrl": "www.smumn.edu/",
+  "officialUrl": "https://www.smumn.edu/",
   "detailKey": "unit-174817"
  },
  {
@@ -22589,7 +22589,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,361",
   "tuitionOutState": "$10,361",
   "undergradsCount": "2300+",
-  "officialUrl": "www.smsu.edu/",
+  "officialUrl": "https://www.smsu.edu/",
   "detailKey": "unit-175078"
  },
  {
@@ -22627,7 +22627,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,760",
   "tuitionOutState": "$59,760",
   "undergradsCount": "3100+",
-  "officialUrl": "wp.stolaf.edu/",
+  "officialUrl": "https://wp.stolaf.edu/",
   "detailKey": "unit-174844"
  },
  {
@@ -22817,7 +22817,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,576",
   "tuitionOutState": "$17,308",
   "undergradsCount": "5100+",
-  "officialUrl": "www.winona.edu/",
+  "officialUrl": "https://www.winona.edu/",
   "detailKey": "unit-175272"
  },
  {
@@ -22836,7 +22836,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.atsu.edu/",
+  "officialUrl": "https://www.atsu.edu/",
   "detailKey": "unit-177834"
  },
  {
@@ -22912,7 +22912,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,390",
   "tuitionOutState": "$28,390",
   "undergradsCount": "100+",
-  "officialUrl": "www.bolivarcollege.edu/",
+  "officialUrl": "https://www.bolivarcollege.edu/",
   "detailKey": "unit-490203"
  },
  {
@@ -22931,7 +22931,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,094",
   "tuitionOutState": "$14,094",
   "undergradsCount": "200+",
-  "officialUrl": "www.calvary.edu/",
+  "officialUrl": "https://www.calvary.edu/",
   "detailKey": "unit-176789"
  },
  {
@@ -22969,7 +22969,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,440",
   "tuitionOutState": "$7,440",
   "undergradsCount": "2100+",
-  "officialUrl": "www.centralmethodist.edu/",
+  "officialUrl": "https://www.centralmethodist.edu/",
   "detailKey": "unit-445267"
  },
  {
@@ -22988,7 +22988,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,260",
   "tuitionOutState": "$28,260",
   "undergradsCount": "1000+",
-  "officialUrl": "www.centralmethodist.edu/",
+  "officialUrl": "https://www.centralmethodist.edu/",
   "detailKey": "unit-176947"
  },
  {
@@ -23045,7 +23045,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,320",
   "tuitionOutState": "$22,320",
   "undergradsCount": "1400+",
-  "officialUrl": "www.cofo.edu/",
+  "officialUrl": "https://www.cofo.edu/",
   "detailKey": "unit-178697"
  },
  {
@@ -23083,7 +23083,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,206",
   "tuitionOutState": "$26,206",
   "undergradsCount": "0+",
-  "officialUrl": "www.conception.edu/",
+  "officialUrl": "https://www.conception.edu/",
   "detailKey": "unit-177083"
  },
  {
@@ -23216,7 +23216,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,745",
   "tuitionOutState": "$36,745",
   "undergradsCount": "1400+",
-  "officialUrl": "www.drury.edu/",
+  "officialUrl": "https://www.drury.edu/",
   "detailKey": "unit-177214"
  },
  {
@@ -23235,7 +23235,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,054",
   "tuitionOutState": "$8,054",
   "undergradsCount": "600+",
-  "officialUrl": "www.drury.edu/go/",
+  "officialUrl": "https://www.drury.edu/go/",
   "detailKey": "unit-492801"
  },
  {
@@ -23254,7 +23254,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.eden.edu/",
+  "officialUrl": "https://www.eden.edu/",
   "detailKey": "unit-177278"
  },
  {
@@ -23273,7 +23273,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,548",
   "tuitionOutState": "$28,548",
   "undergradsCount": "1200+",
-  "officialUrl": "www.evangel.edu/",
+  "officialUrl": "https://www.evangel.edu/",
   "detailKey": "unit-177339"
  },
  {
@@ -23311,7 +23311,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,880",
   "tuitionOutState": "$26,880",
   "undergradsCount": "400+",
-  "officialUrl": "www.hlg.edu/",
+  "officialUrl": "https://www.hlg.edu/",
   "detailKey": "unit-177542"
  },
  {
@@ -23349,7 +23349,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,550",
   "tuitionOutState": "$44,550",
   "undergradsCount": "800+",
-  "officialUrl": "www.kcai.edu/",
+  "officialUrl": "https://www.kcai.edu/",
   "detailKey": "unit-177746"
  },
  {
@@ -23387,7 +23387,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.kenrick.edu/",
+  "officialUrl": "https://www.kenrick.edu/",
   "detailKey": "unit-177816"
  },
  {
@@ -23482,7 +23482,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,950",
   "tuitionOutState": "$16,950",
   "undergradsCount": "400+",
-  "officialUrl": "www.mission.edu/",
+  "officialUrl": "https://www.mission.edu/",
   "detailKey": "unit-176664"
  },
  {
@@ -23501,7 +23501,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,612",
   "tuitionOutState": "$34,612",
   "undergradsCount": "1500+",
-  "officialUrl": "www.mobap.edu/",
+  "officialUrl": "https://www.mobap.edu/",
   "detailKey": "unit-178244"
  },
  {
@@ -23520,7 +23520,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,960",
   "tuitionOutState": "$17,080",
   "undergradsCount": "3000+",
-  "officialUrl": "www.mssu.edu/",
+  "officialUrl": "https://www.mssu.edu/",
   "detailKey": "unit-178341"
  },
  {
@@ -23615,7 +23615,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nts.edu/",
+  "officialUrl": "https://www.nts.edu/",
   "detailKey": "unit-178518"
  },
  {
@@ -23653,7 +23653,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,000",
   "tuitionOutState": "$16,000",
   "undergradsCount": "600+",
-  "officialUrl": "www.occ.edu/",
+  "officialUrl": "https://www.occ.edu/",
   "detailKey": "unit-178679"
  },
  {
@@ -23672,7 +23672,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,512",
   "tuitionOutState": "$7,200",
   "undergradsCount": "8200+",
-  "officialUrl": "www.otc.edu/",
+  "officialUrl": "https://www.otc.edu/",
   "detailKey": "unit-177472"
  },
  {
@@ -23691,7 +23691,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,500",
   "tuitionOutState": "$17,500",
   "undergradsCount": "4600+",
-  "officialUrl": "www.park.edu/",
+  "officialUrl": "https://www.park.edu/",
   "detailKey": "unit-178721"
  },
  {
@@ -23710,7 +23710,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "phsu.edu/",
+  "officialUrl": "https://phsu.edu/",
   "detailKey": "unit-494010"
  },
  {
@@ -23729,7 +23729,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,008",
   "tuitionOutState": "$18,008",
   "undergradsCount": "1800+",
-  "officialUrl": "www.ranken.edu/",
+  "officialUrl": "https://www.ranken.edu/",
   "detailKey": "unit-178891"
  },
  {
@@ -23748,7 +23748,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "researchcollege.edu/",
+  "officialUrl": "https://researchcollege.edu/",
   "detailKey": "unit-178989"
  },
  {
@@ -23786,7 +23786,7 @@ export const COLLEGES = [
   "tuitionInState": "$55,760",
   "tuitionOutState": "$55,760",
   "undergradsCount": "7300+",
-  "officialUrl": "www.slu.edu/",
+  "officialUrl": "https://www.slu.edu/",
   "detailKey": "unit-179159"
  },
  {
@@ -23805,7 +23805,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,064",
   "tuitionOutState": "$11,064",
   "undergradsCount": "200+",
-  "officialUrl": "www.sehcollege.edu/",
+  "officialUrl": "https://www.sehcollege.edu/",
   "detailKey": "unit-417734"
  },
  {
@@ -23843,7 +23843,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,566",
   "tuitionOutState": "$30,566",
   "undergradsCount": "1300+",
-  "officialUrl": "www.sbuniv.edu/",
+  "officialUrl": "https://www.sbuniv.edu/",
   "detailKey": "unit-179326"
  },
  {
@@ -23862,7 +23862,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "400+",
-  "officialUrl": "www.slchc.edu/",
+  "officialUrl": "https://www.slchc.edu/",
   "detailKey": "unit-442426"
  },
  {
@@ -23900,7 +23900,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,332",
   "tuitionOutState": "$14,332",
   "undergradsCount": "100+",
-  "officialUrl": "www.siba.edu/",
+  "officialUrl": "https://www.siba.edu/",
   "detailKey": "unit-178767"
  },
  {
@@ -23957,7 +23957,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,550",
   "tuitionOutState": "$32,550",
   "undergradsCount": "300+",
-  "officialUrl": "www.uhsp.edu/",
+  "officialUrl": "https://www.uhsp.edu/",
   "detailKey": "unit-179265"
  },
  {
@@ -24052,7 +24052,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,756",
   "tuitionOutState": "$8,756",
   "undergradsCount": "500+",
-  "officialUrl": "urshan.edu/",
+  "officialUrl": "https://urshan.edu/",
   "detailKey": "unit-494685"
  },
  {
@@ -24090,7 +24090,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,750",
   "tuitionOutState": "$31,750",
   "undergradsCount": "2300+",
-  "officialUrl": "www.webster.edu/",
+  "officialUrl": "https://www.webster.edu/",
   "detailKey": "unit-179894"
  },
  {
@@ -24166,7 +24166,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,038",
   "tuitionOutState": "$5,520",
   "undergradsCount": "1200+",
-  "officialUrl": "www.marianas.edu/",
+  "officialUrl": "https://www.marianas.edu/",
   "detailKey": "unit-240790"
  },
  {
@@ -24185,7 +24185,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,785",
   "tuitionOutState": "$8,785",
   "undergradsCount": "2400+",
-  "officialUrl": "www.alcorn.edu/",
+  "officialUrl": "https://www.alcorn.edu/",
   "detailKey": "unit-175342"
  },
  {
@@ -24223,7 +24223,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,180",
   "tuitionOutState": "$20,180",
   "undergradsCount": "500+",
-  "officialUrl": "www.bmc.edu/",
+  "officialUrl": "https://www.bmc.edu/",
   "detailKey": "unit-175430"
  },
  {
@@ -24280,7 +24280,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,680",
   "tuitionOutState": "$44,680",
   "undergradsCount": "500+",
-  "officialUrl": "www.millsaps.edu/",
+  "officialUrl": "https://www.millsaps.edu/",
   "detailKey": "unit-175980"
  },
  {
@@ -24299,7 +24299,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,500",
   "tuitionOutState": "$23,500",
   "undergradsCount": "2500+",
-  "officialUrl": "www.mc.edu/",
+  "officialUrl": "https://www.mc.edu/",
   "detailKey": "unit-176053"
  },
  {
@@ -24356,7 +24356,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,692",
   "tuitionOutState": "$7,692",
   "undergradsCount": "1400+",
-  "officialUrl": "www.mvsu.edu/",
+  "officialUrl": "https://www.mvsu.edu/",
   "detailKey": "unit-176044"
  },
  {
@@ -24375,7 +24375,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,265",
   "tuitionOutState": "$13,265",
   "undergradsCount": "500+",
-  "officialUrl": "www.rustcollege.edu/",
+  "officialUrl": "https://www.rustcollege.edu/",
   "detailKey": "unit-176318"
  },
  {
@@ -24413,7 +24413,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "900+",
-  "officialUrl": "www.strayer.edu/campus-locations/mississippi/jackson",
+  "officialUrl": "https://www.strayer.edu/campus-locations/mississippi/jackson",
   "detailKey": "unit-458955"
  },
  {
@@ -24432,7 +24432,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,407",
   "tuitionOutState": "$12,407",
   "undergradsCount": "600+",
-  "officialUrl": "www.tougaloo.edu/",
+  "officialUrl": "https://www.tougaloo.edu/",
   "detailKey": "unit-176406"
  },
  {
@@ -24451,7 +24451,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,772",
   "tuitionOutState": "$28,600",
   "undergradsCount": "21500+",
-  "officialUrl": "www.olemiss.edu/",
+  "officialUrl": "https://www.olemiss.edu/",
   "detailKey": "unit-176017"
  },
  {
@@ -24546,7 +24546,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,610",
   "tuitionOutState": "$3,610",
   "undergradsCount": "300+",
-  "officialUrl": "bfcc.edu/",
+  "officialUrl": "https://bfcc.edu/",
   "detailKey": "unit-180054"
  },
  {
@@ -24565,7 +24565,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,484",
   "tuitionOutState": "$41,484",
   "undergradsCount": "1100+",
-  "officialUrl": "www.carroll.edu/",
+  "officialUrl": "https://www.carroll.edu/",
   "detailKey": "unit-180106"
  },
  {
@@ -24622,7 +24622,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,982",
   "tuitionOutState": "$21,875",
   "undergradsCount": "800+",
-  "officialUrl": "www.msun.edu/",
+  "officialUrl": "https://www.msun.edu/",
   "detailKey": "unit-180522"
  },
  {
@@ -24679,7 +24679,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,311",
   "tuitionOutState": "$11,583",
   "undergradsCount": "600+",
-  "officialUrl": "www.skc.edu/",
+  "officialUrl": "https://www.skc.edu/",
   "detailKey": "unit-180647"
  },
  {
@@ -24698,7 +24698,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,610",
   "tuitionOutState": "$3,610",
   "undergradsCount": "200+",
-  "officialUrl": "www.stonechild.edu/",
+  "officialUrl": "https://www.stonechild.edu/",
   "detailKey": "unit-366340"
  },
  {
@@ -24717,7 +24717,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,552",
   "tuitionOutState": "$33,671",
   "undergradsCount": "7500+",
-  "officialUrl": "www.umt.edu/",
+  "officialUrl": "https://www.umt.edu/",
   "detailKey": "unit-180489"
  },
  {
@@ -24736,7 +24736,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,670",
   "tuitionOutState": "$20,130",
   "undergradsCount": "1200+",
-  "officialUrl": "umwestern.edu/",
+  "officialUrl": "https://umwestern.edu/",
   "detailKey": "unit-180692"
  },
  {
@@ -24755,7 +24755,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,448",
   "tuitionOutState": "$30,448",
   "undergradsCount": "500+",
-  "officialUrl": "www.uprovidence.edu/",
+  "officialUrl": "https://www.uprovidence.edu/",
   "detailKey": "unit-180258"
  },
  {
@@ -24812,7 +24812,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,500",
   "tuitionOutState": "$19,500",
   "undergradsCount": "1300+",
-  "officialUrl": "www.belmontabbeycollege.edu/",
+  "officialUrl": "https://www.belmontabbeycollege.edu/",
   "detailKey": "unit-197984"
  },
  {
@@ -24907,7 +24907,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,970",
   "tuitionOutState": "$9,970",
   "undergradsCount": "100+",
-  "officialUrl": "www.carolina.edu/",
+  "officialUrl": "https://www.carolina.edu/",
   "detailKey": "unit-199971"
  },
  {
@@ -24926,7 +24926,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,906",
   "tuitionOutState": "$6,906",
   "undergradsCount": "200+",
-  "officialUrl": "ccbs.edu/",
+  "officialUrl": "https://ccbs.edu/",
   "detailKey": "unit-461032"
  },
  {
@@ -24964,7 +24964,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,882",
   "tuitionOutState": "$18,882",
   "undergradsCount": "500+",
-  "officialUrl": "www.carolinascollege.edu/",
+  "officialUrl": "https://www.carolinascollege.edu/",
   "detailKey": "unit-433174"
  },
  {
@@ -24983,7 +24983,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,300",
   "tuitionOutState": "$34,300",
   "undergradsCount": "1200+",
-  "officialUrl": "www.catawba.edu/",
+  "officialUrl": "https://www.catawba.edu/",
   "detailKey": "unit-198215"
  },
  {
@@ -25021,7 +25021,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,858",
   "tuitionOutState": "$12,858",
   "undergradsCount": "0+",
-  "officialUrl": "www.charlottechristian.edu/",
+  "officialUrl": "https://www.charlottechristian.edu/",
   "detailKey": "unit-444778"
  },
  {
@@ -25059,7 +25059,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "daoisttraditions.edu/",
+  "officialUrl": "https://daoisttraditions.edu/",
   "detailKey": "unit-455178"
  },
  {
@@ -25097,7 +25097,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,758",
   "tuitionOutState": "$68,758",
   "undergradsCount": "6400+",
-  "officialUrl": "www.duke.edu/",
+  "officialUrl": "https://www.duke.edu/",
   "detailKey": "unit-198419"
  },
  {
@@ -25192,7 +25192,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,760",
   "tuitionOutState": "$34,760",
   "undergradsCount": "1900+",
-  "officialUrl": "www.gardner-webb.edu/",
+  "officialUrl": "https://www.gardner-webb.edu/",
   "detailKey": "unit-198561"
  },
  {
@@ -25249,7 +25249,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,688",
   "tuitionOutState": "$8,688",
   "undergradsCount": "0+",
-  "officialUrl": "www.heritagebiblecollege.edu/",
+  "officialUrl": "https://www.heritagebiblecollege.edu/",
   "detailKey": "unit-198677"
  },
  {
@@ -25268,7 +25268,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,312",
   "tuitionOutState": "$45,312",
   "undergradsCount": "5100+",
-  "officialUrl": "www.highpoint.edu/",
+  "officialUrl": "https://www.highpoint.edu/",
   "detailKey": "unit-198695"
  },
  {
@@ -25287,7 +25287,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.hoodseminary.edu/",
+  "officialUrl": "https://www.hoodseminary.edu/",
   "detailKey": "unit-443076"
  },
  {
@@ -25344,7 +25344,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.jungtao.edu/",
+  "officialUrl": "https://www.jungtao.edu/",
   "detailKey": "unit-461139"
  },
  {
@@ -25363,7 +25363,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,250",
   "tuitionOutState": "$33,250",
   "undergradsCount": "900+",
-  "officialUrl": "www.lmc.edu/",
+  "officialUrl": "https://www.lmc.edu/",
   "detailKey": "unit-198808"
  },
  {
@@ -25382,7 +25382,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,900",
   "tuitionOutState": "$31,900",
   "undergradsCount": "1400+",
-  "officialUrl": "www.lr.edu/",
+  "officialUrl": "https://www.lr.edu/",
   "detailKey": "unit-198835"
  },
  {
@@ -25401,7 +25401,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,296",
   "tuitionOutState": "$18,296",
   "undergradsCount": "900+",
-  "officialUrl": "livingstone.edu/",
+  "officialUrl": "https://livingstone.edu/",
   "detailKey": "unit-198862"
  },
  {
@@ -25439,7 +25439,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,736",
   "tuitionOutState": "$37,736",
   "undergradsCount": "1000+",
-  "officialUrl": "www.mhu.edu/",
+  "officialUrl": "https://www.mhu.edu/",
   "detailKey": "unit-198899"
  },
  {
@@ -25458,7 +25458,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,630",
   "tuitionOutState": "$45,630",
   "undergradsCount": "1200+",
-  "officialUrl": "www.meredith.edu/",
+  "officialUrl": "https://www.meredith.edu/",
   "detailKey": "unit-198950"
  },
  {
@@ -25477,7 +25477,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,250",
   "tuitionOutState": "$41,250",
   "undergradsCount": "1400+",
-  "officialUrl": "www.methodist.edu/",
+  "officialUrl": "https://www.methodist.edu/",
   "detailKey": "unit-198969"
  },
  {
@@ -25534,7 +25534,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,813",
   "tuitionOutState": "$20,673",
   "undergradsCount": "12200+",
-  "officialUrl": "www.ncat.edu/",
+  "officialUrl": "https://www.ncat.edu/",
   "detailKey": "unit-199102"
  },
  {
@@ -25572,7 +25572,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,799",
   "tuitionOutState": "$32,847",
   "undergradsCount": "27400+",
-  "officialUrl": "www.ncsu.edu/",
+  "officialUrl": "https://www.ncsu.edu/",
   "detailKey": "unit-199193"
  },
  {
@@ -25591,7 +25591,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,736",
   "tuitionOutState": "$35,736",
   "undergradsCount": "1200+",
-  "officialUrl": "www.ncwu.edu/",
+  "officialUrl": "https://www.ncwu.edu/",
   "detailKey": "unit-199209"
  },
  {
@@ -25610,7 +25610,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,070",
   "tuitionOutState": "$35,070",
   "undergradsCount": "700+",
-  "officialUrl": "www.pfeiffer.edu/",
+  "officialUrl": "https://www.pfeiffer.edu/",
   "detailKey": "unit-199306"
  },
  {
@@ -25629,7 +25629,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,846",
   "tuitionOutState": "$45,846",
   "undergradsCount": "1200+",
-  "officialUrl": "www.queens.edu/",
+  "officialUrl": "https://www.queens.edu/",
   "detailKey": "unit-199412"
  },
  {
@@ -25648,7 +25648,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,896",
   "tuitionOutState": "$16,896",
   "undergradsCount": "200+",
-  "officialUrl": "www.st-aug.edu/",
+  "officialUrl": "https://www.st-aug.edu/",
   "detailKey": "unit-199582"
  },
  {
@@ -25667,7 +25667,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,848",
   "tuitionOutState": "$33,848",
   "undergradsCount": "400+",
-  "officialUrl": "www.salem.edu/",
+  "officialUrl": "https://www.salem.edu/",
   "detailKey": "unit-199607"
  },
  {
@@ -25686,7 +25686,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,538",
   "tuitionOutState": "$17,538",
   "undergradsCount": "900+",
-  "officialUrl": "www.shawu.edu/",
+  "officialUrl": "https://www.shawu.edu/",
   "detailKey": "unit-199643"
  },
  {
@@ -25705,7 +25705,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "shepherds.edu/",
+  "officialUrl": "https://shepherds.edu/",
   "detailKey": "unit-461485"
  },
  {
@@ -25724,7 +25724,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "100+",
-  "officialUrl": "www.southuniversity.edu/high-point#location=High Point, NC",
+  "officialUrl": "https://www.southuniversity.edu/high-point#location=High Point, NC",
   "detailKey": "unit-481720"
  },
  {
@@ -25762,7 +25762,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,739",
   "tuitionOutState": "$11,739",
   "undergradsCount": "100+",
-  "officialUrl": "www.sfwbc.edu/",
+  "officialUrl": "https://www.sfwbc.edu/",
   "detailKey": "unit-233602"
  },
  {
@@ -25781,7 +25781,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "2700+",
-  "officialUrl": "www.strayer.edu/campus-locations/north-carolina/greensboro",
+  "officialUrl": "https://www.strayer.edu/campus-locations/north-carolina/greensboro",
   "detailKey": "unit-453163"
  },
  {
@@ -25876,7 +25876,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,661",
   "tuitionOutState": "$24,012",
   "undergradsCount": "14100+",
-  "officialUrl": "www.uncg.edu/",
+  "officialUrl": "https://www.uncg.edu/",
   "detailKey": "unit-199148"
  },
  {
@@ -25914,7 +25914,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,477",
   "tuitionOutState": "$27,211",
   "undergradsCount": "900+",
-  "officialUrl": "www.uncsa.edu/",
+  "officialUrl": "https://www.uncsa.edu/",
   "detailKey": "unit-199184"
  },
  {
@@ -25933,7 +25933,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,277",
   "tuitionOutState": "$24,152",
   "undergradsCount": "14900+",
-  "officialUrl": "www.uncw.edu/",
+  "officialUrl": "https://www.uncw.edu/",
   "detailKey": "unit-199218"
  },
  {
@@ -25952,7 +25952,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,642",
   "tuitionOutState": "$67,642",
   "undergradsCount": "5500+",
-  "officialUrl": "www.wfu.edu/",
+  "officialUrl": "https://www.wfu.edu/",
   "detailKey": "unit-199847"
  },
  {
@@ -25990,7 +25990,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "wattscollegeofnursing.edu/",
+  "officialUrl": "https://wattscollegeofnursing.edu/",
   "detailKey": "unit-199883"
  },
  {
@@ -26009,7 +26009,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,630",
   "tuitionOutState": "$8,630",
   "undergradsCount": "10000+",
-  "officialUrl": "www.wcu.edu/",
+  "officialUrl": "https://www.wcu.edu/",
   "detailKey": "unit-200004"
  },
  {
@@ -26028,7 +26028,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,176",
   "tuitionOutState": "$34,176",
   "undergradsCount": "700+",
-  "officialUrl": "www.peace.edu/",
+  "officialUrl": "https://www.peace.edu/",
   "detailKey": "unit-199272"
  },
  {
@@ -26104,7 +26104,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,118",
   "tuitionOutState": "$9,118",
   "undergradsCount": "1100+",
-  "officialUrl": "www.dickinsonstate.edu/",
+  "officialUrl": "https://www.dickinsonstate.edu/",
   "detailKey": "unit-200059"
  },
  {
@@ -26123,7 +26123,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,979",
   "tuitionOutState": "$11,237",
   "undergradsCount": "700+",
-  "officialUrl": "www.mayvillestate.edu/",
+  "officialUrl": "https://www.mayvillestate.edu/",
   "detailKey": "unit-200226"
  },
  {
@@ -26142,7 +26142,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,702",
   "tuitionOutState": "$8,702",
   "undergradsCount": "2100+",
-  "officialUrl": "www.minotstateu.edu/",
+  "officialUrl": "https://www.minotstateu.edu/",
   "detailKey": "unit-200253"
  },
  {
@@ -26180,7 +26180,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,870",
   "tuitionOutState": "$3,870",
   "undergradsCount": "200+",
-  "officialUrl": "www.nhsc.edu/",
+  "officialUrl": "https://www.nhsc.edu/",
   "detailKey": "unit-200086"
  },
  {
@@ -26237,7 +26237,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,700",
   "tuitionOutState": "$19,700",
   "undergradsCount": "100+",
-  "officialUrl": "trinitybiblecollege.edu/",
+  "officialUrl": "https://trinitybiblecollege.edu/",
   "detailKey": "unit-200484"
  },
  {
@@ -26256,7 +26256,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,794",
   "tuitionOutState": "$2,794",
   "undergradsCount": "500+",
-  "officialUrl": "www.tm.edu/",
+  "officialUrl": "https://www.tm.edu/",
   "detailKey": "unit-200527"
  },
  {
@@ -26294,7 +26294,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,990",
   "tuitionOutState": "$24,990",
   "undergradsCount": "1000+",
-  "officialUrl": "www.uj.edu/",
+  "officialUrl": "https://www.uj.edu/",
   "detailKey": "unit-200156"
  },
  {
@@ -26351,7 +26351,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,514",
   "tuitionOutState": "$13,544",
   "undergradsCount": "1000+",
-  "officialUrl": "www.vcsu.edu/",
+  "officialUrl": "https://www.vcsu.edu/",
   "detailKey": "unit-200572"
  },
  {
@@ -26408,7 +26408,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,290",
   "tuitionOutState": "$8,290",
   "undergradsCount": "1500+",
-  "officialUrl": "www.csc.edu/",
+  "officialUrl": "https://www.csc.edu/",
   "detailKey": "unit-180948"
  },
  {
@@ -26446,7 +26446,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,104",
   "tuitionOutState": "$16,104",
   "undergradsCount": "600+",
-  "officialUrl": "www.clarksoncollege.edu/",
+  "officialUrl": "https://www.clarksoncollege.edu/",
   "detailKey": "unit-180832"
  },
  {
@@ -26484,7 +26484,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,640",
   "tuitionOutState": "$40,640",
   "undergradsCount": "1300+",
-  "officialUrl": "www.cune.edu/",
+  "officialUrl": "https://www.cune.edu/",
   "detailKey": "unit-180984"
  },
  {
@@ -26522,7 +26522,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,985",
   "tuitionOutState": "$43,985",
   "undergradsCount": "1000+",
-  "officialUrl": "www.doane.edu/",
+  "officialUrl": "https://www.doane.edu/",
   "detailKey": "unit-181020"
  },
  {
@@ -26541,7 +26541,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,770",
   "tuitionOutState": "$37,770",
   "undergradsCount": "900+",
-  "officialUrl": "www.hastings.edu/",
+  "officialUrl": "https://www.hastings.edu/",
   "detailKey": "unit-181127"
  },
  {
@@ -26579,7 +26579,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,885",
   "tuitionOutState": "$17,885",
   "undergradsCount": "800+",
-  "officialUrl": "www.methodistcollege.edu/",
+  "officialUrl": "https://www.methodistcollege.edu/",
   "detailKey": "unit-181297"
  },
  {
@@ -26617,7 +26617,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,640",
   "tuitionOutState": "$8,640",
   "undergradsCount": "1100+",
-  "officialUrl": "www.peru.edu/",
+  "officialUrl": "https://www.peru.edu/",
   "detailKey": "unit-181534"
  },
  {
@@ -26655,7 +26655,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,676",
   "tuitionOutState": "$15,284",
   "undergradsCount": "4100+",
-  "officialUrl": "www.unk.edu/",
+  "officialUrl": "https://www.unk.edu/",
   "detailKey": "unit-181215"
  },
  {
@@ -26693,7 +26693,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "900+",
-  "officialUrl": "www.unmc.edu/",
+  "officialUrl": "https://www.unmc.edu/",
   "detailKey": "unit-181428"
  },
  {
@@ -26712,7 +26712,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,434",
   "tuitionOutState": "$28,584",
   "undergradsCount": "19200+",
-  "officialUrl": "www.unl.edu/",
+  "officialUrl": "https://www.unl.edu/",
   "detailKey": "unit-181464"
  },
  {
@@ -26750,7 +26750,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,000",
   "tuitionOutState": "$23,000",
   "undergradsCount": "400+",
-  "officialUrl": "www.york.edu/",
+  "officialUrl": "https://www.york.edu/",
   "detailKey": "unit-181853"
  },
  {
@@ -26769,7 +26769,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.antiochne.edu/",
+  "officialUrl": "https://www.antiochne.edu/",
   "detailKey": "unit-245865"
  },
  {
@@ -26788,7 +26788,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,125",
   "tuitionOutState": "$19,125",
   "undergradsCount": "800+",
-  "officialUrl": "www.colby-sawyer.edu/",
+  "officialUrl": "https://www.colby-sawyer.edu/",
   "detailKey": "unit-182634"
  },
  {
@@ -26845,7 +26845,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,784",
   "tuitionOutState": "$26,840",
   "undergradsCount": "2700+",
-  "officialUrl": "www.keene.edu/",
+  "officialUrl": "https://www.keene.edu/",
   "detailKey": "unit-183062"
  },
  {
@@ -26864,7 +26864,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,938",
   "tuitionOutState": "$41,938",
   "undergradsCount": "1000+",
-  "officialUrl": "www.nec.edu/",
+  "officialUrl": "https://www.nec.edu/",
   "detailKey": "unit-182980"
  },
  {
@@ -26883,7 +26883,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,626",
   "tuitionOutState": "$25,566",
   "undergradsCount": "3200+",
-  "officialUrl": "www.plymouth.edu/",
+  "officialUrl": "https://www.plymouth.edu/",
   "detailKey": "unit-183080"
  },
  {
@@ -26902,7 +26902,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,488",
   "tuitionOutState": "$39,488",
   "undergradsCount": "1200+",
-  "officialUrl": "www.rivier.edu/",
+  "officialUrl": "https://www.rivier.edu/",
   "detailKey": "unit-183211"
  },
  {
@@ -26940,7 +26940,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,200",
   "tuitionOutState": "$17,200",
   "undergradsCount": "163200+",
-  "officialUrl": "www.snhu.edu/",
+  "officialUrl": "https://www.snhu.edu/",
   "detailKey": "unit-183026"
  },
  {
@@ -26959,7 +26959,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,400",
   "tuitionOutState": "$30,400",
   "undergradsCount": "100+",
-  "officialUrl": "www.thomasmorecollege.edu/",
+  "officialUrl": "https://www.thomasmorecollege.edu/",
   "detailKey": "unit-183275"
  },
  {
@@ -27054,7 +27054,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.uvei.edu/",
+  "officialUrl": "https://www.uvei.edu/",
   "detailKey": "unit-440004"
  },
  {
@@ -27092,7 +27092,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,100",
   "tuitionOutState": "$8,100",
   "undergradsCount": "100+",
-  "officialUrl": "www.bmtc.edu/",
+  "officialUrl": "https://www.bmtc.edu/",
   "detailKey": "unit-449658"
  },
  {
@@ -27149,7 +27149,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4000+",
-  "officialUrl": "bmg.edu/",
+  "officialUrl": "https://bmg.edu/",
   "detailKey": "unit-183804"
  },
  {
@@ -27187,7 +27187,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,912",
   "tuitionOutState": "$26,022",
   "undergradsCount": "800+",
-  "officialUrl": "www.bloomfield.edu/",
+  "officialUrl": "https://www.bloomfield.edu/",
   "detailKey": "unit-183822"
  },
  {
@@ -27225,7 +27225,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,732",
   "tuitionOutState": "$37,732",
   "undergradsCount": "900+",
-  "officialUrl": "www.centenaryuniversity.edu/",
+  "officialUrl": "https://www.centenaryuniversity.edu/",
   "detailKey": "unit-183974"
  },
  {
@@ -27301,7 +27301,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,100",
   "tuitionOutState": "$47,100",
   "undergradsCount": "1500+",
-  "officialUrl": "www.drew.edu/",
+  "officialUrl": "https://www.drew.edu/",
   "detailKey": "unit-184348"
  },
  {
@@ -27320,7 +27320,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,383",
   "tuitionOutState": "$18,383",
   "undergradsCount": "500+",
-  "officialUrl": "www.eicollege.edu/",
+  "officialUrl": "https://www.eicollege.edu/",
   "detailKey": "unit-421878"
  },
  {
@@ -27339,7 +27339,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.esatm.edu/",
+  "officialUrl": "https://www.esatm.edu/",
   "detailKey": "unit-446224"
  },
  {
@@ -27358,7 +27358,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,075",
   "tuitionOutState": "$18,075",
   "undergradsCount": "1200+",
-  "officialUrl": "www.eastwickcollege.edu/",
+  "officialUrl": "https://www.eastwickcollege.edu/",
   "detailKey": "unit-183488"
  },
  {
@@ -27377,7 +27377,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,057",
   "tuitionOutState": "$18,057",
   "undergradsCount": "1200+",
-  "officialUrl": "www.eastwickcollege.edu/",
+  "officialUrl": "https://www.eastwickcollege.edu/",
   "detailKey": "unit-184959"
  },
  {
@@ -27453,7 +27453,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.hmsom.edu/en",
+  "officialUrl": "https://www.hmsom.edu/en",
   "detailKey": "unit-495314"
  },
  {
@@ -27491,7 +27491,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,460",
   "tuitionOutState": "$12,460",
   "undergradsCount": "100+",
-  "officialUrl": "www.mayanhatalmud.org/",
+  "officialUrl": "https://www.mayanhatalmud.org/",
   "detailKey": "unit-461847"
  },
  {
@@ -27529,7 +27529,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,912",
   "tuitionOutState": "$26,022",
   "undergradsCount": "18400+",
-  "officialUrl": "www.montclair.edu/",
+  "officialUrl": "https://www.montclair.edu/",
   "detailKey": "unit-185590"
  },
  {
@@ -27567,7 +27567,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nbts.edu/",
+  "officialUrl": "https://www.nbts.edu/",
   "detailKey": "unit-185758"
  },
  {
@@ -27624,7 +27624,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,900",
   "tuitionOutState": "$25,900",
   "undergradsCount": "500+",
-  "officialUrl": "www.pillar.edu/",
+  "officialUrl": "https://www.pillar.edu/",
   "detailKey": "unit-440794"
  },
  {
@@ -27643,7 +27643,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ptsem.edu/",
+  "officialUrl": "https://www.ptsem.edu/",
   "detailKey": "unit-186122"
  },
  {
@@ -27662,7 +27662,7 @@ export const COLLEGES = [
   "tuitionInState": "$62,688",
   "tuitionOutState": "$62,688",
   "undergradsCount": "5700+",
-  "officialUrl": "www.princeton.edu/",
+  "officialUrl": "https://www.princeton.edu/",
   "detailKey": "unit-186131"
  },
  {
@@ -27700,7 +27700,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,650",
   "tuitionOutState": "$10,650",
   "undergradsCount": "200+",
-  "officialUrl": "www.rca.edu/",
+  "officialUrl": "https://www.rca.edu/",
   "detailKey": "unit-186186"
  },
  {
@@ -27738,7 +27738,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,777",
   "tuitionOutState": "$27,708",
   "undergradsCount": "4900+",
-  "officialUrl": "www.ramapo.edu/",
+  "officialUrl": "https://www.ramapo.edu/",
   "detailKey": "unit-186201"
  },
  {
@@ -27757,7 +27757,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,120",
   "tuitionOutState": "$41,120",
   "undergradsCount": "3100+",
-  "officialUrl": "www.rider.edu/",
+  "officialUrl": "https://www.rider.edu/",
   "detailKey": "unit-186283"
  },
  {
@@ -27852,7 +27852,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,741",
   "tuitionOutState": "$36,741",
   "undergradsCount": "600+",
-  "officialUrl": "www.steu.edu/",
+  "officialUrl": "https://www.steu.edu/",
   "detailKey": "unit-186618"
  },
  {
@@ -27871,7 +27871,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,552",
   "tuitionOutState": "$42,552",
   "undergradsCount": "2100+",
-  "officialUrl": "www.saintpeters.edu/",
+  "officialUrl": "https://www.saintpeters.edu/",
   "detailKey": "unit-186432"
  },
  {
@@ -27909,7 +27909,7 @@ export const COLLEGES = [
   "tuitionInState": "$63,462",
   "tuitionOutState": "$63,462",
   "undergradsCount": "4200+",
-  "officialUrl": "www.stevens.edu/",
+  "officialUrl": "https://www.stevens.edu/",
   "detailKey": "unit-186867"
  },
  {
@@ -27947,7 +27947,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "700+",
-  "officialUrl": "www.strayer.edu/campus-locations/new-jersey/piscataway",
+  "officialUrl": "https://www.strayer.edu/campus-locations/new-jersey/piscataway",
   "detailKey": "unit-453215"
  },
  {
@@ -27985,7 +27985,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,838",
   "tuitionOutState": "$8,856",
   "undergradsCount": "6700+",
-  "officialUrl": "www.tesu.edu/",
+  "officialUrl": "https://www.tesu.edu/",
   "detailKey": "unit-187046"
  },
  {
@@ -28004,7 +28004,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,704",
   "tuitionOutState": "$25,344",
   "undergradsCount": "6600+",
-  "officialUrl": "www.wpunj.edu/",
+  "officialUrl": "https://www.wpunj.edu/",
   "detailKey": "unit-187444"
  },
  {
@@ -28023,7 +28023,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,150",
   "tuitionOutState": "$12,150",
   "undergradsCount": "100+",
-  "officialUrl": "www.yeshivachemdashatorah.com/",
+  "officialUrl": "https://www.yeshivachemdashatorah.com/",
   "detailKey": "unit-491622"
  },
  {
@@ -28042,7 +28042,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,700",
   "tuitionOutState": "$13,700",
   "undergradsCount": "100+",
-  "officialUrl": "yeshivatyy.com/",
+  "officialUrl": "https://yeshivatyy.com/",
   "detailKey": "unit-493716"
  },
  {
@@ -28118,7 +28118,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,030",
   "tuitionOutState": "$9,030",
   "undergradsCount": "100+",
-  "officialUrl": "yeshivaohrzechariah.com/",
+  "officialUrl": "https://yeshivaohrzechariah.com/",
   "detailKey": "unit-493707"
  },
  {
@@ -28213,7 +28213,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,500",
   "tuitionOutState": "$12,500",
   "undergradsCount": "100+",
-  "officialUrl": "yeshivayesodeihatorahlakewood.com/",
+  "officialUrl": "https://yeshivayesodeihatorahlakewood.com/",
   "detailKey": "unit-481438"
  },
  {
@@ -28251,7 +28251,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,750",
   "tuitionOutState": "$9,750",
   "undergradsCount": "100+",
-  "officialUrl": "yeshivasemekhatorah.com/",
+  "officialUrl": "https://yeshivasemekhatorah.com/",
   "detailKey": "unit-491765"
  },
  {
@@ -28308,7 +28308,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,194",
   "tuitionOutState": "$9,174",
   "undergradsCount": "3400+",
-  "officialUrl": "www.enmu.edu/",
+  "officialUrl": "https://www.enmu.edu/",
   "detailKey": "unit-187648"
  },
  {
@@ -28346,7 +28346,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,346",
   "tuitionOutState": "$4,346",
   "undergradsCount": "1100+",
-  "officialUrl": "www.navajotech.edu/",
+  "officialUrl": "https://www.navajotech.edu/",
   "detailKey": "unit-187596"
  },
  {
@@ -28403,7 +28403,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,183",
   "tuitionOutState": "$25,307",
   "undergradsCount": "11900+",
-  "officialUrl": "www.nmsu.edu/",
+  "officialUrl": "https://www.nmsu.edu/",
   "detailKey": "unit-188030"
  },
  {
@@ -28460,7 +28460,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,140",
   "tuitionOutState": "$33,060",
   "undergradsCount": "17200+",
-  "officialUrl": "www.unm.edu/",
+  "officialUrl": "https://www.unm.edu/",
   "detailKey": "unit-187985"
  },
  {
@@ -28498,7 +28498,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,856",
   "tuitionOutState": "$14,342",
   "undergradsCount": "2000+",
-  "officialUrl": "wnmu.edu/",
+  "officialUrl": "https://wnmu.edu/",
   "detailKey": "unit-188304"
  },
  {
@@ -28555,7 +28555,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,358",
   "tuitionOutState": "$13,024",
   "undergradsCount": "27300+",
-  "officialUrl": "www.csn.edu/",
+  "officialUrl": "https://www.csn.edu/",
   "detailKey": "unit-182005"
  },
  {
@@ -28593,7 +28593,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,923",
   "tuitionOutState": "$13,883",
   "undergradsCount": "1900+",
-  "officialUrl": "www.gbcnv.edu/",
+  "officialUrl": "https://www.gbcnv.edu/",
   "detailKey": "unit-182306"
  },
  {
@@ -28650,7 +28650,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "500+",
-  "officialUrl": "www.roseman.edu/",
+  "officialUrl": "https://www.roseman.edu/",
   "detailKey": "unit-445735"
  },
  {
@@ -28669,7 +28669,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.tun.touro.edu/",
+  "officialUrl": "https://www.tun.touro.edu/",
   "detailKey": "unit-459824"
  },
  {
@@ -28688,7 +28688,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,352",
   "tuitionOutState": "$12,018",
   "undergradsCount": "7700+",
-  "officialUrl": "www.tmcc.edu/",
+  "officialUrl": "https://www.tmcc.edu/",
   "detailKey": "unit-182500"
  },
  {
@@ -28707,7 +28707,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,748",
   "tuitionOutState": "$27,411",
   "undergradsCount": "24600+",
-  "officialUrl": "www.unlv.edu/",
+  "officialUrl": "https://www.unlv.edu/",
   "detailKey": "unit-182281"
  },
  {
@@ -28726,7 +28726,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,578",
   "tuitionOutState": "$27,720",
   "undergradsCount": "15600+",
-  "officialUrl": "www.unr.edu/",
+  "officialUrl": "https://www.unr.edu/",
   "detailKey": "unit-182290"
  },
  {
@@ -28745,7 +28745,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,168",
   "tuitionOutState": "$12,834",
   "undergradsCount": "1900+",
-  "officialUrl": "www.wnc.edu/",
+  "officialUrl": "https://www.wnc.edu/",
   "detailKey": "unit-182564"
  },
  {
@@ -28764,7 +28764,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wongu.edu/",
+  "officialUrl": "https://www.wongu.edu/",
   "detailKey": "unit-488907"
  },
  {
@@ -28802,7 +28802,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,110",
   "tuitionOutState": "$49,110",
   "undergradsCount": "5300+",
-  "officialUrl": "www.adelphi.edu/",
+  "officialUrl": "https://www.adelphi.edu/",
   "detailKey": "unit-188429"
  },
  {
@@ -28821,7 +28821,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,475",
   "tuitionOutState": "$41,475",
   "undergradsCount": "500+",
-  "officialUrl": "www.acphs.edu/",
+  "officialUrl": "https://www.acphs.edu/",
   "detailKey": "unit-188526"
  },
  {
@@ -28840,7 +28840,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.albanylaw.edu/",
+  "officialUrl": "https://www.albanylaw.edu/",
   "detailKey": "unit-188535"
  },
  {
@@ -28859,7 +28859,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.amc.edu/",
+  "officialUrl": "https://www.amc.edu/",
   "detailKey": "unit-188580"
  },
  {
@@ -28878,7 +28878,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.einsteinmed.edu/",
+  "officialUrl": "https://www.einsteinmed.edu/",
   "detailKey": "unit-385415"
  },
  {
@@ -28897,7 +28897,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,500",
   "tuitionOutState": "$41,500",
   "undergradsCount": "1400+",
-  "officialUrl": "www.alfred.edu/",
+  "officialUrl": "https://www.alfred.edu/",
   "detailKey": "unit-188641"
  },
  {
@@ -28916,7 +28916,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,928",
   "tuitionOutState": "$46,928",
   "undergradsCount": "1400+",
-  "officialUrl": "www.amda.edu/",
+  "officialUrl": "https://www.amda.edu/",
   "detailKey": "unit-188854"
  },
  {
@@ -28935,7 +28935,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,600",
   "tuitionOutState": "$8,600",
   "undergradsCount": "100+",
-  "officialUrl": "baismedroshelyon.com/",
+  "officialUrl": "https://baismedroshelyon.com/",
   "detailKey": "unit-245777"
  },
  {
@@ -28973,7 +28973,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.bankstreet.edu/",
+  "officialUrl": "https://www.bankstreet.edu/",
   "detailKey": "unit-189015"
  },
  {
@@ -28992,7 +28992,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,436",
   "tuitionOutState": "$66,436",
   "undergradsCount": "2400+",
-  "officialUrl": "www.bard.edu/",
+  "officialUrl": "https://www.bard.edu/",
   "detailKey": "unit-189088"
  },
  {
@@ -29011,7 +29011,7 @@ export const COLLEGES = [
   "tuitionInState": "$69,888",
   "tuitionOutState": "$69,888",
   "undergradsCount": "3300+",
-  "officialUrl": "www.barnard.edu/",
+  "officialUrl": "https://www.barnard.edu/",
   "detailKey": "unit-189097"
  },
  {
@@ -29030,7 +29030,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,300",
   "tuitionOutState": "$12,300",
   "undergradsCount": "800+",
-  "officialUrl": "www.byts.edu/",
+  "officialUrl": "https://www.byts.edu/",
   "detailKey": "unit-476717"
  },
  {
@@ -29049,7 +29049,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,480",
   "tuitionOutState": "$10,480",
   "undergradsCount": "200+",
-  "officialUrl": "www.heichaldovid.org/",
+  "officialUrl": "https://www.heichaldovid.org/",
   "detailKey": "unit-444413"
  },
  {
@@ -29087,7 +29087,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,700",
   "tuitionOutState": "$10,700",
   "undergradsCount": "100+",
-  "officialUrl": "betmedrashgadolaterettorah.com/",
+  "officialUrl": "https://betmedrashgadolaterettorah.com/",
   "detailKey": "unit-485999"
  },
  {
@@ -29106,7 +29106,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,000",
   "tuitionOutState": "$12,000",
   "undergradsCount": "100+",
-  "officialUrl": "bhsy.edu/",
+  "officialUrl": "https://bhsy.edu/",
   "detailKey": "unit-189273"
  },
  {
@@ -29144,7 +29144,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,567",
   "tuitionOutState": "$30,447",
   "undergradsCount": "14700+",
-  "officialUrl": "www.binghamton.edu/",
+  "officialUrl": "https://www.binghamton.edu/",
   "detailKey": "unit-196079"
  },
  {
@@ -29410,7 +29410,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,490",
   "tuitionOutState": "$15,440",
   "undergradsCount": "9700+",
-  "officialUrl": "www.csi.cuny.edu/",
+  "officialUrl": "https://www.csi.cuny.edu/",
   "detailKey": "unit-190558"
  },
  {
@@ -29429,7 +29429,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,191",
   "tuitionOutState": "$25,191",
   "undergradsCount": "800+",
-  "officialUrl": "www.cw.edu/",
+  "officialUrl": "https://www.cw.edu/",
   "detailKey": "unit-197285"
  },
  {
@@ -29448,7 +29448,7 @@ export const COLLEGES = [
   "tuitionInState": "$71,845",
   "tuitionOutState": "$71,845",
   "undergradsCount": "9000+",
-  "officialUrl": "www.columbia.edu/",
+  "officialUrl": "https://www.columbia.edu/",
   "detailKey": "unit-190150"
  },
  {
@@ -29467,7 +29467,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,125",
   "tuitionOutState": "$14,125",
   "undergradsCount": "200+",
-  "officialUrl": "yeshivaaleksander.org/",
+  "officialUrl": "https://yeshivaaleksander.org/",
   "detailKey": "unit-493600"
  },
  {
@@ -29524,7 +29524,7 @@ export const COLLEGES = [
   "tuitionInState": "$69,314",
   "tuitionOutState": "$69,314",
   "undergradsCount": "16000+",
-  "officialUrl": "www.cornell.edu/",
+  "officialUrl": "https://www.cornell.edu/",
   "detailKey": "unit-190415"
  },
  {
@@ -29543,7 +29543,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,850",
   "tuitionOutState": "$39,850",
   "undergradsCount": "3000+",
-  "officialUrl": "www.ciachef.edu/",
+  "officialUrl": "https://www.ciachef.edu/",
   "detailKey": "unit-190503"
  },
  {
@@ -29562,7 +29562,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,464",
   "tuitionOutState": "$15,414",
   "undergradsCount": "16200+",
-  "officialUrl": "www.baruch.cuny.edu/",
+  "officialUrl": "https://www.baruch.cuny.edu/",
   "detailKey": "unit-190512"
  },
  {
@@ -29581,7 +29581,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,452",
   "tuitionOutState": "$15,402",
   "undergradsCount": "10500+",
-  "officialUrl": "www.brooklyn.edu/",
+  "officialUrl": "https://www.brooklyn.edu/",
   "detailKey": "unit-190549"
  },
  {
@@ -29600,7 +29600,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,340",
   "tuitionOutState": "$15,290",
   "undergradsCount": "12500+",
-  "officialUrl": "www.ccny.cuny.edu/",
+  "officialUrl": "https://www.ccny.cuny.edu/",
   "detailKey": "unit-190567"
  },
  {
@@ -29619,7 +29619,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,235",
   "tuitionOutState": "$15,185",
   "undergradsCount": "3300+",
-  "officialUrl": "www.gc.cuny.edu/",
+  "officialUrl": "https://www.gc.cuny.edu/",
   "detailKey": "unit-190576"
  },
  {
@@ -29638,7 +29638,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,382",
   "tuitionOutState": "$15,332",
   "undergradsCount": "16300+",
-  "officialUrl": "www.hunter.cuny.edu/",
+  "officialUrl": "https://www.hunter.cuny.edu/",
   "detailKey": "unit-190594"
  },
  {
@@ -29657,7 +29657,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,470",
   "tuitionOutState": "$15,420",
   "undergradsCount": "11600+",
-  "officialUrl": "www.jjay.cuny.edu/",
+  "officialUrl": "https://www.jjay.cuny.edu/",
   "detailKey": "unit-190600"
  },
  {
@@ -29676,7 +29676,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,410",
   "tuitionOutState": "$15,360",
   "undergradsCount": "10700+",
-  "officialUrl": "www.lehman.edu/",
+  "officialUrl": "https://www.lehman.edu/",
   "detailKey": "unit-190637"
  },
  {
@@ -29714,7 +29714,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,332",
   "tuitionOutState": "$15,282",
   "undergradsCount": "13600+",
-  "officialUrl": "www.citytech.cuny.edu/",
+  "officialUrl": "https://www.citytech.cuny.edu/",
   "detailKey": "unit-190655"
  },
  {
@@ -29771,7 +29771,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,358",
   "tuitionOutState": "$15,308",
   "undergradsCount": "4300+",
-  "officialUrl": "www.york.cuny.edu/",
+  "officialUrl": "https://www.york.cuny.edu/",
   "detailKey": "unit-190691"
  },
  {
@@ -29809,7 +29809,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,218",
   "tuitionOutState": "$35,218",
   "undergradsCount": "1600+",
-  "officialUrl": "www.daemen.edu/",
+  "officialUrl": "https://www.daemen.edu/",
   "detailKey": "unit-190725"
  },
  {
@@ -29866,7 +29866,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,220",
   "tuitionOutState": "$34,220",
   "undergradsCount": "1100+",
-  "officialUrl": "www.duny.edu/",
+  "officialUrl": "https://www.duny.edu/",
   "detailKey": "unit-190761"
  },
  {
@@ -29904,7 +29904,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine",
+  "officialUrl": "https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine",
   "detailKey": "unit-486080"
  },
  {
@@ -29942,7 +29942,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,648",
   "tuitionOutState": "$17,558",
   "undergradsCount": "7600+",
-  "officialUrl": "www.sunyempire.edu/",
+  "officialUrl": "https://www.sunyempire.edu/",
   "detailKey": "unit-196264"
  },
  {
@@ -29961,7 +29961,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "11600+",
-  "officialUrl": "www.excelsior.edu/",
+  "officialUrl": "https://www.excelsior.edu/",
   "detailKey": "unit-196680"
  },
  {
@@ -29980,7 +29980,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,626",
   "tuitionOutState": "$18,536",
   "undergradsCount": "9600+",
-  "officialUrl": "www.farmingdale.edu/",
+  "officialUrl": "https://www.farmingdale.edu/",
   "detailKey": "unit-196042"
  },
  {
@@ -29999,7 +29999,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,294",
   "tuitionOutState": "$16,874",
   "undergradsCount": "7600+",
-  "officialUrl": "www.fitnyc.edu/",
+  "officialUrl": "https://www.fitnyc.edu/",
   "detailKey": "unit-191126"
  },
  {
@@ -30018,7 +30018,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,250",
   "tuitionOutState": "$30,250",
   "undergradsCount": "500+",
-  "officialUrl": "www.ftc.edu/",
+  "officialUrl": "https://www.ftc.edu/",
   "detailKey": "unit-191205"
  },
  {
@@ -30075,7 +30075,7 @@ export const COLLEGES = [
   "tuitionInState": "$54,962",
   "tuitionOutState": "$54,962",
   "undergradsCount": "1100+",
-  "officialUrl": "www.hartwick.edu/",
+  "officialUrl": "https://www.hartwick.edu/",
   "detailKey": "unit-191533"
  },
  {
@@ -30094,7 +30094,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.huc.edu/",
+  "officialUrl": "https://www.huc.edu/",
   "detailKey": "unit-203067"
  },
  {
@@ -30132,7 +30132,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,740",
   "tuitionOutState": "$33,740",
   "undergradsCount": "900+",
-  "officialUrl": "www.hilbert.edu/",
+  "officialUrl": "https://www.hilbert.edu/",
   "detailKey": "unit-191621"
  },
  {
@@ -30170,7 +30170,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,117",
   "tuitionOutState": "$65,117",
   "undergradsCount": "1800+",
-  "officialUrl": "www.hws.edu/",
+  "officialUrl": "https://www.hws.edu/",
   "detailKey": "unit-191630"
  },
  {
@@ -30189,7 +30189,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,660",
   "tuitionOutState": "$57,660",
   "undergradsCount": "6500+",
-  "officialUrl": "www.hofstra.edu/",
+  "officialUrl": "https://www.hofstra.edu/",
   "detailKey": "unit-191649"
  },
  {
@@ -30208,7 +30208,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,430",
   "tuitionOutState": "$18,430",
   "undergradsCount": "800+",
-  "officialUrl": "www.houghton.edu/",
+  "officialUrl": "https://www.houghton.edu/",
   "detailKey": "unit-191676"
  },
  {
@@ -30227,7 +30227,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "icahn.mssm.edu/",
+  "officialUrl": "https://icahn.mssm.edu/",
   "detailKey": "unit-193405"
  },
  {
@@ -30246,7 +30246,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,260",
   "tuitionOutState": "$47,260",
   "undergradsCount": "3000+",
-  "officialUrl": "www.iona.edu/",
+  "officialUrl": "https://www.iona.edu/",
   "detailKey": "unit-191931"
  },
  {
@@ -30284,7 +30284,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,357",
   "tuitionOutState": "$67,357",
   "undergradsCount": "200+",
-  "officialUrl": "www.jtsa.edu/",
+  "officialUrl": "https://www.jtsa.edu/",
   "detailKey": "unit-192040"
  },
  {
@@ -30303,7 +30303,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,950",
   "tuitionOutState": "$57,950",
   "undergradsCount": "500+",
-  "officialUrl": "www.juilliard.edu/",
+  "officialUrl": "https://www.juilliard.edu/",
   "detailKey": "unit-192110"
  },
  {
@@ -30322,7 +30322,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,200",
   "tuitionOutState": "$13,200",
   "undergradsCount": "200+",
-  "officialUrl": "kehilathyakov.com/",
+  "officialUrl": "https://kehilathyakov.com/",
   "detailKey": "unit-192165"
  },
  {
@@ -30360,7 +30360,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,330",
   "tuitionOutState": "$40,330",
   "undergradsCount": "2400+",
-  "officialUrl": "www.lemoyne.edu/",
+  "officialUrl": "https://www.lemoyne.edu/",
   "detailKey": "unit-192323"
  },
  {
@@ -30379,7 +30379,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,504",
   "tuitionOutState": "$33,504",
   "undergradsCount": "1200+",
-  "officialUrl": "www.limcollege.edu/",
+  "officialUrl": "https://www.limcollege.edu/",
   "detailKey": "unit-192271"
  },
  {
@@ -30398,7 +30398,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,432",
   "tuitionOutState": "$42,432",
   "undergradsCount": "5500+",
-  "officialUrl": "www.liu.edu/",
+  "officialUrl": "https://www.liu.edu/",
   "detailKey": "unit-192448"
  },
  {
@@ -30455,7 +30455,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,400",
   "tuitionOutState": "$53,400",
   "undergradsCount": "2700+",
-  "officialUrl": "www.manhattan.edu/",
+  "officialUrl": "https://www.manhattan.edu/",
   "detailKey": "unit-192703"
  },
  {
@@ -30493,7 +30493,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,740",
   "tuitionOutState": "$18,740",
   "undergradsCount": "700+",
-  "officialUrl": "www.mariacollege.edu/",
+  "officialUrl": "https://www.mariacollege.edu/",
   "detailKey": "unit-192785"
  },
  {
@@ -30512,7 +30512,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,750",
   "tuitionOutState": "$47,750",
   "undergradsCount": "5200+",
-  "officialUrl": "www.marist.edu/",
+  "officialUrl": "https://www.marist.edu/",
   "detailKey": "unit-192819"
  },
  {
@@ -30531,7 +30531,7 @@ export const COLLEGES = [
   "tuitionInState": "$41,870",
   "tuitionOutState": "$41,870",
   "undergradsCount": "1600+",
-  "officialUrl": "www.mmm.edu/",
+  "officialUrl": "https://www.mmm.edu/",
   "detailKey": "unit-192864"
  },
  {
@@ -30626,7 +30626,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,200",
   "tuitionOutState": "$15,200",
   "undergradsCount": "400+",
-  "officialUrl": "independentrabbinicalcolleges.org/index.html",
+  "officialUrl": "https://independentrabbinicalcolleges.org/index.html",
   "detailKey": "unit-193052"
  },
  {
@@ -30645,7 +30645,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,250",
   "tuitionOutState": "$13,250",
   "undergradsCount": "100+",
-  "officialUrl": "mtj.edu/",
+  "officialUrl": "https://mtj.edu/",
   "detailKey": "unit-193070"
  },
  {
@@ -30683,7 +30683,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,600",
   "tuitionOutState": "$13,600",
   "undergradsCount": "100+",
-  "officialUrl": "www.mirreryeshiva.co/",
+  "officialUrl": "https://www.mirreryeshiva.co/",
   "detailKey": "unit-193247"
  },
  {
@@ -30702,7 +30702,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,790",
   "tuitionOutState": "$39,790",
   "undergradsCount": "3200+",
-  "officialUrl": "www.molloy.edu/",
+  "officialUrl": "https://www.molloy.edu/",
   "detailKey": "unit-193292"
  },
  {
@@ -30721,7 +30721,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,464",
   "tuitionOutState": "$18,464",
   "undergradsCount": "5700+",
-  "officialUrl": "www.monroecollege.edu/",
+  "officialUrl": "https://www.monroecollege.edu/",
   "detailKey": "unit-193308"
  },
  {
@@ -30740,7 +30740,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,450",
   "tuitionOutState": "$43,450",
   "undergradsCount": "1100+",
-  "officialUrl": "www.msmc.edu/",
+  "officialUrl": "https://www.msmc.edu/",
   "detailKey": "unit-193353"
  },
  {
@@ -30759,7 +30759,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.pson.edu/",
+  "officialUrl": "https://www.pson.edu/",
   "detailKey": "unit-189282"
  },
  {
@@ -30816,7 +30816,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "nyaa.edu/",
+  "officialUrl": "https://nyaa.edu/",
   "detailKey": "unit-366368"
  },
  {
@@ -30854,7 +30854,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nycpm.edu/",
+  "officialUrl": "https://www.nycpm.edu/",
   "detailKey": "unit-194073"
  },
  {
@@ -30911,7 +30911,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nyls.edu/",
+  "officialUrl": "https://www.nyls.edu/",
   "detailKey": "unit-193821"
  },
  {
@@ -30949,7 +30949,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,330",
   "tuitionOutState": "$32,330",
   "undergradsCount": "400+",
-  "officialUrl": "www.nysid.edu/",
+  "officialUrl": "https://www.nysid.edu/",
   "detailKey": "unit-194116"
  },
  {
@@ -30987,7 +30987,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,345",
   "tuitionOutState": "$39,345",
   "undergradsCount": "2700+",
-  "officialUrl": "www.niagara.edu/",
+  "officialUrl": "https://www.niagara.edu/",
   "detailKey": "unit-193973"
  },
  {
@@ -31025,7 +31025,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nes.edu/",
+  "officialUrl": "https://www.nes.edu/",
   "detailKey": "unit-439817"
  },
  {
@@ -31063,7 +31063,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,290",
   "tuitionOutState": "$53,290",
   "undergradsCount": "7700+",
-  "officialUrl": "www.pace.edu/",
+  "officialUrl": "https://www.pace.edu/",
   "detailKey": "unit-194310"
  },
  {
@@ -31101,7 +31101,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,450",
   "tuitionOutState": "$15,450",
   "undergradsCount": "1000+",
-  "officialUrl": "www.plazacollege.edu/",
+  "officialUrl": "https://www.plazacollege.edu/",
   "detailKey": "unit-194499"
  },
  {
@@ -31177,7 +31177,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,000",
   "tuitionOutState": "$10,000",
   "undergradsCount": "500+",
-  "officialUrl": "rabbinicalcollegeboboveryeshiva.edu/",
+  "officialUrl": "https://rabbinicalcollegeboboveryeshiva.edu/",
   "detailKey": "unit-194666"
  },
  {
@@ -31234,7 +31234,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,000",
   "tuitionOutState": "$9,000",
   "undergradsCount": "100+",
-  "officialUrl": "www.rabbinicalcollegeohryisroel.com/",
+  "officialUrl": "https://www.rabbinicalcollegeohryisroel.com/",
   "detailKey": "unit-484871"
  },
  {
@@ -31253,7 +31253,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,000",
   "tuitionOutState": "$10,000",
   "undergradsCount": "400+",
-  "officialUrl": "www.rabbinical.org/",
+  "officialUrl": "https://www.rabbinical.org/",
   "detailKey": "unit-194763"
  },
  {
@@ -31272,7 +31272,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.relay.edu/",
+  "officialUrl": "https://www.relay.edu/",
   "detailKey": "unit-475033"
  },
  {
@@ -31291,7 +31291,7 @@ export const COLLEGES = [
   "tuitionInState": "$64,081",
   "tuitionOutState": "$64,081",
   "undergradsCount": "5700+",
-  "officialUrl": "www.rpi.edu/",
+  "officialUrl": "https://www.rpi.edu/",
   "detailKey": "unit-194824"
  },
  {
@@ -31310,7 +31310,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,826",
   "tuitionOutState": "$38,826",
   "undergradsCount": "1100+",
-  "officialUrl": "www.roberts.edu/",
+  "officialUrl": "https://www.roberts.edu/",
   "detailKey": "unit-194958"
  },
  {
@@ -31329,7 +31329,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,274",
   "tuitionOutState": "$59,274",
   "undergradsCount": "13200+",
-  "officialUrl": "www.rit.edu/",
+  "officialUrl": "https://www.rit.edu/",
   "detailKey": "unit-195003"
  },
  {
@@ -31348,7 +31348,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.rockefeller.edu/",
+  "officialUrl": "https://www.rockefeller.edu/",
   "detailKey": "unit-195049"
  },
  {
@@ -31367,7 +31367,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,164",
   "tuitionOutState": "$38,164",
   "undergradsCount": "1200+",
-  "officialUrl": "sage.edu/",
+  "officialUrl": "https://sage.edu/",
   "detailKey": "unit-195128"
  },
  {
@@ -31386,7 +31386,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.svots.edu/",
+  "officialUrl": "https://www.svots.edu/",
   "detailKey": "unit-195580"
  },
  {
@@ -31405,7 +31405,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,862",
   "tuitionOutState": "$66,862",
   "undergradsCount": "1500+",
-  "officialUrl": "www.sarahlawrence.edu/",
+  "officialUrl": "https://www.sarahlawrence.edu/",
   "detailKey": "unit-195304"
  },
  {
@@ -31481,7 +31481,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,780",
   "tuitionOutState": "$68,780",
   "undergradsCount": "200+",
-  "officialUrl": "www.simons-rock.edu/",
+  "officialUrl": "https://www.simons-rock.edu/",
   "detailKey": "unit-167792"
  },
  {
@@ -31500,7 +31500,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,290",
   "tuitionOutState": "$67,290",
   "undergradsCount": "2700+",
-  "officialUrl": "www.skidmore.edu/",
+  "officialUrl": "https://www.skidmore.edu/",
   "detailKey": "unit-195526"
  },
  {
@@ -31519,7 +31519,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.sothebysinstitute.com/Programmes/PNewyork.aspx",
+  "officialUrl": "https://www.sothebysinstitute.com/Programmes/PNewyork.aspx",
   "detailKey": "unit-481094"
  },
  {
@@ -31538,7 +31538,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.stbernards.edu/",
+  "officialUrl": "https://www.stbernards.edu/",
   "detailKey": "unit-195155"
  },
  {
@@ -31633,7 +31633,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,020",
   "tuitionOutState": "$53,020",
   "undergradsCount": "9500+",
-  "officialUrl": "www.stjohns.edu/",
+  "officialUrl": "https://www.stjohns.edu/",
   "detailKey": "unit-195809"
  },
  {
@@ -31671,7 +31671,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,450",
   "tuitionOutState": "$39,450",
   "undergradsCount": "1000+",
-  "officialUrl": "www.stac.edu/",
+  "officialUrl": "https://www.stac.edu/",
   "detailKey": "unit-195243"
  },
  {
@@ -31690,7 +31690,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,874",
   "tuitionOutState": "$18,784",
   "undergradsCount": "5900+",
-  "officialUrl": "www2.cortland.edu/",
+  "officialUrl": "https://www2.cortland.edu/",
   "detailKey": "unit-196149"
  },
  {
@@ -31709,7 +31709,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,572",
   "tuitionOutState": "$18,822",
   "undergradsCount": "6100+",
-  "officialUrl": "www.newpaltz.edu/",
+  "officialUrl": "https://www.newpaltz.edu/",
   "detailKey": "unit-196176"
  },
  {
@@ -31804,7 +31804,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,953",
   "tuitionOutState": "$19,203",
   "undergradsCount": "3200+",
-  "officialUrl": "www.purchase.edu/",
+  "officialUrl": "https://www.purchase.edu/",
   "detailKey": "unit-196219"
  },
  {
@@ -31880,7 +31880,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,768",
   "tuitionOutState": "$18,678",
   "undergradsCount": "1800+",
-  "officialUrl": "www.potsdam.edu/",
+  "officialUrl": "https://www.potsdam.edu/",
   "detailKey": "unit-196200"
  },
  {
@@ -31899,7 +31899,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,768",
   "tuitionOutState": "$18,678",
   "undergradsCount": "1900+",
-  "officialUrl": "www.cobleskill.edu/",
+  "officialUrl": "https://www.cobleskill.edu/",
   "detailKey": "unit-196033"
  },
  {
@@ -31918,7 +31918,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,303",
   "tuitionOutState": "$22,263",
   "undergradsCount": "1800+",
-  "officialUrl": "www.esf.edu/",
+  "officialUrl": "https://www.esf.edu/",
   "detailKey": "unit-196103"
  },
  {
@@ -31937,7 +31937,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.sunyopt.edu/",
+  "officialUrl": "https://www.sunyopt.edu/",
   "detailKey": "unit-196228"
  },
  {
@@ -31956,7 +31956,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,892",
   "tuitionOutState": "$16,837",
   "undergradsCount": "3600+",
-  "officialUrl": "www.alfredstate.edu/",
+  "officialUrl": "https://www.alfredstate.edu/",
   "detailKey": "unit-196006"
  },
  {
@@ -31975,7 +31975,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,742",
   "tuitionOutState": "$13,572",
   "undergradsCount": "2700+",
-  "officialUrl": "www.canton.edu/",
+  "officialUrl": "https://www.canton.edu/",
   "detailKey": "unit-196015"
  },
  {
@@ -31994,7 +31994,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,772",
   "tuitionOutState": "$12,762",
   "undergradsCount": "2800+",
-  "officialUrl": "www.delhi.edu/",
+  "officialUrl": "https://www.delhi.edu/",
   "detailKey": "unit-196024"
  },
  {
@@ -32032,7 +32032,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,589",
   "tuitionOutState": "$19,159",
   "undergradsCount": "1300+",
-  "officialUrl": "www.sunymaritime.edu/",
+  "officialUrl": "https://www.sunymaritime.edu/",
   "detailKey": "unit-196291"
  },
  {
@@ -32051,7 +32051,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,825",
   "tuitionOutState": "$19,245",
   "undergradsCount": "1900+",
-  "officialUrl": "www.morrisville.edu/",
+  "officialUrl": "https://www.morrisville.edu/",
   "detailKey": "unit-196051"
  },
  {
@@ -32070,7 +32070,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,422",
   "tuitionOutState": "$18,842",
   "undergradsCount": "4200+",
-  "officialUrl": "www.oldwestbury.edu/",
+  "officialUrl": "https://www.oldwestbury.edu/",
   "detailKey": "unit-196237"
  },
  {
@@ -32108,7 +32108,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,625",
   "tuitionOutState": "$21,215",
   "undergradsCount": "1800+",
-  "officialUrl": "www.sunypoly.edu/",
+  "officialUrl": "https://www.sunypoly.edu/",
   "detailKey": "unit-196112"
  },
  {
@@ -32165,7 +32165,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,200",
   "tuitionOutState": "$13,200",
   "undergradsCount": "600+",
-  "officialUrl": "www.independentrabbinicalcolleges.org/",
+  "officialUrl": "https://www.independentrabbinicalcolleges.org/",
   "detailKey": "unit-451404"
  },
  {
@@ -32184,7 +32184,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,750",
   "tuitionOutState": "$8,750",
   "undergradsCount": "400+",
-  "officialUrl": "www.tsot.edu/",
+  "officialUrl": "https://www.tsot.edu/",
   "detailKey": "unit-196431"
  },
  {
@@ -32203,7 +32203,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.tc.columbia.edu/",
+  "officialUrl": "https://www.tc.columbia.edu/",
   "detailKey": "unit-196468"
  },
  {
@@ -32279,7 +32279,7 @@ export const COLLEGES = [
   "tuitionInState": "$69,039",
   "tuitionOutState": "$69,039",
   "undergradsCount": "2000+",
-  "officialUrl": "www.union.edu/",
+  "officialUrl": "https://www.union.edu/",
   "detailKey": "unit-196866"
  },
  {
@@ -32298,7 +32298,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "utsnyc.edu/",
+  "officialUrl": "https://utsnyc.edu/",
   "detailKey": "unit-196884"
  },
  {
@@ -32336,7 +32336,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4400+",
-  "officialUrl": "www.westpoint.edu/",
+  "officialUrl": "https://www.westpoint.edu/",
   "detailKey": "unit-197036"
  },
  {
@@ -32355,7 +32355,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,000",
   "tuitionOutState": "$15,000",
   "undergradsCount": "2200+",
-  "officialUrl": "utsny.edu/",
+  "officialUrl": "https://utsny.edu/",
   "detailKey": "unit-197018"
  },
  {
@@ -32374,7 +32374,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,866",
   "tuitionOutState": "$31,256",
   "undergradsCount": "12600+",
-  "officialUrl": "www.albany.edu/",
+  "officialUrl": "https://www.albany.edu/",
   "detailKey": "unit-196060"
  },
  {
@@ -32412,7 +32412,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,540",
   "tuitionOutState": "$44,540",
   "undergradsCount": "2700+",
-  "officialUrl": "www.mountsaintvincent.edu/",
+  "officialUrl": "https://www.mountsaintvincent.edu/",
   "detailKey": "unit-193399"
  },
  {
@@ -32450,7 +32450,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.upstate.edu/",
+  "officialUrl": "https://www.upstate.edu/",
   "detailKey": "unit-196307"
  },
  {
@@ -32469,7 +32469,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,000",
   "tuitionOutState": "$16,000",
   "undergradsCount": "3000+",
-  "officialUrl": "utam.edu/",
+  "officialUrl": "https://utam.edu/",
   "detailKey": "unit-446604"
  },
  {
@@ -32507,7 +32507,7 @@ export const COLLEGES = [
   "tuitionInState": "$71,030",
   "tuitionOutState": "$71,030",
   "undergradsCount": "2400+",
-  "officialUrl": "www.vassar.edu/",
+  "officialUrl": "https://www.vassar.edu/",
   "detailKey": "unit-197133"
  },
  {
@@ -32526,7 +32526,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,810",
   "tuitionOutState": "$29,810",
   "undergradsCount": "1300+",
-  "officialUrl": "www.vaughn.edu/",
+  "officialUrl": "https://www.vaughn.edu/",
   "detailKey": "unit-188340"
  },
  {
@@ -32564,7 +32564,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,200",
   "tuitionOutState": "$53,200",
   "undergradsCount": "1700+",
-  "officialUrl": "www.wagner.edu/",
+  "officialUrl": "https://www.wagner.edu/",
   "detailKey": "unit-197197"
  },
  {
@@ -32583,7 +32583,7 @@ export const COLLEGES = [
   "tuitionInState": "$63,214",
   "tuitionOutState": "$63,214",
   "undergradsCount": "100+",
-  "officialUrl": "www.webb.edu/",
+  "officialUrl": "https://www.webb.edu/",
   "detailKey": "unit-197221"
  },
  {
@@ -32678,7 +32678,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,500",
   "tuitionOutState": "$12,500",
   "undergradsCount": "200+",
-  "officialUrl": "spinka58st.com/",
+  "officialUrl": "https://spinka58st.com/",
   "detailKey": "unit-375230"
  },
  {
@@ -32792,7 +32792,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,000",
   "tuitionOutState": "$14,000",
   "undergradsCount": "200+",
-  "officialUrl": "yeshivaofnitra.org/",
+  "officialUrl": "https://yeshivaofnitra.org/",
   "detailKey": "unit-197674"
  },
  {
@@ -32811,7 +32811,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,000",
   "tuitionOutState": "$9,000",
   "undergradsCount": "100+",
-  "officialUrl": "yeshivaofocean.com/",
+  "officialUrl": "https://yeshivaofocean.com/",
   "detailKey": "unit-493594"
  },
  {
@@ -32849,7 +32849,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,800",
   "tuitionOutState": "$9,800",
   "undergradsCount": "0+",
-  "officialUrl": "www.yoy.edu/",
+  "officialUrl": "https://www.yoy.edu/",
   "detailKey": "unit-486017"
  },
  {
@@ -32868,7 +32868,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,175",
   "tuitionOutState": "$14,175",
   "undergradsCount": "100+",
-  "officialUrl": "shaarephraim.org/",
+  "officialUrl": "https://shaarephraim.org/",
   "detailKey": "unit-490276"
  },
  {
@@ -32887,7 +32887,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,000",
   "tuitionOutState": "$13,000",
   "undergradsCount": "200+",
-  "officialUrl": "www.yst.edu/",
+  "officialUrl": "https://www.yst.edu/",
   "detailKey": "unit-441609"
  },
  {
@@ -32925,7 +32925,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,800",
   "tuitionOutState": "$51,800",
   "undergradsCount": "2900+",
-  "officialUrl": "www.yu.edu/",
+  "officialUrl": "https://www.yu.edu/",
   "detailKey": "unit-197708"
  },
  {
@@ -32944,7 +32944,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,000",
   "tuitionOutState": "$14,000",
   "undergradsCount": "200+",
-  "officialUrl": "yeshivayh.org/",
+  "officialUrl": "https://yeshivayh.org/",
   "detailKey": "unit-494737"
  },
  {
@@ -33020,7 +33020,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,380",
   "tuitionOutState": "$12,380",
   "undergradsCount": "100+",
-  "officialUrl": "hechalshemuel.com/",
+  "officialUrl": "https://hechalshemuel.com/",
   "detailKey": "unit-493664"
  },
  {
@@ -33039,7 +33039,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,550",
   "tuitionOutState": "$19,550",
   "undergradsCount": "100+",
-  "officialUrl": "shaarhatorah.edu/",
+  "officialUrl": "https://shaarhatorah.edu/",
   "detailKey": "unit-197692"
  },
  {
@@ -33096,7 +33096,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.afit.edu/",
+  "officialUrl": "https://www.afit.edu/",
   "detailKey": "unit-200697"
  },
  {
@@ -33115,7 +33115,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,800",
   "tuitionOutState": "$6,800",
   "undergradsCount": "0+",
-  "officialUrl": "awc.edu/",
+  "officialUrl": "https://awc.edu/",
   "detailKey": "unit-200873"
  },
  {
@@ -33134,7 +33134,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,947",
   "tuitionOutState": "$22,947",
   "undergradsCount": "200+",
-  "officialUrl": "www.aiam.edu/",
+  "officialUrl": "https://www.aiam.edu/",
   "detailKey": "unit-441636"
  },
  {
@@ -33153,7 +33153,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,143",
   "tuitionOutState": "$37,143",
   "undergradsCount": "100+",
-  "officialUrl": "antiochcollege.edu/",
+  "officialUrl": "https://antiochcollege.edu/",
   "detailKey": "unit-483018"
  },
  {
@@ -33172,7 +33172,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.antioch.edu/",
+  "officialUrl": "https://www.antioch.edu/",
   "detailKey": "unit-245892"
  },
  {
@@ -33286,7 +33286,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,362",
   "tuitionOutState": "$37,362",
   "undergradsCount": "600+",
-  "officialUrl": "www.bluffton.edu/",
+  "officialUrl": "https://www.bluffton.edu/",
   "detailKey": "unit-201371"
  },
  {
@@ -33305,7 +33305,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,460",
   "tuitionOutState": "$22,448",
   "undergradsCount": "12800+",
-  "officialUrl": "www.bgsu.edu/",
+  "officialUrl": "https://www.bgsu.edu/",
   "detailKey": "unit-201441"
  },
  {
@@ -33381,7 +33381,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,608",
   "tuitionOutState": "$66,608",
   "undergradsCount": "6400+",
-  "officialUrl": "www.case.edu/",
+  "officialUrl": "https://www.case.edu/",
   "detailKey": "unit-201645"
  },
  {
@@ -33419,7 +33419,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,256",
   "tuitionOutState": "$8,016",
   "undergradsCount": "1900+",
-  "officialUrl": "www.cotc.edu/",
+  "officialUrl": "https://www.cotc.edu/",
   "detailKey": "unit-201672"
  },
  {
@@ -33495,7 +33495,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.ccms.edu/",
+  "officialUrl": "https://www.ccms.edu/",
   "detailKey": "unit-201867"
  },
  {
@@ -33514,7 +33514,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,517",
   "tuitionOutState": "$10,044",
   "undergradsCount": "5700+",
-  "officialUrl": "www.cincinnatistate.edu/",
+  "officialUrl": "https://www.cincinnatistate.edu/",
   "detailKey": "unit-201928"
  },
  {
@@ -33552,7 +33552,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,400",
   "tuitionOutState": "$49,400",
   "undergradsCount": "500+",
-  "officialUrl": "www.cia.edu/",
+  "officialUrl": "https://www.cia.edu/",
   "detailKey": "unit-202046"
  },
  {
@@ -33571,7 +33571,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,880",
   "tuitionOutState": "$52,880",
   "undergradsCount": "200+",
-  "officialUrl": "www.cim.edu/",
+  "officialUrl": "https://www.cim.edu/",
   "detailKey": "unit-202073"
  },
  {
@@ -33590,7 +33590,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,988",
   "tuitionOutState": "$18,510",
   "undergradsCount": "9000+",
-  "officialUrl": "www.csuohio.edu/",
+  "officialUrl": "https://www.csuohio.edu/",
   "detailKey": "unit-202134"
  },
  {
@@ -33723,7 +33723,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,731",
   "tuitionOutState": "$29,731",
   "undergradsCount": "200+",
-  "officialUrl": "felbrycollege.edu/",
+  "officialUrl": "https://felbrycollege.edu/",
   "detailKey": "unit-487861"
  },
  {
@@ -33742,7 +33742,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,100",
   "tuitionOutState": "$34,100",
   "undergradsCount": "2900+",
-  "officialUrl": "www.franciscan.edu/",
+  "officialUrl": "https://www.franciscan.edu/",
   "detailKey": "unit-205957"
  },
  {
@@ -33761,7 +33761,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,577",
   "tuitionOutState": "$9,577",
   "undergradsCount": "5600+",
-  "officialUrl": "www.franklin.edu/",
+  "officialUrl": "https://www.franklin.edu/",
   "detailKey": "unit-202806"
  },
  {
@@ -33780,7 +33780,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,048",
   "tuitionOutState": "$18,048",
   "undergradsCount": "600+",
-  "officialUrl": "www.galencollege.edu/cincinnati",
+  "officialUrl": "https://www.galencollege.edu/cincinnati",
   "detailKey": "unit-452948"
  },
  {
@@ -33818,7 +33818,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,470",
   "tuitionOutState": "$15,470",
   "undergradsCount": "700+",
-  "officialUrl": "www.gscollege.edu/",
+  "officialUrl": "https://www.gscollege.edu/",
   "detailKey": "unit-202912"
  },
  {
@@ -33875,7 +33875,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,600",
   "tuitionOutState": "$27,600",
   "undergradsCount": "800+",
-  "officialUrl": "www.hiram.edu/",
+  "officialUrl": "https://www.hiram.edu/",
   "detailKey": "unit-203128"
  },
  {
@@ -33894,7 +33894,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,560",
   "tuitionOutState": "$9,120",
   "undergradsCount": "1600+",
-  "officialUrl": "www.rhodesstate.edu/",
+  "officialUrl": "https://www.rhodesstate.edu/",
   "detailKey": "unit-203678"
  },
  {
@@ -33913,7 +33913,7 @@ export const COLLEGES = [
   "tuitionInState": "$50,500",
   "tuitionOutState": "$50,500",
   "undergradsCount": "2300+",
-  "officialUrl": "jcu.edu/",
+  "officialUrl": "https://jcu.edu/",
   "detailKey": "unit-203368"
  },
  {
@@ -33932,7 +33932,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "1300+",
-  "officialUrl": "www.kent.edu/ashtabula",
+  "officialUrl": "https://www.kent.edu/ashtabula",
   "detailKey": "unit-203447"
  },
  {
@@ -33951,7 +33951,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "800+",
-  "officialUrl": "www.kent.edu/columbiana",
+  "officialUrl": "https://www.kent.edu/columbiana",
   "detailKey": "unit-203456"
  },
  {
@@ -33970,7 +33970,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "1600+",
-  "officialUrl": "www.kent.edu/geauga",
+  "officialUrl": "https://www.kent.edu/geauga",
   "detailKey": "unit-203526"
  },
  {
@@ -33989,7 +33989,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,232",
   "tuitionOutState": "$23,082",
   "undergradsCount": "19300+",
-  "officialUrl": "www.kent.edu/",
+  "officialUrl": "https://www.kent.edu/",
   "detailKey": "unit-203517"
  },
  {
@@ -34008,7 +34008,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "1200+",
-  "officialUrl": "www.kent.edu/columbiana",
+  "officialUrl": "https://www.kent.edu/columbiana",
   "detailKey": "unit-203492"
  },
  {
@@ -34027,7 +34027,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "2700+",
-  "officialUrl": "www.kent.edu/stark",
+  "officialUrl": "https://www.kent.edu/stark",
   "detailKey": "unit-203465"
  },
  {
@@ -34046,7 +34046,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "1600+",
-  "officialUrl": "www.kent.edu/trumbull",
+  "officialUrl": "https://www.kent.edu/trumbull",
   "detailKey": "unit-203474"
  },
  {
@@ -34065,7 +34065,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,492",
   "tuitionOutState": "$17,342",
   "undergradsCount": "1700+",
-  "officialUrl": "www.kent.edu/tusc",
+  "officialUrl": "https://www.kent.edu/tusc",
   "detailKey": "unit-203483"
  },
  {
@@ -34103,7 +34103,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,320",
   "tuitionOutState": "$16,320",
   "undergradsCount": "500+",
-  "officialUrl": "kc.edu/",
+  "officialUrl": "https://kc.edu/",
   "detailKey": "unit-203544"
  },
  {
@@ -34122,7 +34122,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,634",
   "tuitionOutState": "$37,634",
   "undergradsCount": "900+",
-  "officialUrl": "www.lec.edu/",
+  "officialUrl": "https://www.lec.edu/",
   "detailKey": "unit-203580"
  },
  {
@@ -34160,7 +34160,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,500",
   "tuitionOutState": "$29,500",
   "undergradsCount": "500+",
-  "officialUrl": "www.lourdes.edu/",
+  "officialUrl": "https://www.lourdes.edu/",
   "detailKey": "unit-203757"
  },
  {
@@ -34217,7 +34217,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,595",
   "tuitionOutState": "$11,225",
   "undergradsCount": "1500+",
-  "officialUrl": "mtc.edu/",
+  "officialUrl": "https://mtc.edu/",
   "detailKey": "unit-203881"
  },
  {
@@ -34236,7 +34236,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,470",
   "tuitionOutState": "$19,470",
   "undergradsCount": "900+",
-  "officialUrl": "www.mercycollege.edu/",
+  "officialUrl": "https://www.mercycollege.edu/",
   "detailKey": "unit-203960"
  },
  {
@@ -34274,7 +34274,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,161",
   "tuitionOutState": "$41,221",
   "undergradsCount": "16700+",
-  "officialUrl": "miamioh.edu/",
+  "officialUrl": "https://miamioh.edu/",
   "detailKey": "unit-204024"
  },
  {
@@ -34293,7 +34293,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,491",
   "tuitionOutState": "$19,407",
   "undergradsCount": "2000+",
-  "officialUrl": "miamioh.edu/regionals/",
+  "officialUrl": "https://miamioh.edu/regionals/",
   "detailKey": "unit-204006"
  },
  {
@@ -34312,7 +34312,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,491",
   "tuitionOutState": "$19,407",
   "undergradsCount": "800+",
-  "officialUrl": "miamioh.edu/regionals/",
+  "officialUrl": "https://miamioh.edu/regionals/",
   "detailKey": "unit-204015"
  },
  {
@@ -34350,7 +34350,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,080",
   "tuitionOutState": "$22,080",
   "undergradsCount": "500+",
-  "officialUrl": "www.mccn.edu/",
+  "officialUrl": "https://www.mccn.edu/",
   "detailKey": "unit-204176"
  },
  {
@@ -34369,7 +34369,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,150",
   "tuitionOutState": "$38,150",
   "undergradsCount": "1100+",
-  "officialUrl": "www.msj.edu/",
+  "officialUrl": "https://www.msj.edu/",
   "detailKey": "unit-204200"
  },
  {
@@ -34388,7 +34388,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,158",
   "tuitionOutState": "$37,158",
   "undergradsCount": "1400+",
-  "officialUrl": "mvnu.edu/",
+  "officialUrl": "https://mvnu.edu/",
   "detailKey": "unit-204194"
  },
  {
@@ -34407,7 +34407,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,665",
   "tuitionOutState": "$32,665",
   "undergradsCount": "1400+",
-  "officialUrl": "www.muskingum.edu/",
+  "officialUrl": "https://www.muskingum.edu/",
   "detailKey": "unit-204264"
  },
  {
@@ -34445,7 +34445,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.neomed.edu/",
+  "officialUrl": "https://www.neomed.edu/",
   "detailKey": "unit-204477"
  },
  {
@@ -34464,7 +34464,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,366",
   "tuitionOutState": "$67,366",
   "undergradsCount": "2900+",
-  "officialUrl": "www.oberlin.edu/",
+  "officialUrl": "https://www.oberlin.edu/",
   "detailKey": "unit-204501"
  },
  {
@@ -34483,7 +34483,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,600",
   "tuitionOutState": "$24,600",
   "undergradsCount": "900+",
-  "officialUrl": "www.ohiochristian.edu/",
+  "officialUrl": "https://www.ohiochristian.edu/",
   "detailKey": "unit-201964"
  },
  {
@@ -34521,7 +34521,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,800",
   "tuitionOutState": "$39,800",
   "undergradsCount": "2500+",
-  "officialUrl": "www.onu.edu/",
+  "officialUrl": "https://www.onu.edu/",
   "detailKey": "unit-204635"
  },
  {
@@ -34540,7 +34540,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,244",
   "tuitionOutState": "$40,022",
   "undergradsCount": "45600+",
-  "officialUrl": "www.osu.edu/",
+  "officialUrl": "https://www.osu.edu/",
   "detailKey": "unit-204796"
  },
  {
@@ -34616,7 +34616,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "payneseminary.edu/",
+  "officialUrl": "https://payneseminary.edu/",
   "detailKey": "unit-204990"
  },
  {
@@ -34635,7 +34635,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,691",
   "tuitionOutState": "$28,691",
   "undergradsCount": "100+",
-  "officialUrl": "www.pcj.edu/",
+  "officialUrl": "https://www.pcj.edu/",
   "detailKey": "unit-205027"
  },
  {
@@ -34654,7 +34654,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,884",
   "tuitionOutState": "$15,884",
   "undergradsCount": "400+",
-  "officialUrl": "www.proskills.edu/",
+  "officialUrl": "https://www.proskills.edu/",
   "detailKey": "unit-205054"
  },
  {
@@ -34673,7 +34673,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,000",
   "tuitionOutState": "$18,000",
   "undergradsCount": "100+",
-  "officialUrl": "independentrabbinicalcolleges.org/index.html",
+  "officialUrl": "https://independentrabbinicalcolleges.org/index.html",
   "detailKey": "unit-205124"
  },
  {
@@ -34730,7 +34730,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,790",
   "tuitionOutState": "$34,790",
   "undergradsCount": "2100+",
-  "officialUrl": "www.tiffin.edu/",
+  "officialUrl": "https://www.tiffin.edu/",
   "detailKey": "unit-206048"
  },
  {
@@ -34768,7 +34768,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.united.edu/",
+  "officialUrl": "https://www.united.edu/",
   "detailKey": "unit-206288"
  },
  {
@@ -34787,7 +34787,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,135",
   "tuitionOutState": "$20,815",
   "undergradsCount": "9100+",
-  "officialUrl": "www.uakron.edu/",
+  "officialUrl": "https://www.uakron.edu/",
   "detailKey": "unit-200800"
  },
  {
@@ -34825,7 +34825,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,976",
   "tuitionOutState": "$29,310",
   "undergradsCount": "29900+",
-  "officialUrl": "www.uc.edu/",
+  "officialUrl": "https://www.uc.edu/",
   "detailKey": "unit-201885"
  },
  {
@@ -34844,7 +34844,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,200",
   "tuitionOutState": "$15,998",
   "undergradsCount": "4400+",
-  "officialUrl": "www.ucblueash.edu/",
+  "officialUrl": "https://www.ucblueash.edu/",
   "detailKey": "unit-201955"
  },
  {
@@ -34863,7 +34863,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,750",
   "tuitionOutState": "$13,982",
   "undergradsCount": "3000+",
-  "officialUrl": "www.ucclermont.edu/",
+  "officialUrl": "https://www.ucclermont.edu/",
   "detailKey": "unit-201946"
  },
  {
@@ -34920,7 +34920,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,600",
   "tuitionOutState": "$36,600",
   "undergradsCount": "2000+",
-  "officialUrl": "www.mountunion.edu/",
+  "officialUrl": "https://www.mountunion.edu/",
   "detailKey": "unit-204185"
  },
  {
@@ -34977,7 +34977,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,744",
   "tuitionOutState": "$22,104",
   "undergradsCount": "9800+",
-  "officialUrl": "www.utoledo.edu/",
+  "officialUrl": "https://www.utoledo.edu/",
   "detailKey": "unit-206084"
  },
  {
@@ -34996,7 +34996,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,990",
   "tuitionOutState": "$38,990",
   "undergradsCount": "700+",
-  "officialUrl": "www.ursuline.edu/",
+  "officialUrl": "https://www.ursuline.edu/",
   "detailKey": "unit-206349"
  },
  {
@@ -35053,7 +35053,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,128",
   "tuitionOutState": "$4,152",
   "undergradsCount": "1500+",
-  "officialUrl": "www.wsco.edu/",
+  "officialUrl": "https://www.wsco.edu/",
   "detailKey": "unit-206446"
  },
  {
@@ -35072,7 +35072,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,448",
   "tuitionOutState": "$16,448",
   "undergradsCount": "800+",
-  "officialUrl": "www.wilberforce.edu/",
+  "officialUrl": "https://www.wilberforce.edu/",
   "detailKey": "unit-206491"
  },
  {
@@ -35110,7 +35110,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "winebrenner.edu/",
+  "officialUrl": "https://winebrenner.edu/",
   "detailKey": "unit-206516"
  },
  {
@@ -35205,7 +35205,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,006",
   "tuitionOutState": "$11,766",
   "undergradsCount": "700+",
-  "officialUrl": "www.zanestate.edu/",
+  "officialUrl": "https://www.zanestate.edu/",
   "detailKey": "unit-204255"
  },
  {
@@ -35262,7 +35262,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,600",
   "tuitionOutState": "$9,600",
   "undergradsCount": "100+",
-  "officialUrl": "www.familyoffaith.edu/",
+  "officialUrl": "https://www.familyoffaith.edu/",
   "detailKey": "unit-443058"
  },
  {
@@ -35281,7 +35281,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,863",
   "tuitionOutState": "$14,616",
   "undergradsCount": "1700+",
-  "officialUrl": "www.langston.edu/",
+  "officialUrl": "https://www.langston.edu/",
   "detailKey": "unit-207209"
  },
  {
@@ -35357,7 +35357,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,970",
   "tuitionOutState": "$11,664",
   "undergradsCount": "1500+",
-  "officialUrl": "www.nwosu.edu/",
+  "officialUrl": "https://www.nwosu.edu/",
   "detailKey": "unit-207306"
  },
  {
@@ -35395,7 +35395,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,180",
   "tuitionOutState": "$27,180",
   "undergradsCount": "1900+",
-  "officialUrl": "www.oc.edu/",
+  "officialUrl": "https://www.oc.edu/",
   "detailKey": "unit-207324"
  },
  {
@@ -35414,7 +35414,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,648",
   "tuitionOutState": "$35,648",
   "undergradsCount": "1500+",
-  "officialUrl": "www.okcu.edu/",
+  "officialUrl": "https://www.okcu.edu/",
   "detailKey": "unit-207458"
  },
  {
@@ -35452,7 +35452,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,234",
   "tuitionOutState": "$25,754",
   "undergradsCount": "21800+",
-  "officialUrl": "www.okstate.edu/",
+  "officialUrl": "https://www.okstate.edu/",
   "detailKey": "unit-207388"
  },
  {
@@ -35509,7 +35509,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,779",
   "tuitionOutState": "$9,564",
   "undergradsCount": "3500+",
-  "officialUrl": "osuokc.edu/",
+  "officialUrl": "https://osuokc.edu/",
   "detailKey": "unit-207397"
  },
  {
@@ -35528,7 +35528,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,550",
   "tuitionOutState": "$33,550",
   "undergradsCount": "700+",
-  "officialUrl": "www.okwu.edu/",
+  "officialUrl": "https://www.okwu.edu/",
   "detailKey": "unit-206835"
  },
  {
@@ -35585,7 +35585,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,714",
   "tuitionOutState": "$17,714",
   "undergradsCount": "300+",
-  "officialUrl": "www.ru.edu/",
+  "officialUrl": "https://www.ru.edu/",
   "detailKey": "unit-207157"
  },
  {
@@ -35623,7 +35623,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,530",
   "tuitionOutState": "$16,740",
   "undergradsCount": "3000+",
-  "officialUrl": "www.se.edu/",
+  "officialUrl": "https://www.se.edu/",
   "detailKey": "unit-207847"
  },
  {
@@ -35661,7 +35661,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,900",
   "tuitionOutState": "$21,900",
   "undergradsCount": "400+",
-  "officialUrl": "www.swcu.edu/",
+  "officialUrl": "https://www.swcu.edu/",
   "detailKey": "unit-207856"
  },
  {
@@ -35699,7 +35699,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,940",
   "tuitionOutState": "$20,940",
   "undergradsCount": "800+",
-  "officialUrl": "www.spartan.edu/",
+  "officialUrl": "https://www.spartan.edu/",
   "detailKey": "unit-207254"
  },
  {
@@ -35756,7 +35756,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1200+",
-  "officialUrl": "ouhsc.edu/",
+  "officialUrl": "https://ouhsc.edu/",
   "detailKey": "unit-207342"
  },
  {
@@ -35813,7 +35813,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,040",
   "tuitionOutState": "$13,040",
   "undergradsCount": "800+",
-  "officialUrl": "www.achs.edu/",
+  "officialUrl": "https://www.achs.edu/",
   "detailKey": "unit-443599"
  },
  {
@@ -35832,7 +35832,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,800",
   "tuitionOutState": "$35,800",
   "undergradsCount": "500+",
-  "officialUrl": "www.bushnell.edu/",
+  "officialUrl": "https://www.bushnell.edu/",
   "detailKey": "unit-209409"
  },
  {
@@ -35851,7 +35851,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,345",
   "tuitionOutState": "$14,040",
   "undergradsCount": "6600+",
-  "officialUrl": "www.chemeketa.edu/",
+  "officialUrl": "https://www.chemeketa.edu/",
   "detailKey": "unit-208390"
  },
  {
@@ -35889,7 +35889,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,076",
   "tuitionOutState": "$25,431",
   "undergradsCount": "2200+",
-  "officialUrl": "www.eou.edu/",
+  "officialUrl": "https://www.eou.edu/",
   "detailKey": "unit-208646"
  },
  {
@@ -36003,7 +36003,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,620",
   "tuitionOutState": "$17,620",
   "undergradsCount": "100+",
-  "officialUrl": "www.newhope.edu/",
+  "officialUrl": "https://www.newhope.edu/",
   "detailKey": "unit-208725"
  },
  {
@@ -36022,7 +36022,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "800+",
-  "officialUrl": "www.ohsu.edu/",
+  "officialUrl": "https://www.ohsu.edu/",
   "detailKey": "unit-209490"
  },
  {
@@ -36079,7 +36079,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,168",
   "tuitionOutState": "$7,168",
   "undergradsCount": "0+",
-  "officialUrl": "pacificbible.edu/",
+  "officialUrl": "https://pacificbible.edu/",
   "detailKey": "unit-407610"
  },
  {
@@ -36098,7 +36098,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,006",
   "tuitionOutState": "$49,006",
   "undergradsCount": "400+",
-  "officialUrl": "willamette.edu/pnca/index.html",
+  "officialUrl": "https://willamette.edu/pnca/index.html",
   "detailKey": "unit-209603"
  },
  {
@@ -36136,7 +36136,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,679",
   "tuitionOutState": "$31,074",
   "undergradsCount": "13200+",
-  "officialUrl": "www.pdx.edu/",
+  "officialUrl": "https://www.pdx.edu/",
   "detailKey": "unit-209807"
  },
  {
@@ -36174,7 +36174,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,762",
   "tuitionOutState": "$31,887",
   "undergradsCount": "2800+",
-  "officialUrl": "www.sou.edu/",
+  "officialUrl": "https://www.sou.edu/",
   "detailKey": "unit-210146"
  },
  {
@@ -36193,7 +36193,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "500+",
-  "officialUrl": "sumnercollege.edu/",
+  "officialUrl": "https://sumnercollege.edu/",
   "detailKey": "unit-208512"
  },
  {
@@ -36326,7 +36326,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.westernseminary.edu/",
+  "officialUrl": "https://www.westernseminary.edu/",
   "detailKey": "unit-210368"
  },
  {
@@ -36345,7 +36345,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,156",
   "tuitionOutState": "$51,156",
   "undergradsCount": "1600+",
-  "officialUrl": "www.willamette.edu/",
+  "officialUrl": "https://www.willamette.edu/",
   "detailKey": "unit-210401"
  },
  {
@@ -36364,7 +36364,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.avaopera.org/",
+  "officialUrl": "https://www.avaopera.org/",
   "detailKey": "unit-210508"
  },
  {
@@ -36383,7 +36383,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,082",
   "tuitionOutState": "$29,082",
   "undergradsCount": "1200+",
-  "officialUrl": "www.albright.edu/home/",
+  "officialUrl": "https://www.albright.edu/home/",
   "detailKey": "unit-210571"
  },
  {
@@ -36478,7 +36478,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,917",
   "tuitionOutState": "$28,917",
   "undergradsCount": "200+",
-  "officialUrl": "www.brynathyn.edu/",
+  "officialUrl": "https://www.brynathyn.edu/",
   "detailKey": "unit-210492"
  },
  {
@@ -36497,7 +36497,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,920",
   "tuitionOutState": "$65,920",
   "undergradsCount": "1400+",
-  "officialUrl": "www.brynmawr.edu/",
+  "officialUrl": "https://www.brynmawr.edu/",
   "detailKey": "unit-211273"
  },
  {
@@ -36516,7 +36516,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,812",
   "tuitionOutState": "$67,812",
   "undergradsCount": "3900+",
-  "officialUrl": "www.bucknell.edu/",
+  "officialUrl": "https://www.bucknell.edu/",
   "detailKey": "unit-211291"
  },
  {
@@ -36535,7 +36535,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.bcs.edu/",
+  "officialUrl": "https://www.bcs.edu/",
   "detailKey": "unit-444103"
  },
  {
@@ -36554,7 +36554,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,009",
   "tuitionOutState": "$34,009",
   "undergradsCount": "800+",
-  "officialUrl": "www.cairn.edu/",
+  "officialUrl": "https://www.cairn.edu/",
   "detailKey": "unit-215114"
  },
  {
@@ -36573,7 +36573,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,874",
   "tuitionOutState": "$35,874",
   "undergradsCount": "1300+",
-  "officialUrl": "www.carlow.edu/",
+  "officialUrl": "https://www.carlow.edu/",
   "detailKey": "unit-211431"
  },
  {
@@ -36592,7 +36592,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,246",
   "tuitionOutState": "$66,246",
   "undergradsCount": "7300+",
-  "officialUrl": "www.cmu.edu/",
+  "officialUrl": "https://www.cmu.edu/",
   "detailKey": "unit-211440"
  },
  {
@@ -36611,7 +36611,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,314",
   "tuitionOutState": "$46,314",
   "undergradsCount": "800+",
-  "officialUrl": "www.cedarcrest.edu/",
+  "officialUrl": "https://www.cedarcrest.edu/",
   "detailKey": "unit-211468"
  },
  {
@@ -36649,7 +36649,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,626",
   "tuitionOutState": "$44,626",
   "undergradsCount": "1200+",
-  "officialUrl": "www.chatham.edu/",
+  "officialUrl": "https://www.chatham.edu/",
   "detailKey": "unit-211556"
  },
  {
@@ -36668,7 +36668,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,870",
   "tuitionOutState": "$39,870",
   "undergradsCount": "800+",
-  "officialUrl": "www.chc.edu/",
+  "officialUrl": "https://www.chc.edu/",
   "detailKey": "unit-211583"
  },
  {
@@ -36725,7 +36725,7 @@ export const COLLEGES = [
   "tuitionInState": "$0",
   "tuitionOutState": "$0",
   "undergradsCount": "100+",
-  "officialUrl": "www.curtis.edu/",
+  "officialUrl": "https://www.curtis.edu/",
   "detailKey": "unit-211893"
  },
  {
@@ -36744,7 +36744,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,850",
   "tuitionOutState": "$44,850",
   "undergradsCount": "1600+",
-  "officialUrl": "www.delval.edu/",
+  "officialUrl": "https://www.delval.edu/",
   "detailKey": "unit-211981"
  },
  {
@@ -36763,7 +36763,7 @@ export const COLLEGES = [
   "tuitionInState": "$46,800",
   "tuitionOutState": "$46,800",
   "undergradsCount": "2100+",
-  "officialUrl": "www.desales.edu/",
+  "officialUrl": "https://www.desales.edu/",
   "detailKey": "unit-210739"
  },
  {
@@ -36820,7 +36820,7 @@ export const COLLEGES = [
   "tuitionInState": "$48,986",
   "tuitionOutState": "$48,986",
   "undergradsCount": "5400+",
-  "officialUrl": "www.duq.edu/",
+  "officialUrl": "https://www.duq.edu/",
   "detailKey": "unit-212106"
  },
  {
@@ -36877,7 +36877,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,950",
   "tuitionOutState": "$37,950",
   "undergradsCount": "1900+",
-  "officialUrl": "www.etown.edu/",
+  "officialUrl": "https://www.etown.edu/",
   "detailKey": "unit-212197"
  },
  {
@@ -36915,7 +36915,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,656",
   "tuitionOutState": "$40,656",
   "undergradsCount": "2400+",
-  "officialUrl": "www.gannon.edu/",
+  "officialUrl": "https://www.gannon.edu/",
   "detailKey": "unit-212601"
  },
  {
@@ -36953,7 +36953,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,450",
   "tuitionOutState": "$33,450",
   "undergradsCount": "1100+",
-  "officialUrl": "www.geneva.edu/",
+  "officialUrl": "https://www.geneva.edu/",
   "detailKey": "unit-212656"
  },
  {
@@ -37010,7 +37010,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,700",
   "tuitionOutState": "$21,700",
   "undergradsCount": "2200+",
-  "officialUrl": "www.gcc.edu/",
+  "officialUrl": "https://www.gcc.edu/",
   "detailKey": "unit-212805"
  },
  {
@@ -37048,7 +37048,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,400",
   "tuitionOutState": "$24,400",
   "undergradsCount": "600+",
-  "officialUrl": "www.harrisburgu.edu/",
+  "officialUrl": "https://www.harrisburgu.edu/",
   "detailKey": "unit-446640"
  },
  {
@@ -37105,7 +37105,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,330",
   "tuitionOutState": "$29,330",
   "undergradsCount": "1300+",
-  "officialUrl": "www.immaculata.edu/",
+  "officialUrl": "https://www.immaculata.edu/",
   "detailKey": "unit-213011"
  },
  {
@@ -37124,7 +37124,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,380",
   "tuitionOutState": "$16,297",
   "undergradsCount": "6800+",
-  "officialUrl": "www.iup.edu/",
+  "officialUrl": "https://www.iup.edu/",
   "detailKey": "unit-213020"
  },
  {
@@ -37143,7 +37143,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "iirp.edu/",
+  "officialUrl": "https://iirp.edu/",
   "detailKey": "unit-448691"
  },
  {
@@ -37162,7 +37162,7 @@ export const COLLEGES = [
   "tuitionInState": "$58,580",
   "tuitionOutState": "$58,580",
   "undergradsCount": "1200+",
-  "officialUrl": "www.juniata.edu/",
+  "officialUrl": "https://www.juniata.edu/",
   "detailKey": "unit-213251"
  },
  {
@@ -37200,7 +37200,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,100",
   "tuitionOutState": "$44,100",
   "undergradsCount": "1500+",
-  "officialUrl": "www.kings.edu/",
+  "officialUrl": "https://www.kings.edu/",
   "detailKey": "unit-213321"
  },
  {
@@ -37238,7 +37238,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,052",
   "tuitionOutState": "$34,052",
   "undergradsCount": "800+",
-  "officialUrl": "www.laroche.edu/",
+  "officialUrl": "https://www.laroche.edu/",
   "detailKey": "unit-213358"
  },
  {
@@ -37257,7 +37257,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,800",
   "tuitionOutState": "$37,800",
   "undergradsCount": "2000+",
-  "officialUrl": "www.lasalle.edu/",
+  "officialUrl": "https://www.lasalle.edu/",
   "detailKey": "unit-213367"
  },
  {
@@ -37314,7 +37314,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "lecom.edu/",
+  "officialUrl": "https://lecom.edu/",
   "detailKey": "unit-407629"
  },
  {
@@ -37352,7 +37352,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,080",
   "tuitionOutState": "$52,080",
   "undergradsCount": "1700+",
-  "officialUrl": "www.lvc.edu/",
+  "officialUrl": "https://www.lvc.edu/",
   "detailKey": "unit-213507"
  },
  {
@@ -37371,7 +37371,7 @@ export const COLLEGES = [
   "tuitionInState": "$64,980",
   "tuitionOutState": "$64,980",
   "undergradsCount": "5900+",
-  "officialUrl": "www.lehigh.edu/",
+  "officialUrl": "https://www.lehigh.edu/",
   "detailKey": "unit-213543"
  },
  {
@@ -37409,7 +37409,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,780",
   "tuitionOutState": "$21,780",
   "undergradsCount": "400+",
-  "officialUrl": "www.manor.edu/",
+  "officialUrl": "https://www.manor.edu/",
   "detailKey": "unit-213774"
  },
  {
@@ -37447,7 +37447,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,770",
   "tuitionOutState": "$45,770",
   "undergradsCount": "2200+",
-  "officialUrl": "www.mercyhurst.edu/",
+  "officialUrl": "https://www.mercyhurst.edu/",
   "detailKey": "unit-213987"
  },
  {
@@ -37466,7 +37466,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,240",
   "tuitionOutState": "$42,240",
   "undergradsCount": "2300+",
-  "officialUrl": "www.messiah.edu/",
+  "officialUrl": "https://www.messiah.edu/",
   "detailKey": "unit-213996"
  },
  {
@@ -37485,7 +37485,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,128",
   "tuitionOutState": "$22,952",
   "undergradsCount": "5700+",
-  "officialUrl": "www.millersville.edu/",
+  "officialUrl": "https://www.millersville.edu/",
   "detailKey": "unit-214041"
  },
  {
@@ -37504,7 +37504,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,370",
   "tuitionOutState": "$40,370",
   "undergradsCount": "1700+",
-  "officialUrl": "www.misericordia.edu/",
+  "officialUrl": "https://www.misericordia.edu/",
   "detailKey": "unit-214069"
  },
  {
@@ -37523,7 +37523,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,812",
   "tuitionOutState": "$52,812",
   "undergradsCount": "500+",
-  "officialUrl": "www.moore.edu/",
+  "officialUrl": "https://www.moore.edu/",
   "detailKey": "unit-214148"
  },
  {
@@ -37542,7 +37542,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,500",
   "tuitionOutState": "$53,500",
   "undergradsCount": "1900+",
-  "officialUrl": "www.moravian.edu/",
+  "officialUrl": "https://www.moravian.edu/",
   "detailKey": "unit-214157"
  },
  {
@@ -37561,7 +37561,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,072",
   "tuitionOutState": "$27,072",
   "undergradsCount": "1100+",
-  "officialUrl": "www.mtaloy.edu/",
+  "officialUrl": "https://www.mtaloy.edu/",
   "detailKey": "unit-214166"
  },
  {
@@ -37580,7 +37580,7 @@ export const COLLEGES = [
   "tuitionInState": "$62,805",
   "tuitionOutState": "$62,805",
   "undergradsCount": "1700+",
-  "officialUrl": "www.muhlenberg.edu/",
+  "officialUrl": "https://www.muhlenberg.edu/",
   "detailKey": "unit-214175"
  },
  {
@@ -37656,7 +37656,7 @@ export const COLLEGES = [
   "tuitionInState": "$32,150",
   "tuitionOutState": "$32,150",
   "undergradsCount": "400+",
-  "officialUrl": "pcad.edu/",
+  "officialUrl": "https://pcad.edu/",
   "detailKey": "unit-215053"
  },
  {
@@ -38112,7 +38112,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.pcom.edu/",
+  "officialUrl": "https://www.pcom.edu/",
   "detailKey": "unit-215123"
  },
  {
@@ -38150,7 +38150,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,570",
   "tuitionOutState": "$39,570",
   "undergradsCount": "2300+",
-  "officialUrl": "www.pointpark.edu/",
+  "officialUrl": "https://www.pointpark.edu/",
   "detailKey": "unit-215442"
  },
  {
@@ -38169,7 +38169,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.rrc.edu/",
+  "officialUrl": "https://www.rrc.edu/",
   "detailKey": "unit-215619"
  },
  {
@@ -38188,7 +38188,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,970",
   "tuitionOutState": "$35,970",
   "undergradsCount": "2900+",
-  "officialUrl": "www.rmu.edu/",
+  "officialUrl": "https://www.rmu.edu/",
   "detailKey": "unit-215655"
  },
  {
@@ -38207,7 +38207,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,845",
   "tuitionOutState": "$23,845",
   "undergradsCount": "500+",
-  "officialUrl": "www.rosemont.edu/",
+  "officialUrl": "https://www.rosemont.edu/",
   "detailKey": "unit-215691"
  },
  {
@@ -38226,7 +38226,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,774",
   "tuitionOutState": "$25,774",
   "undergradsCount": "0+",
-  "officialUrl": "www.scs.edu/",
+  "officialUrl": "https://www.scs.edu/",
   "detailKey": "unit-216047"
  },
  {
@@ -38245,7 +38245,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,000",
   "tuitionOutState": "$44,000",
   "undergradsCount": "1600+",
-  "officialUrl": "www.francis.edu/",
+  "officialUrl": "https://www.francis.edu/",
   "detailKey": "unit-215743"
  },
  {
@@ -38340,7 +38340,7 @@ export const COLLEGES = [
   "tuitionInState": "$42,944",
   "tuitionOutState": "$42,944",
   "undergradsCount": "1500+",
-  "officialUrl": "www.setonhill.edu/",
+  "officialUrl": "https://www.setonhill.edu/",
   "detailKey": "unit-215947"
  },
  {
@@ -38359,7 +38359,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,720",
   "tuitionOutState": "$15,974",
   "undergradsCount": "4100+",
-  "officialUrl": "www.ship.edu/",
+  "officialUrl": "https://www.ship.edu/",
   "detailKey": "unit-216010"
  },
  {
@@ -38416,7 +38416,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,850",
   "tuitionOutState": "$59,850",
   "undergradsCount": "2200+",
-  "officialUrl": "www.susqu.edu/",
+  "officialUrl": "https://www.susqu.edu/",
   "detailKey": "unit-216278"
  },
  {
@@ -38435,7 +38435,7 @@ export const COLLEGES = [
   "tuitionInState": "$65,494",
   "tuitionOutState": "$65,494",
   "undergradsCount": "1600+",
-  "officialUrl": "www.swarthmore.edu/",
+  "officialUrl": "https://www.swarthmore.edu/",
   "detailKey": "unit-216287"
  },
  {
@@ -38473,7 +38473,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,011",
   "tuitionOutState": "$38,958",
   "undergradsCount": "21000+",
-  "officialUrl": "www.temple.edu/",
+  "officialUrl": "https://www.temple.edu/",
   "detailKey": "unit-216339"
  },
  {
@@ -38492,7 +38492,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "reseminary.edu/",
+  "officialUrl": "https://reseminary.edu/",
   "detailKey": "unit-216348"
  },
  {
@@ -38530,7 +38530,7 @@ export const COLLEGES = [
   "tuitionInState": "$47,505",
   "tuitionOutState": "$47,505",
   "undergradsCount": "3800+",
-  "officialUrl": "www.jefferson.edu/",
+  "officialUrl": "https://www.jefferson.edu/",
   "detailKey": "unit-216366"
  },
  {
@@ -38549,7 +38549,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "tas.edu/",
+  "officialUrl": "https://tas.edu/",
   "detailKey": "unit-216463"
  },
  {
@@ -38587,7 +38587,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,686",
   "tuitionOutState": "$68,686",
   "undergradsCount": "10700+",
-  "officialUrl": "www.upenn.edu/",
+  "officialUrl": "https://www.upenn.edu/",
   "detailKey": "unit-215062"
  },
  {
@@ -38606,7 +38606,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,926",
   "tuitionOutState": "$41,430",
   "undergradsCount": "20400+",
-  "officialUrl": "www.pitt.edu/",
+  "officialUrl": "https://www.pitt.edu/",
   "detailKey": "unit-215293"
  },
  {
@@ -38644,7 +38644,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,710",
   "tuitionOutState": "$26,584",
   "undergradsCount": "1300+",
-  "officialUrl": "www.greensburg.pitt.edu/",
+  "officialUrl": "https://www.greensburg.pitt.edu/",
   "detailKey": "unit-215275"
  },
  {
@@ -38663,7 +38663,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,906",
   "tuitionOutState": "$26,780",
   "undergradsCount": "1800+",
-  "officialUrl": "www.upj.pitt.edu/",
+  "officialUrl": "https://www.upj.pitt.edu/",
   "detailKey": "unit-215284"
  },
  {
@@ -38682,7 +38682,7 @@ export const COLLEGES = [
   "tuitionInState": "$53,983",
   "tuitionOutState": "$53,983",
   "undergradsCount": "3600+",
-  "officialUrl": "www.scranton.edu/",
+  "officialUrl": "https://www.scranton.edu/",
   "detailKey": "unit-215929"
  },
  {
@@ -38720,7 +38720,7 @@ export const COLLEGES = [
   "tuitionInState": "$61,210",
   "tuitionOutState": "$61,210",
   "undergradsCount": "1500+",
-  "officialUrl": "www.ursinus.edu/",
+  "officialUrl": "https://www.ursinus.edu/",
   "detailKey": "unit-216524"
  },
  {
@@ -38739,7 +38739,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,776",
   "tuitionOutState": "$67,776",
   "undergradsCount": "6900+",
-  "officialUrl": "www.villanova.edu/",
+  "officialUrl": "https://www.villanova.edu/",
   "detailKey": "unit-216597"
  },
  {
@@ -38777,7 +38777,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,392",
   "tuitionOutState": "$29,392",
   "undergradsCount": "1300+",
-  "officialUrl": "www.washjeff.edu/",
+  "officialUrl": "https://www.washjeff.edu/",
   "detailKey": "unit-216667"
  },
  {
@@ -38796,7 +38796,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,480",
   "tuitionOutState": "$30,480",
   "undergradsCount": "1000+",
-  "officialUrl": "www.waynesburg.edu/",
+  "officialUrl": "https://www.waynesburg.edu/",
   "detailKey": "unit-216694"
  },
  {
@@ -38891,7 +38891,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,100",
   "tuitionOutState": "$27,100",
   "undergradsCount": "900+",
-  "officialUrl": "www.wilson.edu/",
+  "officialUrl": "https://www.wilson.edu/",
   "detailKey": "unit-217013"
  },
  {
@@ -38910,7 +38910,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.woninstitute.edu/",
+  "officialUrl": "https://www.woninstitute.edu/",
   "detailKey": "unit-442064"
  },
  {
@@ -38967,7 +38967,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,954",
   "tuitionOutState": "$8,954",
   "undergradsCount": "600+",
-  "officialUrl": "www.atenasuniversity.edu/",
+  "officialUrl": "https://www.atenasuniversity.edu/",
   "detailKey": "unit-440651"
  },
  {
@@ -38986,7 +38986,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,280",
   "tuitionOutState": "$8,280",
   "undergradsCount": "1500+",
-  "officialUrl": "www.atlanticu.edu/",
+  "officialUrl": "https://www.atlanticu.edu/",
   "detailKey": "unit-241216"
  },
  {
@@ -39005,7 +39005,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,844",
   "tuitionOutState": "$8,844",
   "undergradsCount": "600+",
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "detailKey": "unit-241377"
  },
  {
@@ -39024,7 +39024,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,844",
   "tuitionOutState": "$8,844",
   "undergradsCount": "100+",
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "detailKey": "unit-241386"
  },
  {
@@ -39043,7 +39043,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,844",
   "tuitionOutState": "$8,844",
   "undergradsCount": "400+",
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "detailKey": "unit-363907"
  },
  {
@@ -39062,7 +39062,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,844",
   "tuitionOutState": "$8,844",
   "undergradsCount": "200+",
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "detailKey": "unit-363916"
  },
  {
@@ -39100,7 +39100,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,900",
   "tuitionOutState": "$12,900",
   "undergradsCount": "100+",
-  "officialUrl": "www.cemcollege.edu/cem/",
+  "officialUrl": "https://www.cemcollege.edu/cem/",
   "detailKey": "unit-241517"
  },
  {
@@ -39119,7 +39119,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "ceaprc.edu/",
+  "officialUrl": "https://ceaprc.edu/",
   "detailKey": "unit-241793"
  },
  {
@@ -39138,7 +39138,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,580",
   "tuitionOutState": "$2,580",
   "undergradsCount": "500+",
-  "officialUrl": "www.cunisanjuan.edu/",
+  "officialUrl": "https://www.cunisanjuan.edu/",
   "detailKey": "unit-241720"
  },
  {
@@ -39157,7 +39157,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,630",
   "tuitionOutState": "$7,630",
   "undergradsCount": "300+",
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "detailKey": "unit-434900"
  },
  {
@@ -39176,7 +39176,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,180",
   "tuitionOutState": "$8,180",
   "undergradsCount": "200+",
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "detailKey": "unit-443562"
  },
  {
@@ -39195,7 +39195,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,630",
   "tuitionOutState": "$7,630",
   "undergradsCount": "300+",
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "detailKey": "unit-449135"
  },
  {
@@ -39214,7 +39214,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,630",
   "tuitionOutState": "$7,630",
   "undergradsCount": "200+",
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "detailKey": "unit-469416"
  },
  {
@@ -39252,7 +39252,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,050",
   "tuitionOutState": "$14,125",
   "undergradsCount": "1000+",
-  "officialUrl": "www.edpuniversity.edu/",
+  "officialUrl": "https://www.edpuniversity.edu/",
   "detailKey": "unit-241836"
  },
  {
@@ -39271,7 +39271,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,050",
   "tuitionOutState": "$14,125",
   "undergradsCount": "400+",
-  "officialUrl": "edpuniversity.edu/",
+  "officialUrl": "https://edpuniversity.edu/",
   "detailKey": "unit-492476"
  },
  {
@@ -39290,7 +39290,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,902",
   "tuitionOutState": "$8,502",
   "undergradsCount": "500+",
-  "officialUrl": "www.eap.edu/",
+  "officialUrl": "https://www.eap.edu/",
   "detailKey": "unit-241951"
  },
  {
@@ -39309,7 +39309,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,750",
   "tuitionOutState": "$8,750",
   "undergradsCount": "400+",
-  "officialUrl": "www.huertas.edu/",
+  "officialUrl": "https://www.huertas.edu/",
   "detailKey": "unit-242112"
  },
  {
@@ -39328,7 +39328,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,560",
   "tuitionOutState": "$6,560",
   "undergradsCount": "200+",
-  "officialUrl": "www.hccpr.edu/",
+  "officialUrl": "https://www.hccpr.edu/",
   "detailKey": "unit-242121"
  },
  {
@@ -39347,7 +39347,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,742",
   "tuitionOutState": "$5,742",
   "undergradsCount": "2900+",
-  "officialUrl": "aguadilla.inter.edu/",
+  "officialUrl": "https://aguadilla.inter.edu/",
   "detailKey": "unit-242626"
  },
  {
@@ -39366,7 +39366,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "2200+",
-  "officialUrl": "www.arecibo.inter.edu/",
+  "officialUrl": "https://www.arecibo.inter.edu/",
   "detailKey": "unit-242635"
  },
  {
@@ -39385,7 +39385,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,742",
   "tuitionOutState": "$5,742",
   "undergradsCount": "900+",
-  "officialUrl": "www.br.inter.edu/",
+  "officialUrl": "https://www.br.inter.edu/",
   "detailKey": "unit-242644"
  },
  {
@@ -39404,7 +39404,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "3500+",
-  "officialUrl": "bayamon.inter.edu/",
+  "officialUrl": "https://bayamon.inter.edu/",
   "detailKey": "unit-242705"
  },
  {
@@ -39442,7 +39442,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "2400+",
-  "officialUrl": "www.guayama.inter.edu/",
+  "officialUrl": "https://www.guayama.inter.edu/",
   "detailKey": "unit-242699"
  },
  {
@@ -39461,7 +39461,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "2600+",
-  "officialUrl": "metro.inter.edu/",
+  "officialUrl": "https://metro.inter.edu/",
   "detailKey": "unit-242653"
  },
  {
@@ -39480,7 +39480,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "2400+",
-  "officialUrl": "ponce.inter.edu/",
+  "officialUrl": "https://ponce.inter.edu/",
   "detailKey": "unit-242662"
  },
  {
@@ -39499,7 +39499,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,780",
   "tuitionOutState": "$5,780",
   "undergradsCount": "2600+",
-  "officialUrl": "www.sg.inter.edu/",
+  "officialUrl": "https://www.sg.inter.edu/",
   "detailKey": "unit-242617"
  },
  {
@@ -39518,7 +39518,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.derecho.inter.edu/",
+  "officialUrl": "https://www.derecho.inter.edu/",
   "detailKey": "unit-242723"
  },
  {
@@ -39537,7 +39537,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.optonet.inter.edu/",
+  "officialUrl": "https://www.optonet.inter.edu/",
   "detailKey": "unit-404222"
  },
  {
@@ -39556,7 +39556,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,698",
   "tuitionOutState": "$13,853",
   "undergradsCount": "28900+",
-  "officialUrl": "www.nuc.edu/",
+  "officialUrl": "https://www.nuc.edu/",
   "detailKey": "unit-242972"
  },
  {
@@ -39613,7 +39613,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,550",
   "tuitionOutState": "$6,550",
   "undergradsCount": "300+",
-  "officialUrl": "www.pucpr.edu/arecibo",
+  "officialUrl": "https://www.pucpr.edu/arecibo",
   "detailKey": "unit-241395"
  },
  {
@@ -39689,7 +39689,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,370",
   "tuitionOutState": "$3,850",
   "undergradsCount": "300+",
-  "officialUrl": "cmpr.edu/",
+  "officialUrl": "https://cmpr.edu/",
   "detailKey": "unit-241766"
  },
  {
@@ -39727,7 +39727,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.se-pr.edu/",
+  "officialUrl": "https://www.se-pr.edu/",
   "detailKey": "unit-243498"
  },
  {
@@ -39746,7 +39746,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.unitecpr.edu/",
+  "officialUrl": "https://www.unitecpr.edu/",
   "detailKey": "unit-376385"
  },
  {
@@ -39784,7 +39784,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,750",
   "tuitionOutState": "$7,750",
   "undergradsCount": "4500+",
-  "officialUrl": "uagm.edu/",
+  "officialUrl": "https://uagm.edu/",
   "detailKey": "unit-241739"
  },
  {
@@ -39803,7 +39803,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,986",
   "tuitionOutState": "$5,986",
   "undergradsCount": "500+",
-  "officialUrl": "ucb.edu.pr/",
+  "officialUrl": "https://ucb.edu.pr/",
   "detailKey": "unit-241225"
  },
  {
@@ -39841,7 +39841,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,410",
   "tuitionOutState": "$6,410",
   "undergradsCount": "4400+",
-  "officialUrl": "www.sagrado.edu/",
+  "officialUrl": "https://www.sagrado.edu/",
   "detailKey": "unit-243443"
  },
  {
@@ -39860,7 +39860,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,560",
   "tuitionOutState": "$4,560",
   "undergradsCount": "100+",
-  "officialUrl": "mizpa.edu/",
+  "officialUrl": "https://mizpa.edu/",
   "detailKey": "unit-441690"
  },
  {
@@ -39879,7 +39879,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,870",
   "tuitionOutState": "$9,870",
   "undergradsCount": "3600+",
-  "officialUrl": "www.pupr.edu/",
+  "officialUrl": "https://www.pupr.edu/",
   "detailKey": "unit-243577"
  },
  {
@@ -39898,7 +39898,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,660",
   "tuitionOutState": "$6,660",
   "undergradsCount": "200+",
-  "officialUrl": "utcpr.edu/",
+  "officialUrl": "https://utcpr.edu/",
   "detailKey": "unit-241614"
  },
  {
@@ -39917,7 +39917,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,284",
   "tuitionOutState": "$6,284",
   "undergradsCount": "2900+",
-  "officialUrl": "www.uprb.edu/",
+  "officialUrl": "https://www.uprb.edu/",
   "detailKey": "unit-243133"
  },
  {
@@ -39936,7 +39936,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,354",
   "tuitionOutState": "$5,354",
   "undergradsCount": "2100+",
-  "officialUrl": "www.cayey.upr.edu/",
+  "officialUrl": "https://www.cayey.upr.edu/",
   "detailKey": "unit-243151"
  },
  {
@@ -39955,7 +39955,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,354",
   "tuitionOutState": "$5,354",
   "undergradsCount": "2300+",
-  "officialUrl": "www.uprp.edu/",
+  "officialUrl": "https://www.uprp.edu/",
   "detailKey": "unit-243212"
  },
  {
@@ -39993,7 +39993,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,354",
   "tuitionOutState": "$5,354",
   "undergradsCount": "2700+",
-  "officialUrl": "www.upra.edu/",
+  "officialUrl": "https://www.upra.edu/",
   "detailKey": "unit-243115"
  },
  {
@@ -40012,7 +40012,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,986",
   "tuitionOutState": "$7,986",
   "undergradsCount": "2400+",
-  "officialUrl": "www.uprc.edu/",
+  "officialUrl": "https://www.uprc.edu/",
   "detailKey": "unit-243142"
  },
  {
@@ -40031,7 +40031,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,364",
   "tuitionOutState": "$5,364",
   "undergradsCount": "2500+",
-  "officialUrl": "www.upr.edu/humacao/",
+  "officialUrl": "https://www.upr.edu/humacao/",
   "detailKey": "unit-243179"
  },
  {
@@ -40069,7 +40069,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.rcm.upr.edu/",
+  "officialUrl": "https://www.rcm.upr.edu/",
   "detailKey": "unit-243203"
  },
  {
@@ -40107,7 +40107,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,354",
   "tuitionOutState": "$5,354",
   "undergradsCount": "300+",
-  "officialUrl": "www.uprutuado.edu/",
+  "officialUrl": "https://www.uprutuado.edu/",
   "detailKey": "unit-243188"
  },
  {
@@ -40126,7 +40126,7 @@ export const COLLEGES = [
   "tuitionInState": "$71,412",
   "tuitionOutState": "$71,412",
   "undergradsCount": "7200+",
-  "officialUrl": "www.brown.edu/",
+  "officialUrl": "https://www.brown.edu/",
   "detailKey": "unit-217156"
  },
  {
@@ -40164,7 +40164,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,016",
   "tuitionOutState": "$11,016",
   "undergradsCount": "500+",
-  "officialUrl": "collegeunbound.edu/",
+  "officialUrl": "https://collegeunbound.edu/",
   "detailKey": "unit-493822"
  },
  {
@@ -40259,7 +40259,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,300",
   "tuitionOutState": "$27,299",
   "undergradsCount": "5000+",
-  "officialUrl": "www.ric.edu/",
+  "officialUrl": "https://www.ric.edu/",
   "detailKey": "unit-217420"
  },
  {
@@ -40316,7 +40316,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "law.rwu.edu/",
+  "officialUrl": "https://law.rwu.edu/",
   "detailKey": "unit-409616"
  },
  {
@@ -40335,7 +40335,7 @@ export const COLLEGES = [
   "tuitionInState": "$50,100",
   "tuitionOutState": "$50,100",
   "undergradsCount": "2100+",
-  "officialUrl": "www.salve.edu/",
+  "officialUrl": "https://www.salve.edu/",
   "detailKey": "unit-217536"
  },
  {
@@ -40392,7 +40392,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,500",
   "tuitionOutState": "$21,500",
   "undergradsCount": "200+",
-  "officialUrl": "acba.edu/",
+  "officialUrl": "https://acba.edu/",
   "detailKey": "unit-485698"
  },
  {
@@ -40411,7 +40411,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,440",
   "tuitionOutState": "$17,440",
   "undergradsCount": "1500+",
-  "officialUrl": "www.benedict.edu/",
+  "officialUrl": "https://www.benedict.edu/",
   "detailKey": "unit-217721"
  },
  {
@@ -40430,7 +40430,7 @@ export const COLLEGES = [
   "tuitionInState": "$24,470",
   "tuitionOutState": "$24,470",
   "undergradsCount": "2000+",
-  "officialUrl": "www.bju.edu/",
+  "officialUrl": "https://www.bju.edu/",
   "detailKey": "unit-217749"
  },
  {
@@ -40449,7 +40449,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.charlestonlaw.edu/",
+  "officialUrl": "https://www.charlestonlaw.edu/",
   "detailKey": "unit-451510"
  },
  {
@@ -40506,7 +40506,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,282",
   "tuitionOutState": "$18,282",
   "undergradsCount": "1700+",
-  "officialUrl": "www.claflin.edu/",
+  "officialUrl": "https://www.claflin.edu/",
   "detailKey": "unit-217873"
  },
  {
@@ -40525,7 +40525,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,554",
   "tuitionOutState": "$40,866",
   "undergradsCount": "23300+",
-  "officialUrl": "www.clemson.edu/",
+  "officialUrl": "https://www.clemson.edu/",
   "detailKey": "unit-217882"
  },
  {
@@ -40544,7 +40544,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,136",
   "tuitionOutState": "$11,136",
   "undergradsCount": "100+",
-  "officialUrl": "www.clintoncollege.edu/",
+  "officialUrl": "https://www.clintoncollege.edu/",
   "detailKey": "unit-217891"
  },
  {
@@ -40620,7 +40620,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,900",
   "tuitionOutState": "$27,900",
   "undergradsCount": "700+",
-  "officialUrl": "www.ciu.edu/",
+  "officialUrl": "https://www.ciu.edu/",
   "detailKey": "unit-217925"
  },
  {
@@ -40658,7 +40658,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,710",
   "tuitionOutState": "$36,710",
   "undergradsCount": "800+",
-  "officialUrl": "www.erskine.edu/",
+  "officialUrl": "https://www.erskine.edu/",
   "detailKey": "unit-217998"
  },
  {
@@ -40677,7 +40677,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,160",
   "tuitionOutState": "$21,544",
   "undergradsCount": "2600+",
-  "officialUrl": "www.fmarion.edu/",
+  "officialUrl": "https://www.fmarion.edu/",
   "detailKey": "unit-218061"
  },
  {
@@ -40696,7 +40696,7 @@ export const COLLEGES = [
   "tuitionInState": "$59,770",
   "tuitionOutState": "$59,770",
   "undergradsCount": "2400+",
-  "officialUrl": "www.furman.edu/",
+  "officialUrl": "https://www.furman.edu/",
   "detailKey": "unit-218070"
  },
  {
@@ -40715,7 +40715,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,495",
   "tuitionOutState": "$10,775",
   "undergradsCount": "8900+",
-  "officialUrl": "www.gvltec.edu/",
+  "officialUrl": "https://www.gvltec.edu/",
   "detailKey": "unit-218113"
  },
  {
@@ -40791,7 +40791,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,100",
   "tuitionOutState": "$31,100",
   "undergradsCount": "1500+",
-  "officialUrl": "www.newberry.edu/",
+  "officialUrl": "https://www.newberry.edu/",
   "detailKey": "unit-218414"
  },
  {
@@ -40886,7 +40886,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "500+",
-  "officialUrl": "www.southuniversity.edu/columbia#location=Columbia, SC",
+  "officialUrl": "https://www.southuniversity.edu/columbia#location=Columbia, SC",
   "detailKey": "unit-251312"
  },
  {
@@ -40943,7 +40943,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1900+",
-  "officialUrl": "www.strayer.edu/campus-locations/south-carolina/greenville",
+  "officialUrl": "https://www.strayer.edu/campus-locations/south-carolina/greenville",
   "detailKey": "unit-458964"
  },
  {
@@ -40962,7 +40962,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,688",
   "tuitionOutState": "$35,972",
   "undergradsCount": "29800+",
-  "officialUrl": "www.sc.edu/",
+  "officialUrl": "https://www.sc.edu/",
   "detailKey": "unit-218663"
  },
  {
@@ -41000,7 +41000,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,730",
   "tuitionOutState": "$21,776",
   "undergradsCount": "2100+",
-  "officialUrl": "www.uscb.edu/",
+  "officialUrl": "https://www.uscb.edu/",
   "detailKey": "unit-218654"
  },
  {
@@ -41019,7 +41019,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,588",
   "tuitionOutState": "$23,090",
   "undergradsCount": "4000+",
-  "officialUrl": "www.uscupstate.edu/",
+  "officialUrl": "https://www.uscupstate.edu/",
   "detailKey": "unit-218742"
  },
  {
@@ -41057,7 +41057,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,678",
   "tuitionOutState": "$28,676",
   "undergradsCount": "3500+",
-  "officialUrl": "www.winthrop.edu/",
+  "officialUrl": "https://www.winthrop.edu/",
   "detailKey": "unit-218964"
  },
  {
@@ -41076,7 +41076,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,005",
   "tuitionOutState": "$56,005",
   "undergradsCount": "1800+",
-  "officialUrl": "www.wofford.edu/",
+  "officialUrl": "https://www.wofford.edu/",
   "detailKey": "unit-218973"
  },
  {
@@ -41095,7 +41095,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,160",
   "tuitionOutState": "$40,160",
   "undergradsCount": "2000+",
-  "officialUrl": "www.augie.edu/",
+  "officialUrl": "https://www.augie.edu/",
   "detailKey": "unit-219000"
  },
  {
@@ -41114,7 +41114,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,764",
   "tuitionOutState": "$11,866",
   "undergradsCount": "1900+",
-  "officialUrl": "www.bhsu.edu/",
+  "officialUrl": "https://www.bhsu.edu/",
   "detailKey": "unit-219046"
  },
  {
@@ -41171,7 +41171,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,790",
   "tuitionOutState": "$33,790",
   "undergradsCount": "700+",
-  "officialUrl": "www.dwu.edu/",
+  "officialUrl": "https://www.dwu.edu/",
   "detailKey": "unit-219091"
  },
  {
@@ -41190,7 +41190,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,600",
   "tuitionOutState": "$3,600",
   "undergradsCount": "100+",
-  "officialUrl": "www.kairos.edu/",
+  "officialUrl": "https://www.kairos.edu/",
   "detailKey": "unit-219240"
  },
  {
@@ -41209,7 +41209,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,600",
   "tuitionOutState": "$34,600",
   "undergradsCount": "700+",
-  "officialUrl": "www.mountmarty.edu/",
+  "officialUrl": "https://www.mountmarty.edu/",
   "detailKey": "unit-219198"
  },
  {
@@ -41228,7 +41228,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,065",
   "tuitionOutState": "$16,065",
   "undergradsCount": "800+",
-  "officialUrl": "www.national.edu/locations/campuses/rapid-city/",
+  "officialUrl": "https://www.national.edu/locations/campuses/rapid-city/",
   "detailKey": "unit-219204"
  },
  {
@@ -41266,7 +41266,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,684",
   "tuitionOutState": "$2,684",
   "undergradsCount": "1100+",
-  "officialUrl": "www.olc.edu/",
+  "officialUrl": "https://www.olc.edu/",
   "detailKey": "unit-219277"
  },
  {
@@ -41285,7 +41285,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,714",
   "tuitionOutState": "$4,714",
   "undergradsCount": "500+",
-  "officialUrl": "www.sintegleska.edu/",
+  "officialUrl": "https://www.sintegleska.edu/",
   "detailKey": "unit-219374"
  },
  {
@@ -41361,7 +41361,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,750",
   "tuitionOutState": "$21,750",
   "undergradsCount": "1200+",
-  "officialUrl": "www.usiouxfalls.edu/",
+  "officialUrl": "https://www.usiouxfalls.edu/",
   "detailKey": "unit-219383"
  },
  {
@@ -41418,7 +41418,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,006",
   "tuitionOutState": "$14,766",
   "undergradsCount": "7600+",
-  "officialUrl": "www.apsu.edu/",
+  "officialUrl": "https://www.apsu.edu/",
   "detailKey": "unit-219602"
  },
  {
@@ -41437,7 +41437,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,796",
   "tuitionOutState": "$13,796",
   "undergradsCount": "800+",
-  "officialUrl": "www.baptistu.edu/",
+  "officialUrl": "https://www.baptistu.edu/",
   "detailKey": "unit-219639"
  },
  {
@@ -41475,7 +41475,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,800",
   "tuitionOutState": "$19,800",
   "undergradsCount": "800+",
-  "officialUrl": "www.bryan.edu/",
+  "officialUrl": "https://www.bryan.edu/",
   "detailKey": "unit-219790"
  },
  {
@@ -41494,7 +41494,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,700",
   "tuitionOutState": "$34,700",
   "undergradsCount": "1400+",
-  "officialUrl": "www.cn.edu/",
+  "officialUrl": "https://www.cn.edu/",
   "detailKey": "unit-219806"
  },
  {
@@ -41532,7 +41532,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,840",
   "tuitionOutState": "$27,840",
   "undergradsCount": "2100+",
-  "officialUrl": "www.cumberland.edu/",
+  "officialUrl": "https://www.cumberland.edu/",
   "detailKey": "unit-219949"
  },
  {
@@ -41570,7 +41570,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,858",
   "tuitionOutState": "$25,858",
   "undergradsCount": "1000+",
-  "officialUrl": "www.fisk.edu/",
+  "officialUrl": "https://www.fisk.edu/",
   "detailKey": "unit-220181"
  },
  {
@@ -41589,7 +41589,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,620",
   "tuitionOutState": "$25,620",
   "undergradsCount": "1200+",
-  "officialUrl": "www.fhu.edu/",
+  "officialUrl": "https://www.fhu.edu/",
   "detailKey": "unit-220215"
  },
  {
@@ -41627,7 +41627,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,122",
   "tuitionOutState": "$21,122",
   "undergradsCount": "700+",
-  "officialUrl": "johnsonu.edu/",
+  "officialUrl": "https://johnsonu.edu/",
   "detailKey": "unit-220473"
  },
  {
@@ -41684,7 +41684,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,076",
   "tuitionOutState": "$12,076",
   "undergradsCount": "600+",
-  "officialUrl": "www.loc.edu/",
+  "officialUrl": "https://www.loc.edu/",
   "detailKey": "unit-220604"
  },
  {
@@ -41703,7 +41703,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,790",
   "tuitionOutState": "$23,790",
   "undergradsCount": "2600+",
-  "officialUrl": "www.leeuniversity.edu/",
+  "officialUrl": "https://www.leeuniversity.edu/",
   "detailKey": "unit-220613"
  },
  {
@@ -41722,7 +41722,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,938",
   "tuitionOutState": "$26,938",
   "undergradsCount": "1600+",
-  "officialUrl": "www.lmunet.edu/",
+  "officialUrl": "https://www.lmunet.edu/",
   "detailKey": "unit-220631"
  },
  {
@@ -41760,7 +41760,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,284",
   "tuitionOutState": "$39,284",
   "undergradsCount": "1000+",
-  "officialUrl": "www.maryvillecollege.edu/",
+  "officialUrl": "https://www.maryvillecollege.edu/",
   "detailKey": "unit-220710"
  },
  {
@@ -41779,7 +41779,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.mmc.edu/",
+  "officialUrl": "https://www.mmc.edu/",
   "detailKey": "unit-220792"
  },
  {
@@ -41798,7 +41798,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.memphisseminary.edu/",
+  "officialUrl": "https://www.memphisseminary.edu/",
   "detailKey": "unit-220871"
  },
  {
@@ -41836,7 +41836,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "mtsa.edu/",
+  "officialUrl": "https://mtsa.edu/",
   "detailKey": "unit-220996"
  },
  {
@@ -41855,7 +41855,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,266",
   "tuitionOutState": "$31,574",
   "undergradsCount": "16300+",
-  "officialUrl": "www.mtsu.edu/",
+  "officialUrl": "https://www.mtsu.edu/",
   "detailKey": "unit-220978"
  },
  {
@@ -41893,7 +41893,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,450",
   "tuitionOutState": "$40,450",
   "undergradsCount": "800+",
-  "officialUrl": "www.milligan.edu/",
+  "officialUrl": "https://www.milligan.edu/",
   "detailKey": "unit-486901"
  },
  {
@@ -41931,7 +41931,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ogs.edu/",
+  "officialUrl": "https://www.ogs.edu/",
   "detailKey": "unit-461120"
  },
  {
@@ -41950,7 +41950,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.ptseminary.edu/",
+  "officialUrl": "https://www.ptseminary.edu/",
   "detailKey": "unit-219842"
  },
  {
@@ -41969,7 +41969,7 @@ export const COLLEGES = [
   "tuitionInState": "$57,110",
   "tuitionOutState": "$57,110",
   "undergradsCount": "1800+",
-  "officialUrl": "www.rhodes.edu/",
+  "officialUrl": "https://www.rhodes.edu/",
   "detailKey": "unit-221351"
  },
  {
@@ -41988,7 +41988,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.richmont.edu/",
+  "officialUrl": "https://www.richmont.edu/",
   "detailKey": "unit-441104"
  },
  {
@@ -42007,7 +42007,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,514",
   "tuitionOutState": "$17,514",
   "undergradsCount": "1700+",
-  "officialUrl": "usa.sae.edu/",
+  "officialUrl": "https://usa.sae.edu/",
   "detailKey": "unit-446525"
  },
  {
@@ -42026,7 +42026,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,535",
   "tuitionOutState": "$18,535",
   "undergradsCount": "8700+",
-  "officialUrl": "www.south.edu/",
+  "officialUrl": "https://www.south.edu/",
   "detailKey": "unit-220552"
  },
  {
@@ -42045,7 +42045,7 @@ export const COLLEGES = [
   "tuitionInState": "$27,300",
   "tuitionOutState": "$27,300",
   "undergradsCount": "2800+",
-  "officialUrl": "www.southern.edu/",
+  "officialUrl": "https://www.southern.edu/",
   "detailKey": "unit-221661"
  },
  {
@@ -42083,7 +42083,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1800+",
-  "officialUrl": "www.strayer.edu/campus-locations/tennessee/thousand-oaks",
+  "officialUrl": "https://www.strayer.edu/campus-locations/tennessee/thousand-oaks",
   "detailKey": "unit-443766"
  },
  {
@@ -42102,7 +42102,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,616",
   "tuitionOutState": "$22,416",
   "undergradsCount": "4800+",
-  "officialUrl": "www.tnstate.edu/",
+  "officialUrl": "https://www.tnstate.edu/",
   "detailKey": "unit-221838"
  },
  {
@@ -42121,7 +42121,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,376",
   "tuitionOutState": "$15,576",
   "undergradsCount": "8700+",
-  "officialUrl": "www.tntech.edu/",
+  "officialUrl": "https://www.tntech.edu/",
   "detailKey": "unit-221847"
  },
  {
@@ -42140,7 +42140,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,814",
   "tuitionOutState": "$30,814",
   "undergradsCount": "800+",
-  "officialUrl": "www.tnwesleyan.edu/",
+  "officialUrl": "https://www.tnwesleyan.edu/",
   "detailKey": "unit-221731"
  },
  {
@@ -42197,7 +42197,7 @@ export const COLLEGES = [
   "tuitionInState": "$40,025",
   "tuitionOutState": "$40,025",
   "undergradsCount": "1600+",
-  "officialUrl": "www.uu.edu/",
+  "officialUrl": "https://www.uu.edu/",
   "detailKey": "unit-221971"
  },
  {
@@ -42235,7 +42235,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "400+",
-  "officialUrl": "www.uthsc.edu/",
+  "officialUrl": "https://www.uthsc.edu/",
   "detailKey": "unit-487010"
  },
  {
@@ -42273,7 +42273,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,448",
   "tuitionOutState": "$18,512",
   "undergradsCount": "10100+",
-  "officialUrl": "utc.edu/",
+  "officialUrl": "https://utc.edu/",
   "detailKey": "unit-221740"
  },
  {
@@ -42311,7 +42311,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,812",
   "tuitionOutState": "$33,256",
   "undergradsCount": "30400+",
-  "officialUrl": "www.utk.edu/",
+  "officialUrl": "https://www.utk.edu/",
   "detailKey": "unit-221759"
  },
  {
@@ -42330,7 +42330,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,120",
   "tuitionOutState": "$56,120",
   "undergradsCount": "1600+",
-  "officialUrl": "www.sewanee.edu/",
+  "officialUrl": "https://www.sewanee.edu/",
   "detailKey": "unit-221519"
  },
  {
@@ -42349,7 +42349,7 @@ export const COLLEGES = [
   "tuitionInState": "$67,498",
   "tuitionOutState": "$67,498",
   "undergradsCount": "7200+",
-  "officialUrl": "www.vanderbilt.edu/",
+  "officialUrl": "https://www.vanderbilt.edu/",
   "detailKey": "unit-221999"
  },
  {
@@ -42368,7 +42368,7 @@ export const COLLEGES = [
   "tuitionInState": "$22,000",
   "tuitionOutState": "$22,000",
   "undergradsCount": "100+",
-  "officialUrl": "www.visible.edu/",
+  "officialUrl": "https://www.visible.edu/",
   "detailKey": "unit-449764"
  },
  {
@@ -42387,7 +42387,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,400",
   "tuitionOutState": "$21,400",
   "undergradsCount": "200+",
-  "officialUrl": "www.welch.edu/",
+  "officialUrl": "https://www.welch.edu/",
   "detailKey": "unit-220206"
  },
  {
@@ -42406,7 +42406,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,090",
   "tuitionOutState": "$16,090",
   "undergradsCount": "0+",
-  "officialUrl": "www.williamsoncc.edu/",
+  "officialUrl": "https://www.williamsoncc.edu/",
   "detailKey": "unit-443340"
  },
  {
@@ -42425,7 +42425,7 @@ export const COLLEGES = [
   "tuitionInState": "$44,200",
   "tuitionOutState": "$44,200",
   "undergradsCount": "3200+",
-  "officialUrl": "www.acu.edu/",
+  "officialUrl": "https://www.acu.edu/",
   "detailKey": "unit-222178"
  },
  {
@@ -42463,7 +42463,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.amberton.edu/",
+  "officialUrl": "https://www.amberton.edu/",
   "detailKey": "unit-222628"
  },
  {
@@ -42482,7 +42482,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.acaom.edu/",
+  "officialUrl": "https://www.acaom.edu/",
   "detailKey": "unit-429085"
  },
  {
@@ -42501,7 +42501,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,829",
   "tuitionOutState": "$14,829",
   "undergradsCount": "100+",
-  "officialUrl": "www.aiuniv.edu/online-campus/campus-locations/houston",
+  "officialUrl": "https://www.aiuniv.edu/online-campus/campus-locations/houston",
   "detailKey": "unit-445133"
  },
  {
@@ -42520,7 +42520,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,460",
   "tuitionOutState": "$18,300",
   "undergradsCount": "5600+",
-  "officialUrl": "www.angelo.edu/",
+  "officialUrl": "https://www.angelo.edu/",
   "detailKey": "unit-222831"
  },
  {
@@ -42577,7 +42577,7 @@ export const COLLEGES = [
   "tuitionInState": "$48,680",
   "tuitionOutState": "$48,680",
   "undergradsCount": "1200+",
-  "officialUrl": "www.austincollege.edu/",
+  "officialUrl": "https://www.austincollege.edu/",
   "detailKey": "unit-222983"
  },
  {
@@ -42596,7 +42596,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,550",
   "tuitionOutState": "$10,590",
   "undergradsCount": "30200+",
-  "officialUrl": "www.austincc.edu/",
+  "officialUrl": "https://www.austincc.edu/",
   "detailKey": "unit-222992"
  },
  {
@@ -42653,7 +42653,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,760",
   "tuitionOutState": "$13,760",
   "undergradsCount": "600+",
-  "officialUrl": "www.bshp.edu/",
+  "officialUrl": "https://www.bshp.edu/",
   "detailKey": "unit-223083"
  },
  {
@@ -42672,7 +42672,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,050",
   "tuitionOutState": "$10,050",
   "undergradsCount": "0+",
-  "officialUrl": "www.bmats.edu/",
+  "officialUrl": "https://www.bmats.edu/",
   "detailKey": "unit-223117"
  },
  {
@@ -42691,7 +42691,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,180",
   "tuitionOutState": "$9,180",
   "undergradsCount": "100+",
-  "officialUrl": "www.bua.edu/",
+  "officialUrl": "https://www.bua.edu/",
   "detailKey": "unit-444398"
  },
  {
@@ -42710,7 +42710,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.bcm.edu/",
+  "officialUrl": "https://www.bcm.edu/",
   "detailKey": "unit-223223"
  },
  {
@@ -42729,7 +42729,7 @@ export const COLLEGES = [
   "tuitionInState": "$58,100",
   "tuitionOutState": "$58,100",
   "undergradsCount": "14800+",
-  "officialUrl": "www.baylor.edu/",
+  "officialUrl": "https://www.baylor.edu/",
   "detailKey": "unit-223232"
  },
  {
@@ -42748,7 +42748,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,388",
   "tuitionOutState": "$4,711",
   "undergradsCount": "2600+",
-  "officialUrl": "www.brazosport.edu/",
+  "officialUrl": "https://www.brazosport.edu/",
   "detailKey": "unit-223506"
  },
  {
@@ -42767,7 +42767,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.brite.edu/",
+  "officialUrl": "https://www.brite.edu/",
   "detailKey": "unit-450304"
  },
  {
@@ -42786,7 +42786,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.paralegal.edu/",
+  "officialUrl": "https://www.paralegal.edu/",
   "detailKey": "unit-379782"
  },
  {
@@ -42843,7 +42843,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,806",
   "tuitionOutState": "$8,806",
   "undergradsCount": "0+",
-  "officialUrl": "cmctx.edu/",
+  "officialUrl": "https://cmctx.edu/",
   "detailKey": "unit-494630"
  },
  {
@@ -42881,7 +42881,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "4500+",
-  "officialUrl": "www.chcp.edu/",
+  "officialUrl": "https://www.chcp.edu/",
   "detailKey": "unit-392257"
  },
  {
@@ -42900,7 +42900,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,310",
   "tuitionOutState": "$4,140",
   "undergradsCount": "3400+",
-  "officialUrl": "www.com.edu/",
+  "officialUrl": "https://www.com.edu/",
   "detailKey": "unit-226408"
  },
  {
@@ -42957,7 +42957,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,750",
   "tuitionOutState": "$15,750",
   "undergradsCount": "100+",
-  "officialUrl": "www.criswell.edu/",
+  "officialUrl": "https://www.criswell.edu/",
   "detailKey": "unit-475608"
  },
  {
@@ -42995,7 +42995,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,730",
   "tuitionOutState": "$21,730",
   "undergradsCount": "200+",
-  "officialUrl": "www.dallas.edu/",
+  "officialUrl": "https://www.dallas.edu/",
   "detailKey": "unit-224244"
  },
  {
@@ -43014,7 +43014,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,730",
   "tuitionOutState": "$6,900",
   "undergradsCount": "43900+",
-  "officialUrl": "www.dallascollege.edu/pages/default.aspx",
+  "officialUrl": "https://www.dallascollege.edu/pages/default.aspx",
   "detailKey": "unit-224615"
  },
  {
@@ -43033,7 +43033,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.dts.edu/",
+  "officialUrl": "https://www.dts.edu/",
   "detailKey": "unit-224305"
  },
  {
@@ -43052,7 +43052,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,440",
   "tuitionOutState": "$6,050",
   "undergradsCount": "9500+",
-  "officialUrl": "www.delmar.edu/",
+  "officialUrl": "https://www.delmar.edu/",
   "detailKey": "unit-224350"
  },
  {
@@ -43109,7 +43109,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,026",
   "tuitionOutState": "$22,326",
   "undergradsCount": "9900+",
-  "officialUrl": "www.etamu.edu/",
+  "officialUrl": "https://www.etamu.edu/",
   "detailKey": "unit-224554"
  },
  {
@@ -43147,7 +43147,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ssw.edu/",
+  "officialUrl": "https://www.ssw.edu/",
   "detailKey": "unit-224712"
  },
  {
@@ -43166,7 +43166,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,048",
   "tuitionOutState": "$17,048",
   "undergradsCount": "3000+",
-  "officialUrl": "www.galencollege.edu/sanantonio/",
+  "officialUrl": "https://www.galencollege.edu/sanantonio/",
   "detailKey": "unit-406033"
  },
  {
@@ -43242,7 +43242,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,720",
   "tuitionOutState": "$7,720",
   "undergradsCount": "200+",
-  "officialUrl": "www.gsot.edu/",
+  "officialUrl": "https://www.gsot.edu/",
   "detailKey": "unit-481401"
  },
  {
@@ -43261,7 +43261,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,052",
   "tuitionOutState": "$6,352",
   "undergradsCount": "3100+",
-  "officialUrl": "grayson.edu/",
+  "officialUrl": "https://grayson.edu/",
   "detailKey": "unit-225070"
  },
  {
@@ -43337,7 +43337,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,040",
   "tuitionOutState": "$5,460",
   "undergradsCount": "40500+",
-  "officialUrl": "www.hccs.edu/",
+  "officialUrl": "https://www.hccs.edu/",
   "detailKey": "unit-225423"
  },
  {
@@ -43356,7 +43356,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,982",
   "tuitionOutState": "$34,982",
   "undergradsCount": "700+",
-  "officialUrl": "www.hputx.edu/",
+  "officialUrl": "https://www.hputx.edu/",
   "detailKey": "unit-225548"
  },
  {
@@ -43375,7 +43375,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,709",
   "tuitionOutState": "$26,709",
   "undergradsCount": "1000+",
-  "officialUrl": "www.htu.edu/",
+  "officialUrl": "https://www.htu.edu/",
   "detailKey": "unit-225575"
  },
  {
@@ -43394,7 +43394,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,720",
   "tuitionOutState": "$11,720",
   "undergradsCount": "600+",
-  "officialUrl": "www.jarvis.edu/",
+  "officialUrl": "https://www.jarvis.edu/",
   "detailKey": "unit-225885"
  },
  {
@@ -43432,7 +43432,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,905",
   "tuitionOutState": "$18,745",
   "undergradsCount": "8200+",
-  "officialUrl": "www.lamar.edu/",
+  "officialUrl": "https://www.lamar.edu/",
   "detailKey": "unit-226091"
  },
  {
@@ -43470,7 +43470,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,160",
   "tuitionOutState": "$37,160",
   "undergradsCount": "1500+",
-  "officialUrl": "www.letu.edu/",
+  "officialUrl": "https://www.letu.edu/",
   "detailKey": "unit-226231"
  },
  {
@@ -43489,7 +43489,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,330",
   "tuitionOutState": "$9,390",
   "undergradsCount": "45200+",
-  "officialUrl": "www.lonestar.edu/",
+  "officialUrl": "https://www.lonestar.edu/",
   "detailKey": "unit-227182"
  },
  {
@@ -43546,7 +43546,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,620",
   "tuitionOutState": "$11,620",
   "undergradsCount": "0+",
-  "officialUrl": "www.messengercollege.edu/",
+  "officialUrl": "https://www.messengercollege.edu/",
   "detailKey": "unit-417752"
  },
  {
@@ -43565,7 +43565,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,180",
   "tuitionOutState": "$6,180",
   "undergradsCount": "5500+",
-  "officialUrl": "www.midland.edu/",
+  "officialUrl": "https://www.midland.edu/",
   "detailKey": "unit-226806"
  },
  {
@@ -43584,7 +43584,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,580",
   "tuitionOutState": "$12,530",
   "undergradsCount": "4100+",
-  "officialUrl": "www.msutexas.edu/",
+  "officialUrl": "https://www.msutexas.edu/",
   "detailKey": "unit-226833"
  },
  {
@@ -43603,7 +43603,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,008",
   "tuitionOutState": "$6,578",
   "undergradsCount": "3800+",
-  "officialUrl": "www.navarrocollege.edu/",
+  "officialUrl": "https://www.navarrocollege.edu/",
   "detailKey": "unit-227146"
  },
  {
@@ -43622,7 +43622,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,064",
   "tuitionOutState": "$25,064",
   "undergradsCount": "1500+",
-  "officialUrl": "www.nelson.edu/",
+  "officialUrl": "https://www.nelson.edu/",
   "detailKey": "unit-228325"
  },
  {
@@ -43641,7 +43641,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,436",
   "tuitionOutState": "$15,436",
   "undergradsCount": "600+",
-  "officialUrl": "www.na.edu/",
+  "officialUrl": "https://www.na.edu/",
   "detailKey": "unit-461795"
  },
  {
@@ -43660,7 +43660,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.ost.edu/",
+  "officialUrl": "https://www.ost.edu/",
   "detailKey": "unit-227289"
  },
  {
@@ -43679,7 +43679,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,688",
   "tuitionOutState": "$4,926",
   "undergradsCount": "4700+",
-  "officialUrl": "www.odessa.edu/",
+  "officialUrl": "https://www.odessa.edu/",
   "detailKey": "unit-227304"
  },
  {
@@ -43717,7 +43717,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,412",
   "tuitionOutState": "$9,952",
   "undergradsCount": "8800+",
-  "officialUrl": "alamo.edu/pac/",
+  "officialUrl": "https://alamo.edu/pac/",
   "detailKey": "unit-246354"
  },
  {
@@ -43736,7 +43736,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,893",
   "tuitionOutState": "$17,893",
   "undergradsCount": "600+",
-  "officialUrl": "www.parker.edu/",
+  "officialUrl": "https://www.parker.edu/",
   "detailKey": "unit-243823"
  },
  {
@@ -43774,7 +43774,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,299",
   "tuitionOutState": "$26,874",
   "undergradsCount": "8900+",
-  "officialUrl": "www.pvamu.edu/",
+  "officialUrl": "https://www.pvamu.edu/",
   "detailKey": "unit-227526"
  },
  {
@@ -43869,7 +43869,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,228",
   "tuitionOutState": "$19,068",
   "undergradsCount": "17700+",
-  "officialUrl": "www.shsu.edu/",
+  "officialUrl": "https://www.shsu.edu/",
   "detailKey": "unit-227881"
  },
  {
@@ -43888,7 +43888,7 @@ export const COLLEGES = [
   "tuitionInState": "$3,412",
   "tuitionOutState": "$9,952",
   "undergradsCount": "16400+",
-  "officialUrl": "www.alamo.edu/sac",
+  "officialUrl": "https://www.alamo.edu/sac",
   "detailKey": "unit-227924"
  },
  {
@@ -43907,7 +43907,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,490",
   "tuitionOutState": "$6,690",
   "undergradsCount": "23000+",
-  "officialUrl": "www.sanjac.edu/",
+  "officialUrl": "https://www.sanjac.edu/",
   "detailKey": "unit-227979"
  },
  {
@@ -43964,7 +43964,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.stcl.edu/",
+  "officialUrl": "https://www.stcl.edu/",
   "detailKey": "unit-228194"
  },
  {
@@ -43983,7 +43983,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "200+",
-  "officialUrl": "www.southuniversity.edu/austin#location=Austin, TX",
+  "officialUrl": "https://www.southuniversity.edu/austin#location=Austin, TX",
   "detailKey": "unit-480073"
  },
  {
@@ -44021,7 +44021,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,000",
   "tuitionOutState": "$16,000",
   "undergradsCount": "2100+",
-  "officialUrl": "southwestuniversity.edu/",
+  "officialUrl": "https://southwestuniversity.edu/",
   "detailKey": "unit-451556"
  },
  {
@@ -44040,7 +44040,7 @@ export const COLLEGES = [
   "tuitionInState": "$25,380",
   "tuitionOutState": "$25,380",
   "undergradsCount": "600+",
-  "officialUrl": "www.swau.edu/",
+  "officialUrl": "https://www.swau.edu/",
   "detailKey": "unit-228468"
  },
  {
@@ -44059,7 +44059,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,934",
   "tuitionOutState": "$11,934",
   "undergradsCount": "300+",
-  "officialUrl": "swbts.edu/",
+  "officialUrl": "https://swbts.edu/",
   "detailKey": "unit-494603"
  },
  {
@@ -44078,7 +44078,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,638",
   "tuitionOutState": "$14,638",
   "undergradsCount": "100+",
-  "officialUrl": "www.swcc.edu/",
+  "officialUrl": "https://www.swcc.edu/",
   "detailKey": "unit-228486"
  },
  {
@@ -44116,7 +44116,7 @@ export const COLLEGES = [
   "tuitionInState": "$37,434",
   "tuitionOutState": "$37,434",
   "undergradsCount": "2000+",
-  "officialUrl": "www.stmarytx.edu/",
+  "officialUrl": "https://www.stmarytx.edu/",
   "detailKey": "unit-228149"
  },
  {
@@ -44154,7 +44154,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "2300+",
-  "officialUrl": "www.strayer.edu/campus-locations",
+  "officialUrl": "https://www.strayer.edu/campus-locations",
   "detailKey": "unit-458973"
  },
  {
@@ -44173,7 +44173,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,592",
   "tuitionOutState": "$17,672",
   "undergradsCount": "1400+",
-  "officialUrl": "www.sulross.edu/",
+  "officialUrl": "https://www.sulross.edu/",
   "detailKey": "unit-228501"
  },
  {
@@ -44192,7 +44192,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,302",
   "tuitionOutState": "$18,142",
   "undergradsCount": "12700+",
-  "officialUrl": "www.tarleton.edu/",
+  "officialUrl": "https://www.tarleton.edu/",
   "detailKey": "unit-228529"
  },
  {
@@ -44211,7 +44211,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,894",
   "tuitionOutState": "$19,454",
   "undergradsCount": "6700+",
-  "officialUrl": "www.tamiu.edu/",
+  "officialUrl": "https://www.tamiu.edu/",
   "detailKey": "unit-226152"
  },
  {
@@ -44268,7 +44268,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,363",
   "tuitionOutState": "$17,154",
   "undergradsCount": "1800+",
-  "officialUrl": "tamuct.edu/",
+  "officialUrl": "https://tamuct.edu/",
   "detailKey": "unit-483036"
  },
  {
@@ -44306,7 +44306,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,654",
   "tuitionOutState": "$23,255",
   "undergradsCount": "6600+",
-  "officialUrl": "www.tamusa.edu/",
+  "officialUrl": "https://www.tamusa.edu/",
   "detailKey": "unit-459949"
  },
  {
@@ -44325,7 +44325,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,349",
   "tuitionOutState": "$45,080",
   "undergradsCount": "2000+",
-  "officialUrl": "www.tamut.edu/",
+  "officialUrl": "https://www.tamut.edu/",
   "detailKey": "unit-224545"
  },
  {
@@ -44344,7 +44344,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,149",
   "tuitionOutState": "$16,989",
   "undergradsCount": "2500+",
-  "officialUrl": "www.tamuv.edu/",
+  "officialUrl": "https://www.tamuv.edu/",
   "detailKey": "unit-225502"
  },
  {
@@ -44363,7 +44363,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.txchiro.edu/",
+  "officialUrl": "https://www.txchiro.edu/",
   "detailKey": "unit-228866"
  },
  {
@@ -44401,7 +44401,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,008",
   "tuitionOutState": "$10,008",
   "undergradsCount": "600+",
-  "officialUrl": "www.texascollege.edu/",
+  "officialUrl": "https://www.texascollege.edu/",
   "detailKey": "unit-228884"
  },
  {
@@ -44439,7 +44439,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,230",
   "tuitionOutState": "$36,230",
   "undergradsCount": "1300+",
-  "officialUrl": "www.tlu.edu/",
+  "officialUrl": "https://www.tlu.edu/",
   "detailKey": "unit-228981"
  },
  {
@@ -44458,7 +44458,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,173",
   "tuitionOutState": "$21,473",
   "undergradsCount": "6800+",
-  "officialUrl": "www.tsu.edu/",
+  "officialUrl": "https://www.tsu.edu/",
   "detailKey": "unit-229063"
  },
  {
@@ -44496,7 +44496,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,852",
   "tuitionOutState": "$24,451",
   "undergradsCount": "32400+",
-  "officialUrl": "www.ttu.edu/",
+  "officialUrl": "https://www.ttu.edu/",
   "detailKey": "unit-229115"
  },
  {
@@ -44534,7 +44534,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "elpaso.ttuhsc.edu/",
+  "officialUrl": "https://elpaso.ttuhsc.edu/",
   "detailKey": "unit-492689"
  },
  {
@@ -44553,7 +44553,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,582",
   "tuitionOutState": "$39,582",
   "undergradsCount": "1700+",
-  "officialUrl": "www.txwes.edu/",
+  "officialUrl": "https://www.txwes.edu/",
   "detailKey": "unit-229160"
  },
  {
@@ -44572,7 +44572,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,640",
   "tuitionOutState": "$18,480",
   "undergradsCount": "8800+",
-  "officialUrl": "www.twu.edu/",
+  "officialUrl": "https://www.twu.edu/",
   "detailKey": "unit-229179"
  },
  {
@@ -44610,7 +44610,7 @@ export const COLLEGES = [
   "tuitionInState": "$2,640",
   "tuitionOutState": "$5,970",
   "undergradsCount": "5700+",
-  "officialUrl": "www.tvcc.edu/",
+  "officialUrl": "https://www.tvcc.edu/",
   "detailKey": "unit-225308"
  },
  {
@@ -44686,7 +44686,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,770",
   "tuitionOutState": "$21,114",
   "undergradsCount": "6100+",
-  "officialUrl": "www.uhcl.edu/",
+  "officialUrl": "https://www.uhcl.edu/",
   "detailKey": "unit-225414"
  },
  {
@@ -44705,7 +44705,7 @@ export const COLLEGES = [
   "tuitionInState": "$7,708",
   "tuitionOutState": "$17,548",
   "undergradsCount": "12600+",
-  "officialUrl": "www.uhd.edu/",
+  "officialUrl": "https://www.uhd.edu/",
   "detailKey": "unit-225432"
  },
  {
@@ -44743,7 +44743,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,309",
   "tuitionOutState": "$21,149",
   "undergradsCount": "34300+",
-  "officialUrl": "www.unt.edu/",
+  "officialUrl": "https://www.unt.edu/",
   "detailKey": "unit-227216"
  },
  {
@@ -44762,7 +44762,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,595",
   "tuitionOutState": "$21,894",
   "undergradsCount": "2900+",
-  "officialUrl": "untdallas.edu/",
+  "officialUrl": "https://untdallas.edu/",
   "detailKey": "unit-484905"
  },
  {
@@ -44781,7 +44781,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.unthealth.edu/",
+  "officialUrl": "https://www.unthealth.edu/",
   "detailKey": "unit-228909"
  },
  {
@@ -44838,7 +44838,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,644",
   "tuitionOutState": "$40,144",
   "undergradsCount": "21800+",
-  "officialUrl": "www.utdallas.edu/",
+  "officialUrl": "https://www.utdallas.edu/",
   "detailKey": "unit-228787"
  },
  {
@@ -44876,7 +44876,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,011",
   "tuitionOutState": "$22,051",
   "undergradsCount": "30600+",
-  "officialUrl": "www.utsa.edu/",
+  "officialUrl": "https://www.utsa.edu/",
   "detailKey": "unit-229027"
  },
  {
@@ -44914,7 +44914,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "500+",
-  "officialUrl": "www.uth.edu/",
+  "officialUrl": "https://www.uth.edu/",
   "detailKey": "unit-229300"
  },
  {
@@ -44933,7 +44933,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "900+",
-  "officialUrl": "www.uthscsa.edu/",
+  "officialUrl": "https://www.uthscsa.edu/",
   "detailKey": "unit-228644"
  },
  {
@@ -44952,7 +44952,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "300+",
-  "officialUrl": "www.mdanderson.org/",
+  "officialUrl": "https://www.mdanderson.org/",
   "detailKey": "unit-416801"
  },
  {
@@ -45009,7 +45009,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,987",
   "tuitionOutState": "$19,827",
   "undergradsCount": "28700+",
-  "officialUrl": "www.utrgv.edu/",
+  "officialUrl": "https://www.utrgv.edu/",
   "detailKey": "unit-227368"
  },
  {
@@ -45028,7 +45028,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.utsouthwestern.edu/",
+  "officialUrl": "https://www.utsouthwestern.edu/",
   "detailKey": "unit-228635"
  },
  {
@@ -45085,7 +45085,7 @@ export const COLLEGES = [
   "tuitionInState": "$23,782",
   "tuitionOutState": "$23,782",
   "undergradsCount": "2000+",
-  "officialUrl": "www.wbu.edu/",
+  "officialUrl": "https://www.wbu.edu/",
   "detailKey": "unit-229780"
  },
  {
@@ -45123,7 +45123,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,854",
   "tuitionOutState": "$36,854",
   "undergradsCount": "2700+",
-  "officialUrl": "westcoastuniversity.edu/",
+  "officialUrl": "https://westcoastuniversity.edu/",
   "detailKey": "unit-443331"
  },
  {
@@ -45161,7 +45161,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "600+",
-  "officialUrl": "www.westerntech.edu/",
+  "officialUrl": "https://www.westerntech.edu/",
   "detailKey": "unit-224660"
  },
  {
@@ -45180,7 +45180,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,500",
   "tuitionOutState": "$12,500",
   "undergradsCount": "700+",
-  "officialUrl": "wileyc.edu/",
+  "officialUrl": "https://wileyc.edu/",
   "detailKey": "unit-229887"
  },
  {
@@ -45256,7 +45256,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.eaglegatecollege.edu/",
+  "officialUrl": "https://www.eaglegatecollege.edu/",
   "detailKey": "unit-447421"
  },
  {
@@ -45275,7 +45275,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,548",
   "tuitionOutState": "$16,548",
   "undergradsCount": "400+",
-  "officialUrl": "eaglegatecollege.edu/",
+  "officialUrl": "https://eaglegatecollege.edu/",
   "detailKey": "unit-230366"
  },
  {
@@ -45294,7 +45294,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,004",
   "tuitionOutState": "$4,004",
   "undergradsCount": "7600+",
-  "officialUrl": "www.ensign.edu/",
+  "officialUrl": "https://www.ensign.edu/",
   "detailKey": "unit-230418"
  },
  {
@@ -45313,7 +45313,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,680",
   "tuitionOutState": "$21,680",
   "undergradsCount": "2100+",
-  "officialUrl": "www.joyce.edu/",
+  "officialUrl": "https://www.joyce.edu/",
   "detailKey": "unit-447263"
  },
  {
@@ -45389,7 +45389,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "6000+",
-  "officialUrl": "www.nightingale.edu/",
+  "officialUrl": "https://www.nightingale.edu/",
   "detailKey": "unit-444787"
  },
  {
@@ -45408,7 +45408,7 @@ export const COLLEGES = [
   "tuitionInState": "$16,548",
   "tuitionOutState": "$16,548",
   "undergradsCount": "700+",
-  "officialUrl": "www.provocollege.edu/",
+  "officialUrl": "https://www.provocollege.edu/",
   "detailKey": "unit-380438"
  },
  {
@@ -45484,7 +45484,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,620",
   "tuitionOutState": "$30,860",
   "undergradsCount": "27300+",
-  "officialUrl": "www.utah.edu/",
+  "officialUrl": "https://www.utah.edu/",
   "detailKey": "unit-230764"
  },
  {
@@ -45522,7 +45522,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,306",
   "tuitionOutState": "$18,246",
   "undergradsCount": "8600+",
-  "officialUrl": "utahtech.edu/",
+  "officialUrl": "https://utahtech.edu/",
   "detailKey": "unit-230171"
  },
  {
@@ -45541,7 +45541,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,507",
   "tuitionOutState": "$18,489",
   "undergradsCount": "28500+",
-  "officialUrl": "www.uvu.edu/",
+  "officialUrl": "https://www.uvu.edu/",
   "detailKey": "unit-230737"
  },
  {
@@ -45579,7 +45579,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,658",
   "tuitionOutState": "$8,658",
   "undergradsCount": "155100+",
-  "officialUrl": "www.wgu.edu/",
+  "officialUrl": "https://www.wgu.edu/",
   "detailKey": "unit-433387"
  },
  {
@@ -45598,7 +45598,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,528",
   "tuitionOutState": "$43,528",
   "undergradsCount": "800+",
-  "officialUrl": "www.westminsteru.edu/",
+  "officialUrl": "https://www.westminsteru.edu/",
   "detailKey": "unit-230807"
  },
  {
@@ -45636,7 +45636,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.acp.edu/",
+  "officialUrl": "https://www.acp.edu/",
   "detailKey": "unit-449922"
  },
  {
@@ -45655,7 +45655,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.asl.edu/",
+  "officialUrl": "https://www.asl.edu/",
   "detailKey": "unit-432348"
  },
  {
@@ -45693,7 +45693,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,550",
   "tuitionOutState": "$8,550",
   "undergradsCount": "100+",
-  "officialUrl": "ascent.edu/",
+  "officialUrl": "https://ascent.edu/",
   "detailKey": "unit-458113"
  },
  {
@@ -45731,7 +45731,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,770",
   "tuitionOutState": "$26,770",
   "undergradsCount": "600+",
-  "officialUrl": "www.bluefield.edu/",
+  "officialUrl": "https://www.bluefield.edu/",
   "detailKey": "unit-231554"
  },
  {
@@ -45902,7 +45902,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.divinemercy.edu/",
+  "officialUrl": "https://www.divinemercy.edu/",
   "detailKey": "unit-445869"
  },
  {
@@ -45940,7 +45940,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,484",
   "tuitionOutState": "$18,484",
   "undergradsCount": "12100+",
-  "officialUrl": "www.ecpi.edu/",
+  "officialUrl": "https://www.ecpi.edu/",
   "detailKey": "unit-248934"
  },
  {
@@ -45959,7 +45959,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.vcom.edu/",
+  "officialUrl": "https://www.vcom.edu/",
   "detailKey": "unit-442806"
  },
  {
@@ -45978,7 +45978,7 @@ export const COLLEGES = [
   "tuitionInState": "$39,000",
   "tuitionOutState": "$39,000",
   "undergradsCount": "1100+",
-  "officialUrl": "www.emoryhenry.edu/",
+  "officialUrl": "https://www.emoryhenry.edu/",
   "detailKey": "unit-232025"
  },
  {
@@ -45997,7 +45997,7 @@ export const COLLEGES = [
   "tuitionInState": "$28,520",
   "tuitionOutState": "$28,520",
   "undergradsCount": "700+",
-  "officialUrl": "www.ferrum.edu/",
+  "officialUrl": "https://www.ferrum.edu/",
   "detailKey": "unit-232089"
  },
  {
@@ -46035,7 +46035,7 @@ export const COLLEGES = [
   "tuitionInState": "$54,550",
   "tuitionOutState": "$54,550",
   "undergradsCount": "900+",
-  "officialUrl": "www.hsc.edu/",
+  "officialUrl": "https://www.hsc.edu/",
   "detailKey": "unit-232256"
  },
  {
@@ -46054,7 +46054,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,592",
   "tuitionOutState": "$30,592",
   "undergradsCount": "3700+",
-  "officialUrl": "www.hamptonu.edu/",
+  "officialUrl": "https://www.hamptonu.edu/",
   "detailKey": "unit-232265"
  },
  {
@@ -46073,7 +46073,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,560",
   "tuitionOutState": "$43,560",
   "undergradsCount": "700+",
-  "officialUrl": "www.hollins.edu/",
+  "officialUrl": "https://www.hollins.edu/",
   "detailKey": "unit-232308"
  },
  {
@@ -46092,7 +46092,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,250",
   "tuitionOutState": "$31,604",
   "undergradsCount": "20900+",
-  "officialUrl": "www.jmu.edu/index.shtml",
+  "officialUrl": "https://www.jmu.edu/index.shtml",
   "detailKey": "unit-232423"
  },
  {
@@ -46130,7 +46130,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,744",
   "tuitionOutState": "$27,978",
   "undergradsCount": "3000+",
-  "officialUrl": "www.longwood.edu/",
+  "officialUrl": "https://www.longwood.edu/",
   "detailKey": "unit-232566"
  },
  {
@@ -46149,7 +46149,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "lotus.edu/",
+  "officialUrl": "https://lotus.edu/",
   "detailKey": "unit-494621"
  },
  {
@@ -46206,7 +46206,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,180",
   "tuitionOutState": "$21,682",
   "undergradsCount": "5400+",
-  "officialUrl": "www.nsu.edu/",
+  "officialUrl": "https://www.nsu.edu/",
   "detailKey": "unit-232937"
  },
  {
@@ -46225,7 +46225,7 @@ export const COLLEGES = [
   "tuitionInState": "$12,750",
   "tuitionOutState": "$33,780",
   "undergradsCount": "17500+",
-  "officialUrl": "www.odu.edu/",
+  "officialUrl": "https://www.odu.edu/",
   "detailKey": "unit-232982"
  },
  {
@@ -46282,7 +46282,7 @@ export const COLLEGES = [
   "tuitionInState": "$30,310",
   "tuitionOutState": "$30,310",
   "undergradsCount": "700+",
-  "officialUrl": "www.randolphcollege.edu/",
+  "officialUrl": "https://www.randolphcollege.edu/",
   "detailKey": "unit-233301"
  },
  {
@@ -46377,7 +46377,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "200+",
-  "officialUrl": "www.sentara.edu/",
+  "officialUrl": "https://www.sentara.edu/",
   "detailKey": "unit-232885"
  },
  {
@@ -46396,7 +46396,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,950",
   "tuitionOutState": "$36,950",
   "undergradsCount": "2100+",
-  "officialUrl": "www.su.edu/",
+  "officialUrl": "https://www.su.edu/",
   "detailKey": "unit-233541"
  },
  {
@@ -46415,7 +46415,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "200+",
-  "officialUrl": "www.southuniversity.edu/richmond#location=Richmond, VA",
+  "officialUrl": "https://www.southuniversity.edu/richmond#location=Richmond, VA",
   "detailKey": "unit-459259"
  },
  {
@@ -46434,7 +46434,7 @@ export const COLLEGES = [
   "tuitionInState": "$18,145",
   "tuitionOutState": "$18,145",
   "undergradsCount": "200+",
-  "officialUrl": "www.southuniversity.edu/virginia-beach#location=Virginia Beach, VA",
+  "officialUrl": "https://www.southuniversity.edu/virginia-beach#location=Virginia Beach, VA",
   "detailKey": "unit-459268"
  },
  {
@@ -46472,7 +46472,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "1700+",
-  "officialUrl": "www.strayer.edu/campus-locations/virginia/arlington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/virginia/arlington",
   "detailKey": "unit-233684"
  },
  {
@@ -46491,7 +46491,7 @@ export const COLLEGES = [
   "tuitionInState": "$26,160",
   "tuitionOutState": "$26,160",
   "undergradsCount": "400+",
-  "officialUrl": "www.sbc.edu/",
+  "officialUrl": "https://www.sbc.edu/",
   "detailKey": "unit-233718"
  },
  {
@@ -46510,7 +46510,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.upsem.edu/",
+  "officialUrl": "https://www.upsem.edu/",
   "detailKey": "unit-233842"
  },
  {
@@ -46548,7 +46548,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,750",
   "tuitionOutState": "$36,750",
   "undergradsCount": "1600+",
-  "officialUrl": "www.lynchburg.edu/",
+  "officialUrl": "https://www.lynchburg.edu/",
   "detailKey": "unit-232609"
  },
  {
@@ -46681,7 +46681,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.vbts.edu/",
+  "officialUrl": "https://www.vbts.edu/",
   "detailKey": "unit-449834"
  },
  {
@@ -46738,7 +46738,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,046",
   "tuitionOutState": "$52,638",
   "undergradsCount": "1500+",
-  "officialUrl": "www.vmi.edu/",
+  "officialUrl": "https://www.vmi.edu/",
   "detailKey": "unit-234085"
  },
  {
@@ -46757,7 +46757,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,043",
   "tuitionOutState": "$22,650",
   "undergradsCount": "5100+",
-  "officialUrl": "www.vsu.edu/",
+  "officialUrl": "https://www.vsu.edu/",
   "detailKey": "unit-234155"
  },
  {
@@ -46776,7 +46776,7 @@ export const COLLEGES = [
   "tuitionInState": "$15,948",
   "tuitionOutState": "$37,764",
   "undergradsCount": "30900+",
-  "officialUrl": "www.vt.edu/",
+  "officialUrl": "https://www.vt.edu/",
   "detailKey": "unit-233921"
  },
  {
@@ -46795,7 +46795,7 @@ export const COLLEGES = [
   "tuitionInState": "$17,450",
   "tuitionOutState": "$17,450",
   "undergradsCount": "1200+",
-  "officialUrl": "www.vuu.edu/",
+  "officialUrl": "https://www.vuu.edu/",
   "detailKey": "unit-234164"
  },
  {
@@ -46814,7 +46814,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.vuim.edu/",
+  "officialUrl": "https://www.vuim.edu/",
   "detailKey": "unit-490106"
  },
  {
@@ -46833,7 +46833,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,360",
   "tuitionOutState": "$11,360",
   "undergradsCount": "100+",
-  "officialUrl": "www.vul.edu/",
+  "officialUrl": "https://www.vul.edu/",
   "detailKey": "unit-234137"
  },
  {
@@ -46871,7 +46871,7 @@ export const COLLEGES = [
   "tuitionInState": "$68,045",
   "tuitionOutState": "$68,045",
   "undergradsCount": "1900+",
-  "officialUrl": "www.wlu.edu/",
+  "officialUrl": "https://www.wlu.edu/",
   "detailKey": "unit-234207"
  },
  {
@@ -46890,7 +46890,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,785",
   "tuitionOutState": "$13,785",
   "undergradsCount": "400+",
-  "officialUrl": "www.wust.edu/",
+  "officialUrl": "https://www.wust.edu/",
   "detailKey": "unit-483780"
  },
  {
@@ -46928,7 +46928,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,957",
   "tuitionOutState": "$16,557",
   "undergradsCount": "1500+",
-  "officialUrl": "www.uvi.edu/",
+  "officialUrl": "https://www.uvi.edu/",
   "detailKey": "unit-243665"
  },
  {
@@ -46985,7 +46985,7 @@ export const COLLEGES = [
   "tuitionInState": "$66,540",
   "tuitionOutState": "$66,540",
   "undergradsCount": "500+",
-  "officialUrl": "www.landmark.edu/",
+  "officialUrl": "https://www.landmark.edu/",
   "detailKey": "unit-247649"
  },
  {
@@ -47023,7 +47023,7 @@ export const COLLEGES = [
   "tuitionInState": "$49,740",
   "tuitionOutState": "$49,740",
   "undergradsCount": "2400+",
-  "officialUrl": "www.norwich.edu/",
+  "officialUrl": "https://www.norwich.edu/",
   "detailKey": "unit-230995"
  },
  {
@@ -47042,7 +47042,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,450",
   "tuitionOutState": "$51,450",
   "undergradsCount": "1100+",
-  "officialUrl": "www.smcvt.edu/",
+  "officialUrl": "https://www.smcvt.edu/",
   "detailKey": "unit-231059"
  },
  {
@@ -47080,7 +47080,7 @@ export const COLLEGES = [
   "tuitionInState": "$19,058",
   "tuitionOutState": "$45,502",
   "undergradsCount": "11700+",
-  "officialUrl": "www.uvm.edu/",
+  "officialUrl": "https://www.uvm.edu/",
   "detailKey": "unit-231174"
  },
  {
@@ -47099,7 +47099,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.vcfa.edu/",
+  "officialUrl": "https://www.vcfa.edu/",
   "detailKey": "unit-455992"
  },
  {
@@ -47118,7 +47118,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.vermontlaw.edu/",
+  "officialUrl": "https://www.vermontlaw.edu/",
   "detailKey": "unit-231147"
  },
  {
@@ -47137,7 +47137,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,952",
   "tuitionOutState": "$22,296",
   "undergradsCount": "3600+",
-  "officialUrl": "vermontstate.edu/",
+  "officialUrl": "https://vermontstate.edu/",
   "detailKey": "unit-231165"
  },
  {
@@ -47156,7 +47156,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "100+",
-  "officialUrl": "www.antiochseattle.edu/",
+  "officialUrl": "https://www.antiochseattle.edu/",
   "detailKey": "unit-245883"
  },
  {
@@ -47175,7 +47175,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.bastyr.edu/",
+  "officialUrl": "https://www.bastyr.edu/",
   "detailKey": "unit-235547"
  },
  {
@@ -47251,7 +47251,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,157",
   "tuitionOutState": "$11,296",
   "undergradsCount": "1000+",
-  "officialUrl": "www.cascadia.edu/",
+  "officialUrl": "https://www.cascadia.edu/",
   "detailKey": "unit-439190"
  },
  {
@@ -47270,7 +47270,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,417",
   "tuitionOutState": "$27,526",
   "undergradsCount": "7800+",
-  "officialUrl": "www.cwu.edu/",
+  "officialUrl": "https://www.cwu.edu/",
   "detailKey": "unit-234827"
  },
  {
@@ -47289,7 +47289,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,266",
   "tuitionOutState": "$5,651",
   "undergradsCount": "1600+",
-  "officialUrl": "www.centralia.edu/",
+  "officialUrl": "https://www.centralia.edu/",
   "detailKey": "unit-234845"
  },
  {
@@ -47308,7 +47308,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "1100+",
-  "officialUrl": "www.cityu.edu/",
+  "officialUrl": "https://www.cityu.edu/",
   "detailKey": "unit-234915"
  },
  {
@@ -47346,7 +47346,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,634",
   "tuitionOutState": "$6,634",
   "undergradsCount": "2600+",
-  "officialUrl": "www.cptc.edu/",
+  "officialUrl": "https://www.cptc.edu/",
   "detailKey": "unit-234951"
  },
  {
@@ -47365,7 +47365,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,555",
   "tuitionOutState": "$8,668",
   "undergradsCount": "4600+",
-  "officialUrl": "www.columbiabasin.edu/",
+  "officialUrl": "https://www.columbiabasin.edu/",
   "detailKey": "unit-234979"
  },
  {
@@ -47403,7 +47403,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,586",
   "tuitionOutState": "$25,959",
   "undergradsCount": "6200+",
-  "officialUrl": "www.ewu.edu/",
+  "officialUrl": "https://www.ewu.edu/",
   "detailKey": "unit-235097"
  },
  {
@@ -47422,7 +47422,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,810",
   "tuitionOutState": "$10,875",
   "undergradsCount": "3700+",
-  "officialUrl": "www.edmonds.edu/",
+  "officialUrl": "https://www.edmonds.edu/",
   "detailKey": "unit-235103"
  },
  {
@@ -47441,7 +47441,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,032",
   "tuitionOutState": "$11,171",
   "undergradsCount": "4700+",
-  "officialUrl": "www.everettcc.edu/",
+  "officialUrl": "https://www.everettcc.edu/",
   "detailKey": "unit-235149"
  },
  {
@@ -47517,7 +47517,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,593",
   "tuitionOutState": "$12,553",
   "undergradsCount": "1000+",
-  "officialUrl": "www.ghc.edu/",
+  "officialUrl": "https://www.ghc.edu/",
   "detailKey": "unit-235334"
  },
  {
@@ -47574,7 +47574,7 @@ export const COLLEGES = [
   "tuitionInState": "$20,928",
   "tuitionOutState": "$20,928",
   "undergradsCount": "800+",
-  "officialUrl": "www.heritage.edu/",
+  "officialUrl": "https://www.heritage.edu/",
   "detailKey": "unit-235422"
  },
  {
@@ -47593,7 +47593,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,772",
   "tuitionOutState": "$5,332",
   "undergradsCount": "3800+",
-  "officialUrl": "www.highline.edu/",
+  "officialUrl": "https://www.highline.edu/",
   "detailKey": "unit-235431"
  },
  {
@@ -47650,7 +47650,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,238",
   "tuitionOutState": "$5,796",
   "undergradsCount": "3100+",
-  "officialUrl": "northseattle.edu/",
+  "officialUrl": "https://northseattle.edu/",
   "detailKey": "unit-236072"
  },
  {
@@ -47688,7 +47688,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,365",
   "tuitionOutState": "$4,365",
   "undergradsCount": "600+",
-  "officialUrl": "www.nwic.edu/",
+  "officialUrl": "https://www.nwic.edu/",
   "detailKey": "unit-380377"
  },
  {
@@ -47707,7 +47707,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,035",
   "tuitionOutState": "$36,035",
   "undergradsCount": "600+",
-  "officialUrl": "www.northwestu.edu/",
+  "officialUrl": "https://www.northwestu.edu/",
   "detailKey": "unit-236133"
  },
  {
@@ -47726,7 +47726,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,652",
   "tuitionOutState": "$14,652",
   "undergradsCount": "400+",
-  "officialUrl": "www.northwestu.edu/",
+  "officialUrl": "https://www.northwestu.edu/",
   "detailKey": "unit-487603"
  },
  {
@@ -47745,7 +47745,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,197",
   "tuitionOutState": "$9,740",
   "undergradsCount": "3800+",
-  "officialUrl": "www.olympic.edu/",
+  "officialUrl": "https://www.olympic.edu/",
   "detailKey": "unit-236188"
  },
  {
@@ -47764,7 +47764,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,254",
   "tuitionOutState": "$52,254",
   "undergradsCount": "2400+",
-  "officialUrl": "www.plu.edu/",
+  "officialUrl": "https://www.plu.edu/",
   "detailKey": "unit-236230"
  },
  {
@@ -47802,7 +47802,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,718",
   "tuitionOutState": "$5,270",
   "undergradsCount": "1300+",
-  "officialUrl": "www.pencol.edu/",
+  "officialUrl": "https://www.pencol.edu/",
   "detailKey": "unit-236258"
  },
  {
@@ -47821,7 +47821,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,418",
   "tuitionOutState": "$5,976",
   "undergradsCount": "5300+",
-  "officialUrl": "www.pierce.ctc.edu/",
+  "officialUrl": "https://www.pierce.ctc.edu/",
   "detailKey": "unit-235237"
  },
  {
@@ -47840,7 +47840,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,308",
   "tuitionOutState": "$7,369",
   "undergradsCount": "1800+",
-  "officialUrl": "www.rtc.edu/",
+  "officialUrl": "https://www.rtc.edu/",
   "detailKey": "unit-236382"
  },
  {
@@ -47878,7 +47878,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,184",
   "tuitionOutState": "$5,745",
   "undergradsCount": "4000+",
-  "officialUrl": "seattlecentral.edu/",
+  "officialUrl": "https://seattlecentral.edu/",
   "detailKey": "unit-236513"
  },
  {
@@ -47916,7 +47916,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.sieam.edu/",
+  "officialUrl": "https://www.sieam.edu/",
   "detailKey": "unit-439914"
  },
  {
@@ -47954,7 +47954,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "theseattleschool.edu/",
+  "officialUrl": "https://theseattleschool.edu/",
   "detailKey": "unit-441131"
  },
  {
@@ -47973,7 +47973,7 @@ export const COLLEGES = [
   "tuitionInState": "$56,721",
   "tuitionOutState": "$56,721",
   "undergradsCount": "4100+",
-  "officialUrl": "www.seattleu.edu/",
+  "officialUrl": "https://www.seattleu.edu/",
   "detailKey": "unit-236595"
  },
  {
@@ -47992,7 +47992,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,400",
   "tuitionOutState": "$7,500",
   "undergradsCount": "2500+",
-  "officialUrl": "www.skagit.edu/",
+  "officialUrl": "https://www.skagit.edu/",
   "detailKey": "unit-236638"
  },
  {
@@ -48011,7 +48011,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,238",
   "tuitionOutState": "$5,796",
   "undergradsCount": "1600+",
-  "officialUrl": "southseattle.edu/",
+  "officialUrl": "https://southseattle.edu/",
   "detailKey": "unit-236504"
  },
  {
@@ -48182,7 +48182,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,267",
   "tuitionOutState": "$5,636",
   "undergradsCount": "1800+",
-  "officialUrl": "www.wvc.edu/",
+  "officialUrl": "https://www.wvc.edu/",
   "detailKey": "unit-236975"
  },
  {
@@ -48201,7 +48201,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,582",
   "tuitionOutState": "$28,707",
   "undergradsCount": "13500+",
-  "officialUrl": "wwu.edu/",
+  "officialUrl": "https://wwu.edu/",
   "detailKey": "unit-237011"
  },
  {
@@ -48220,7 +48220,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,115",
   "tuitionOutState": "$11,037",
   "undergradsCount": "2400+",
-  "officialUrl": "whatcom.edu/",
+  "officialUrl": "https://whatcom.edu/",
   "detailKey": "unit-237039"
  },
  {
@@ -48239,7 +48239,7 @@ export const COLLEGES = [
   "tuitionInState": "$64,050",
   "tuitionOutState": "$64,050",
   "undergradsCount": "1500+",
-  "officialUrl": "www.whitman.edu/",
+  "officialUrl": "https://www.whitman.edu/",
   "detailKey": "unit-237057"
  },
  {
@@ -48258,7 +48258,7 @@ export const COLLEGES = [
   "tuitionInState": "$52,880",
   "tuitionOutState": "$52,880",
   "undergradsCount": "1900+",
-  "officialUrl": "www.whitworth.edu/",
+  "officialUrl": "https://www.whitworth.edu/",
   "detailKey": "unit-237066"
  },
  {
@@ -48353,7 +48353,7 @@ export const COLLEGES = [
   "tuitionInState": "$60,886",
   "tuitionOutState": "$60,886",
   "undergradsCount": "900+",
-  "officialUrl": "www.beloit.edu/",
+  "officialUrl": "https://www.beloit.edu/",
   "detailKey": "unit-238333"
  },
  {
@@ -48410,7 +48410,7 @@ export const COLLEGES = [
   "tuitionInState": "$38,750",
   "tuitionOutState": "$38,750",
   "undergradsCount": "2700+",
-  "officialUrl": "www.carthage.edu/",
+  "officialUrl": "https://www.carthage.edu/",
   "detailKey": "unit-238476"
  },
  {
@@ -48467,7 +48467,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,860",
   "tuitionOutState": "$35,860",
   "undergradsCount": "1100+",
-  "officialUrl": "www.edgewood.edu/",
+  "officialUrl": "https://www.edgewood.edu/",
   "detailKey": "unit-238661"
  },
  {
@@ -48543,7 +48543,7 @@ export const COLLEGES = [
   "tuitionInState": "$6,030",
   "tuitionOutState": "$6,030",
   "undergradsCount": "200+",
-  "officialUrl": "www.lco.edu/",
+  "officialUrl": "https://www.lco.edu/",
   "detailKey": "unit-260372"
  },
  {
@@ -48562,7 +48562,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,396",
   "tuitionOutState": "$33,396",
   "undergradsCount": "1200+",
-  "officialUrl": "www.lakeland.edu/",
+  "officialUrl": "https://www.lakeland.edu/",
   "detailKey": "unit-238980"
  },
  {
@@ -48600,7 +48600,7 @@ export const COLLEGES = [
   "tuitionInState": "$21,550",
   "tuitionOutState": "$21,550",
   "undergradsCount": "500+",
-  "officialUrl": "www.mbu.edu/",
+  "officialUrl": "https://www.mbu.edu/",
   "detailKey": "unit-239071"
  },
  {
@@ -48619,7 +48619,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,170",
   "tuitionOutState": "$51,170",
   "undergradsCount": "7700+",
-  "officialUrl": "www.marquette.edu/",
+  "officialUrl": "https://www.marquette.edu/",
   "detailKey": "unit-239105"
  },
  {
@@ -48638,7 +48638,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.mcw.edu/",
+  "officialUrl": "https://www.mcw.edu/",
   "detailKey": "unit-239169"
  },
  {
@@ -48657,7 +48657,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.acupuncture.edu/",
+  "officialUrl": "https://www.acupuncture.edu/",
   "detailKey": "unit-383020"
  },
  {
@@ -48676,7 +48676,7 @@ export const COLLEGES = [
   "tuitionInState": "$43,743",
   "tuitionOutState": "$43,743",
   "undergradsCount": "800+",
-  "officialUrl": "www.miad.edu/",
+  "officialUrl": "https://www.miad.edu/",
   "detailKey": "unit-239309"
  },
  {
@@ -48695,7 +48695,7 @@ export const COLLEGES = [
   "tuitionInState": "$50,480",
   "tuitionOutState": "$50,480",
   "undergradsCount": "2700+",
-  "officialUrl": "www.msoe.edu/",
+  "officialUrl": "https://www.msoe.edu/",
   "detailKey": "unit-239318"
  },
  {
@@ -48714,7 +48714,7 @@ export const COLLEGES = [
   "tuitionInState": "$35,420",
   "tuitionOutState": "$35,420",
   "undergradsCount": "600+",
-  "officialUrl": "www.mtmary.edu/",
+  "officialUrl": "https://www.mtmary.edu/",
   "detailKey": "unit-239390"
  },
  {
@@ -48733,7 +48733,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.nashotah.edu/",
+  "officialUrl": "https://www.nashotah.edu/",
   "detailKey": "unit-239424"
  },
  {
@@ -48752,7 +48752,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "0+",
-  "officialUrl": "www.ottawa.edu/",
+  "officialUrl": "https://www.ottawa.edu/",
   "detailKey": "unit-428259"
  },
  {
@@ -48790,7 +48790,7 @@ export const COLLEGES = [
   "tuitionInState": "$51,900",
   "tuitionOutState": "$51,900",
   "undergradsCount": "700+",
-  "officialUrl": "www.ripon.edu/",
+  "officialUrl": "https://www.ripon.edu/",
   "detailKey": "unit-239628"
  },
  {
@@ -48809,7 +48809,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.shsst.edu/",
+  "officialUrl": "https://www.shsst.edu/",
   "detailKey": "unit-239637"
  },
  {
@@ -48828,7 +48828,7 @@ export const COLLEGES = [
   "tuitionInState": "$45,580",
   "tuitionOutState": "$45,580",
   "undergradsCount": "1700+",
-  "officialUrl": "www.snc.edu/",
+  "officialUrl": "https://www.snc.edu/",
   "detailKey": "unit-239716"
  },
  {
@@ -48847,7 +48847,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,642",
   "tuitionOutState": "$19,228",
   "undergradsCount": "8900+",
-  "officialUrl": "www.uwec.edu/",
+  "officialUrl": "https://www.uwec.edu/",
   "detailKey": "unit-240268"
  },
  {
@@ -48866,7 +48866,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,700",
   "tuitionOutState": "$17,288",
   "undergradsCount": "6300+",
-  "officialUrl": "www.uwgb.edu/",
+  "officialUrl": "https://www.uwgb.edu/",
   "detailKey": "unit-240277"
  },
  {
@@ -48885,7 +48885,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,070",
   "tuitionOutState": "$19,517",
   "undergradsCount": "9300+",
-  "officialUrl": "www.uwlax.edu/",
+  "officialUrl": "https://www.uwlax.edu/",
   "detailKey": "unit-240329"
  },
  {
@@ -48904,7 +48904,7 @@ export const COLLEGES = [
   "tuitionInState": "$11,603",
   "tuitionOutState": "$42,103",
   "undergradsCount": "36900+",
-  "officialUrl": "www.wisc.edu/",
+  "officialUrl": "https://www.wisc.edu/",
   "detailKey": "unit-240444"
  },
  {
@@ -48923,7 +48923,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,398",
   "tuitionOutState": "$22,398",
   "undergradsCount": "16800+",
-  "officialUrl": "uwm.edu/",
+  "officialUrl": "https://uwm.edu/",
   "detailKey": "unit-240453"
  },
  {
@@ -49075,7 +49075,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,701",
   "tuitionOutState": "$19,265",
   "undergradsCount": "5800+",
-  "officialUrl": "www.uwstout.edu/",
+  "officialUrl": "https://www.uwstout.edu/",
   "detailKey": "unit-240417"
  },
  {
@@ -49113,7 +49113,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,616",
   "tuitionOutState": "$18,716",
   "undergradsCount": "9400+",
-  "officialUrl": "www.uww.edu/",
+  "officialUrl": "https://www.uww.edu/",
   "detailKey": "unit-240189"
  },
  {
@@ -49151,7 +49151,7 @@ export const COLLEGES = [
   "tuitionInState": "$36,110",
   "tuitionOutState": "$36,110",
   "undergradsCount": "900+",
-  "officialUrl": "www.wlc.edu/",
+  "officialUrl": "https://www.wlc.edu/",
   "detailKey": "unit-240338"
  },
  {
@@ -49170,7 +49170,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wspp.edu/",
+  "officialUrl": "https://www.wspp.edu/",
   "detailKey": "unit-240213"
  },
  {
@@ -49284,7 +49284,7 @@ export const COLLEGES = [
   "tuitionInState": "$31,820",
   "tuitionOutState": "$31,820",
   "undergradsCount": "700+",
-  "officialUrl": "www.dewv.edu/",
+  "officialUrl": "https://www.dewv.edu/",
   "detailKey": "unit-237358"
  },
  {
@@ -49322,7 +49322,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.future.edu/",
+  "officialUrl": "https://www.future.edu/",
   "detailKey": "unit-481030"
  },
  {
@@ -49341,7 +49341,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,578",
   "tuitionOutState": "$11,354",
   "undergradsCount": "1100+",
-  "officialUrl": "www.glenville.edu/",
+  "officialUrl": "https://www.glenville.edu/",
   "detailKey": "unit-237385"
  },
  {
@@ -49379,7 +49379,7 @@ export const COLLEGES = [
   "tuitionInState": "$5,280",
   "tuitionOutState": "$13,200",
   "undergradsCount": "900+",
-  "officialUrl": "www.potomacstatecollege.edu/",
+  "officialUrl": "https://www.potomacstatecollege.edu/",
   "detailKey": "unit-237701"
  },
  {
@@ -49417,7 +49417,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,056",
   "tuitionOutState": "$19,082",
   "undergradsCount": "2300+",
-  "officialUrl": "www.shepherd.edu/",
+  "officialUrl": "https://www.shepherd.edu/",
   "detailKey": "unit-237792"
  },
  {
@@ -49436,7 +49436,7 @@ export const COLLEGES = [
   "tuitionInState": "$13,920",
   "tuitionOutState": "$13,920",
   "undergradsCount": "200+",
-  "officialUrl": "www.strayer.edu/campus-locations/west-virginia/teays-valley",
+  "officialUrl": "https://www.strayer.edu/campus-locations/west-virginia/teays-valley",
   "detailKey": "unit-456621"
  },
  {
@@ -49455,7 +49455,7 @@ export const COLLEGES = [
   "tuitionInState": "$33,800",
   "tuitionOutState": "$33,800",
   "undergradsCount": "2300+",
-  "officialUrl": "www.ucwv.edu/",
+  "officialUrl": "https://www.ucwv.edu/",
   "detailKey": "unit-237312"
  },
  {
@@ -49474,7 +49474,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "800+",
-  "officialUrl": "www.valley.edu/",
+  "officialUrl": "https://www.valley.edu/",
   "detailKey": "unit-377661"
  },
  {
@@ -49493,7 +49493,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,893",
   "tuitionOutState": "$17,442",
   "undergradsCount": "1500+",
-  "officialUrl": "www.westliberty.edu/",
+  "officialUrl": "https://www.westliberty.edu/",
   "detailKey": "unit-237932"
  },
  {
@@ -49512,7 +49512,7 @@ export const COLLEGES = [
   "tuitionInState": "$14,798",
   "tuitionOutState": "$14,798",
   "undergradsCount": "700+",
-  "officialUrl": "www.wvjc.edu/",
+  "officialUrl": "https://www.wvjc.edu/",
   "detailKey": "unit-237996"
  },
  {
@@ -49531,7 +49531,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "N/A",
-  "officialUrl": "www.wvsom.edu/",
+  "officialUrl": "https://www.wvsom.edu/",
   "detailKey": "unit-237880"
  },
  {
@@ -49550,7 +49550,7 @@ export const COLLEGES = [
   "tuitionInState": "$9,570",
   "tuitionOutState": "$14,990",
   "undergradsCount": "1300+",
-  "officialUrl": "www.wvstateu.edu/",
+  "officialUrl": "https://www.wvstateu.edu/",
   "detailKey": "unit-237899"
  },
  {
@@ -49569,7 +49569,7 @@ export const COLLEGES = [
   "tuitionInState": "$10,104",
   "tuitionOutState": "$28,608",
   "undergradsCount": "17400+",
-  "officialUrl": "www.wvu.edu/",
+  "officialUrl": "https://www.wvu.edu/",
   "detailKey": "unit-238032"
  },
  {
@@ -49588,7 +49588,7 @@ export const COLLEGES = [
   "tuitionInState": "$4,612",
   "tuitionOutState": "$9,124",
   "undergradsCount": "1900+",
-  "officialUrl": "www.wvup.edu/",
+  "officialUrl": "https://www.wvup.edu/",
   "detailKey": "unit-237686"
  },
  {
@@ -49607,7 +49607,7 @@ export const COLLEGES = [
   "tuitionInState": "$8,424",
   "tuitionOutState": "$21,072",
   "undergradsCount": "1000+",
-  "officialUrl": "www.wvutech.edu/",
+  "officialUrl": "https://www.wvutech.edu/",
   "detailKey": "unit-237950"
  },
  {
@@ -49626,7 +49626,7 @@ export const COLLEGES = [
   "tuitionInState": "$34,090",
   "tuitionOutState": "$34,090",
   "undergradsCount": "1000+",
-  "officialUrl": "www.wvwc.edu/",
+  "officialUrl": "https://www.wvwc.edu/",
   "detailKey": "unit-237969"
  },
  {
@@ -49645,7 +49645,7 @@ export const COLLEGES = [
   "tuitionInState": "$29,875",
   "tuitionOutState": "$29,875",
   "undergradsCount": "600+",
-  "officialUrl": "www.wheeling.edu/",
+  "officialUrl": "https://www.wheeling.edu/",
   "detailKey": "unit-238078"
  },
  {
@@ -49702,7 +49702,7 @@ export const COLLEGES = [
   "tuitionInState": "N/A",
   "tuitionOutState": "N/A",
   "undergradsCount": "2500+",
-  "officialUrl": "www.martinsburgcollege.edu/",
+  "officialUrl": "https://www.martinsburgcollege.edu/",
   "detailKey": "unit-487977"
  },
  {

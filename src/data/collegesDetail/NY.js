@@ -54,7 +54,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.adelphi.edu/",
+  "officialUrl": "https://www.adelphi.edu/",
   "name": "Adelphi University",
   "shortName": "Adelphi",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.acphs.edu/",
+  "officialUrl": "https://www.acphs.edu/",
   "name": "Albany College of Pharmacy and Health Sciences",
   "shortName": "Albany  Pharmacy and Health Sciences",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.albanylaw.edu/",
+  "officialUrl": "https://www.albanylaw.edu/",
   "name": "Albany Law School",
   "shortName": "Albany Law School",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amc.edu/",
+  "officialUrl": "https://www.amc.edu/",
   "name": "Albany Medical College",
   "shortName": "Albany Medical",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.einsteinmed.edu/",
+  "officialUrl": "https://www.einsteinmed.edu/",
   "name": "Albert Einstein College of Medicine",
   "shortName": "Albert Einstein  Medicine",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alfred.edu/",
+  "officialUrl": "https://www.alfred.edu/",
   "name": "Alfred University",
   "shortName": "Alfred",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.amda.edu/",
+  "officialUrl": "https://www.amda.edu/",
   "name": "American Musical and Dramatic Academy",
   "shortName": "American Musical and Dramatic Academy",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "baismedroshelyon.com/",
+  "officialUrl": "https://baismedroshelyon.com/",
   "name": "Bais Medrash Elyon",
   "shortName": "Bais Medrash Elyon",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bankstreet.edu/",
+  "officialUrl": "https://www.bankstreet.edu/",
   "name": "Bank Street College of Education",
   "shortName": "Bank Street  Education",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bard.edu/",
+  "officialUrl": "https://www.bard.edu/",
   "name": "Bard College",
   "shortName": "Bard",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.barnard.edu/",
+  "officialUrl": "https://www.barnard.edu/",
   "name": "Barnard College",
   "shortName": "Barnard",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.byts.edu/",
+  "officialUrl": "https://www.byts.edu/",
   "name": "Be'er Yaakov Talmudic Seminary",
   "shortName": "Be'er Yaakov Talmudic Seminary",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.heichaldovid.org/",
+  "officialUrl": "https://www.heichaldovid.org/",
   "name": "Beis Medrash Heichal Dovid",
   "shortName": "Beis Medrash Heichal Dovid",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "betmedrashgadolaterettorah.com/",
+  "officialUrl": "https://betmedrashgadolaterettorah.com/",
   "name": "Bet Medrash Gadol Ateret Torah",
   "shortName": "Bet Medrash Gadol Ateret Torah",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bhsy.edu/",
+  "officialUrl": "https://bhsy.edu/",
   "name": "Beth Hamedrash Shaarei Yosher Institute",
   "shortName": "Beth Hamedrash Shaarei Yosher",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.binghamton.edu/",
+  "officialUrl": "https://www.binghamton.edu/",
   "name": "Binghamton University (SUNY)",
   "shortName": "Binghamton  (SUNY)",
   "location": {
@@ -1174,7 +1174,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.csi.cuny.edu/",
+  "officialUrl": "https://www.csi.cuny.edu/",
   "name": "College of Staten Island CUNY",
   "shortName": "Staten Island CUNY",
   "location": {
@@ -1209,7 +1209,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cw.edu/",
+  "officialUrl": "https://www.cw.edu/",
   "name": "College of Westchester",
   "shortName": "Westchester",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.columbia.edu/",
+  "officialUrl": "https://www.columbia.edu/",
   "name": "Columbia University in the City of New York",
   "shortName": "Columbia  in the City New York",
   "location": {
@@ -1279,7 +1279,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivaaleksander.org/",
+  "officialUrl": "https://yeshivaaleksander.org/",
   "name": "Congregation Talmidei Mesivta Tiferes Shmiel Aleksander",
   "shortName": "Congregation Talmidei Mesivta Tiferes Shmiel Aleksander",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cornell.edu/",
+  "officialUrl": "https://www.cornell.edu/",
   "name": "Cornell University",
   "shortName": "Cornell",
   "location": {
@@ -1419,7 +1419,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ciachef.edu/",
+  "officialUrl": "https://www.ciachef.edu/",
   "name": "Culinary Institute of America",
   "shortName": "Culinary  America",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.baruch.cuny.edu/",
+  "officialUrl": "https://www.baruch.cuny.edu/",
   "name": "CUNY Bernard M Baruch College",
   "shortName": "CUNY Bernard M Baruch",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.brooklyn.edu/",
+  "officialUrl": "https://www.brooklyn.edu/",
   "name": "CUNY Brooklyn College",
   "shortName": "CUNY Brooklyn",
   "location": {
@@ -1524,7 +1524,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ccny.cuny.edu/",
+  "officialUrl": "https://www.ccny.cuny.edu/",
   "name": "CUNY City College",
   "shortName": "CUNY City",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gc.cuny.edu/",
+  "officialUrl": "https://www.gc.cuny.edu/",
   "name": "CUNY Graduate School and University Center",
   "shortName": "CUNY Graduate School and  Center",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hunter.cuny.edu/",
+  "officialUrl": "https://www.hunter.cuny.edu/",
   "name": "CUNY Hunter College",
   "shortName": "CUNY Hunter",
   "location": {
@@ -1629,7 +1629,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jjay.cuny.edu/",
+  "officialUrl": "https://www.jjay.cuny.edu/",
   "name": "CUNY John Jay College of Criminal Justice",
   "shortName": "CUNY John Jay  Criminal Justice",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lehman.edu/",
+  "officialUrl": "https://www.lehman.edu/",
   "name": "CUNY Lehman College",
   "shortName": "CUNY Lehman",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.citytech.cuny.edu/",
+  "officialUrl": "https://www.citytech.cuny.edu/",
   "name": "CUNY New York City College of Technology",
   "shortName": "CUNY New York City  Technology",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.york.cuny.edu/",
+  "officialUrl": "https://www.york.cuny.edu/",
   "name": "CUNY York College",
   "shortName": "CUNY York",
   "location": {
@@ -1909,7 +1909,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.daemen.edu/",
+  "officialUrl": "https://www.daemen.edu/",
   "name": "Daemen University",
   "shortName": "Daemen",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.duny.edu/",
+  "officialUrl": "https://www.duny.edu/",
   "name": "Dominican University New York",
   "shortName": "Dominican  New York",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine",
+  "officialUrl": "https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine",
   "name": "Elmezzi Graduate School of Molecular Medicine",
   "shortName": "Elmezzi Graduate School Molecular Medicine",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sunyempire.edu/",
+  "officialUrl": "https://www.sunyempire.edu/",
   "name": "Empire State University",
   "shortName": "Empire State",
   "location": {
@@ -2189,7 +2189,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.excelsior.edu/",
+  "officialUrl": "https://www.excelsior.edu/",
   "name": "Excelsior University",
   "shortName": "Excelsior",
   "location": {
@@ -2224,7 +2224,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.farmingdale.edu/",
+  "officialUrl": "https://www.farmingdale.edu/",
   "name": "Farmingdale State College",
   "shortName": "Farmingdale State",
   "location": {
@@ -2259,7 +2259,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.fitnyc.edu/",
+  "officialUrl": "https://www.fitnyc.edu/",
   "name": "Fashion Institute of Technology",
   "shortName": "Fashion  Technology",
   "location": {
@@ -2294,7 +2294,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ftc.edu/",
+  "officialUrl": "https://www.ftc.edu/",
   "name": "Five Towns College",
   "shortName": "Five Towns",
   "location": {
@@ -2399,7 +2399,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hartwick.edu/",
+  "officialUrl": "https://www.hartwick.edu/",
   "name": "Hartwick College",
   "shortName": "Hartwick",
   "location": {
@@ -2434,7 +2434,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.huc.edu/",
+  "officialUrl": "https://www.huc.edu/",
   "name": "Hebrew Union College-Jewish Institute of Religion",
   "shortName": "Hebrew Union -Jewish  Religion",
   "location": {
@@ -2504,7 +2504,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hilbert.edu/",
+  "officialUrl": "https://www.hilbert.edu/",
   "name": "Hilbert College",
   "shortName": "Hilbert",
   "location": {
@@ -2574,7 +2574,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hws.edu/",
+  "officialUrl": "https://www.hws.edu/",
   "name": "Hobart William Smith Colleges",
   "shortName": "Hobart William Smith s",
   "location": {
@@ -2609,7 +2609,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hofstra.edu/",
+  "officialUrl": "https://www.hofstra.edu/",
   "name": "Hofstra University",
   "shortName": "Hofstra",
   "location": {
@@ -2644,7 +2644,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.houghton.edu/",
+  "officialUrl": "https://www.houghton.edu/",
   "name": "Houghton University",
   "shortName": "Houghton",
   "location": {
@@ -2679,7 +2679,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "icahn.mssm.edu/",
+  "officialUrl": "https://icahn.mssm.edu/",
   "name": "Icahn School of Medicine at Mount Sinai",
   "shortName": "Icahn School Medicine at Mount Sinai",
   "location": {
@@ -2714,7 +2714,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.iona.edu/",
+  "officialUrl": "https://www.iona.edu/",
   "name": "Iona University",
   "shortName": "Iona",
   "location": {
@@ -2784,7 +2784,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jtsa.edu/",
+  "officialUrl": "https://www.jtsa.edu/",
   "name": "Jewish Theological Seminary of America",
   "shortName": "Jewish Theological Seminary America",
   "location": {
@@ -2819,7 +2819,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.juilliard.edu/",
+  "officialUrl": "https://www.juilliard.edu/",
   "name": "Juilliard School",
   "shortName": "Juilliard School",
   "location": {
@@ -2854,7 +2854,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "kehilathyakov.com/",
+  "officialUrl": "https://kehilathyakov.com/",
   "name": "Kehilath Yakov Rabbinical Seminary",
   "shortName": "Kehilath Yakov Rabbinical Seminary",
   "location": {
@@ -2924,7 +2924,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.lemoyne.edu/",
+  "officialUrl": "https://www.lemoyne.edu/",
   "name": "Le Moyne College",
   "shortName": "Le Moyne",
   "location": {
@@ -2959,7 +2959,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.limcollege.edu/",
+  "officialUrl": "https://www.limcollege.edu/",
   "name": "LIM College",
   "shortName": "LIM",
   "location": {
@@ -2994,7 +2994,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.liu.edu/",
+  "officialUrl": "https://www.liu.edu/",
   "name": "Long Island University",
   "shortName": "Long Island",
   "location": {
@@ -3099,7 +3099,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.manhattan.edu/",
+  "officialUrl": "https://www.manhattan.edu/",
   "name": "Manhattan University",
   "shortName": "Manhattan",
   "location": {
@@ -3169,7 +3169,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mariacollege.edu/",
+  "officialUrl": "https://www.mariacollege.edu/",
   "name": "Maria College of Albany",
   "shortName": "Maria  Albany",
   "location": {
@@ -3204,7 +3204,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.marist.edu/",
+  "officialUrl": "https://www.marist.edu/",
   "name": "Marist University",
   "shortName": "Marist",
   "location": {
@@ -3239,7 +3239,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mmm.edu/",
+  "officialUrl": "https://www.mmm.edu/",
   "name": "Marymount Manhattan College",
   "shortName": "Marymount Manhattan",
   "location": {
@@ -3414,7 +3414,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "independentrabbinicalcolleges.org/index.html",
+  "officialUrl": "https://independentrabbinicalcolleges.org/index.html",
   "name": "Mesivta Torah Vodaath Rabbinical Seminary",
   "shortName": "Mesivta Torah Vodaath Rabbinical Seminary",
   "location": {
@@ -3449,7 +3449,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "mtj.edu/",
+  "officialUrl": "https://mtj.edu/",
   "name": "Mesivtha Tifereth Jerusalem of America",
   "shortName": "Mesivtha Tifereth Jerusalem America",
   "location": {
@@ -3519,7 +3519,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mirreryeshiva.co/",
+  "officialUrl": "https://www.mirreryeshiva.co/",
   "name": "Mirrer Yeshiva Cent Institute",
   "shortName": "Mirrer Yeshiva Cent",
   "location": {
@@ -3554,7 +3554,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.molloy.edu/",
+  "officialUrl": "https://www.molloy.edu/",
   "name": "Molloy University",
   "shortName": "Molloy",
   "location": {
@@ -3589,7 +3589,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.monroecollege.edu/",
+  "officialUrl": "https://www.monroecollege.edu/",
   "name": "Monroe University",
   "shortName": "Monroe",
   "location": {
@@ -3624,7 +3624,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.msmc.edu/",
+  "officialUrl": "https://www.msmc.edu/",
   "name": "Mount Saint Mary College",
   "shortName": "Mount Saint Mary",
   "location": {
@@ -3659,7 +3659,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pson.edu/",
+  "officialUrl": "https://www.pson.edu/",
   "name": "Mount Sinai Phillips School of Nursing",
   "shortName": "Mount Sinai Phillips School Nursing",
   "location": {
@@ -3764,7 +3764,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "nyaa.edu/",
+  "officialUrl": "https://nyaa.edu/",
   "name": "New York Academy of Art",
   "shortName": "New York Academy Art",
   "location": {
@@ -3834,7 +3834,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nycpm.edu/",
+  "officialUrl": "https://www.nycpm.edu/",
   "name": "New York College of Podiatric Medicine",
   "shortName": "New York  Podiatric Medicine",
   "location": {
@@ -3939,7 +3939,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nyls.edu/",
+  "officialUrl": "https://www.nyls.edu/",
   "name": "New York Law School",
   "shortName": "New York Law School",
   "location": {
@@ -4009,7 +4009,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nysid.edu/",
+  "officialUrl": "https://www.nysid.edu/",
   "name": "New York School of Interior Design",
   "shortName": "New York School Interior Design",
   "location": {
@@ -4079,7 +4079,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.niagara.edu/",
+  "officialUrl": "https://www.niagara.edu/",
   "name": "Niagara University",
   "shortName": "Niagara",
   "location": {
@@ -4149,7 +4149,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nes.edu/",
+  "officialUrl": "https://www.nes.edu/",
   "name": "Northeastern Seminary",
   "shortName": "Northeastern Seminary",
   "location": {
@@ -4219,7 +4219,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pace.edu/",
+  "officialUrl": "https://www.pace.edu/",
   "name": "Pace University",
   "shortName": "Pace",
   "location": {
@@ -4289,7 +4289,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.plazacollege.edu/",
+  "officialUrl": "https://www.plazacollege.edu/",
   "name": "Plaza College",
   "shortName": "Plaza",
   "location": {
@@ -4429,7 +4429,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "rabbinicalcollegeboboveryeshiva.edu/",
+  "officialUrl": "https://rabbinicalcollegeboboveryeshiva.edu/",
   "name": "Rabbinical College Bobover Yeshiva Bnei Zion",
   "shortName": "Rabbinical  Bobover Yeshiva Bnei Zion",
   "location": {
@@ -4534,7 +4534,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rabbinicalcollegeohryisroel.com/",
+  "officialUrl": "https://www.rabbinicalcollegeohryisroel.com/",
   "name": "Rabbinical College Ohr Yisroel",
   "shortName": "Rabbinical  Ohr Yisroel",
   "location": {
@@ -4569,7 +4569,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rabbinical.org/",
+  "officialUrl": "https://www.rabbinical.org/",
   "name": "Rabbinical Seminary of America",
   "shortName": "Rabbinical Seminary America",
   "location": {
@@ -4604,7 +4604,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.relay.edu/",
+  "officialUrl": "https://www.relay.edu/",
   "name": "Relay Graduate School of Education",
   "shortName": "Relay Graduate School Education",
   "location": {
@@ -4639,7 +4639,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rpi.edu/",
+  "officialUrl": "https://www.rpi.edu/",
   "name": "Rensselaer Polytechnic Institute",
   "shortName": "Rensselaer Polytechnic",
   "location": {
@@ -4674,7 +4674,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.roberts.edu/",
+  "officialUrl": "https://www.roberts.edu/",
   "name": "Roberts Wesleyan University",
   "shortName": "Roberts Wesleyan",
   "location": {
@@ -4709,7 +4709,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rit.edu/",
+  "officialUrl": "https://www.rit.edu/",
   "name": "Rochester Institute of Technology",
   "shortName": "Rochester  Technology",
   "location": {
@@ -4744,7 +4744,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rockefeller.edu/",
+  "officialUrl": "https://www.rockefeller.edu/",
   "name": "Rockefeller University",
   "shortName": "Rockefeller",
   "location": {
@@ -4779,7 +4779,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "sage.edu/",
+  "officialUrl": "https://sage.edu/",
   "name": "Russell Sage College",
   "shortName": "Russell Sage",
   "location": {
@@ -4814,7 +4814,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.svots.edu/",
+  "officialUrl": "https://www.svots.edu/",
   "name": "Saint Vladimirs Orthodox Theological Seminary",
   "shortName": "Saint Vladimirs Orthodox Theological Seminary",
   "location": {
@@ -4849,7 +4849,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sarahlawrence.edu/",
+  "officialUrl": "https://www.sarahlawrence.edu/",
   "name": "Sarah Lawrence College",
   "shortName": "Sarah Lawrence",
   "location": {
@@ -4989,7 +4989,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.simons-rock.edu/",
+  "officialUrl": "https://www.simons-rock.edu/",
   "name": "Simon's Rock at Bard College",
   "shortName": "Simon's Rock at Bard",
   "location": {
@@ -5024,7 +5024,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.skidmore.edu/",
+  "officialUrl": "https://www.skidmore.edu/",
   "name": "Skidmore College",
   "shortName": "Skidmore",
   "location": {
@@ -5059,7 +5059,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sothebysinstitute.com/Programmes/PNewyork.aspx",
+  "officialUrl": "https://www.sothebysinstitute.com/Programmes/PNewyork.aspx",
   "name": "Sotheby's Institute of Art-NY",
   "shortName": "Sotheby's  Art-NY",
   "location": {
@@ -5094,7 +5094,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stbernards.edu/",
+  "officialUrl": "https://www.stbernards.edu/",
   "name": "St Bernard's School of Theology and Ministry",
   "shortName": "St Bernard's School Theology and Ministry",
   "location": {
@@ -5269,7 +5269,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stjohns.edu/",
+  "officialUrl": "https://www.stjohns.edu/",
   "name": "St. John's University-New York",
   "shortName": "St. John's -New York",
   "location": {
@@ -5339,7 +5339,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stac.edu/",
+  "officialUrl": "https://www.stac.edu/",
   "name": "St. Thomas Aquinas College",
   "shortName": "St. Thomas Aquinas",
   "location": {
@@ -5374,7 +5374,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www2.cortland.edu/",
+  "officialUrl": "https://www2.cortland.edu/",
   "name": "State University of New York at Cortland",
   "shortName": "State  New York at Cortland",
   "location": {
@@ -5409,7 +5409,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.newpaltz.edu/",
+  "officialUrl": "https://www.newpaltz.edu/",
   "name": "State University of New York at New Paltz",
   "shortName": "State  New York at New Paltz",
   "location": {
@@ -5584,7 +5584,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.purchase.edu/",
+  "officialUrl": "https://www.purchase.edu/",
   "name": "SUNY at Purchase College",
   "shortName": "SUNY at Purchase",
   "location": {
@@ -5724,7 +5724,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.potsdam.edu/",
+  "officialUrl": "https://www.potsdam.edu/",
   "name": "SUNY College at Potsdam",
   "shortName": "SUNY  at Potsdam",
   "location": {
@@ -5759,7 +5759,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cobleskill.edu/",
+  "officialUrl": "https://www.cobleskill.edu/",
   "name": "SUNY College of Agriculture and Technology at Cobleskill",
   "shortName": "SUNY  Agriculture and Technology at Cobleskill",
   "location": {
@@ -5794,7 +5794,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.esf.edu/",
+  "officialUrl": "https://www.esf.edu/",
   "name": "SUNY College of Environmental Science and Forestry",
   "shortName": "SUNY  Environmental Science and Forestry",
   "location": {
@@ -5829,7 +5829,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sunyopt.edu/",
+  "officialUrl": "https://www.sunyopt.edu/",
   "name": "SUNY College of Optometry",
   "shortName": "SUNY  Optometry",
   "location": {
@@ -5864,7 +5864,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.alfredstate.edu/",
+  "officialUrl": "https://www.alfredstate.edu/",
   "name": "SUNY College of Technology at Alfred",
   "shortName": "SUNY  Technology at Alfred",
   "location": {
@@ -5899,7 +5899,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.canton.edu/",
+  "officialUrl": "https://www.canton.edu/",
   "name": "SUNY College of Technology at Canton",
   "shortName": "SUNY  Technology at Canton",
   "location": {
@@ -5934,7 +5934,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.delhi.edu/",
+  "officialUrl": "https://www.delhi.edu/",
   "name": "SUNY College of Technology at Delhi",
   "shortName": "SUNY  Technology at Delhi",
   "location": {
@@ -6004,7 +6004,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sunymaritime.edu/",
+  "officialUrl": "https://www.sunymaritime.edu/",
   "name": "SUNY Maritime College",
   "shortName": "SUNY Maritime",
   "location": {
@@ -6039,7 +6039,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.morrisville.edu/",
+  "officialUrl": "https://www.morrisville.edu/",
   "name": "SUNY Morrisville",
   "shortName": "SUNY Morrisville",
   "location": {
@@ -6074,7 +6074,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.oldwestbury.edu/",
+  "officialUrl": "https://www.oldwestbury.edu/",
   "name": "SUNY Old Westbury",
   "shortName": "SUNY Old Westbury",
   "location": {
@@ -6144,7 +6144,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sunypoly.edu/",
+  "officialUrl": "https://www.sunypoly.edu/",
   "name": "SUNY Polytechnic Institute",
   "shortName": "SUNY Polytechnic",
   "location": {
@@ -6249,7 +6249,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.independentrabbinicalcolleges.org/",
+  "officialUrl": "https://www.independentrabbinicalcolleges.org/",
   "name": "Talmudical Seminary of Bobov",
   "shortName": "Talmudical Seminary Bobov",
   "location": {
@@ -6284,7 +6284,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tsot.edu/",
+  "officialUrl": "https://www.tsot.edu/",
   "name": "Talmudical Seminary Oholei Torah",
   "shortName": "Talmudical Seminary Oholei Torah",
   "location": {
@@ -6319,7 +6319,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.tc.columbia.edu/",
+  "officialUrl": "https://www.tc.columbia.edu/",
   "name": "Teachers College at Columbia University",
   "shortName": "Teachers  at Columbia",
   "location": {
@@ -6459,7 +6459,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.union.edu/",
+  "officialUrl": "https://www.union.edu/",
   "name": "Union College",
   "shortName": "Union",
   "location": {
@@ -6494,7 +6494,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utsnyc.edu/",
+  "officialUrl": "https://utsnyc.edu/",
   "name": "Union Theological Seminary in the City of New York",
   "shortName": "Union Theological Seminary in the City New York",
   "location": {
@@ -6564,7 +6564,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.westpoint.edu/",
+  "officialUrl": "https://www.westpoint.edu/",
   "name": "United States Military Academy",
   "shortName": "United States Military Academy",
   "location": {
@@ -6599,7 +6599,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utsny.edu/",
+  "officialUrl": "https://utsny.edu/",
   "name": "United Talmudical Seminary",
   "shortName": "United Talmudical Seminary",
   "location": {
@@ -6634,7 +6634,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.albany.edu/",
+  "officialUrl": "https://www.albany.edu/",
   "name": "University at Albany (SUNY)",
   "shortName": "at Albany (SUNY)",
   "location": {
@@ -6704,7 +6704,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mountsaintvincent.edu/",
+  "officialUrl": "https://www.mountsaintvincent.edu/",
   "name": "University of Mount Saint Vincent",
   "shortName": "Mount Saint Vincent",
   "location": {
@@ -6774,7 +6774,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upstate.edu/",
+  "officialUrl": "https://www.upstate.edu/",
   "name": "Upstate Medical University",
   "shortName": "Upstate Medical",
   "location": {
@@ -6809,7 +6809,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utam.edu/",
+  "officialUrl": "https://utam.edu/",
   "name": "Uta Mesivta of Kiryas Joel",
   "shortName": "Uta Mesivta Kiryas Joel",
   "location": {
@@ -6879,7 +6879,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vassar.edu/",
+  "officialUrl": "https://www.vassar.edu/",
   "name": "Vassar College",
   "shortName": "Vassar",
   "location": {
@@ -6914,7 +6914,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.vaughn.edu/",
+  "officialUrl": "https://www.vaughn.edu/",
   "name": "Vaughn College of Aeronautics and Technology",
   "shortName": "Vaughn  Aeronautics and Technology",
   "location": {
@@ -6984,7 +6984,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wagner.edu/",
+  "officialUrl": "https://www.wagner.edu/",
   "name": "Wagner College",
   "shortName": "Wagner",
   "location": {
@@ -7019,7 +7019,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.webb.edu/",
+  "officialUrl": "https://www.webb.edu/",
   "name": "Webb Institute",
   "shortName": "Webb",
   "location": {
@@ -7194,7 +7194,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "spinka58st.com/",
+  "officialUrl": "https://spinka58st.com/",
   "name": "Yeshiva Gedolah Imrei Yosef D'spinka",
   "shortName": "Yeshiva Gedolah Imrei Yosef D'spinka",
   "location": {
@@ -7404,7 +7404,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivaofnitra.org/",
+  "officialUrl": "https://yeshivaofnitra.org/",
   "name": "Yeshiva of Nitra Rabbinical College",
   "shortName": "Yeshiva Nitra Rabbinical",
   "location": {
@@ -7439,7 +7439,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivaofocean.com/",
+  "officialUrl": "https://yeshivaofocean.com/",
   "name": "Yeshiva of Ocean",
   "shortName": "Yeshiva Ocean",
   "location": {
@@ -7509,7 +7509,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yoy.edu/",
+  "officialUrl": "https://www.yoy.edu/",
   "name": "Yeshiva Ohr Yisrael",
   "shortName": "Yeshiva Ohr Yisrael",
   "location": {
@@ -7544,7 +7544,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "shaarephraim.org/",
+  "officialUrl": "https://shaarephraim.org/",
   "name": "Yeshiva Shaar Ephraim",
   "shortName": "Yeshiva Shaar Ephraim",
   "location": {
@@ -7579,7 +7579,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yst.edu/",
+  "officialUrl": "https://www.yst.edu/",
   "name": "Yeshiva Shaarei Torah of Rockland",
   "shortName": "Yeshiva Shaarei Torah Rockland",
   "location": {
@@ -7649,7 +7649,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.yu.edu/",
+  "officialUrl": "https://www.yu.edu/",
   "name": "Yeshiva University",
   "shortName": "Yeshiva",
   "location": {
@@ -7684,7 +7684,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "yeshivayh.org/",
+  "officialUrl": "https://yeshivayh.org/",
   "name": "Yeshiva Yesoda Hatorah Vetz Chaim",
   "shortName": "Yeshiva Yesoda Hatorah Vetz Chaim",
   "location": {
@@ -7824,7 +7824,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "hechalshemuel.com/",
+  "officialUrl": "https://hechalshemuel.com/",
   "name": "Yeshivat Hechal Shemuel",
   "shortName": "Yeshivat Hechal Shemuel",
   "location": {
@@ -7859,7 +7859,7 @@ export const DETAILS_NY = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "shaarhatorah.edu/",
+  "officialUrl": "https://shaarhatorah.edu/",
   "name": "Yeshivath Shaar Hatorah",
   "shortName": "Yeshivath Shaar Hatorah",
   "location": {

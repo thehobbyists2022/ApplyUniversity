@@ -19,7 +19,7 @@ export const DETAILS_DE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.desu.edu/",
+  "officialUrl": "https://www.desu.edu/",
   "name": "Delaware State University",
   "shortName": "Delaware State",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_DE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.gbc.edu/",
+  "officialUrl": "https://www.gbc.edu/",
   "name": "Goldey-Beacom College",
   "shortName": "Goldey-Beacom",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_DE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/delaware/wilmington",
+  "officialUrl": "https://www.strayer.edu/campus-locations/delaware/wilmington",
   "name": "Strayer University-Delaware",
   "shortName": "Strayer -Delaware",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_DE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.udel.edu/",
+  "officialUrl": "https://www.udel.edu/",
   "name": "University of Delaware",
   "shortName": "Delaware",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_DE = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wilmu.edu/",
+  "officialUrl": "https://www.wilmu.edu/",
   "name": "Wilmington University",
   "shortName": "Wilmington",
   "location": {

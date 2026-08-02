@@ -54,7 +54,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.atenasuniversity.edu/",
+  "officialUrl": "https://www.atenasuniversity.edu/",
   "name": "Atenas University",
   "shortName": "Atenas",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.atlanticu.edu/",
+  "officialUrl": "https://www.atlanticu.edu/",
   "name": "Atlantic University",
   "shortName": "Atlantic",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "name": "Caribbean University-Bayamon",
   "shortName": "Caribbean -Bayamon",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "name": "Caribbean University-Carolina",
   "shortName": "Caribbean -Carolina",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "name": "Caribbean University-Ponce",
   "shortName": "Caribbean -Ponce",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.caribbean.edu/",
+  "officialUrl": "https://www.caribbean.edu/",
   "name": "Caribbean University-Vega Baja",
   "shortName": "Caribbean -Vega Baja",
   "location": {
@@ -299,7 +299,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cemcollege.edu/cem/",
+  "officialUrl": "https://www.cemcollege.edu/cem/",
   "name": "CEM College-San Juan",
   "shortName": "CEM -San Juan",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ceaprc.edu/",
+  "officialUrl": "https://ceaprc.edu/",
   "name": "Center for Advanced Studies On Puerto Rico and the Caribbean",
   "shortName": "Center for Advanced Studies On Puerto Rico and the Caribbean",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cunisanjuan.edu/",
+  "officialUrl": "https://www.cunisanjuan.edu/",
   "name": "Colegio Universitario de San Juan",
   "shortName": "Colegio Universitario de San Juan",
   "location": {
@@ -404,7 +404,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "name": "Dewey University-Carolina",
   "shortName": "Dewey -Carolina",
   "location": {
@@ -439,7 +439,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "name": "Dewey University-Hato Rey",
   "shortName": "Dewey -Hato Rey",
   "location": {
@@ -474,7 +474,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "name": "Dewey University-Juana Diaz",
   "shortName": "Dewey -Juana Diaz",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "dewey.edu/",
+  "officialUrl": "https://dewey.edu/",
   "name": "Dewey University-Manati",
   "shortName": "Dewey -Manati",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.edpuniversity.edu/",
+  "officialUrl": "https://www.edpuniversity.edu/",
   "name": "EDP University of Puerto Rico Inc-San Sebastian",
   "shortName": "EDP  Puerto Rico Inc-San Sebastian",
   "location": {
@@ -614,7 +614,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "edpuniversity.edu/",
+  "officialUrl": "https://edpuniversity.edu/",
   "name": "EDP University of Puerto Rico-Villalba",
   "shortName": "EDP  Puerto Rico-Villalba",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.eap.edu/",
+  "officialUrl": "https://www.eap.edu/",
   "name": "Escuela de Artes Plasticas y Diseno de Puerto Rico",
   "shortName": "Escuela de Artes Plasticas y Diseno de Puerto Rico",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.huertas.edu/",
+  "officialUrl": "https://www.huertas.edu/",
   "name": "Huertas College",
   "shortName": "Huertas",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hccpr.edu/",
+  "officialUrl": "https://www.hccpr.edu/",
   "name": "Humacao Community College",
   "shortName": "Humacao Community",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "aguadilla.inter.edu/",
+  "officialUrl": "https://aguadilla.inter.edu/",
   "name": "Inter American University of Puerto Rico-Aguadilla",
   "shortName": "Inter American  Puerto Rico-Aguadilla",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.arecibo.inter.edu/",
+  "officialUrl": "https://www.arecibo.inter.edu/",
   "name": "Inter American University of Puerto Rico-Arecibo",
   "shortName": "Inter American  Puerto Rico-Arecibo",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.br.inter.edu/",
+  "officialUrl": "https://www.br.inter.edu/",
   "name": "Inter American University of Puerto Rico-Barranquitas",
   "shortName": "Inter American  Puerto Rico-Barranquitas",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "bayamon.inter.edu/",
+  "officialUrl": "https://bayamon.inter.edu/",
   "name": "Inter American University of Puerto Rico-Bayamon",
   "shortName": "Inter American  Puerto Rico-Bayamon",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.guayama.inter.edu/",
+  "officialUrl": "https://www.guayama.inter.edu/",
   "name": "Inter American University of Puerto Rico-Guayama",
   "shortName": "Inter American  Puerto Rico-Guayama",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "metro.inter.edu/",
+  "officialUrl": "https://metro.inter.edu/",
   "name": "Inter American University of Puerto Rico-Metro",
   "shortName": "Inter American  Puerto Rico-Metro",
   "location": {
@@ -999,7 +999,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ponce.inter.edu/",
+  "officialUrl": "https://ponce.inter.edu/",
   "name": "Inter American University of Puerto Rico-Ponce",
   "shortName": "Inter American  Puerto Rico-Ponce",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sg.inter.edu/",
+  "officialUrl": "https://www.sg.inter.edu/",
   "name": "Inter American University of Puerto Rico-San German",
   "shortName": "Inter American  Puerto Rico-San German",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.derecho.inter.edu/",
+  "officialUrl": "https://www.derecho.inter.edu/",
   "name": "Inter American University of Puerto Rico-School of Law",
   "shortName": "Inter American  Puerto Rico-School Law",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.optonet.inter.edu/",
+  "officialUrl": "https://www.optonet.inter.edu/",
   "name": "Inter American University of Puerto Rico-School of Optometry",
   "shortName": "Inter American  Puerto Rico-School Optometry",
   "location": {
@@ -1139,7 +1139,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.nuc.edu/",
+  "officialUrl": "https://www.nuc.edu/",
   "name": "NUC University",
   "shortName": "NUC",
   "location": {
@@ -1244,7 +1244,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pucpr.edu/arecibo",
+  "officialUrl": "https://www.pucpr.edu/arecibo",
   "name": "Pontifical Catholic University of Puerto Rico-Arecibo",
   "shortName": "Pontifical Catholic  Puerto Rico-Arecibo",
   "location": {
@@ -1384,7 +1384,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "cmpr.edu/",
+  "officialUrl": "https://cmpr.edu/",
   "name": "Puerto Rico Conservatory of Music",
   "shortName": "Puerto Rico Conservatory Music",
   "location": {
@@ -1454,7 +1454,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.se-pr.edu/",
+  "officialUrl": "https://www.se-pr.edu/",
   "name": "Seminario Evangelico de Puerto Rico",
   "shortName": "Seminario Evangelico de Puerto Rico",
   "location": {
@@ -1489,7 +1489,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.unitecpr.edu/",
+  "officialUrl": "https://www.unitecpr.edu/",
   "name": "Universal Technology College of Puerto Rico",
   "shortName": "Universal Technology  Puerto Rico",
   "location": {
@@ -1559,7 +1559,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "uagm.edu/",
+  "officialUrl": "https://uagm.edu/",
   "name": "Universidad Ana G. Mendez-Cupey Campus",
   "shortName": "Universidad Ana G. Mendez-Cupey Campus",
   "location": {
@@ -1594,7 +1594,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ucb.edu.pr/",
+  "officialUrl": "https://ucb.edu.pr/",
   "name": "Universidad Central de Bayamon",
   "shortName": "Universidad Central de Bayamon",
   "location": {
@@ -1664,7 +1664,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sagrado.edu/",
+  "officialUrl": "https://www.sagrado.edu/",
   "name": "Universidad del Sagrado Corazon",
   "shortName": "Universidad del Sagrado Corazon",
   "location": {
@@ -1699,7 +1699,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "mizpa.edu/",
+  "officialUrl": "https://mizpa.edu/",
   "name": "Universidad Pentecostal Mizpa",
   "shortName": "Universidad Pentecostal Mizpa",
   "location": {
@@ -1734,7 +1734,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.pupr.edu/",
+  "officialUrl": "https://www.pupr.edu/",
   "name": "Universidad Politecnica de Puerto Rico",
   "shortName": "Universidad Politecnica de Puerto Rico",
   "location": {
@@ -1769,7 +1769,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "utcpr.edu/",
+  "officialUrl": "https://utcpr.edu/",
   "name": "Universidad Teologica del Caribe",
   "shortName": "Universidad Teologica del Caribe",
   "location": {
@@ -1804,7 +1804,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uprb.edu/",
+  "officialUrl": "https://www.uprb.edu/",
   "name": "University of Puerto Rico",
   "shortName": "Puerto Rico",
   "location": {
@@ -1839,7 +1839,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.cayey.upr.edu/",
+  "officialUrl": "https://www.cayey.upr.edu/",
   "name": "University of Puerto Rico at Cayey",
   "shortName": "Puerto Rico at Cayey",
   "location": {
@@ -1874,7 +1874,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uprp.edu/",
+  "officialUrl": "https://www.uprp.edu/",
   "name": "University of Puerto Rico at Ponce",
   "shortName": "Puerto Rico at Ponce",
   "location": {
@@ -1944,7 +1944,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upra.edu/",
+  "officialUrl": "https://www.upra.edu/",
   "name": "University of Puerto Rico-Arecibo",
   "shortName": "Puerto Rico-Arecibo",
   "location": {
@@ -1979,7 +1979,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uprc.edu/",
+  "officialUrl": "https://www.uprc.edu/",
   "name": "University of Puerto Rico-Carolina",
   "shortName": "Puerto Rico-Carolina",
   "location": {
@@ -2014,7 +2014,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.upr.edu/humacao/",
+  "officialUrl": "https://www.upr.edu/humacao/",
   "name": "University of Puerto Rico-Humacao",
   "shortName": "Puerto Rico-Humacao",
   "location": {
@@ -2084,7 +2084,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.rcm.upr.edu/",
+  "officialUrl": "https://www.rcm.upr.edu/",
   "name": "University of Puerto Rico-Medical Sciences",
   "shortName": "Puerto Rico-Medical Sciences",
   "location": {
@@ -2154,7 +2154,7 @@ export const DETAILS_PR = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.uprutuado.edu/",
+  "officialUrl": "https://www.uprutuado.edu/",
   "name": "University of Puerto Rico-Utuado",
   "shortName": "Puerto Rico-Utuado",
   "location": {

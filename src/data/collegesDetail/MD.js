@@ -19,7 +19,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bhmb.edu/",
+  "officialUrl": "https://www.bhmb.edu/",
   "name": "Bais HaMedrash and Mesivta of Baltimore",
   "shortName": "Bais HaMedrash and Mesivta Baltimore",
   "location": {
@@ -54,7 +54,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.bowiestate.edu/",
+  "officialUrl": "https://www.bowiestate.edu/",
   "name": "Bowie State University",
   "shortName": "Bowie State",
   "location": {
@@ -89,7 +89,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.captechu.edu/",
+  "officialUrl": "https://www.captechu.edu/",
   "name": "Capitol Technology University",
   "shortName": "Capitol Technology",
   "location": {
@@ -124,7 +124,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.coppin.edu/",
+  "officialUrl": "https://www.coppin.edu/",
   "name": "Coppin State University",
   "shortName": "Coppin State",
   "location": {
@@ -159,7 +159,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.frostburg.edu/",
+  "officialUrl": "https://www.frostburg.edu/",
   "name": "Frostburg State University",
   "shortName": "Frostburg State",
   "location": {
@@ -194,7 +194,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.goucher.edu/",
+  "officialUrl": "https://www.goucher.edu/",
   "name": "Goucher College",
   "shortName": "Goucher",
   "location": {
@@ -229,7 +229,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.hood.edu/",
+  "officialUrl": "https://www.hood.edu/",
   "name": "Hood College",
   "shortName": "Hood",
   "location": {
@@ -264,7 +264,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.jhu.edu/",
+  "officialUrl": "https://www.jhu.edu/",
   "name": "Johns Hopkins University",
   "shortName": "Johns Hopkins",
   "location": {
@@ -334,7 +334,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mica.edu/",
+  "officialUrl": "https://www.mica.edu/",
   "name": "Maryland Institute College of Art",
   "shortName": "Maryland   Art",
   "location": {
@@ -369,7 +369,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.mcdaniel.edu/",
+  "officialUrl": "https://www.mcdaniel.edu/",
   "name": "McDaniel College",
   "shortName": "McDaniel",
   "location": {
@@ -509,7 +509,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ndm.edu/",
+  "officialUrl": "https://www.ndm.edu/",
   "name": "Notre Dame of Maryland University",
   "shortName": "Notre Dame Maryland",
   "location": {
@@ -579,7 +579,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.sans.edu/",
+  "officialUrl": "https://www.sans.edu/",
   "name": "SANS Technology Institute",
   "shortName": "SANS Technology",
   "location": {
@@ -649,7 +649,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.stevenson.edu/",
+  "officialUrl": "https://www.stevenson.edu/",
   "name": "Stevenson University",
   "shortName": "Stevenson",
   "location": {
@@ -684,7 +684,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.strayer.edu/campus-locations/maryland/prince-georges",
+  "officialUrl": "https://www.strayer.edu/campus-locations/maryland/prince-georges",
   "name": "Strayer University-Maryland",
   "shortName": "Strayer -Maryland",
   "location": {
@@ -719,7 +719,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.towson.edu/",
+  "officialUrl": "https://www.towson.edu/",
   "name": "Towson University",
   "shortName": "Towson",
   "location": {
@@ -754,7 +754,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.usna.edu/",
+  "officialUrl": "https://www.usna.edu/",
   "name": "United States Naval Academy",
   "shortName": "United States Naval Academy",
   "location": {
@@ -789,7 +789,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.ubalt.edu/",
+  "officialUrl": "https://www.ubalt.edu/",
   "name": "University of Baltimore",
   "shortName": "Baltimore",
   "location": {
@@ -824,7 +824,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umaryland.edu/",
+  "officialUrl": "https://www.umaryland.edu/",
   "name": "University of Maryland Baltimore",
   "shortName": "Maryland Baltimore",
   "location": {
@@ -859,7 +859,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "wwwcp.umes.edu/",
+  "officialUrl": "https://wwwcp.umes.edu/",
   "name": "University of Maryland Eastern Shore",
   "shortName": "Maryland Eastern Shore",
   "location": {
@@ -894,7 +894,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umgc.edu/",
+  "officialUrl": "https://www.umgc.edu/",
   "name": "University of Maryland Global Campus",
   "shortName": "Maryland Global Campus",
   "location": {
@@ -929,7 +929,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "umbc.edu/",
+  "officialUrl": "https://umbc.edu/",
   "name": "University of Maryland-Baltimore County",
   "shortName": "Maryland-Baltimore County",
   "location": {
@@ -964,7 +964,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.umd.edu/",
+  "officialUrl": "https://www.umd.edu/",
   "name": "University of Maryland, College Park",
   "shortName": "Maryland,  Park",
   "location": {
@@ -1034,7 +1034,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.washcoll.edu/",
+  "officialUrl": "https://www.washcoll.edu/",
   "name": "Washington College",
   "shortName": "Washington",
   "location": {
@@ -1069,7 +1069,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "www.wits.edu/",
+  "officialUrl": "https://www.wits.edu/",
   "name": "Women's Institute of Torah Seminary and College",
   "shortName": "Women's  Torah Seminary and",
   "location": {
@@ -1104,7 +1104,7 @@ export const DETAILS_MD = [
   ],
   "popularMajors": [],
   "peerSchools": [],
-  "officialUrl": "ycnc.org/",
+  "officialUrl": "https://ycnc.org/",
   "name": "Yeshiva College of the Nations Capital",
   "shortName": "Yeshiva  the Nations Capital",
   "location": {
