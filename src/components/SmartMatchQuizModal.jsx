@@ -3,8 +3,9 @@ import { X, Sparkles, Check, ArrowRight, RotateCcw, Award, Compass, MapPin } fro
 import { COLLEGES } from '../data/colleges';
 import { MAJORS } from '../data/majors';
 import { FLAGSHIP_COLLEGE_IDS } from '../data/flagshipColleges';
+import { getTranslation } from '../utils/i18n';
 
-export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilters }) {
+export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilters, lang }) {
   const [step, setStep] = useState(1);
   const [selectedRegion, setSelectedRegion] = useState('All');
   const [selectedField, setSelectedField] = useState('All');
@@ -12,6 +13,8 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
   const [results, setResults] = useState(null);
 
   if (!isOpen) return null;
+
+  const t = (k) => getTranslation(lang, k);
 
   const handleCalculateMatch = () => {
     // Filter matching colleges
@@ -68,17 +71,17 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
             <X size={20} />
           </button>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', color: '#4f46e5', fontWeight: 800, fontSize: '0.825rem', textTransform: 'uppercase' }}>
-            <Sparkles size={16} /> 30-Second College & Major Matcher
+            <Sparkles size={16} /> {t('quizTitle')}
           </div>
-          <h2 style={{ fontSize: '1.5rem', fontWeight: 800 }}>Find Your Best Fit US College</h2>
+          <h2 style={{ fontSize: '1.5rem', fontWeight: 800 }}>{t('quizSubtitle')}</h2>
         </div>
 
         <div className="modal-body">
           {/* STEP 1: Region Preference */}
           {step === 1 && (
             <div>
-              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>STEP 1 OF 3</div>
-              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>Which region of the US do you prefer studying in?</h3>
+              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>{t('step1Of3')}</div>
+              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>{t('qRegion')}</h3>
 
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '0.75rem', marginBottom: '1.5rem' }}>
                 {['All', 'West Coast', 'East Coast', 'Midwest', 'South', 'New England', 'Pacific NW'].map(r => (
@@ -102,7 +105,7 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
               </div>
 
               <button className="detail-btn" style={{ width: '100%', justifyContent: 'center', padding: '0.8rem' }} onClick={() => setStep(2)}>
-                <span>Next: Academic Interest</span>
+                <span>{t('nextAcademic')}</span>
                 <ArrowRight size={16} />
               </button>
             </div>
@@ -111,8 +114,8 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
           {/* STEP 2: Field Interest */}
           {step === 2 && (
             <div>
-              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>STEP 2 OF 3</div>
-              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>What is your primary area of academic interest?</h3>
+              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>{t('step2Of3')}</div>
+              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>{t('qField')}</h3>
 
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '0.75rem', marginBottom: '1.5rem' }}>
                 {[
@@ -143,9 +146,9 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
               </div>
 
               <div style={{ display: 'flex', gap: '0.75rem' }}>
-                <button className="chip-btn" onClick={() => setStep(1)}>Back</button>
+                <button className="chip-btn" onClick={() => setStep(1)}>{t('back')}</button>
                 <button className="detail-btn" style={{ flex: 1, justifyContent: 'center', padding: '0.8rem' }} onClick={() => setStep(3)}>
-                  <span>Next: Campus Setting</span>
+                  <span>{t('nextCampus')}</span>
                   <ArrowRight size={16} />
                 </button>
               </div>
@@ -155,8 +158,8 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
           {/* STEP 3: Campus Setting */}
           {step === 3 && (
             <div>
-              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>STEP 3 OF 3</div>
-              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>What campus environment do you thrive in?</h3>
+              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>{t('step3Of3')}</div>
+              <h3 style={{ fontSize: '1.2rem', fontWeight: 800, marginBottom: '1rem' }}>{t('qSetting')}</h3>
 
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '0.75rem', marginBottom: '1.5rem' }}>
                 {[
@@ -185,10 +188,10 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
               </div>
 
               <div style={{ display: 'flex', gap: '0.75rem' }}>
-                <button className="chip-btn" onClick={() => setStep(2)}>Back</button>
+                <button className="chip-btn" onClick={() => setStep(2)}>{t('back')}</button>
                 <button className="detail-btn" style={{ flex: 1, justifyContent: 'center', padding: '0.8rem', background: '#16a34a', color: '#ffffff' }} onClick={handleCalculateMatch}>
                   <Sparkles size={16} />
-                  <span>Generate My Match Results</span>
+                  <span>{t('generateResults')}</span>
                 </button>
               </div>
             </div>
@@ -198,13 +201,13 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
           {step === 4 && results && (
             <div>
               <div style={{ background: '#f0fdf4', border: '1px solid #bbf7d0', padding: '1rem', borderRadius: '12px', marginBottom: '1.25rem' }}>
-                <h4 style={{ color: '#166534', fontWeight: 800, fontSize: '1.1rem', marginBottom: '0.2rem' }}>🎉 Your Customized Match Results</h4>
+                <h4 style={{ color: '#166534', fontWeight: 800, fontSize: '1.1rem', marginBottom: '0.2rem' }}>{t('resultsTitle')}</h4>
                 <p style={{ fontSize: '0.85rem', color: '#15803d' }}>
-                  Based on: {selectedRegion === 'All' ? 'All Regions' : selectedRegion} • {selectedField === 'All' ? 'All Fields' : selectedField} • {selectedSetting === 'All' ? 'All Settings' : selectedSetting}
+                  {t('basedOn')}: {selectedRegion === 'All' ? t('all') : selectedRegion} • {selectedField === 'All' ? t('all') : selectedField} • {selectedSetting === 'All' ? t('all') : selectedSetting}
                 </p>
               </div>
 
-              <h4 style={{ fontSize: '0.95rem', fontWeight: 800, marginBottom: '0.5rem', color: '#0f172a' }}>TOP MATCHING UNIVERSITIES</h4>
+              <h4 style={{ fontSize: '0.95rem', fontWeight: 800, marginBottom: '0.5rem', color: '#0f172a' }}>{t('topMatchingUnis')}</h4>
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '0.75rem', marginBottom: '1.25rem' }}>
                 {results.colleges.map(c => (
                   <div key={c.id} style={{ background: '#ffffff', border: FLAGSHIP_COLLEGE_IDS.has(c.id) ? '2px solid #f59e0b' : '1px solid #cbd5e1', padding: '0.75rem 1rem', borderRadius: '10px' }}>
@@ -217,7 +220,7 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
                 ))}
               </div>
 
-              <h4 style={{ fontSize: '0.95rem', fontWeight: 800, marginBottom: '0.5rem', color: '#0f172a' }}>RECOMMENDED MAJORS TO EXPLORE</h4>
+              <h4 style={{ fontSize: '0.95rem', fontWeight: 800, marginBottom: '0.5rem', color: '#0f172a' }}>{t('recommendedMajors')}</h4>
               <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '1.5rem' }}>
                 {results.majors.map(m => (
                   <span key={m.id} style={{ background: '#e0e7ff', color: '#4338ca', fontWeight: 700, padding: '0.35rem 0.75rem', borderRadius: '8px', fontSize: '0.85rem' }}>
@@ -228,10 +231,10 @@ export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilte
 
               <div style={{ display: 'flex', gap: '0.75rem' }}>
                 <button className="chip-btn" onClick={handleReset}>
-                  <RotateCcw size={14} style={{ marginRight: '0.3rem' }} /> Reset Quiz
+                  <RotateCcw size={14} style={{ marginRight: '0.3rem' }} /> {t('resetQuiz')}
                 </button>
                 <button className="detail-btn" style={{ flex: 1, justifyContent: 'center', padding: '0.8rem' }} onClick={handleApplyToApp}>
-                  <span>Apply Filters to Main App</span>
+                  <span>{t('applyFilters')}</span>
                   <ArrowRight size={16} />
                 </button>
               </div>

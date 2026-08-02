@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { ThumbsUp, MessageSquare, Plus, Share2, X, Send } from 'lucide-react';
 import { COMMUNITY_TOPICS } from '../data/community';
+import { getTranslation } from '../utils/i18n';
 
-export default function CommunityBoard() {
+export default function CommunityBoard({ lang }) {
+  const t = (k) => getTranslation(lang, k);
   const [topics, setTopics] = useState(COMMUNITY_TOPICS);
   const [upvotedIds, setUpvotedIds] = useState({});
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -69,8 +71,8 @@ export default function CommunityBoard() {
         gap: '1rem'
       }}>
         <div>
-          <h3 style={{ fontSize: '1.2rem', fontWeight: 800 }}>Student & Parent Advice Community</h3>
-          <p style={{ fontSize: '0.85rem', color: '#64748b' }}>Curated insights, questions, and honest experiences from students & parents</p>
+          <h3 style={{ fontSize: '1.2rem', fontWeight: 800 }}>{t('communityTitle')}</h3>
+          <p style={{ fontSize: '0.85rem', color: '#64748b' }}>{t('communitySubtitle')}</p>
         </div>
 
         <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center', flexWrap: 'wrap' }}>
@@ -80,7 +82,7 @@ export default function CommunityBoard() {
             onClick={() => setIsModalOpen(true)}
           >
             <Plus size={16} />
-            <span>Ask a Question</span>
+            <span>{t('askQuestion')}</span>
           </button>
 
           <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap' }}>
@@ -147,40 +149,40 @@ export default function CommunityBoard() {
               <button className="modal-close-btn" onClick={() => setIsModalOpen(false)}>
                 <X size={20} />
               </button>
-              <h2 style={{ fontSize: '1.35rem', fontWeight: 800 }}>Ask the Campuso Community</h2>
-              <p style={{ fontSize: '0.85rem', color: '#64748b', marginTop: '0.25rem' }}>Post your college or major question for peer and parent advice.</p>
+              <h2 style={{ fontSize: '1.35rem', fontWeight: 800 }}>{t('askCommunityTitle')}</h2>
+              <p style={{ fontSize: '0.85rem', color: '#64748b', marginTop: '0.25rem' }}>{t('askCommunityDesc')}</p>
             </div>
 
             <form onSubmit={handleAddPost} className="modal-body">
               <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>I AM A...</label>
+                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('iAmA')}</label>
                 <select 
                   value={newRole} 
                   onChange={e => setNewRole(e.target.value)}
                   style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem' }}
                 >
-                  <option value="High School Student">High School Student</option>
-                  <option value="Parent of High Schooler">Parent of High Schooler</option>
-                  <option value="Current College Student">Current College Student</option>
-                  <option value="High School Counselor">High School Counselor</option>
+                  <option value="High School Student">{t('highSchoolStudent')}</option>
+                  <option value="Parent of High Schooler">{t('parentOfHighSchooler')}</option>
+                  <option value="Current College Student">{t('currentCollegeStudent')}</option>
+                  <option value="High School Counselor">{t('highSchoolCounselor')}</option>
                 </select>
               </div>
 
               <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>CATEGORY</label>
+                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('category')}</label>
                 <select 
                   value={newCategory} 
                   onChange={e => setNewCategory(e.target.value)}
                   style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem' }}
                 >
-                  <option value="Major Advice">Major Advice</option>
-                  <option value="Essays & Admissions">Essays & Admissions</option>
-                  <option value="Parent Questions">Parent Questions</option>
+                  <option value="Major Advice">{t('majorAdvice')}</option>
+                  <option value="Essays & Admissions">{t('essaysAdmissions')}</option>
+                  <option value="Parent Questions">{t('parentQuestions')}</option>
                 </select>
               </div>
 
               <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>QUESTION TITLE</label>
+                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('questionTitle')}</label>
                 <input 
                   type="text" 
                   placeholder="e.g. Is Bioengineering a good pre-med major?" 
@@ -192,7 +194,7 @@ export default function CommunityBoard() {
               </div>
 
               <div style={{ marginBottom: '1.5rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>DETAILS / CONTEXT</label>
+                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('detailsContext')}</label>
                 <textarea 
                   rows={4}
                   placeholder="Provide any background context (e.g. GPA, interests, budget)..." 
@@ -204,10 +206,10 @@ export default function CommunityBoard() {
               </div>
 
               <div style={{ display: 'flex', gap: '0.75rem' }}>
-                <button type="button" className="chip-btn" onClick={() => setIsModalOpen(false)}>Cancel</button>
+                <button type="button" className="chip-btn" onClick={() => setIsModalOpen(false)}>{t('cancel')}</button>
                 <button type="submit" className="detail-btn" style={{ flex: 1, justifyContent: 'center', background: '#4f46e5', color: '#ffffff' }}>
                   <Send size={16} />
-                  <span>Post Question</span>
+                  <span>{t('postQuestion')}</span>
                 </button>
               </div>
             </form>

@@ -1,10 +1,12 @@
 import React from 'react';
 import { X, MapPin, CheckCircle, AlertTriangle, Users, DollarSign, Award, BookOpen, ExternalLink } from 'lucide-react';
 import { normalizeUrl } from '../utils/url';
+import { getTranslation } from '../utils/i18n';
 
-export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved }) {
+export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved, lang }) {
   if (!college) return null;
 
+  const t = (k) => getTranslation(lang, k);
   const officialUrl = normalizeUrl(college.officialUrl);
 
   return (
@@ -37,7 +39,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
                   textDecoration: 'none'
                 }}
               >
-                <span>Visit Official Site</span>
+                <span>{t('visitOfficialSite')}</span>
                 <ExternalLink size={14} />
               </a>
             )}
@@ -62,19 +64,19 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
             border: '1px solid #e2e8f0'
           }}>
             <div>
-              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>ACCEPTANCE RATE</div>
+              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>{t('acceptanceRate')}</div>
               <div style={{ fontSize: '1.2rem', fontWeight: 800, color: '#b45309' }}>{college.acceptanceRate}</div>
             </div>
             <div>
-              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>UNDERGRADUATES</div>
+              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>{t('undergraduates')}</div>
               <div style={{ fontSize: '1.2rem', fontWeight: 800, color: '#0369a1' }}>{college.undergradsCount}</div>
             </div>
             <div>
-              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>IN-STATE TUITION</div>
+              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>{t('inStateTuition')}</div>
               <div style={{ fontSize: '1.1rem', fontWeight: 800, color: '#0f172a' }}>{college.tuitionInState}</div>
             </div>
             <div>
-              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>OUT-OF-STATE</div>
+              <div style={{ fontSize: '0.75rem', color: '#64748b', fontWeight: 700 }}>{t('outOfState')}</div>
               <div style={{ fontSize: '1.1rem', fontWeight: 800, color: '#0f172a' }}>{college.tuitionOutState}</div>
             </div>
           </div>
@@ -82,7 +84,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
           {/* Vibe Tags */}
           {(college.vibeTags || []).length > 0 && (
             <div style={{ marginBottom: '1.5rem' }}>
-              <h4 style={{ fontSize: '0.9rem', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '0.5rem' }}>Campus Vibe & Culture</h4>
+              <h4 style={{ fontSize: '0.9rem', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '0.5rem' }}>{t('campusVibe')}</h4>
               <div className="vibe-tags">
                 {college.vibeTags.map((v, i) => (
                   <span key={i} className="vibe-tag" style={{ background: '#e0e7ff', color: '#4338ca', fontWeight: 600, padding: '0.3rem 0.7rem' }}>
@@ -98,7 +100,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1rem', marginBottom: '1.5rem' }}>
               <div style={{ background: '#f0fdf4', border: '1px solid #bbf7d0', padding: '1rem', borderRadius: '12px' }}>
                 <h4 style={{ color: '#166534', fontSize: '0.95rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.5rem' }}>
-                  <CheckCircle size={18} /> Student Pros & Highlights
+                  <CheckCircle size={18} /> {t('studentPros')}
                 </h4>
                 <ul style={{ paddingLeft: '1.25rem', fontSize: '0.875rem', color: '#14532d' }}>
                   {college.pros.map((pro, idx) => (
@@ -109,7 +111,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
 
               <div style={{ background: '#fff1f2', border: '1px solid #fecdd3', padding: '1rem', borderRadius: '12px' }}>
                 <h4 style={{ color: '#9f1239', fontSize: '0.95rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.5rem' }}>
-                  <AlertTriangle size={18} /> Points to Consider / Cons
+                  <AlertTriangle size={18} /> {t('pointsToConsider')}
                 </h4>
                 <ul style={{ paddingLeft: '1.25rem', fontSize: '0.875rem', color: '#881337' }}>
                   {college.cons.map((con, idx) => (
@@ -123,7 +125,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
           {/* Peer Colleges */}
           {(college.peerSchools || []).length > 0 && (
             <div style={{ borderTop: '1px solid #e2e8f0', paddingTop: '1rem' }}>
-              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>SIMILAR / PEER COLLEGES</div>
+              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>{t('similarPeers')}</div>
               <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
                 {college.peerSchools.map((peer, i) => (
                   <span key={i} style={{ background: '#f1f5f9', border: '1px solid #cbd5e1', padding: '0.25rem 0.6rem', borderRadius: '6px', fontSize: '0.8rem', color: '#334155' }}>

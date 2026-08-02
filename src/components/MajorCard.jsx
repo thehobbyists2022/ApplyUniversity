@@ -4,6 +4,7 @@ import {
   Share2, BarChart3, HeartPulse, Activity, Brain, Scale, Palette, 
   Home, Video, Leaf, Fish, Dna, Stethoscope, Pill, Globe, Sparkles, ArrowRight 
 } from 'lucide-react';
+import { getTranslation } from '../utils/i18n';
 
 const ICON_MAP = {
   Code: Code,
@@ -31,7 +32,8 @@ const ICON_MAP = {
   Sparkles: Sparkles
 };
 
-export default function MajorCard({ major, onViewMajorDetails, collegesMap }) {
+export default function MajorCard({ major, onViewMajorDetails, collegesMap, lang }) {
+  const t = (k) => getTranslation(lang, k);
   const IconComponent = ICON_MAP[major.icon] || Code;
 
   return (
@@ -53,12 +55,12 @@ export default function MajorCard({ major, onViewMajorDetails, collegesMap }) {
       </p>
 
       <div className="salary-hero">
-        <div style={{ fontSize: '0.75rem', fontWeight: 700, textTransform: 'uppercase' }}>EST. STARTING SALARY</div>
+        <div style={{ fontSize: '0.75rem', fontWeight: 700, textTransform: 'uppercase' }}>{t('estStartingSalary')}</div>
         <div className="salary-num">{major.avgStartingSalary}</div>
       </div>
 
       <div style={{ margin: '0.75rem 0' }}>
-        <div style={{ fontSize: '0.8rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>TYPICAL CAREERS</div>
+        <div style={{ fontSize: '0.8rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('typicalCareers')}</div>
         <div style={{ fontSize: '0.85rem', color: '#0f172a', fontWeight: 600 }}>
           {major.careerPaths.map(c => c.title).slice(0, 2).join(" • ")}
         </div>
@@ -70,7 +72,7 @@ export default function MajorCard({ major, onViewMajorDetails, collegesMap }) {
           style={{ width: '100%', justifyContent: 'center' }}
           onClick={() => onViewMajorDetails(major)}
         >
-          <span>View Career Roadmap</span>
+          <span>{t('viewCareerRoadmap')}</span>
           <ArrowRight size={15} />
         </button>
       </div>

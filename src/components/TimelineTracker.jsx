@@ -1,6 +1,7 @@
 import React from 'react';
 import { Compass, Target, Send, CheckCircle2, Printer } from 'lucide-react';
 import { TIMELINE_STAGES } from '../data/timeline';
+import { getTranslation } from '../utils/i18n';
 
 const STAGE_ICON_MAP = {
   Compass: Compass,
@@ -9,7 +10,8 @@ const STAGE_ICON_MAP = {
   CheckCircle2: CheckCircle2
 };
 
-export default function TimelineTracker({ completedTasks, onToggleTask }) {
+export default function TimelineTracker({ completedTasks, onToggleTask, lang }) {
+  const t = (k) => getTranslation(lang, k);
   const totalTasks = TIMELINE_STAGES.reduce((acc, stage) => acc + stage.tasks.length, 0);
   const completedCount = Object.values(completedTasks).filter(Boolean).length;
   const progressPercent = Math.round((completedCount / totalTasks) * 100);
@@ -31,8 +33,8 @@ export default function TimelineTracker({ completedTasks, onToggleTask }) {
       }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '0.75rem' }}>
           <div>
-            <h3 style={{ fontSize: '1.25rem', fontWeight: 800 }}>US College Application Progress</h3>
-            <p style={{ fontSize: '0.875rem', color: '#c7d2fe' }}>Stay on track throughout Grades 9 to 12</p>
+            <h3 style={{ fontSize: '1.25rem', fontWeight: 800 }}>{t('timelineTitle')}</h3>
+            <p style={{ fontSize: '0.875rem', color: '#c7d2fe' }}>{t('timelineSubtitle')}</p>
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
@@ -42,7 +44,7 @@ export default function TimelineTracker({ completedTasks, onToggleTask }) {
               style={{ background: '#ffffff', color: '#1e1b4b', fontWeight: 800, padding: '0.45rem 0.9rem', fontSize: '0.85rem' }}
             >
               <Printer size={15} />
-              <span>Export Plan (PDF / Print)</span>
+              <span>{t('exportPlan')}</span>
             </button>
             
             <div style={{ textAlign: 'right' }}>

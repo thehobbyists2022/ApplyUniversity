@@ -1,8 +1,10 @@
 import React from 'react';
 import { X, Briefcase, BookOpen, Award, DollarSign, TrendingUp, Check } from 'lucide-react';
+import { getTranslation } from '../utils/i18n';
 
-export default function MajorDetailModal({ major, onClose, collegesMap }) {
+export default function MajorDetailModal({ major, onClose, collegesMap, lang }) {
   if (!major) return null;
+  const t = (k) => getTranslation(lang, k);
 
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -33,11 +35,11 @@ export default function MajorDetailModal({ major, onClose, collegesMap }) {
             border: '1px solid #bbf7d0'
           }}>
             <div>
-              <div style={{ fontSize: '0.75rem', fontWeight: 700, color: '#166534' }}>STARTING SALARY RANGE</div>
+              <div style={{ fontSize: '0.75rem', fontWeight: 700, color: '#166534' }}>{t('startingSalaryRange')}</div>
               <div style={{ fontSize: '1.3rem', fontWeight: 800, color: '#14532d' }}>{major.avgStartingSalary}</div>
             </div>
             <div>
-              <div style={{ fontSize: '0.75rem', fontWeight: 700, color: '#166534' }}>PROJECTED JOB GROWTH</div>
+              <div style={{ fontSize: '0.75rem', fontWeight: 700, color: '#166534' }}>{t('projectedJobGrowth')}</div>
               <div style={{ fontSize: '1.1rem', fontWeight: 800, color: '#15803d', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                 <TrendingUp size={18} /> {major.growthRate}
               </div>
@@ -47,7 +49,7 @@ export default function MajorDetailModal({ major, onClose, collegesMap }) {
           {/* Career Paths Breakdown */}
           <div style={{ marginBottom: '1.5rem' }}>
             <h4 style={{ fontSize: '1rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.75rem' }}>
-              <Briefcase size={18} color="#4f46e5" /> Top Career Paths & Salary Expectations
+              <Briefcase size={18} color="#4f46e5" /> {t('topCareerPaths')}
             </h4>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '0.75rem' }}>
               {major.careerPaths.map((career, idx) => (
@@ -64,7 +66,7 @@ export default function MajorDetailModal({ major, onClose, collegesMap }) {
           {/* Typical College Coursework */}
           <div style={{ marginBottom: '1.5rem' }}>
             <h4 style={{ fontSize: '1rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.5rem' }}>
-              <BookOpen size={18} color="#4f46e5" /> Core College Coursework
+              <BookOpen size={18} color="#4f46e5" /> {t('coreCoursework')}
             </h4>
             <div className="coursework-list">
               {major.coursework.map((course, idx) => (
@@ -115,13 +117,13 @@ export default function MajorDetailModal({ major, onClose, collegesMap }) {
           }}>
             <div>
               <div style={{ fontSize: '0.75rem', fontWeight: 800, color: '#38bdf8', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-                🚀 FUTURE US CAREER ASSISTANT
+                {t('futureCareerAssistant')}
               </div>
               <div style={{ fontSize: '1rem', fontWeight: 800, marginTop: '0.15rem' }}>
-                Planning your future career path in {major.name}?
+                {getTranslation(lang, 'careerAssistantIn', { major: major.name })}
               </div>
               <div style={{ fontSize: '0.825rem', color: '#c7d2fe', marginTop: '0.15rem' }}>
-                Prepare ATS-ready US resumes, H-1B / STEM OPT visa checks, and LinkedIn headshots with StepOne Career.
+                {t('careerAssistantDesc')}
               </div>
             </div>
             <a 
@@ -131,7 +133,7 @@ export default function MajorDetailModal({ major, onClose, collegesMap }) {
               className="detail-btn"
               style={{ background: '#ffffff', color: '#312e81', fontWeight: 800, textDecoration: 'none', padding: '0.5rem 1rem', fontSize: '0.85rem' }}
             >
-              <span>Explore StepOne Career</span>
+              <span>{t('exploreStepOne')}</span>
               <Check size={16} />
             </a>
           </div>

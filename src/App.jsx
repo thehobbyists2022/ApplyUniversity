@@ -4,6 +4,8 @@ import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
 import { LEGACY_COLLEGE_ID_MAP } from './data/legacyCollegeIdMap';
+import { getTranslation } from './utils/i18n';
+import LanguageSelector from './components/LanguageSelector';
 import CollegeCard from './components/CollegeCard';
 import CollegeDetailModal from './components/CollegeDetailModal';
 import MajorCard from './components/MajorCard';
@@ -16,11 +18,20 @@ import SavedCompareModal from './components/SavedCompareModal';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('colleges');
+  const [currentLang, setCurrentLang] = useState(() => {
+    try {
+      return localStorage.getItem('campuso_lang') || 'en';
+    } catch {
+      return 'en';
+    }
+  });
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('All');
   const [selectedSetting, setSelectedSetting] = useState('All');
   const [selectedMajorFilter, setSelectedMajorFilter] = useState('All');
   const [selectedMajorCategory, setSelectedMajorCategory] = useState('All');
+
+  const t = (key, vars) => getTranslation(currentLang, key, vars);
 
   const [collegeLimit, setCollegeLimit] = useState(24);
   const [majorLimit, setMajorLimit] = useState(24);
@@ -31,6 +42,10 @@ export default function App() {
 
   const [isQuizOpen, setIsQuizOpen] = useState(false);
   const [isCompareOpen, setIsCompareOpen] = useState(false);
+
+  useEffect(() => {
+    localStorage.setItem('campuso_lang', currentLang);
+  }, [currentLang]);
 
   // Reset pagination on filter change
   useEffect(() => {
@@ -146,11 +161,11 @@ export default function App() {
       <header className="top-banner">
         <div className="banner-badge">
           <Sparkles size={14} />
-          <span>US Edition • High School & Parent Guide</span>
+          <span>{t('bannerBadge')}</span>
         </div>
-        <h1 className="banner-title">Campuso</h1>
+        <h1 className="banner-title">{t('appName')}</h1>
         <p className="banner-subtitle">
-          Discover top 4-year degree-granting US universities, explore specialized CIP majors, track application milestones, and plan your career path.
+          {t('bannerSubtitle')}
         </p>
 
         {/* Action Header Controls */}
@@ -161,7 +176,7 @@ export default function App() {
             style={{ background: 'linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)', color: '#fff', border: 'none', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem', boxShadow: '0 4px 14px rgba(79, 70, 229, 0.35)' }}
           >
             <Sparkles size={16} />
-            Smart Match Quiz
+            {t('smartMatchQuiz')}
           </button>
 
           <button 
@@ -170,8 +185,10 @@ export default function App() {
             style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
           >
             <Trophy size={16} color="#eab308" />
-            Saved & Compare ({savedCollegeIds.length})
+            {t('savedCompare')} ({savedCollegeIds.length})
           </button>
+
+          <LanguageSelector currentLang={currentLang} onLangChange={setCurrentLang} />
         </div>
       </header>
 
@@ -182,7 +199,7 @@ export default function App() {
           onClick={() => setActiveTab('colleges')}
         >
           <Compass size={18} />
-          <span>Explore Colleges ({COLLEGES ? COLLEGES.length : 0})</span>
+          <span>{t('navColleges')} ({COLLEGES ? COLLEGES.length : 0})</span>
         </button>
 
         <button 
@@ -190,7 +207,7 @@ export default function App() {
           onClick={() => setActiveTab('majors')}
         >
           <BookOpen size={18} />
-          <span>Academic Majors ({MAJORS ? MAJORS.length : 0})</span>
+          <span>{t('navMajors')} ({MAJORS ? MAJORS.length : 0})</span>
         </button>
 
         <button 
@@ -198,7 +215,7 @@ export default function App() {
           onClick={() => setActiveTab('timeline')}
         >
           <Calendar size={18} />
-          <span>Timeline Tracker</span>
+          <span>{t('navTimeline')}</span>
         </button>
 
         <button 
@@ -206,7 +223,7 @@ export default function App() {
           onClick={() => setActiveTab('guides')}
         >
           <Sparkles size={18} />
-          <span>Specialized Guides</span>
+          <span>{t('navGuides')}</span>
         </button>
 
         <button 
@@ -214,7 +231,7 @@ export default function App() {
           onClick={() => setActiveTab('community')}
         >
           <MessageSquare size={18} />
-          <span>Advice Board</span>
+          <span>{t('navCommunity')}</span>
         </button>
       </nav>
 
@@ -230,7 +247,7 @@ export default function App() {
                   <input 
                     type="text"
                     className="search-input"
-                    placeholder="Search by college name, city, or vibe (e.g. Stanford, Tech, Silicon Valley)..."
+                    placeholder={t('searchCollegesPlaceholder')}
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                   />
@@ -248,7 +265,7 @@ export default function App() {
               {/* Filters */}
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem' }}>
                 <div className="filter-group">
-                  <span className="filter-label">US Region Filter</span>
+                  <span className="filter-label">{t('regionFilter')}</span>
                   <div className="filter-chips">
                     {regions.map(r => (
                       <button 
@@ -263,7 +280,7 @@ export default function App() {
                 </div>
 
                 <div className="filter-group">
-                  <span className="filter-label">Campus Setting</span>
+                  <span className="filter-label">{t('campusSetting')}</span>
                   <div className="filter-chips">
                     {settings.map(s => (
                       <button 
@@ -282,14 +299,14 @@ export default function App() {
             {/* Results Info */}
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.25rem' }}>
               <h2 style={{ fontSize: '1.3rem', fontWeight: 800 }}>
-                {selectedRegion === 'SAVED_ONLY' ? 'Saved Colleges' : 'Top US Colleges'} ({filteredColleges.length})
+                {selectedRegion === 'SAVED_ONLY' ? t('savedColleges') : t('topUSColleges')} ({filteredColleges.length})
               </h2>
               {savedCollegeIds.length > 0 && (
                 <button 
                   onClick={() => setSelectedRegion(selectedRegion === 'SAVED_ONLY' ? 'All' : 'SAVED_ONLY')} 
                   style={{ fontSize: '0.85rem', color: '#4f46e5', fontWeight: 700, background: 'none', border: 'none', cursor: 'pointer' }}
                 >
-                  {selectedRegion === 'SAVED_ONLY' ? 'Show All Colleges' : `Show Saved Only (${savedCollegeIds.length})`}
+                  {selectedRegion === 'SAVED_ONLY' ? t('showAllColleges') : `${t('showSavedOnly')} (${savedCollegeIds.length})`}
                 </button>
               )}
             </div>
@@ -300,6 +317,7 @@ export default function App() {
                 <CollegeCard 
                   key={college.id}
                   college={college}
+                  lang={currentLang}
                   isSaved={savedCollegeIds.includes(college.id)}
                   onToggleSave={toggleSaveCollege}
                   onViewDetails={handleViewDetails}
@@ -311,7 +329,7 @@ export default function App() {
             {filteredColleges.length > collegeLimit && (
               <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
                 <p style={{ fontSize: '0.9rem', color: '#64748b', marginBottom: '0.75rem' }}>
-                  Showing {visibleColleges.length} of {filteredColleges.length} Universities
+                  {t('showingOf', { shown: visibleColleges.length, total: filteredColleges.length })}
                 </p>
                 <button 
                   className="chip-btn active"
@@ -319,21 +337,21 @@ export default function App() {
                   style={{ padding: '0.75rem 2rem', fontSize: '0.95rem', borderRadius: '30px', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer' }}
                 >
                   <ChevronDown size={18} />
-                  Load More Universities (+24)
+                  {t('loadMoreUniversities')}
                 </button>
               </div>
             )}
 
             {filteredColleges.length === 0 && (
               <div style={{ textAlign: 'center', padding: '4rem 1rem', background: '#ffffff', borderRadius: '16px', border: '1px dashed #cbd5e1' }}>
-                <h3 style={{ fontSize: '1.2rem', color: '#64748b' }}>No colleges match your current filters</h3>
-                <p style={{ fontSize: '0.9rem', color: '#94a3b8', marginTop: '0.5rem' }}>Try clearing your search query or selecting "All" regions.</p>
+                <h3 style={{ fontSize: '1.2rem', color: '#64748b' }}>{t('noCollegesMatch')}</h3>
+                <p style={{ fontSize: '0.9rem', color: '#94a3b8', marginTop: '0.5rem' }}>{t('noCollegesTry')}</p>
                 <button 
                   className="chip-btn active"
                   style={{ marginTop: '1rem', cursor: 'pointer' }}
                   onClick={() => { setSearchQuery(''); setSelectedRegion('All'); setSelectedSetting('All'); }}
                 >
-                  Reset Filters
+                  {t('resetFilters')}
                 </button>
               </div>
             )}
@@ -345,8 +363,8 @@ export default function App() {
             <div style={{ marginBottom: '1.5rem' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1rem', marginBottom: '1rem' }}>
                 <div>
-                  <h2 style={{ fontSize: '1.4rem', fontWeight: 800 }}>Academic Majors & Career Pathways ({filteredMajors.length})</h2>
-                  <p style={{ color: '#64748b', fontSize: '0.925rem' }}>Explore starting salaries, core coursework, and top US colleges for broad and specialized majors.</p>
+                  <h2 style={{ fontSize: '1.4rem', fontWeight: 800 }}>{t('majorsTitle')} ({filteredMajors.length})</h2>
+                  <p style={{ color: '#64748b', fontSize: '0.925rem' }}>{t('majorsSubtitle')}</p>
                 </div>
 
                 {/* Major Search Bar */}
@@ -355,7 +373,7 @@ export default function App() {
                   <input 
                     type="text"
                     className="search-input"
-                    placeholder="Search any major (e.g. Marine Biology, Finance, AI)..."
+                    placeholder={t('searchMajorsPlaceholder')}
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                     style={{ padding: '0.6rem 1rem 0.6rem 2.5rem', fontSize: '0.875rem' }}
@@ -391,6 +409,7 @@ export default function App() {
                 <MajorCard 
                   key={major.id}
                   major={major}
+                  lang={currentLang}
                   onViewMajorDetails={(m) => setSelectedMajor(m)}
                 />
               ))}
@@ -400,7 +419,7 @@ export default function App() {
             {filteredMajors.length > majorLimit && (
               <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
                 <p style={{ fontSize: '0.9rem', color: '#64748b', marginBottom: '0.75rem' }}>
-                  Showing {visibleMajors.length} of {filteredMajors.length} Academic Majors
+                  {t('showingMajorsOf', { shown: visibleMajors.length, total: filteredMajors.length })}
                 </p>
                 <button 
                   className="chip-btn active"
@@ -408,7 +427,7 @@ export default function App() {
                   style={{ padding: '0.75rem 2rem', fontSize: '0.95rem', borderRadius: '30px', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer' }}
                 >
                   <ChevronDown size={18} />
-                  Load More Majors (+24)
+                  {t('loadMoreMajors')}
                 </button>
               </div>
             )}
@@ -419,15 +438,16 @@ export default function App() {
           <TimelineTracker 
             completedTasks={completedTasks}
             onToggleTask={toggleTask}
+            lang={currentLang}
           />
         )}
 
         {activeTab === 'guides' && (
-          <SpecializedGuides />
+          <SpecializedGuides lang={currentLang} />
         )}
 
         {activeTab === 'community' && (
-          <CommunityBoard />
+          <CommunityBoard lang={currentLang} />
         )}
       </main>
 
@@ -435,6 +455,7 @@ export default function App() {
       {selectedCollege && (
         <CollegeDetailModal 
           college={selectedCollege}
+          lang={currentLang}
           isSaved={savedCollegeIds.includes(selectedCollege.id)}
           onToggleSave={toggleSaveCollege}
           onClose={() => setSelectedCollege(null)}
@@ -444,6 +465,7 @@ export default function App() {
       {selectedMajor && (
         <MajorDetailModal 
           major={selectedMajor}
+          lang={currentLang}
           collegesMap={collegesMap}
           onClose={() => setSelectedMajor(null)}
         />
@@ -452,6 +474,7 @@ export default function App() {
       {isQuizOpen && (
         <SmartMatchQuizModal 
           isOpen={isQuizOpen}
+          lang={currentLang}
           onClose={() => setIsQuizOpen(false)}
           onApplyMatchFilters={(filters) => {
             if (filters.region && filters.region !== 'All') setSelectedRegion(filters.region);
@@ -464,6 +487,7 @@ export default function App() {
       {isCompareOpen && (
         <SavedCompareModal 
           isOpen={isCompareOpen}
+          lang={currentLang}
           onClose={() => setIsCompareOpen(false)}
           savedIds={savedCollegeIds}
           onRemoveSave={toggleSaveCollege}

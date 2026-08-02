@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
 import { Trophy, DollarSign, Award, CheckCircle, ExternalLink, ShieldAlert, GraduationCap, Video, Send, FileText } from 'lucide-react';
 import { ATHLETIC_GUIDE, SCHOLARSHIP_GUIDE } from '../data/specializedGuides';
+import { getTranslation } from '../utils/i18n';
 
-export default function SpecializedGuides() {
+export default function SpecializedGuides({ lang }) {
   const [activeGuideTab, setActiveGuideTab] = useState('scholarships');
+  const t = (k) => getTranslation(lang, k);
 
   return (
     <div style={{ maxWidth: '960px', margin: '0 auto' }}>
@@ -18,12 +20,12 @@ export default function SpecializedGuides() {
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.75rem' }}>
           <span style={{ background: '#f59e0b', color: '#0f172a', padding: '0.25rem 0.75rem', borderRadius: '9999px', fontSize: '0.8rem', fontWeight: 800 }}>
-            ESSENTIAL GUIDES
+            {t('essentialGuides')}
           </span>
         </div>
-        <h2 style={{ fontSize: '1.8rem', fontWeight: 800 }}>Athletic Recruiting & Scholarship Hub</h2>
+        <h2 style={{ fontSize: '1.8rem', fontWeight: 800 }}>{t('guidesTitle')}</h2>
         <p style={{ color: '#94a3b8', fontSize: '1rem', marginTop: '0.35rem', maxWidth: '680px' }}>
-          Demystifying college sports recruitment, NCAA eligibility, FAFSA, CSS Profile, and Merit Scholarships with direct official portal links.
+          {t('guidesDesc')}
         </p>
 
         {/* Tab Buttons */}
@@ -41,7 +43,7 @@ export default function SpecializedGuides() {
             }}
           >
             <DollarSign size={18} style={{ marginRight: '0.4rem' }} />
-            <span>Scholarships & Financial Aid</span>
+            <span>{t('scholarships')}</span>
           </button>
 
           <button 
@@ -57,7 +59,7 @@ export default function SpecializedGuides() {
             }}
           >
             <Trophy size={18} style={{ marginRight: '0.4rem' }} />
-            <span>Athletic Recruiting & NCAA Guide</span>
+            <span>{t('athleticRecruiting')}</span>
           </button>
         </div>
       </div>
@@ -68,10 +70,10 @@ export default function SpecializedGuides() {
           {/* Aid Types Overview */}
           <div style={{ background: '#ffffff', borderRadius: '16px', border: '1px solid #e2e8f0', padding: '1.75rem' }}>
             <h3 style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              <GraduationCap color="#4f46e5" size={24} /> 4 Types of US College Financial Assistance
+              <GraduationCap color="#4f46e5" size={24} /> {t('financialAidTypes')}
             </h3>
             <p style={{ color: '#64748b', fontSize: '0.9rem', marginBottom: '1.25rem' }}>
-              How US families fund college education: Need-based financial aid vs Merit awards.
+              {t('financialAidDesc')}
             </p>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(380px, 1fr))', gap: '1rem' }}>
@@ -88,7 +90,7 @@ export default function SpecializedGuides() {
                   
                   {aid.url && (
                     <a href={aid.url} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', fontSize: '0.8rem', fontWeight: 700, color: '#4f46e5', textDecoration: 'none' }}>
-                      <span>Open Official Portal</span>
+                      <span>{t('openOfficialPortal')}</span>
                       <ExternalLink size={14} />
                     </a>
                   )}
@@ -102,7 +104,7 @@ export default function SpecializedGuides() {
             {/* Deadlines */}
             <div style={{ background: '#f0fdf4', border: '1px solid #bbf7d0', padding: '1.5rem', borderRadius: '16px' }}>
               <h4 style={{ fontSize: '1.1rem', fontWeight: 800, color: '#166534', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
-                <CheckCircle size={20} /> Essential Financial Aid Deadlines
+                <CheckCircle size={20} /> {t('aidDeadlines')}
               </h4>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                 {SCHOLARSHIP_GUIDE.keyDeadlines.map((dl, i) => (
@@ -124,7 +126,7 @@ export default function SpecializedGuides() {
             {/* Free Scholarship Search Engines */}
             <div style={{ background: '#ffffff', border: '1px solid #e2e8f0', padding: '1.5rem', borderRadius: '16px' }}>
               <h4 style={{ fontSize: '1.1rem', fontWeight: 800, color: '#0f172a', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
-                <Award color="#f59e0b" size={20} /> Trusted Free Scholarship Search Engines
+                <Award color="#f59e0b" size={20} /> {t('scholarshipSearch')}
               </h4>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                 {SCHOLARSHIP_GUIDE.scholarshipPlatforms.map((p, i) => (
@@ -152,10 +154,10 @@ export default function SpecializedGuides() {
           {/* Division Comparison */}
           <div style={{ background: '#ffffff', borderRadius: '16px', border: '1px solid #e2e8f0', padding: '1.75rem' }}>
             <h3 style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              <Trophy color="#f59e0b" size={24} /> NCAA Divisions Comparison (D1 vs D2 vs D3)
+              <Trophy color="#f59e0b" size={24} /> {t('ncaaDivisions')}
             </h3>
             <p style={{ color: '#64748b', fontSize: '0.9rem', marginBottom: '1.25rem' }}>
-              Understanding scholarship availability and athletic intensity across college divisions.
+              {t('ncaaDivisionsDesc')}
             </p>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem' }}>
@@ -175,7 +177,7 @@ export default function SpecializedGuides() {
           {/* 6 Step Recruiting Roadmap */}
           <div style={{ background: '#ffffff', borderRadius: '16px', border: '1px solid #e2e8f0', padding: '1.75rem' }}>
             <h3 style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '1.25rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              <Send color="#4f46e5" size={22} /> Student-Athlete Recruiting Action Roadmap
+              <Send color="#4f46e5" size={22} /> {t('recruitingRoadmap')}
             </h3>
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
@@ -192,7 +194,7 @@ export default function SpecializedGuides() {
                   </div>
                   {step.url && (
                     <a href={step.url} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', fontSize: '0.8rem', fontWeight: 700, color: '#4f46e5', background: '#e0e7ff', padding: '0.4rem 0.75rem', borderRadius: '6px', textDecoration: 'none', flexShrink: 0 }}>
-                      <span>Official Link</span>
+                      <span>{t('officialLink')}</span>
                       <ExternalLink size={14} />
                     </a>
                   )}

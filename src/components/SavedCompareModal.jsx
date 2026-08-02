@@ -1,9 +1,11 @@
 import React from 'react';
 import { X, Printer, Heart, MapPin, DollarSign, Award, Trash2 } from 'lucide-react';
 import { COLLEGES } from '../data/colleges';
+import { getTranslation } from '../utils/i18n';
 
-export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave }) {
+export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang }) {
   if (!isOpen) return null;
+  const t = (k) => getTranslation(lang, k);
 
   const savedColleges = COLLEGES.filter(c => savedIds.includes(c.id));
 
@@ -21,9 +23,9 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', paddingRight: '2rem' }}>
             <div>
               <div style={{ color: '#b45309', fontWeight: 800, fontSize: '0.825rem', textTransform: 'uppercase', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                <Heart size={15} fill="#b45309" /> Saved List ({savedColleges.length})
+                <Heart size={15} fill="#b45309" /> {t('savedList')} ({savedColleges.length})
               </div>
-              <h2 style={{ fontSize: '1.5rem', fontWeight: 800 }}>College Comparison Matrix</h2>
+              <h2 style={{ fontSize: '1.5rem', fontWeight: 800 }}>{t('compareMatrix')}</h2>
             </div>
 
             {savedColleges.length > 0 && (
@@ -33,7 +35,7 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
                 style={{ background: '#0f172a', color: '#ffffff', padding: '0.5rem 1rem' }}
               >
                 <Printer size={16} />
-                <span>Print / Save as PDF</span>
+                <span>{t('printPdf')}</span>
               </button>
             )}
           </div>
@@ -43,20 +45,20 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
           {savedColleges.length === 0 ? (
             <div style={{ textAlign: 'center', padding: '3rem 1rem' }}>
               <Heart size={40} color="#cbd5e1" style={{ marginBottom: '1rem' }} />
-              <h3 style={{ fontSize: '1.2rem', color: '#64748b' }}>Your saved list is empty</h3>
-              <p style={{ fontSize: '0.9rem', color: '#94a3b8', marginTop: '0.35rem' }}>Click the heart icon on any college card to bookmark it here for side-by-side comparison.</p>
+              <h3 style={{ fontSize: '1.2rem', color: '#64748b' }}>{t('savedEmpty')}</h3>
+              <p style={{ fontSize: '0.9rem', color: '#94a3b8', marginTop: '0.35rem' }}>{t('savedEmptyHint')}</p>
             </div>
           ) : (
             <div style={{ overflowX: 'auto' }}>
               <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '0.875rem' }}>
                 <thead>
                   <tr style={{ borderBottom: '2px solid #cbd5e1', background: '#f8fafc' }}>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>College</th>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>Location & Setting</th>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>Acceptance</th>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>Ranking</th>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>Tuition (Out-of-State)</th>
-                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>Action</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colCollege')}</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colLocation')}</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colAcceptance')}</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colRanking')}</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colTuition')}</th>
+                    <th style={{ padding: '0.75rem', fontWeight: 800, color: '#475569' }}>{t('colAction')}</th>
                   </tr>
                 </thead>
                 <tbody>
