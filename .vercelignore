@@ -1,0 +1,20 @@
+# 排除 Android 原生專案與打包產物 (不需要上傳到 Vercel)
+android/
+*.apk
+*.aab
+campuso-release-key.jks
+*.jks
+*.keystore
+
+# 排除本地工具與日誌
+fetch_scorecard.mjs
+dev.log
+*.log
+.playwright-mcp/
+.env
+.env.*
+!.env.example
+
+# 依賴與建置產物
+node_modules/
+.vite/
