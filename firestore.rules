@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 社群問題: 任何人可讀, 登入使用者可發佈
+    match /community_questions/{questionId} {
+      allow read: if true;
+      allow create: if request.auth != null;
+      allow update, delete: if request.auth != null && request.auth.uid == resource.data.uid;
+    }
+
+    // 社群回答: 任何人可讀, 登入使用者可回答
+    match /community_replies/{replyId} {
+      allow read: if true;
+      allow create: if request.auth != null;
+      allow update, delete: if request.auth != null && request.auth.uid == resource.data.uid;
+    }
+
+    // 預設: 拒絕其他所有存取
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

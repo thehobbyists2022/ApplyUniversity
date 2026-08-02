@@ -164,7 +164,23 @@ const en = {
   questionTitle: 'QUESTION TITLE',
   detailsContext: 'DETAILS / CONTEXT',
   cancel: 'Cancel',
-  postQuestion: 'Post Question'
+  postQuestion: 'Post Question',
+  postQuestionHint: 'e.g. Is Bioengineering a good pre-med major?',
+  detailsHint: 'Provide any background context (e.g. GPA, interests, budget)...',
+  replies: 'Replies',
+  upvotes: 'Upvotes',
+  loading: 'Loading',
+  noQuestions: 'No questions yet. Be the first to ask!',
+  aiAnswered: 'AI Counselor',
+  viewAnswers: 'View Answers',
+  hideAnswers: 'Hide Answers',
+  yourReply: 'Your reply...',
+  postReply: 'Post Reply',
+  replyAs: 'Reply as',
+  newQuestion: 'New Question',
+  justNow: 'Just now',
+  askAI: 'Ask AI Counselor',
+  aiThinking: 'AI is thinking...'
 };
 
 // ===== 中文 (zh) =====
@@ -299,7 +315,23 @@ const zh = {
   questionTitle: '问题标题',
   detailsContext: '详情 / 背景',
   cancel: '取消',
-  postQuestion: '发布问题'
+  postQuestion: '发布问题',
+  postQuestionHint: '例如：生物工程适合作医学预科吗？',
+  detailsHint: '提供背景信息（如 GPA、兴趣、预算）...',
+  replies: '回答',
+  upvotes: '赞',
+  loading: '加载中',
+  noQuestions: '还没有问题。快来提出第一个吧！',
+  aiAnswered: 'AI 升学顾问',
+  viewAnswers: '查看回答',
+  hideAnswers: '隐藏回答',
+  yourReply: '你的回答...',
+  postReply: '发布回答',
+  replyAs: '以身份回答',
+  newQuestion: '新问题',
+  justNow: '刚刚',
+  askAI: '问问 AI 升学顾问',
+  aiThinking: 'AI 思考中...'
 };
 
 // ===== 其他 11 種語言: 先以英文為基底建立, 逐語翻譯 =====

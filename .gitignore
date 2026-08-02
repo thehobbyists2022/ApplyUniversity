@@ -20,6 +20,7 @@ campuso-release-key.jks
 dev.log
 *.log
 .playwright-mcp/
+test_community.cjs
 
 # 依賴與建置產物
 node_modules/
