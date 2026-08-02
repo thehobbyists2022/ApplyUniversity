@@ -1,59 +1,8 @@
-import React, { useState } from 'react';
-import { ThumbsUp, MessageSquare, Plus, Share2, X, Send } from 'lucide-react';
-import { COMMUNITY_TOPICS } from '../data/community';
+import React from 'react';
 import { getTranslation } from '../utils/i18n';
 
 export default function CommunityBoard({ lang }) {
   const t = (k) => getTranslation(lang, k);
-  const [topics, setTopics] = useState(COMMUNITY_TOPICS);
-  const [upvotedIds, setUpvotedIds] = useState({});
-  const [selectedCategory, setSelectedCategory] = useState("All");
-
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [newTitle, setNewTitle] = useState("");
-  const [newContent, setNewContent] = useState("");
-  const [newRole, setNewRole] = useState("High School Student");
-  const [newCategory, setNewCategory] = useState("Major Advice");
-
-  const categories = ["All", "Major Advice", "Essays & Admissions", "Parent Questions"];
-
-  const handleUpvote = (id) => {
-    const isUpvoted = !!upvotedIds[id];
-    setUpvotedIds(prev => ({ ...prev, [id]: !isUpvoted }));
-    setTopics(prev => prev.map(t => {
-      if (t.id === id) {
-        return { ...t, upvotes: isUpvoted ? t.upvotes - 1 : t.upvotes + 1 };
-      }
-      return t;
-    }));
-  };
-
-  const handleAddPost = (e) => {
-    e.preventDefault();
-    if (!newTitle.trim() || !newContent.trim()) return;
-
-    const newPost = {
-      id: `post-${Date.now()}`,
-      author: "You (User)",
-      role: newRole,
-      category: newCategory,
-      title: newTitle,
-      content: newContent,
-      upvotes: 1,
-      repliesCount: 0,
-      tags: [newCategory, "New Question"],
-      timeAgo: "Just now"
-    };
-
-    setTopics([newPost, ...topics]);
-    setNewTitle("");
-    setNewContent("");
-    setIsModalOpen(false);
-  };
-
-  const filteredTopics = selectedCategory === "All" 
-    ? topics 
-    : topics.filter(t => t.category === selectedCategory);
 
   return (
     <div className="community-grid">
@@ -74,148 +23,23 @@ export default function CommunityBoard({ lang }) {
           <h3 style={{ fontSize: '1.2rem', fontWeight: 800 }}>{t('communityTitle')}</h3>
           <p style={{ fontSize: '0.85rem', color: '#64748b' }}>{t('communitySubtitle')}</p>
         </div>
-
-        <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center', flexWrap: 'wrap' }}>
-          <button 
-            className="detail-btn"
-            style={{ background: '#4f46e5', color: '#ffffff', padding: '0.5rem 1rem' }}
-            onClick={() => setIsModalOpen(true)}
-          >
-            <Plus size={16} />
-            <span>{t('askQuestion')}</span>
-          </button>
-
-          <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap' }}>
-            {categories.map(cat => (
-              <button
-                key={cat}
-                className={`chip-btn ${selectedCategory === cat ? 'active' : ''}`}
-                onClick={() => setSelectedCategory(cat)}
-              >
-                {cat}
-              </button>
-            ))}
-          </div>
-        </div>
       </div>
 
-      {/* Posts */}
-      {filteredTopics.map((post) => {
-        const isUpvoted = !!upvotedIds[post.id];
-        return (
-          <div key={post.id} className="post-card">
-            <div className="post-meta">
-              <div>
-                <span style={{ fontWeight: 700, color: '#0f172a' }}>{post.author}</span>
-                <span className="author-badge">{post.role}</span>
-              </div>
-              <span>{post.timeAgo}</span>
-            </div>
-
-            <h3 className="post-title">{post.title}</h3>
-            <p className="post-content">{post.content}</p>
-
-            <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
-              {post.tags.map((tag, idx) => (
-                <span key={idx} style={{ fontSize: '0.75rem', background: '#f1f5f9', color: '#475569', padding: '0.2rem 0.5rem', borderRadius: '4px', fontWeight: 600 }}>
-                  #{tag}
-                </span>
-              ))}
-            </div>
-
-            <div className="post-footer">
-              <button 
-                className={`upvote-btn ${isUpvoted ? 'upvoted' : ''}`}
-                onClick={() => handleUpvote(post.id)}
-              >
-                <ThumbsUp size={16} />
-                <span>{post.upvotes} Upvotes</span>
-              </button>
-
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.85rem', color: '#64748b' }}>
-                <MessageSquare size={16} />
-                <span>{post.repliesCount} Replies</span>
-              </div>
-            </div>
-          </div>
-        );
-      })}
-
-      {/* Submit Question Modal */}
-      {isModalOpen && (
-        <div className="modal-overlay" onClick={() => setIsModalOpen(false)}>
-          <div className="modal-card" style={{ maxWidth: '540px' }} onClick={e => e.stopPropagation()}>
-            <div className="modal-header">
-              <button className="modal-close-btn" onClick={() => setIsModalOpen(false)}>
-                <X size={20} />
-              </button>
-              <h2 style={{ fontSize: '1.35rem', fontWeight: 800 }}>{t('askCommunityTitle')}</h2>
-              <p style={{ fontSize: '0.85rem', color: '#64748b', marginTop: '0.25rem' }}>{t('askCommunityDesc')}</p>
-            </div>
-
-            <form onSubmit={handleAddPost} className="modal-body">
-              <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('iAmA')}</label>
-                <select 
-                  value={newRole} 
-                  onChange={e => setNewRole(e.target.value)}
-                  style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem' }}
-                >
-                  <option value="High School Student">{t('highSchoolStudent')}</option>
-                  <option value="Parent of High Schooler">{t('parentOfHighSchooler')}</option>
-                  <option value="Current College Student">{t('currentCollegeStudent')}</option>
-                  <option value="High School Counselor">{t('highSchoolCounselor')}</option>
-                </select>
-              </div>
-
-              <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('category')}</label>
-                <select 
-                  value={newCategory} 
-                  onChange={e => setNewCategory(e.target.value)}
-                  style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem' }}
-                >
-                  <option value="Major Advice">{t('majorAdvice')}</option>
-                  <option value="Essays & Admissions">{t('essaysAdmissions')}</option>
-                  <option value="Parent Questions">{t('parentQuestions')}</option>
-                </select>
-              </div>
-
-              <div style={{ marginBottom: '1rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('questionTitle')}</label>
-                <input 
-                  type="text" 
-                  placeholder="e.g. Is Bioengineering a good pre-med major?" 
-                  value={newTitle}
-                  onChange={e => setNewTitle(e.target.value)}
-                  style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem' }}
-                  required
-                />
-              </div>
-
-              <div style={{ marginBottom: '1.5rem' }}>
-                <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 700, color: '#475569', marginBottom: '0.35rem' }}>{t('detailsContext')}</label>
-                <textarea 
-                  rows={4}
-                  placeholder="Provide any background context (e.g. GPA, interests, budget)..." 
-                  value={newContent}
-                  onChange={e => setNewContent(e.target.value)}
-                  style={{ width: '100%', padding: '0.6rem', borderRadius: '8px', border: '1px solid #cbd5e1', fontSize: '0.9rem', fontFamily: 'inherit' }}
-                  required
-                />
-              </div>
-
-              <div style={{ display: 'flex', gap: '0.75rem' }}>
-                <button type="button" className="chip-btn" onClick={() => setIsModalOpen(false)}>{t('cancel')}</button>
-                <button type="submit" className="detail-btn" style={{ flex: 1, justifyContent: 'center', background: '#4f46e5', color: '#ffffff' }}>
-                  <Send size={16} />
-                  <span>{t('postQuestion')}</span>
-                </button>
-              </div>
-            </form>
-          </div>
-        </div>
-      )}
+      {/* Community Coming Soon Banner */}
+      <div style={{
+        background: 'linear-gradient(135deg, #0f172a 0%, #1e293b 100%)',
+        color: '#ffffff',
+        padding: '2.5rem 1.5rem',
+        borderRadius: '16px',
+        textAlign: 'center',
+        boxShadow: '0 8px 20px rgba(15,23,42,0.15)'
+      }}>
+        <div style={{ fontSize: '3rem', marginBottom: '0.75rem' }}>💬</div>
+        <h3 style={{ fontSize: '1.4rem', fontWeight: 800, marginBottom: '0.5rem' }}>{t('communityComingSoon')}</h3>
+        <p style={{ fontSize: '0.925rem', color: '#94a3b8', maxWidth: '480px', margin: '0 auto' }}>
+          {t('communityComingSoonDesc')}
+        </p>
+      </div>
     </div>
   );
 }

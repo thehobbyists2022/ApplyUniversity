@@ -9,6 +9,17 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
   const t = (k) => getTranslation(lang, k);
   const officialUrl = normalizeUrl(college.officialUrl);
 
+  // 網頁環境: 用 <a target="_blank">; Capacitor App: 用 Browser.open() 開外部瀏覽器
+  const isCapacitor = typeof window !== 'undefined' && !!window.Capacitor;
+  const openOfficialUrl = (e) => {
+    if (isCapacitor) {
+      e.preventDefault();
+      import('@capacitor/browser').then(({ Browser }) => {
+        Browser.open({ url: officialUrl });
+      });
+    }
+  };
+
   return (
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal-card" onClick={(e) => e.stopPropagation()}>
@@ -26,6 +37,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
                 href={officialUrl} 
                 target="_blank" 
                 rel="noopener noreferrer" 
+                onClick={openOfficialUrl}
                 style={{
                   display: 'inline-flex',
                   alignItems: 'center',

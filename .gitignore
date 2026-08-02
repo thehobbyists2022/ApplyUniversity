@@ -8,6 +8,14 @@
 # 含 API key 的抓取腳本 (僅本地執行用, 不要進公開 repo)
 fetch_scorecard.mjs
 
+# Android 打包產物與簽署金鑰 (安全: keystore 絕不進 repo)
+*.apk
+*.aab
+android/
+campuso-release-key.jks
+*.jks
+*.keystore
+
 # 開發日誌與測試產物
 dev.log
 *.log

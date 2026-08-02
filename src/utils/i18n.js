@@ -146,6 +146,8 @@ const en = {
 
   // Community
   communityTitle: 'Student & Parent Advice Community',
+  communityComingSoon: 'Community Coming Soon',
+  communityComingSoonDesc: 'This is a preview. A real community board with shared questions and AI-powered answers is on the way.',
   communitySubtitle: 'Curated insights, questions, and honest experiences from students & parents',
   askQuestion: 'Ask a Question',
   askCommunityTitle: 'Ask the Campuso Community',
@@ -279,6 +281,8 @@ const zh = {
   exportPlan: '导出计划（PDF / 打印）',
 
   communityTitle: '学生与家长咨询社区',
+  communityComingSoon: '社区即将上线',
+  communityComingSoonDesc: '这是预览版。共享问题与 AI 回答的真实社区正在开发中。',
   communitySubtitle: '来自学生与家长的精编经验、问题与真实心得',
   askQuestion: '提问',
   askCommunityTitle: '向 Campuso 社区提问',
