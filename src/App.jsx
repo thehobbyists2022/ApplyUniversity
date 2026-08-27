@@ -106,6 +106,21 @@ export default function App() {
     return () => { active = false; };
   }, [authUser]);
 
+  // 監聽 Stripe 支付完成回跳 (例如 ?checkout=success 或 ?session=success) 自動啟動 Pro
+  useEffect(() => {
+    try {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('checkout') === 'success' || params.get('session') === 'success') {
+        setPremium(true);
+        setLocalPremium(true);
+        showToast(currentLang === 'zh' ? '🎉 欢迎加入 StepOne Pro！全部特权已自动解锁' : '🎉 Welcome to StepOne Pro! All premium features are unlocked.');
+        window.history.replaceState({}, document.title, window.location.pathname);
+      }
+    } catch {
+      /* ignore */
+    }
+  }, [currentLang]);
+
   const ensurePro = (fn) => {
     if (premium) { fn(); return; }
     if (!authUser) {
