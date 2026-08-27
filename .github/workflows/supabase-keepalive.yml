@@ -1,0 +1,17 @@
+name: Supabase Keep-Alive Ping
+
+on:
+  schedule:
+    - cron: '0 4 */3 * *'
+  workflow_dispatch:
+
+jobs: 
+  ping-supabase:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase Database
+        run: |
+          echo "Pinging Supabase REST API..."
+          curl -s -o /dev/null -w "%{http_code}\n" -X GET "https://whounbqjinqxkkxunfkx.supabase.co/rest/v1/profiles?select=id&limit=1" \
+            -H "apikey: sb_publishable_l1Y86_jMvQ578wgi1yh1TQ_dMLWWPLH" \
+            -H "Authorization: Bearer sb_publishable_l1Y86_jMvQ578wgi1yh1TQ_dMLWWPLH"
