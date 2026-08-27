@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader } from 'lucide-react';
+import React, { useState, useEffect, useRef } from 'react';
+import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText } from 'lucide-react';
 import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
@@ -15,6 +15,8 @@ import CommunityBoard from './components/CommunityBoard';
 import SpecializedGuides from './components/SpecializedGuides';
 import SmartMatchQuizModal from './components/SmartMatchQuizModal';
 import SavedCompareModal from './components/SavedCompareModal';
+import ActivityPolisherModal from './components/ActivityPolisherModal';
+import EssayRecycleModal from './components/EssayRecycleModal';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('colleges');
@@ -30,6 +32,17 @@ export default function App() {
   const [selectedSetting, setSelectedSetting] = useState('All');
   const [selectedMajorFilter, setSelectedMajorFilter] = useState('All');
   const [selectedMajorCategory, setSelectedMajorCategory] = useState('All');
+  const [selectedTrack, setSelectedTrack] = useState('All');
+
+  // 輕量 Toast 提示
+  const [toast, setToast] = useState(null);
+  const toastTimer = useRef(null);
+  const showToast = (message) => {
+    setToast(message);
+    if (toastTimer.current) clearTimeout(toastTimer.current);
+    toastTimer.current = setTimeout(() => setToast(null), 2600);
+  };
+  useEffect(() => () => clearTimeout(toastTimer.current), []);
 
   const t = (key, vars) => getTranslation(currentLang, key, vars);
 
@@ -42,6 +55,8 @@ export default function App() {
 
   const [isQuizOpen, setIsQuizOpen] = useState(false);
   const [isCompareOpen, setIsCompareOpen] = useState(false);
+  const [isPolisherOpen, setIsPolisherOpen] = useState(false);
+  const [isEssayOpen, setIsEssayOpen] = useState(false);
 
   useEffect(() => {
     localStorage.setItem('campuso_lang', currentLang);
@@ -94,6 +109,21 @@ export default function App() {
     }));
   };
 
+  // 相似學校一鍵加入對比列表 + Toast
+  const handleAddToCompare = (id) => {
+    if (savedCollegeIds.includes(id)) {
+      showToast(t('alreadyInCompare'));
+      return;
+    }
+    if (savedCollegeIds.length >= 4) {
+      showToast(t('compareLimitFull'));
+      return;
+    }
+    const next = [...savedCollegeIds, id];
+    setSavedCollegeIds(next);
+    showToast(t('addedToCompare', { count: next.length }));
+  };
+
   // Build colleges lookup map for Major modal (含舊 id 對映)
   const collegesMap = (COLLEGES || []).reduce((acc, c) => {
     if (c && c.id) acc[c.id] = c;
@@ -139,6 +169,16 @@ export default function App() {
   // Filter Majors safely
   const majorCategories = ['All', 'Healthcare & Life Sciences', 'STEM & Tech', 'Business & Management', 'Law, Policy & Social Sciences', 'Arts, Humanities & Design', 'Environment & Sustainability'];
 
+  // 6 大高薪 / 熱門賽道快捷導航
+  const MAJOR_TRACKS = [
+    { id: 'premed', label: '🧬 Pre-Med 医科预科 & 生物医药', keywords: ['medical', 'biomedical', 'medicine', 'nursing', 'pharmac', 'neuro', 'genetic', 'biochem', 'bio', 'clinical', 'epidemiolog', 'kinesiology'] },
+    { id: 'cs-ai', label: '💻 CS & AI 人工智能前沿', keywords: ['computer science', 'artificial intelligence', 'data science', 'machine learning', 'cybersecurity', 'software', 'computer engineering', 'information assurance', 'quantum'] },
+    { id: 'quant-finance', label: '📈 量化金融 & 华尔街投行', keywords: ['finance', 'investment', 'quantitative', 'economics', 'actuarial', 'business', 'supply chain', 'marketing', 'real estate'] },
+    { id: 'prelaw', label: '⚖️ Pre-Law 法学预科 & 公共政策', keywords: ['law', 'political science', 'government', 'policy', 'international relations', 'diplomacy'] },
+    { id: 'aerospace-hw', label: '🚀 航空航天 & 智能硬件工程', keywords: ['aerospace', 'astronautical', 'mechanical', 'electrical', 'hardware', 'physics', 'automotive', 'robotics'] },
+    { id: 'ux-hci', label: '🎨 UX/UI 设计 & 人机交互', keywords: ['ux', 'ui', 'design', 'interaction', 'human-computer', 'product', 'game', 'film', 'architecture'] }
+  ];
+
   const filteredMajors = (MAJORS || []).filter(major => {
     if (!major) return false;
     const matchesSearch = !searchQuery ||
@@ -147,7 +187,11 @@ export default function App() {
 
     const matchesCategory = selectedMajorCategory === 'All' || major.category === selectedMajorCategory;
 
-    return matchesSearch && matchesCategory;
+    const track = MAJOR_TRACKS.find(tr => tr.id === selectedTrack);
+    const matchesTrack = !track ||
+      (major.name && track.keywords.some(kw => major.name.toLowerCase().includes(kw)));
+
+    return matchesSearch && matchesCategory && matchesTrack;
   });
 
   const visibleMajors = filteredMajors.slice(0, majorLimit);
@@ -159,9 +203,33 @@ export default function App() {
     <div className="app-container">
       {/* Top Banner */}
       <header className="top-banner">
-        <div className="banner-badge">
-          <Sparkles size={14} />
-          <span>{t('bannerBadge')}</span>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '0.75rem', flexWrap: 'wrap', marginBottom: '0.75rem' }}>
+          <div className="banner-badge">
+            <Sparkles size={14} />
+            <span>{t('bannerBadge')}</span>
+          </div>
+          <a
+            href="https://steponecareer.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Switch to StepOne Career - AI Resume ATS & Job Search Companion"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.35rem',
+              padding: '0.25rem 0.75rem',
+              borderRadius: '99px',
+              background: 'rgba(79, 70, 229, 0.1)',
+              border: '1px solid rgba(79, 70, 229, 0.25)',
+              color: '#4f46e5',
+              fontSize: '0.78rem',
+              fontWeight: 700,
+              textDecoration: 'none',
+              transition: 'all 0.2s ease'
+            }}
+          >
+            💼 StepOne Career (Job Search & ATS) ↗
+          </a>
         </div>
         <h1 className="banner-title">{t('appName')}</h1>
         <p className="banner-subtitle">
@@ -186,6 +254,24 @@ export default function App() {
           >
             <Trophy size={16} color="#eab308" />
             {t('savedCompare')} ({savedCollegeIds.length})
+          </button>
+
+          <button 
+            className="chip-btn"
+            onClick={() => setIsPolisherOpen(true)}
+            style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
+          >
+            <Pencil size={16} color="#7c3aed" />
+            {t('activityPolisher')}
+          </button>
+
+          <button 
+            className="chip-btn"
+            onClick={() => setIsEssayOpen(true)}
+            style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
+          >
+            <FileText size={16} color="#0891b2" />
+            {t('essayRecycle')}
           </button>
 
           <LanguageSelector currentLang={currentLang} onLangChange={setCurrentLang} />
@@ -321,6 +407,7 @@ export default function App() {
                   isSaved={savedCollegeIds.includes(college.id)}
                   onToggleSave={toggleSaveCollege}
                   onViewDetails={handleViewDetails}
+                  onAddToCompare={handleAddToCompare}
                 />
               ))}
             </div>
@@ -387,6 +474,32 @@ export default function App() {
                     </button>
                   )}
                 </div>
+              </div>
+
+              {/* 6 大高薪 / 熱門賽道快捷導航 */}
+              <div className="track-pills-wrap">
+                <div className="track-pills-title">
+                  <Sparkles size={15} />
+                  <span>{t('majorsTracksTitle')}</span>
+                </div>
+                <div className="track-pills">
+                  <button
+                    className={`track-pill ${selectedTrack === 'All' ? 'active' : ''}`}
+                    onClick={() => setSelectedTrack('All')}
+                  >
+                    {t('allTracks')}
+                  </button>
+                  {MAJOR_TRACKS.map(track => (
+                    <button
+                      key={track.id}
+                      className={`track-pill ${selectedTrack === track.id ? 'active' : ''}`}
+                      onClick={() => setSelectedTrack(prev => (prev === track.id ? 'All' : track.id))}
+                    >
+                      {track.label}
+                    </button>
+                  ))}
+                </div>
+                <p className="track-pills-hint">{t('majorsTracksHint')}</p>
               </div>
 
               {/* Major Category Chips */}
@@ -459,6 +572,7 @@ export default function App() {
           isSaved={savedCollegeIds.includes(selectedCollege.id)}
           onToggleSave={toggleSaveCollege}
           onClose={() => setSelectedCollege(null)}
+          onAddToCompare={handleAddToCompare}
         />
       )}
 
@@ -493,6 +607,86 @@ export default function App() {
           onRemoveSave={toggleSaveCollege}
         />
       )}
+
+      {isPolisherOpen && (
+        <ActivityPolisherModal
+          isOpen={isPolisherOpen}
+          lang={currentLang}
+          onClose={() => setIsPolisherOpen(false)}
+        />
+      )}
+
+      {isEssayOpen && (
+        <EssayRecycleModal
+          isOpen={isEssayOpen}
+          lang={currentLang}
+          onClose={() => setIsEssayOpen(false)}
+          savedIds={savedCollegeIds}
+        />
+      )}
+
+      {/* 輕量 Toast */}
+      {toast && (
+        <div className="toast" role="status" aria-live="polite">
+          <CheckCircle2 size={18} />
+          <span>{toast}</span>
+        </div>
+      )}
+
+      {/* StepOne Education Suite Footer */}
+      <footer style={{
+        marginTop: '4rem',
+        padding: '2.5rem 1.5rem',
+        borderTop: '1px solid #e2e8f0',
+        textAlign: 'center',
+        background: '#ffffff',
+        color: '#64748b',
+        fontSize: '0.85rem'
+      }}>
+        <div style={{
+          display: 'inline-flex',
+          alignItems: 'center',
+          gap: '1rem',
+          padding: '0.5rem 1.25rem',
+          borderRadius: '99px',
+          background: '#f8fafc',
+          border: '1px solid #e2e8f0',
+          marginBottom: '1rem',
+          flexWrap: 'wrap',
+          justifyContent: 'center'
+        }}>
+          <span style={{ fontWeight: 800, color: '#4f46e5', fontSize: '0.76rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+            StepOne Education Suite:
+          </span>
+          <span style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', fontWeight: 700, color: '#0f172a' }}>
+            🎓 StepOne College <span style={{ fontSize: '0.7rem', color: '#10b981', fontWeight: 600 }}>(US University Search)</span>
+          </span>
+          <span style={{ color: '#cbd5e1' }}>•</span>
+          <a
+            href="https://steponecareer.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Explore StepOne Career - AI Resume ATS & Job Search Companion"
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.35rem',
+              fontWeight: 700,
+              color: '#4f46e5',
+              textDecoration: 'none'
+            }}
+          >
+            💼 StepOne Career <span style={{ fontSize: '0.7rem', color: '#64748b', fontWeight: 500 }}>(Job Search & ATS)</span> ↗
+          </a>
+        </div>
+
+        <p style={{ fontWeight: 600, color: '#0f172a', marginBottom: '0.25rem' }}>
+          StepOne College © 2026 · Operated by Clarity Clinical Solutions LLC
+        </p>
+        <p style={{ fontSize: '0.75rem', color: '#94a3b8' }}>
+          Smart US College, Academic Majors & Career Navigator for Students and Parents
+        </p>
+      </footer>
     </div>
   );
 }

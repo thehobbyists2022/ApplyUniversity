@@ -1,4 +1,4 @@
-// Campuso i18n - 13 種語言 UI 翻譯字典
+// StepOne College i18n - 13 種語言 UI 翻譯字典
 // 範圍: UI 介面文案 (學校/科系等資料內容保留英文)
 // 用法: import { getTranslation, LANGUAGES } from '../utils/i18n'
 
@@ -22,7 +22,7 @@ export const LANGUAGES = [
 const en = {
   // Header / Banner
   bannerBadge: 'US Edition • High School & Parent Guide',
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerSubtitle: 'Discover top 4-year degree-granting US universities, explore specialized CIP majors, track application milestones, and plan your career path.',
   smartMatchQuiz: 'Smart Match Quiz',
   savedCompare: 'Saved & Compare',
@@ -56,6 +56,9 @@ const en = {
   resetFilters: 'Reset Filters',
   majorsSubtitle: 'Explore starting salaries, core coursework, and top US colleges for broad and specialized majors.',
   majorsTitle: 'Academic Majors & Career Pathways',
+  majorsTracksTitle: '6 Hot / High-Paying Career Tracks',
+  majorsTracksHint: 'Jump straight to the track you care about among 1,000+ sub-majors.',
+  allTracks: 'All Tracks',
 
   // College Card
   outOfStatePrivate: 'Out-of-State / Private',
@@ -74,6 +77,28 @@ const en = {
   studentPros: 'Student Pros & Highlights',
   pointsToConsider: 'Points to Consider / Cons',
   similarPeers: 'SIMILAR / PEER COLLEGES',
+
+  // Net Price & Aid Estimator
+  netPriceTitle: 'Net Price & Aid Estimator',
+  netPriceSubtitle: 'Estimate your real out-of-pocket cost based on family income, residency & college type.',
+  familyIncome: 'Family Annual Income',
+  residency: 'Residency',
+  inStateResident: 'In-State',
+  outStateResident: 'Out-of-State',
+  estimatedNetPrice: 'Estimated Net Price',
+  netPricePerYear: 'per year • tuition + room & board',
+  grantAidEst: 'Est. Grant / Scholarship Aid',
+  roomBoard: 'Room & Board (est.)',
+  stickerTuition: 'Sticker Tuition',
+  netPriceDisclaimer: 'Estimates are indicative only. Real awards depend on FAFSA, CSS Profile & institutional policy.',
+
+  // ROI Card
+  roiGrade: 'ROI Grade',
+  medianStartingSalary: 'Median Starting Salary',
+
+  // Peer compare
+  compareBtn: '+ Compare',
+  addToCompareHint: 'Add to compare list',
 
   // Major Card
   estStartingSalary: 'EST. STARTING SALARY',
@@ -122,6 +147,63 @@ const en = {
   colRanking: 'Ranking',
   colTuition: 'Tuition (Out-of-State)',
   colAction: 'Action',
+  addedToCompare: 'Added to compare list ({count}/4)',
+  alreadyInCompare: 'Already in your compare list',
+  compareLimitFull: 'Compare list full (4/4) — remove some to add more',
+
+  // Activity Polisher (Phase 2)
+  activityPolisher: 'Activity Polisher',
+  polisherTitle: 'Common App Activity Polisher',
+  polisherSubtitle: 'Turn your draft into a powerful, professional activity description within the 150-character Common App limit.',
+  activityType: 'Activity Type',
+  yourRole: 'Your Position / Role',
+  rolePlaceholder: 'e.g. President, Lead Researcher, Team Captain',
+  draftLabel: 'Activity Description Draft',
+  draftPlaceholder: 'Describe what you did, who you worked with, and the impact you made...',
+  toneStyle: 'Tone Style',
+  toneImpact: '🎯 Impact-Driven',
+  toneAcademic: '📚 Academic',
+  toneLeadership: '🌟 Leadership',
+  optimizeGoals: 'Optimization Goals',
+  optQuantify: 'Quantify outcomes (add numbers / %)',
+  optVerbs: 'Strong verbs (replace "helped" with "led" / "built" / "drove")',
+  optLeadership: 'Highlight leadership',
+  optTrim: 'Trim to within 150 characters',
+  polishBtn: '✨ Polish My Activity',
+  polishedResult: 'Polished Result',
+  copyBtn: 'Copy',
+  copied: 'Copied!',
+  rePolish: 'Re-Polish',
+  polisherEmpty: 'Write a short draft above to get started.',
+
+  // Essay Recycle Matrix (Phase 3)
+  essayRecycle: 'Essay Recycle',
+  essayKicker: 'COMMON APP • SUPPLEMENTS',
+  essayTitle: 'Supplemental Essay Recycle Matrix',
+  essaySubtitle: 'Find which supplemental prompts you can write once and reuse across schools — stop rewriting from scratch.',
+  essaySelectSchools: 'Select Schools',
+  essaySelectSchoolsHint: 'Pick the colleges to compare. Tip: 2–4 schools maximizes reuse.',
+  essaySelectedCount: '{count} school(s) selected',
+  essayWrittenDrafts: 'Mark Drafts You Already Wrote',
+  essayWrittenDraftsHint: 'Check the prompt types you already drafted — they become instant reuse wins.',
+  essayWrittenCount: '{count} essay type(s) marked',
+  essayMatrix: 'Recycle Matrix',
+  essayMatrixHint: 'Score = how likely each school asks that prompt. Rows with 2+ schools = write once, reuse across all.',
+  colTopic: 'Prompt Type',
+  colHaveDraft: 'Draft',
+  colReuse: 'Reuse',
+  cellHasDraft: 'Have',
+  cellNeedDraft: 'Write',
+  topPick: 'Top recycle pick',
+  writeOneReuse: 'Write ONE "{topic}" essay to cover {count} schools',
+  essayStatDraftCover: 'essay draft(s) ready to submit directly',
+  essayStatReuseSave: 'extra submissions saved by recycling',
+  noSavedColleges: 'Your compare list is empty',
+  noSavedCollegesHint: 'Save 2–4 colleges from the Explore page first to unlock the recycle matrix.',
+  backToExplore: 'Back to Explore',
+  reRun: 'Re-run',
+  next: 'Next',
+  done: 'Done',
 
   // Guides
   essentialGuides: 'ESSENTIAL GUIDES',
@@ -150,7 +232,7 @@ const en = {
   communityComingSoonDesc: 'This is a preview. A real community board with shared questions and AI-powered answers is on the way.',
   communitySubtitle: 'Curated insights, questions, and honest experiences from students & parents',
   askQuestion: 'Ask a Question',
-  askCommunityTitle: 'Ask the Campuso Community',
+  askCommunityTitle: 'Ask the StepOne College Community',
   askCommunityDesc: 'Post your college or major question for peer and parent advice.',
   iAmA: 'I AM A...',
   highSchoolStudent: 'High School Student',
@@ -186,7 +268,7 @@ const en = {
 // ===== 中文 (zh) =====
 const zh = {
   bannerBadge: '美国版 • 高中生与家长指南',
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerSubtitle: '探索全美 4 年制大学、专业与职业路径，追踪申请里程碑，规划你的升学之路。',
   smartMatchQuiz: '智能匹配测验',
   savedCompare: '收藏与比较',
@@ -217,6 +299,9 @@ const zh = {
   resetFilters: '重置筛选',
   majorsSubtitle: '探索各专业入门薪资、核心课程与全美知名大学。',
   majorsTitle: '学科专业与职业路径',
+  majorsTracksTitle: '6 大高薪 / 热门赛道快捷导航',
+  majorsTracksHint: '在 1,000+ 门细分专业中，直接跳到你在意的赛道。',
+  allTracks: '全部赛道',
 
   outOfStatePrivate: '州外 / 私立',
   viewDetails: '查看详情',
@@ -233,6 +318,25 @@ const zh = {
   studentPros: '学生优点与亮点',
   pointsToConsider: '需考虑事项 / 缺点',
   similarPeers: '相似 / 同类大学',
+
+  netPriceTitle: 'Net Price 真实家庭自付估算器',
+  netPriceSubtitle: '根据家庭收入、本州/外州身份与大学类型，估算真实自付成本。',
+  familyIncome: '家庭年收入',
+  residency: '居住身份',
+  inStateResident: '本州居民',
+  outStateResident: '外州居民',
+  estimatedNetPrice: '预计自付成本 (Net Price)',
+  netPricePerYear: '每年 • 学费 + 食宿',
+  grantAidEst: '预计助学金 / 奖学金',
+  roomBoard: '食宿费用（估算）',
+  stickerTuition: '标价学费',
+  netPriceDisclaimer: '本估算仅供参考。实际奖助学金以 FAFSA、CSS Profile 与学校政策为准。',
+
+  roiGrade: 'ROI 性价比等级',
+  medianStartingSalary: '毕业中位起薪',
+
+  compareBtn: '+ 对比',
+  addToCompareHint: '加入对比列表',
 
   estStartingSalary: '预计入门薪资',
   typicalCareers: '典型职业',
@@ -276,6 +380,61 @@ const zh = {
   colRanking: '排名',
   colTuition: '学费（州外）',
   colAction: '操作',
+  addedToCompare: '已加入对比列表（{count}/4）',
+  alreadyInCompare: '该学校已在对比列表中',
+  compareLimitFull: '对比列表已满（4/4），请先移除部分学校',
+
+  activityPolisher: '活动润色工具',
+  polisherTitle: 'Common App 活动润色工具',
+  polisherSubtitle: '将草稿润色为专业有力的活动描述，并控制在 Common App 150 字符上限内。',
+  activityType: '活动类型',
+  yourRole: '你的职位 / 角色',
+  rolePlaceholder: '例如：社长、首席研究员、队长',
+  draftLabel: '活动描述草稿',
+  draftPlaceholder: '描述你做了什么、和谁一起、产生了什么影响……',
+  toneStyle: '语气风格',
+  toneImpact: '🎯 成果导向',
+  toneAcademic: '📚 学术风格',
+  toneLeadership: '🌟 领导力',
+  optimizeGoals: '优化目标',
+  optQuantify: '量化成果（加数字 / 百分比）',
+  optVerbs: '动词有力（把 "helped" 换成 "led" / "built" / "drove"）',
+  optLeadership: '突出领导力',
+  optTrim: '精简到 150 字以内',
+  polishBtn: '✨ 润色我的活动',
+  polishedResult: '润色结果',
+  copyBtn: '复制',
+  copied: '已复制！',
+  rePolish: '重新润色',
+  polisherEmpty: '请先在上方输入一段活动草稿。',
+
+  essayKicker: 'COMMON APP • 补充文书',
+  essayRecycle: '补充文书回收',
+  essayTitle: 'Supplemental Essay 回收矩阵',
+  essaySubtitle: '找出哪些补充文书题型可以写一次、多校复用，告别重复写作。',
+  essaySelectSchools: '选择学校',
+  essaySelectSchoolsHint: '选择要比较的学校。提示：2–4 所学校复用价值最高。',
+  essaySelectedCount: '已选择 {count} 所学校',
+  essayWrittenDrafts: '勾选你已写过的文书',
+  essayWrittenDraftsHint: '勾选你已完成草稿的题型——它们将直接成为「立即复用」的机会。',
+  essayWrittenCount: '已标记 {count} 个题型',
+  essayMatrix: '回收矩阵',
+  essayMatrixHint: '分数 = 该学校出此题型的可能性。2 所以上同题的横排 = 写一篇、全校复用。',
+  colTopic: '题型',
+  colHaveDraft: '草稿',
+  colReuse: '回收',
+  cellHasDraft: '已有',
+  cellNeedDraft: '待写',
+  topPick: '最佳回收推荐',
+  writeOneReuse: '写 1 篇「{topic}」即可覆盖 {count} 所学校',
+  essayStatDraftCover: '篇已有草稿可直接投递',
+  essayStatReuseSave: '个投稿次数因复用而省下',
+  noSavedColleges: '你的对比列表是空的',
+  noSavedCollegesHint: '请先在「探索大学」页收藏 2–4 所学校，才能使用回收矩阵。',
+  backToExplore: '返回探索大学',
+  reRun: '重新计算',
+  next: '下一步',
+  done: '完成',
 
   essentialGuides: '必备指南',
   guidesTitle: '体育招募与奖学金中心',
@@ -301,7 +460,7 @@ const zh = {
   communityComingSoonDesc: '这是预览版。共享问题与 AI 回答的真实社区正在开发中。',
   communitySubtitle: '来自学生与家长的精编经验、问题与真实心得',
   askQuestion: '提问',
-  askCommunityTitle: '向 Campuso 社区提问',
+  askCommunityTitle: '向 StepOne College 社区提问',
   askCommunityDesc: '发布你的大学或专业问题，获得同伴与家长的建议。',
   iAmA: '我是...',
   highSchoolStudent: '高中生',
@@ -338,7 +497,7 @@ const zh = {
 const buildDict = (overrides) => ({ ...en, ...overrides });
 
 const hi = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'अमेरिकी संस्करण • हाई स्कूल और अभिभावक मार्गदर्शिका',
   bannerSubtitle: 'अमेरिका के 4-वर्षीय विश्वविद्यालय खोजें, विशेष विषयों का अन्वेषण करें और करियर की योजना बनाएं।',
   smartMatchQuiz: 'स्मार्ट मैच क्विज़',
@@ -387,7 +546,7 @@ const hi = buildDict({
 });
 
 const es = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Edición EE. UU. • Guía para estudiantes y padres',
   bannerSubtitle: 'Descubre universidades estadounidenses de 4 años, explora carreras y planifica tu futuro académico.',
   smartMatchQuiz: 'Cuestionario Inteligente',
@@ -436,7 +595,7 @@ const es = buildDict({
 });
 
 const de = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'US-Ausgabe • Leitfaden für Schüler & Eltern',
   bannerSubtitle: 'Entdecken Sie US-Universitäten, Studienfächer und Karrierewege und planen Sie Ihre Zukunft.',
   smartMatchQuiz: 'Smart-Match-Quiz',
@@ -485,7 +644,7 @@ const de = buildDict({
 });
 
 const it = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Edizione USA • Guida per studenti e genitori',
   bannerSubtitle: 'Scopri università americane, corsi di laurea e percorsi di carriera.',
   smartMatchQuiz: 'Quiz di Abbinamento',
@@ -534,7 +693,7 @@ const it = buildDict({
 });
 
 const pt = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Edição EUA • Guia para estudantes e pais',
   bannerSubtitle: 'Descubra universidades americanas, carreiras e planeje seu futuro acadêmico.',
   smartMatchQuiz: 'Quiz Inteligente',
@@ -583,7 +742,7 @@ const pt = buildDict({
 });
 
 const fr = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Édition US • Guide pour lycéens et parents',
   bannerSubtitle: 'Découvrez les universités américaines, explorez les filières et planifiez votre avenir.',
   smartMatchQuiz: 'Quiz de Correspondance',
@@ -632,7 +791,7 @@ const fr = buildDict({
 });
 
 const ja = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: '米国版 • 高校生と保護者のためのガイド',
   bannerSubtitle: '全米の4年制大学・専攻・キャリアパスを探索し、進学の計画を立てましょう。',
   smartMatchQuiz: 'スマートマッチ診断',
@@ -681,7 +840,7 @@ const ja = buildDict({
 });
 
 const ko = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: '미국 버전 • 고등학생·학부모 가이드',
   bannerSubtitle: '미국 4년제 대학, 전공, 진로를 탐색하고 입시 계획을 세우세요.',
   smartMatchQuiz: '스마트 매치 퀴즈',
@@ -730,7 +889,7 @@ const ko = buildDict({
 });
 
 const vi = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Phiên bản Mỹ • Hướng dẫn cho học sinh và phụ huynh',
   bannerSubtitle: 'Khám phá các trường đại học Mỹ, ngành học và lộ trình nghề nghiệp.',
   smartMatchQuiz: 'Bài kiểm tra thông minh',
@@ -779,7 +938,7 @@ const vi = buildDict({
 });
 
 const ms = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'Edisi AS • Panduan pelajar & ibu bapa',
   bannerSubtitle: 'Terokai universiti AS, jurusan dan laluan kerjaya untuk merancang masa depan anda.',
   smartMatchQuiz: 'Kuiz Padanan Pintar',
@@ -828,7 +987,7 @@ const ms = buildDict({
 });
 
 const ar = buildDict({
-  appName: 'Campuso',
+  appName: 'StepOne College',
   bannerBadge: 'النسخة الأمريكية • دليل طلاب المدارس وأولياء الأمور',
   bannerSubtitle: 'اكتشف الجامعات الأمريكية، التخصصات، ومسارات العمل للتخطيط لمستقبلك.',
   smartMatchQuiz: 'اختبار المطابقة الذكي',

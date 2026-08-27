@@ -1,9 +1,15 @@
-import React from 'react';
-import { MapPin, Heart, ArrowRight, Users } from 'lucide-react';
+import React, { useMemo } from 'react';
+import { MapPin, Heart, ArrowRight, Users, PlusCircle } from 'lucide-react';
 import { getTranslation } from '../utils/i18n';
+import { computeRoiGrade, estimateSalaryRange, formatSalaryRange, findPeerColleges } from '../utils/collegeFinance';
 
-export default function CollegeCard({ college, isSaved, onToggleSave, onViewDetails, lang }) {
+export default function CollegeCard({ college, isSaved, onToggleSave, onViewDetails, lang, onAddToCompare }) {
   const t = (k) => getTranslation(lang, k);
+
+  const roiGrade = useMemo(() => computeRoiGrade(college), [college]);
+  const salaryRange = useMemo(() => formatSalaryRange(estimateSalaryRange(college)), [college]);
+  const peers = useMemo(() => findPeerColleges(college, 3), [college]);
+
   return (
     <div className="college-card">
       <div className="card-header">
@@ -31,6 +37,16 @@ export default function CollegeCard({ college, isSaved, onToggleSave, onViewDeta
         )}
       </div>
 
+      {/* ROI 性價比與起薪指標 */}
+      <div className="badge-row roi-row">
+        <span className={`badge roi-badge roi-grade roi-grade-${roiGrade.toLowerCase().replace('+', 'plus')}`}>
+          🎓 {t('roiGrade')}: {roiGrade}
+        </span>
+        <span className="badge roi-badge roi-salary">
+          💼 {t('medianStartingSalary')}: {salaryRange}
+        </span>
+      </div>
+
       <div className="badge-row">
         <span className="badge" style={{ background: '#e0f2fe', color: '#0369a1' }}>
           <Users size={12} style={{ verticalAlign: '-1px', marginRight: '3px' }} />{college.undergradsCount} {t('undergrads')}
@@ -39,6 +55,24 @@ export default function CollegeCard({ college, isSaved, onToggleSave, onViewDeta
           {t('inState')} {college.tuitionInState}
         </span>
       </div>
+
+      {/* 相似學校 — 一鍵加入對比 */}
+      {peers.length > 0 && (
+        <div className="card-peers">
+          <span className="card-peer-label">{t('similarPeers')}:</span>
+          {peers.map(peer => (
+            <button
+              key={peer.id}
+              className="peer-chip"
+              onClick={() => onAddToCompare && onAddToCompare(peer.id)}
+              title={t('addToCompareHint')}
+            >
+              <PlusCircle size={12} />
+              {peer.shortName || peer.name}
+            </button>
+          ))}
+        </div>
+      )}
 
       <div className="card-footer">
         <div className="tuition-info">

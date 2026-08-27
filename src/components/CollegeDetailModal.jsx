@@ -1,13 +1,32 @@
-import React from 'react';
-import { X, MapPin, CheckCircle, AlertTriangle, Users, DollarSign, Award, BookOpen, ExternalLink } from 'lucide-react';
+import React, { useState, useMemo } from 'react';
+import { X, MapPin, CheckCircle, AlertTriangle, Calculator, ChevronDown, PlusCircle, ExternalLink } from 'lucide-react';
 import { normalizeUrl } from '../utils/url';
 import { getTranslation } from '../utils/i18n';
+import { COLLEGES } from '../data/colleges';
+import { INCOME_BANDS, estimateNetPrice, getFinancialRisk, findPeerColleges } from '../utils/collegeFinance';
 
-export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved, lang }) {
-  if (!college) return null;
+export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved, lang, onAddToCompare }) {
+  const [estimatorOpen, setEstimatorOpen] = useState(true);
+  const [incomeBandId, setIncomeBandId] = useState('40-80');
+  const [residency, setResidency] = useState(
+    college && college.type && college.type.toLowerCase().includes('public') ? 'inState' : 'outState'
+  );
 
-  const t = (k) => getTranslation(lang, k);
-  const officialUrl = normalizeUrl(college.officialUrl);
+  const t = (k, vars) => getTranslation(lang, k, vars);
+  const officialUrl = normalizeUrl(college && college.officialUrl);
+
+  // 相似學校 (Peer): 資料有 peerSchools 時優先, 否則由演算法從全美資料庫推導
+  const derivedPeers = useMemo(() => findPeerColleges(college, 4), [college]);
+  const peerList = useMemo(() => {
+    const raw = college && college.peerSchools && college.peerSchools.length ? college.peerSchools : [];
+    if (raw.length) {
+      const resolved = raw
+        .map(name => COLLEGES.find(c => c.name === name || c.shortName === name))
+        .filter(Boolean);
+      if (resolved.length) return resolved;
+    }
+    return derivedPeers;
+  }, [college, derivedPeers]);
 
   // 網頁環境: 用 <a target="_blank">; Capacitor App: 用 Browser.open() 開外部瀏覽器
   const isCapacitor = typeof window !== 'undefined' && !!window.Capacitor;
@@ -19,6 +38,13 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
       });
     }
   };
+
+  if (!college) return null;
+
+  // Net Price 估算
+  const band = INCOME_BANDS.find(b => b.id === incomeBandId) || INCOME_BANDS[1];
+  const netEst = estimateNetPrice(college, band, residency);
+  const risk = getFinancialRisk(netEst.net);
 
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -93,6 +119,75 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
             </div>
           </div>
 
+          {/* Net Price & Aid Estimator */}
+          <div className={`net-price-card ${estimatorOpen ? 'open' : ''}`}>
+            <div className="net-price-header" onClick={() => setEstimatorOpen(o => !o)} role="button" tabIndex={0} onKeyDown={(e) => e.key === 'Enter' && setEstimatorOpen(o => !o)}>
+              <div className="net-price-title">
+                <Calculator size={18} />
+                <span>{t('netPriceTitle')}</span>
+              </div>
+              <ChevronDown size={18} className={`net-price-chevron ${estimatorOpen ? 'open' : ''}`} />
+            </div>
+
+            {estimatorOpen && (
+              <div className="net-price-body">
+                <p className="net-price-subtitle">{t('netPriceSubtitle')}</p>
+
+                <div className="np-controls">
+                  <div className="np-control-group">
+                    <div className="np-label">{t('residency')}</div>
+                    <div className="segmented">
+                      <button
+                        className={`seg ${residency === 'inState' ? 'active' : ''}`}
+                        onClick={() => setResidency('inState')}
+                      >
+                        {t('inStateResident')}
+                      </button>
+                      <button
+                        className={`seg ${residency === 'outState' ? 'active' : ''}`}
+                        onClick={() => setResidency('outState')}
+                      >
+                        {t('outStateResident')}
+                      </button>
+                    </div>
+                  </div>
+
+                  <div className="np-control-group">
+                    <div className="np-label">{t('familyIncome')}</div>
+                    <div className="income-pills">
+                      {INCOME_BANDS.map(b => (
+                        <button
+                          key={b.id}
+                          className={`chip-btn ${b.id === incomeBandId ? 'active' : ''}`}
+                          onClick={() => setIncomeBandId(b.id)}
+                        >
+                          {b.label}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+
+                <div className="np-result">
+                  <div className="np-result-left">
+                    <div className="np-est-label">{t('estimatedNetPrice')}</div>
+                    <div className="np-est-value">${netEst.net.toLocaleString()}</div>
+                    <div className="np-per-year">{t('netPricePerYear')}</div>
+                  </div>
+                  <div className={`np-risk np-risk-${risk.level}`}>{risk.label}</div>
+                </div>
+
+                <div className="np-breakdown">
+                  <div><span>{t('stickerTuition')}</span><span>${netEst.tuition.toLocaleString()}</span></div>
+                  <div><span>{t('grantAidEst')}</span><span>−${netEst.aidOffered.toLocaleString()}</span></div>
+                  <div><span>{t('roomBoard')}</span><span>${netEst.roomBoard.toLocaleString()}</span></div>
+                </div>
+
+                <p className="np-disclaimer">{t('netPriceDisclaimer')}</p>
+              </div>
+            )}
+          </div>
+
           {/* Vibe Tags */}
           {(college.vibeTags || []).length > 0 && (
             <div style={{ marginBottom: '1.5rem' }}>
@@ -134,17 +229,25 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
             </div>
           )}
 
-          {/* Peer Colleges */}
-          {(college.peerSchools || []).length > 0 && (
+          {/* Peer Colleges — 一鍵直接對比 */}
+          {peerList.length > 0 && (
             <div style={{ borderTop: '1px solid #e2e8f0', paddingTop: '1rem' }}>
-              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.4rem' }}>{t('similarPeers')}</div>
-              <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
-                {college.peerSchools.map((peer, i) => (
-                  <span key={i} style={{ background: '#f1f5f9', border: '1px solid #cbd5e1', padding: '0.25rem 0.6rem', borderRadius: '6px', fontSize: '0.8rem', color: '#334155' }}>
-                    {peer}
-                  </span>
+              <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 700, marginBottom: '0.5rem' }}>{t('similarPeers')}</div>
+              <div className="peer-buttons">
+                {peerList.map(peer => (
+                  <button
+                    key={peer.id}
+                    className="peer-btn"
+                    onClick={() => onAddToCompare && onAddToCompare(peer.id)}
+                    title={t('addToCompareHint')}
+                  >
+                    <span className="peer-name">{peer.shortName || peer.name}</span>
+                    <PlusCircle size={14} className="peer-plus" />
+                    <span className="peer-add-label">{t('compareBtn')}</span>
+                  </button>
                 ))}
               </div>
+              <p className="peer-hint">{t('addToCompareHint')} → {t('savedCompare')}</p>
             </div>
           )}
         </div>
