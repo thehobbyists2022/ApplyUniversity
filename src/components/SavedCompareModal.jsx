@@ -4,13 +4,17 @@ import { X, Printer, Heart, MapPin, DollarSign, Award, Trash2 } from 'lucide-rea
 import { COLLEGES } from '../data/colleges';
 import { getTranslation } from '../utils/i18n';
 
-export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang }) {
+export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang, isPremium, onRequirePremium }) {
   if (!isOpen) return null;
   const t = (k, vars) => getTranslation(lang, k, vars);
 
   const savedColleges = COLLEGES.filter(c => savedIds.includes(c.id));
 
   const handlePrint = () => {
+    if (!isPremium) {
+      if (onRequirePremium) onRequirePremium();
+      return;
+    }
     window.print();
   };
 

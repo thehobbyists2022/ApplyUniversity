@@ -1,10 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink } from 'lucide-react';
+import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink, UserRound, LogOut, Crown, ShieldCheck, Scale } from 'lucide-react';
 import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
 import { LEGACY_COLLEGE_ID_MAP } from './data/legacyCollegeIdMap';
 import { getTranslation } from './utils/i18n';
+import { getSession, onAuthStateChange, signOutUser } from './lib/auth';
+import { getLocalPremium, setLocalPremium, fetchPremiumFromProfile } from './lib/subscription';
 import LanguageSelector from './components/LanguageSelector';
 import CollegeCard from './components/CollegeCard';
 import CollegeDetailModal from './components/CollegeDetailModal';
@@ -18,6 +20,9 @@ import SavedCompareModal from './components/SavedCompareModal';
 import ActivityPolisherModal from './components/ActivityPolisherModal';
 import EssayRecycleModal from './components/EssayRecycleModal';
 import ParentStudentAlignmentModal from './components/ParentStudentAlignmentModal';
+import AuthModal from './components/AuthModal';
+import PaywallModal from './components/PaywallModal';
+import LegalModal from './components/LegalModal';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('colleges');
@@ -59,6 +64,74 @@ export default function App() {
   const [isPolisherOpen, setIsPolisherOpen] = useState(false);
   const [isEssayOpen, setIsEssayOpen] = useState(false);
   const [isAlignmentOpen, setIsAlignmentOpen] = useState(false);
+
+  // Phase 7 — Supabase Auth + Premium + Legal
+  const [authUser, setAuthUser] = useState(null);
+  const [premium, setPremium] = useState(() => getLocalPremium());
+  const [isAuthOpen, setIsAuthOpen] = useState(false);
+  const [isPaywallOpen, setIsPaywallOpen] = useState(false);
+  const [isLegalOpen, setIsLegalOpen] = useState(false);
+  const [legalTab, setLegalTab] = useState('privacy');
+
+  // 還原 session + 訂閱 auth 狀態變更
+  useEffect(() => {
+    let mounted = true;
+    getSession().then(({ data }) => {
+      if (mounted && data && data.session) setAuthUser(data.session.user);
+    });
+    const unsubscribe = onAuthStateChange((session) => {
+      if (mounted) setAuthUser(session ? session.user : null);
+    });
+    return () => {
+      mounted = false;
+      unsubscribe();
+    };
+  }, []);
+
+  // 登入時嘗試從 Supabase profiles 讀取訂閱狀態, 失敗則回退 localStorage
+  useEffect(() => {
+    let active = true;
+    if (!authUser) {
+      setPremium(getLocalPremium());
+      return;
+    }
+    fetchPremiumFromProfile(authUser.id).then(fromDb => {
+      if (!active) return;
+      if (fromDb === null) setPremium(getLocalPremium());
+      else {
+        setPremium(fromDb);
+        setLocalPremium(fromDb);
+      }
+    });
+    return () => { active = false; };
+  }, [authUser]);
+
+  const ensurePro = (fn) => {
+    if (premium) { fn(); return; }
+    if (!authUser) {
+      setIsAuthOpen(true);
+      showToast(t('authRequired'));
+      return;
+    }
+    setIsPaywallOpen(true);
+  };
+
+  const handleSignOut = async () => {
+    await signOutUser();
+    setPremium(getLocalPremium());
+  };
+
+  const handleUnlock = () => {
+    setPremium(true);
+    setLocalPremium(true);
+    setIsPaywallOpen(false);
+    showToast(t('proUnlockedToast'));
+  };
+
+  const openLegal = (tab) => {
+    setLegalTab(tab);
+    setIsLegalOpen(true);
+  };
 
   useEffect(() => {
     localStorage.setItem('campuso_lang', currentLang);
@@ -265,7 +338,7 @@ export default function App() {
 
           <button 
             className="chip-btn"
-            onClick={() => setIsPolisherOpen(true)}
+            onClick={() => ensurePro(() => setIsPolisherOpen(true))}
             style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
           >
             <Pencil size={16} color="#7c3aed" />
@@ -274,7 +347,7 @@ export default function App() {
 
           <button 
             className="chip-btn"
-            onClick={() => setIsEssayOpen(true)}
+            onClick={() => ensurePro(() => setIsEssayOpen(true))}
             style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
           >
             <FileText size={16} color="#0891b2" />
@@ -283,12 +356,47 @@ export default function App() {
 
           <button 
             className="chip-btn"
-            onClick={() => setIsAlignmentOpen(true)}
+            onClick={() => ensurePro(() => setIsAlignmentOpen(true))}
             style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
           >
             <Users size={16} color="#d97706" />
             {t('alignmentDashboard')}
           </button>
+
+          {authUser ? (
+            <div className="user-chip">
+              <span className="user-avatar">{(authUser.email || 'U').slice(0, 1).toUpperCase()}</span>
+              <span className="user-email" title={authUser.email}>
+                {authUser.email ? authUser.email.split('@')[0].slice(0, 14) : 'Member'}
+              </span>
+              {premium && (
+                <span className="pro-badge"><Crown size={11} /> {t('premium')}</span>
+              )}
+              <button className="user-signout" onClick={handleSignOut} title={t('signOut')}>
+                <LogOut size={14} />
+              </button>
+            </div>
+          ) : (
+            <button 
+              className="chip-btn"
+              onClick={() => setIsAuthOpen(true)}
+              style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
+            >
+              <UserRound size={16} color="#4f46e5" />
+              {t('signIn')}
+            </button>
+          )}
+
+          {!premium && (
+            <button 
+              className="chip-btn pro-chip"
+              onClick={() => setIsPaywallOpen(true)}
+              style={{ background: 'linear-gradient(135deg, #d97706 0%, #f59e0b 100%)', color: '#fff', border: 'none', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem', boxShadow: '0 4px 14px rgba(217, 119, 6, 0.35)' }}
+            >
+              <Crown size={16} />
+              {t('upgradeToPro')}
+            </button>
+          )}
 
           <LanguageSelector currentLang={currentLang} onLangChange={setCurrentLang} />
         </div>
@@ -621,6 +729,8 @@ export default function App() {
           onClose={() => setIsCompareOpen(false)}
           savedIds={savedCollegeIds}
           onRemoveSave={toggleSaveCollege}
+          isPremium={premium}
+          onRequirePremium={() => ensurePro(() => {})}
         />
       )}
 
@@ -647,6 +757,33 @@ export default function App() {
           lang={currentLang}
           onClose={() => setIsAlignmentOpen(false)}
           savedIds={savedCollegeIds}
+        />
+      )}
+
+      <AuthModal
+        isOpen={isAuthOpen}
+        lang={currentLang}
+        onClose={() => setIsAuthOpen(false)}
+      />
+
+      <PaywallModal
+        isOpen={isPaywallOpen}
+        lang={currentLang}
+        onClose={() => setIsPaywallOpen(false)}
+        isSignedIn={Boolean(authUser)}
+        onRequireAuth={() => {
+          setIsPaywallOpen(false);
+          setIsAuthOpen(true);
+        }}
+        onUnlocked={handleUnlock}
+      />
+
+      {isLegalOpen && (
+        <LegalModal
+          isOpen={isLegalOpen}
+          lang={currentLang}
+          onClose={() => setIsLegalOpen(false)}
+          initialTab={legalTab}
         />
       )}
 
@@ -716,6 +853,14 @@ export default function App() {
           <p className="eco-suite-copy">
             StepOne College © 2026 · Operated by Clarity Clinical Solutions LLC · Smart US College, Academic Majors & Career Navigator for Students and Parents
           </p>
+
+          <div className="footer-legal">
+            <button onClick={() => openLegal('privacy')}><ShieldCheck size={13} /> {t('legalPrivacyTitle')}</button>
+            <span className="footer-legal-dot">•</span>
+            <button onClick={() => openLegal('terms')}><Scale size={13} /> {t('legalTermsTitle')}</button>
+            <span className="footer-legal-dot">•</span>
+            <button onClick={() => openLegal('security')}><Sparkles size={13} /> {t('legalSecurityTitle')}</button>
+          </div>
         </div>
       </footer>
     </div>
