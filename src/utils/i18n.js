@@ -276,6 +276,16 @@ const en = {
   steponeCareerDesc: 'Smart job hunting, ATS resume optimization, and tech/finance career pathways.',
   visitStepOneCareer: 'Visit StepOne Career',
 
+  // Compare Report / Print Export
+  printReportKicker: 'STEPONE COLLEGE · COLLEGE COMPARISON',
+  printReportTitle: 'College Comparison Report',
+  printGeneratedOn: 'Generated on {date}',
+  printCollegesLabel: '{count} colleges compared',
+  printShortlist: 'Shortlist Summary',
+  colType: 'Type',
+  printReportFooter: 'StepOne College — College Comparison Report',
+  printDomain: 'college.steponecareer.com',
+
   // Guides
   essentialGuides: 'ESSENTIAL GUIDES',
   guidesTitle: 'Athletic Recruiting & Scholarship Hub',
@@ -577,6 +587,16 @@ const zh = {
   steponeCollegeDesc: '数据驱动的美本选校、自付费用测算、活动润色与家庭共识诊断。',
   steponeCareerDesc: '智能求职、ATS 简历优化与高薪科技/金融职业发展路径。',
   visitStepOneCareer: '前往 StepOne Career',
+
+  // Compare Report / Print Export
+  printReportKicker: 'STEPONE COLLEGE · 选校对比',
+  printReportTitle: '选校对比报告',
+  printGeneratedOn: '生成日期：{date}',
+  printCollegesLabel: '共对比 {count} 所大学',
+  printShortlist: '候选名单概览',
+  colType: '类型',
+  printReportFooter: 'StepOne College — 选校对比报告',
+  printDomain: 'college.steponecareer.com',
 
   essentialGuides: '必备指南',
   guidesTitle: '体育招募与奖学金中心',

@@ -3289,6 +3289,200 @@ button {
   color: #94a3b8;
 }
 
+/* =========================================================
+   Phase 6 — Print / PDF Export Report (選校對比報告)
+   ========================================================= */
+
+.print-report {
+  display: none;
+}
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body {
+    background: #ffffff;
+  }
+
+  .app-container {
+    display: none !important;
+  }
+
+  .print-report {
+    display: block !important;
+    font-family: 'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif;
+    color: #0f172a;
+    max-width: 100%;
+  }
+
+  .print-band {
+    background: linear-gradient(135deg, #312e81 0%, #7c3aed 55%, #0891b2 100%);
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 22px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 20px;
+  }
+
+  .print-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 22px;
+    font-weight: 800;
+  }
+
+  .print-brand-emoji {
+    font-size: 26px;
+  }
+
+  .print-kicker {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #c7d2fe;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 999px;
+    padding: 3px 10px;
+  }
+
+  .print-domain {
+    font-size: 13px;
+    font-weight: 700;
+    color: #e0e7ff;
+  }
+
+  .print-head {
+    margin-bottom: 18px;
+  }
+
+  .print-title {
+    font-size: 28px;
+    font-weight: 800;
+    color: #0f172a;
+    margin: 0 0 4px;
+  }
+
+  .print-meta {
+    font-size: 13px;
+    color: #64748b;
+    margin: 0;
+  }
+
+  .print-shortlist {
+    margin-bottom: 20px;
+  }
+
+  .print-shortlist-title {
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6d28d9;
+    margin-bottom: 8px;
+  }
+
+  .print-shortlist-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  .print-shortlist-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 10px 12px;
+  }
+
+  .print-rank {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    background: #e0e7ff;
+    color: #4338ca;
+    font-size: 12px;
+    font-weight: 800;
+  }
+
+  .print-shortlist-name {
+    font-size: 13px;
+    font-weight: 800;
+    color: #0f172a;
+  }
+
+  .print-shortlist-meta {
+    font-size: 11px;
+    color: #64748b;
+  }
+
+  .print-matrix {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    margin-bottom: 24px;
+  }
+
+  .print-matrix th {
+    background: #eef2ff;
+    color: #3730a3;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 11px;
+    text-align: left;
+    padding: 10px 12px;
+    border: 1px solid #c7d2fe;
+  }
+
+  .print-matrix td {
+    padding: 10px 12px;
+    border: 1px solid #e2e8f0;
+    color: #334155;
+    vertical-align: top;
+  }
+
+  .print-matrix tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-cell-name {
+    font-weight: 800;
+    color: #0f172a;
+  }
+
+  .print-foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    border-top: 2px solid #eef2ff;
+    padding-top: 14px;
+    font-size: 11px;
+    color: #94a3b8;
+    margin-top: 8px;
+  }
+
+  @page {
+    margin: 16mm;
+  }
+}
+
 /* Mobile Responsive Adjustments */
 @media (max-width: 640px) {
   .top-banner {

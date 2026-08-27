@@ -1,11 +1,12 @@
 import React from 'react';
+import { createPortal } from 'react-dom';
 import { X, Printer, Heart, MapPin, DollarSign, Award, Trash2 } from 'lucide-react';
 import { COLLEGES } from '../data/colleges';
 import { getTranslation } from '../utils/i18n';
 
 export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang }) {
   if (!isOpen) return null;
-  const t = (k) => getTranslation(lang, k);
+  const t = (k, vars) => getTranslation(lang, k, vars);
 
   const savedColleges = COLLEGES.filter(c => savedIds.includes(c.id));
 
@@ -13,8 +14,82 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
     window.print();
   };
 
+  const reportDate = new Date().toLocaleDateString(lang === 'zh' ? 'zh-CN' : 'en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+
+  // 列印專用品牌報告 (portal 到 body, 於 @media print 單獨顯示)
+  const printReport = savedColleges.length > 0 && createPortal(
+    <div className="print-report">
+      <div className="print-band">
+        <div className="print-brand">
+          <span className="print-brand-emoji">🎓</span>
+          <span>StepOne College</span>
+          <span className="print-kicker">{t('printReportKicker')}</span>
+        </div>
+        <div className="print-domain">{t('printDomain')}</div>
+      </div>
+
+      <div className="print-head">
+        <h1 className="print-title">{t('printReportTitle')}</h1>
+        <p className="print-meta">
+          {t('printGeneratedOn', { date: reportDate })} · {t('printCollegesLabel', { count: savedColleges.length })}
+        </p>
+      </div>
+
+      <div className="print-shortlist">
+        <div className="print-shortlist-title">{t('printShortlist')}</div>
+        <div className="print-shortlist-grid">
+          {savedColleges.map(c => (
+            <div className="print-shortlist-item" key={c.id}>
+              <span className="print-rank">{c.ranking && c.ranking !== '—' ? c.ranking : 'NR'}</span>
+              <div>
+                <div className="print-shortlist-name">{c.name}</div>
+                <div className="print-shortlist-meta">{c.type} · {c.acceptanceRate}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <table className="print-matrix">
+        <thead>
+          <tr>
+            <th>{t('colCollege')}</th>
+            <th>{t('colLocation')}</th>
+            <th>{t('colType')}</th>
+            <th>{t('colAcceptance')}</th>
+            <th>{t('colRanking')}</th>
+            <th>{t('colTuition')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {savedColleges.map(c => (
+            <tr key={c.id}>
+              <td className="print-cell-name">{c.name}</td>
+              <td>{c.location.city}, {c.location.state} ({c.location.setting})</td>
+              <td>{c.type}</td>
+              <td>{c.acceptanceRate}</td>
+              <td>{c.ranking}</td>
+              <td>{c.tuitionOutState}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <div className="print-foot">
+        <span>{t('printReportFooter')}</span>
+        <span>{t('printDomain')}</span>
+      </div>
+    </div>,
+    document.body
+  );
+
   return (
     <div className="modal-overlay" onClick={onClose}>
+      {printReport}
       <div className="modal-card" style={{ maxWidth: '900px', width: '95%' }} onClick={e => e.stopPropagation()}>
         <div className="modal-header">
           <button className="modal-close-btn" onClick={onClose}>
@@ -29,7 +104,7 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
             </div>
 
             {savedColleges.length > 0 && (
-              <button 
+              <button
                 onClick={handlePrint}
                 className="detail-btn"
                 style={{ background: '#0f172a', color: '#ffffff', padding: '0.5rem 1rem' }}
@@ -78,7 +153,7 @@ export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveS
                       <td style={{ padding: '0.85rem 0.75rem', fontWeight: 700, color: '#6b21a8' }}>{c.ranking}</td>
                       <td style={{ padding: '0.85rem 0.75rem', fontWeight: 700, color: '#0f172a' }}>{c.tuitionOutState} / yr</td>
                       <td style={{ padding: '0.85rem 0.75rem' }}>
-                        <button 
+                        <button
                           onClick={() => onRemoveSave(c.id)}
                           style={{ color: '#ef4444', padding: '0.35rem', borderRadius: '4px' }}
                           title="Remove from saved"
