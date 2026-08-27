@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText } from 'lucide-react';
+import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users } from 'lucide-react';
 import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
@@ -17,6 +17,7 @@ import SmartMatchQuizModal from './components/SmartMatchQuizModal';
 import SavedCompareModal from './components/SavedCompareModal';
 import ActivityPolisherModal from './components/ActivityPolisherModal';
 import EssayRecycleModal from './components/EssayRecycleModal';
+import ParentStudentAlignmentModal from './components/ParentStudentAlignmentModal';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('colleges');
@@ -57,6 +58,7 @@ export default function App() {
   const [isCompareOpen, setIsCompareOpen] = useState(false);
   const [isPolisherOpen, setIsPolisherOpen] = useState(false);
   const [isEssayOpen, setIsEssayOpen] = useState(false);
+  const [isAlignmentOpen, setIsAlignmentOpen] = useState(false);
 
   useEffect(() => {
     localStorage.setItem('campuso_lang', currentLang);
@@ -272,6 +274,15 @@ export default function App() {
           >
             <FileText size={16} color="#0891b2" />
             {t('essayRecycle')}
+          </button>
+
+          <button 
+            className="chip-btn"
+            onClick={() => setIsAlignmentOpen(true)}
+            style={{ background: 'rgba(255,255,255,0.9)', border: '1px solid #cbd5e1', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem' }}
+          >
+            <Users size={16} color="#d97706" />
+            {t('alignmentDashboard')}
           </button>
 
           <LanguageSelector currentLang={currentLang} onLangChange={setCurrentLang} />
@@ -621,6 +632,15 @@ export default function App() {
           isOpen={isEssayOpen}
           lang={currentLang}
           onClose={() => setIsEssayOpen(false)}
+          savedIds={savedCollegeIds}
+        />
+      )}
+
+      {isAlignmentOpen && (
+        <ParentStudentAlignmentModal
+          isOpen={isAlignmentOpen}
+          lang={currentLang}
+          onClose={() => setIsAlignmentOpen(false)}
           savedIds={savedCollegeIds}
         />
       )}
