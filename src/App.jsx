@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users } from 'lucide-react';
+import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink } from 'lucide-react';
 import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
@@ -205,33 +205,38 @@ export default function App() {
     <div className="app-container">
       {/* Top Banner */}
       <header className="top-banner">
-        <div style={{ display: 'flex', justifyContent: 'center', gap: '0.75rem', flexWrap: 'wrap', marginBottom: '0.75rem' }}>
+        {/* StepOne Ecosystem Switch Bar */}
+        <div className="eco-bar">
           <div className="banner-badge">
             <Sparkles size={14} />
             <span>{t('bannerBadge')}</span>
           </div>
-          <a
-            href="https://steponecareer.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Switch to StepOne Career - AI Resume ATS & Job Search Companion"
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '0.35rem',
-              padding: '0.25rem 0.75rem',
-              borderRadius: '99px',
-              background: 'rgba(79, 70, 229, 0.1)',
-              border: '1px solid rgba(79, 70, 229, 0.25)',
-              color: '#4f46e5',
-              fontSize: '0.78rem',
-              fontWeight: 700,
-              textDecoration: 'none',
-              transition: 'all 0.2s ease'
-            }}
-          >
-            💼 StepOne Career (Job Search & ATS) ↗
-          </a>
+
+          <div className="eco-switch" role="group" aria-label="StepOne ecosystem">
+            <div className="eco-switch-item eco-current">
+              <span className="eco-switch-emoji">🎓</span>
+              <span className="eco-switch-text">
+                <span className="eco-switch-name">{t('ecoCollegeName')}</span>
+                <span className="eco-switch-sub">{t('ecoCollegeSub')}</span>
+              </span>
+              <span className="eco-switch-flag">{t('ecoCurrentApp')}</span>
+            </div>
+            <span className="eco-switch-divider" aria-hidden="true" />
+            <a
+              className="eco-switch-item eco-switch-link"
+              href="https://steponecareer.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Switch to StepOne Career - AI Resume ATS & Job Search Companion"
+            >
+              <span className="eco-switch-emoji">💼</span>
+              <span className="eco-switch-text">
+                <span className="eco-switch-name">{t('ecoCareerName')}</span>
+                <span className="eco-switch-sub">{t('ecoCareerSub')}</span>
+              </span>
+              <ExternalLink size={13} className="eco-switch-ext" />
+            </a>
+          </div>
         </div>
         <h1 className="banner-title">{t('appName')}</h1>
         <p className="banner-subtitle">
@@ -653,59 +658,65 @@ export default function App() {
         </div>
       )}
 
-      {/* StepOne Education Suite Footer */}
-      <footer style={{
-        marginTop: '4rem',
-        padding: '2.5rem 1.5rem',
-        borderTop: '1px solid #e2e8f0',
-        textAlign: 'center',
-        background: '#ffffff',
-        color: '#64748b',
-        fontSize: '0.85rem'
-      }}>
-        <div style={{
-          display: 'inline-flex',
-          alignItems: 'center',
-          gap: '1rem',
-          padding: '0.5rem 1.25rem',
-          borderRadius: '99px',
-          background: '#f8fafc',
-          border: '1px solid #e2e8f0',
-          marginBottom: '1rem',
-          flexWrap: 'wrap',
-          justifyContent: 'center'
-        }}>
-          <span style={{ fontWeight: 800, color: '#4f46e5', fontSize: '0.76rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-            StepOne Education Suite:
-          </span>
-          <span style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', fontWeight: 700, color: '#0f172a' }}>
-            🎓 StepOne College <span style={{ fontSize: '0.7rem', color: '#10b981', fontWeight: 600 }}>(US University Search)</span>
-          </span>
-          <span style={{ color: '#cbd5e1' }}>•</span>
-          <a
-            href="https://steponecareer.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Explore StepOne Career - AI Resume ATS & Job Search Companion"
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: '0.35rem',
-              fontWeight: 700,
-              color: '#4f46e5',
-              textDecoration: 'none'
-            }}
-          >
-            💼 StepOne Career <span style={{ fontSize: '0.7rem', color: '#64748b', fontWeight: 500 }}>(Job Search & ATS)</span> ↗
-          </a>
-        </div>
+      {/* StepOne Education & Career Suite Footer */}
+      <footer className="eco-footer">
+        <div className="eco-suite">
+          <div className="eco-suite-head">
+            <span className="eco-suite-kicker">StepOne Ecosystem</span>
+            <h2 className="eco-suite-title">{t('ecoSuiteTitle')}</h2>
+            <p className="eco-suite-subtitle">{t('ecoSuiteSubtitle')}</p>
+          </div>
 
-        <p style={{ fontWeight: 600, color: '#0f172a', marginBottom: '0.25rem' }}>
-          StepOne College © 2026 · Operated by Clarity Clinical Solutions LLC
-        </p>
-        <p style={{ fontSize: '0.75rem', color: '#94a3b8' }}>
-          Smart US College, Academic Majors & Career Navigator for Students and Parents
-        </p>
+          <div className="eco-suite-grid">
+            {/* StepOne College (Current App) */}
+            <div className="eco-product-card eco-college">
+              <div className="eco-product-top">
+                <span className="eco-product-emoji">🎓</span>
+                <div>
+                  <div className="eco-product-name">StepOne College</div>
+                  <div className="eco-product-tag">{t('ecoCurrentApp')}</div>
+                </div>
+              </div>
+              <p className="eco-product-desc">{t('steponeCollegeDesc')}</p>
+              <div className="eco-product-features">
+                {['College Matching', 'ROI & Net Price', 'Activity Polisher', 'Essay Recycler', 'Parent Alignment'].map(f => (
+                  <span key={f} className="eco-feature">✓ {f}</span>
+                ))}
+              </div>
+            </div>
+
+            {/* StepOne Career */}
+            <div className="eco-product-card eco-career">
+              <div className="eco-product-top">
+                <span className="eco-product-emoji">💼</span>
+                <div>
+                  <div className="eco-product-name">StepOne Career</div>
+                  <div className="eco-product-tag">AI Resume • ATS • Jobs</div>
+                </div>
+              </div>
+              <p className="eco-product-desc">{t('steponeCareerDesc')}</p>
+              <div className="eco-product-features">
+                {['AI Resume Builder', 'ATS Optimization', 'Job Matcher', 'Tech & Finance Roadmaps'].map(f => (
+                  <span key={f} className="eco-feature">✓ {f}</span>
+                ))}
+              </div>
+              <a
+                href="https://steponecareer.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="eco-product-cta"
+                title="Explore StepOne Career - AI Resume ATS & Job Search Companion"
+              >
+                {t('visitStepOneCareer')}
+                <ExternalLink size={15} />
+              </a>
+            </div>
+          </div>
+
+          <p className="eco-suite-copy">
+            StepOne College © 2026 · Operated by Clarity Clinical Solutions LLC · Smart US College, Academic Majors & Career Navigator for Students and Parents
+          </p>
+        </div>
       </footer>
     </div>
   );

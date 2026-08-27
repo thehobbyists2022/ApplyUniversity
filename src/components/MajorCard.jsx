@@ -1,8 +1,8 @@
 import React from 'react';
-import { 
-  Code, TrendingUp, ShieldCheck, Cpu, Zap, DollarSign, Briefcase, 
-  Share2, BarChart3, HeartPulse, Activity, Brain, Scale, Palette, 
-  Home, Video, Leaf, Fish, Dna, Stethoscope, Pill, Globe, Sparkles, ArrowRight 
+import {
+  Code, TrendingUp, ShieldCheck, Cpu, Zap, DollarSign, Briefcase,
+  Share2, BarChart3, HeartPulse, Activity, Brain, Scale, Palette,
+  Home, Video, Leaf, Fish, Dna, Stethoscope, Pill, Globe, Sparkles, ArrowRight, ExternalLink
 } from 'lucide-react';
 import { getTranslation } from '../utils/i18n';
 
@@ -75,6 +75,17 @@ export default function MajorCard({ major, onViewMajorDetails, collegesMap, lang
           <span>{t('viewCareerRoadmap')}</span>
           <ArrowRight size={15} />
         </button>
+
+        <a
+          className="major-career-link"
+          href={`https://steponecareer.com/?search=${encodeURIComponent(major.name)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          title={t('exploreMajorCareers')}
+        >
+          🚀 <span>{t('exploreMajorCareers')}</span>
+          <ExternalLink size={13} />
+        </a>
       </div>
     </div>
   );

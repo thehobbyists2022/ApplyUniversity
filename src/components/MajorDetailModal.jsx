@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Briefcase, BookOpen, Award, DollarSign, TrendingUp, Check } from 'lucide-react';
+import { X, Briefcase, BookOpen, Award, DollarSign, TrendingUp, ExternalLink } from 'lucide-react';
 import { getTranslation } from '../utils/i18n';
 
 export default function MajorDetailModal({ major, onClose, collegesMap, lang }) {
@@ -127,14 +127,14 @@ export default function MajorDetailModal({ major, onClose, collegesMap, lang }) 
               </div>
             </div>
             <a 
-              href="https://steponecareer.com" 
+              href={`https://steponecareer.com/?search=${encodeURIComponent(major.name)}`}
               target="_blank" 
               rel="noopener noreferrer"
-              className="detail-btn"
-              style={{ background: '#ffffff', color: '#312e81', fontWeight: 800, textDecoration: 'none', padding: '0.5rem 1rem', fontSize: '0.85rem' }}
+              className="major-career-link"
+              style={{ alignSelf: 'flex-end', width: 'auto', marginTop: 0 }}
             >
-              <span>{t('exploreStepOne')}</span>
-              <Check size={16} />
+              🚀 <span>{t('exploreMajorCareers')}</span>
+              <ExternalLink size={15} />
             </a>
           </div>
         </div>

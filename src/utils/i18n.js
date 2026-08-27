@@ -263,6 +263,19 @@ const en = {
   adviceTopConsensus: '{schools} show high family consensus — strong shortlist candidates to move forward.',
   adviceNeedsTalk: 'Several schools still need conversation. In your family meeting, agree on a hard budget line and a list of student "must-haves".',
 
+  // StepOne Ecosystem & Career Bridge (Phase 5)
+  ecoCollegeName: 'StepOne College',
+  ecoCollegeSub: 'Admissions & Planning',
+  ecoCareerName: 'StepOne Career',
+  ecoCareerSub: 'Job Search & ATS',
+  ecoCurrentApp: 'You are here',
+  exploreMajorCareers: 'Explore Career Outcomes on StepOne Career',
+  ecoSuiteTitle: 'The StepOne Career & Education Suite',
+  ecoSuiteSubtitle: 'From high school admissions to landing your dream job',
+  steponeCollegeDesc: 'Data-driven US college search, Net Price estimation, Activity polishing & Family alignment.',
+  steponeCareerDesc: 'Smart job hunting, ATS resume optimization, and tech/finance career pathways.',
+  visitStepOneCareer: 'Visit StepOne Career',
+
   // Guides
   essentialGuides: 'ESSENTIAL GUIDES',
   guidesTitle: 'Athletic Recruiting & Scholarship Hub',
@@ -551,6 +564,19 @@ const zh = {
   adviceRegionMismatch: '多数目标校不在孩子偏好的地区（{region}）——建议全家先就「地点」与「排名」哪个优先达成共识。',
   adviceTopConsensus: '{schools} 属于全家高度共识校——可作为优先推进的候选名单。',
   adviceNeedsTalk: '仍有若干学校需要更多沟通。建议在家庭会议上先敲定「预算红线」与孩子的「必选清单」。',
+
+  // StepOne Ecosystem & Career Bridge (Phase 5)
+  ecoCollegeName: 'StepOne College',
+  ecoCollegeSub: '美本申请与规划',
+  ecoCareerName: 'StepOne Career',
+  ecoCareerSub: '求职与 ATS',
+  ecoCurrentApp: '当前应用',
+  exploreMajorCareers: '在 StepOne Career 探索就业路径',
+  ecoSuiteTitle: 'StepOne 教育与职业发展生态',
+  ecoSuiteSubtitle: '从美本选校规划到斩获心仪职业 Offer',
+  steponeCollegeDesc: '数据驱动的美本选校、自付费用测算、活动润色与家庭共识诊断。',
+  steponeCareerDesc: '智能求职、ATS 简历优化与高薪科技/金融职业发展路径。',
+  visitStepOneCareer: '前往 StepOne Career',
 
   essentialGuides: '必备指南',
   guidesTitle: '体育招募与奖学金中心',
