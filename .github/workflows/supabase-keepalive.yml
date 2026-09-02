@@ -9,9 +9,10 @@ jobs:
   ping-supabase:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping Supabase Database
+      - name: Ping Supabase Auth to generate DB activity
         run: |
-          echo "Pinging Supabase REST API..."
-          curl -s -o /dev/null -w "%{http_code}\n" -X GET "https://whounbqjinqxkkxunfkx.supabase.co/rest/v1/profiles?select=id&limit=1" \
+          echo "Pinging Supabase Auth API to trigger a database query..."
+          curl -s -o /dev/null -w "%{http_code}\n" -X POST "https://whounbqjinqxkkxunfkx.supabase.co/auth/v1/token?grant_type=password" \
             -H "apikey: sb_publishable_l1Y86_jMvQ578wgi1yh1TQ_dMLWWPLH" \
-            -H "Authorization: Bearer sb_publishable_l1Y86_jMvQ578wgi1yh1TQ_dMLWWPLH"
+            -H "Content-Type: application/json" \
+            -d '{"email":"ping-keepalive@example.com","password":"ping-keepalive-123"}'

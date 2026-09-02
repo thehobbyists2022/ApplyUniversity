@@ -1,6 +1,5 @@
 import React, { useState, useMemo } from 'react';
 import { X, ChevronLeft, ChevronRight, RotateCcw, Sparkles, Users, Wallet, DollarSign, TrendingUp, MapPin, Scale, Check, AlertTriangle, CheckCircle2 } from 'lucide-react';
-import { COLLEGES } from '../data/colleges';
 import { FLAGSHIP_COLLEGE_IDS } from '../data/flagshipColleges';
 import { getTranslation } from '../utils/i18n';
 import { buildAlignmentReport, formatMoney } from '../utils/alignmentEngine';
@@ -16,7 +15,8 @@ const RATING_VALUES = [1, 2, 3, 4, 5];
 
 const STATUS_KEY = { high: 'alignmentStatusHigh', alignment: 'alignmentStatusAlignment', highRisk: 'alignmentStatusHighRisk' };
 
-export default function ParentStudentAlignmentModal({ isOpen, onClose, lang, savedIds }) {
+export default function ParentStudentAlignmentModal({ isOpen, onClose, lang, savedIds, collegesData = [] }) {
+  const COLLEGES = collegesData;
   const [step, setStep] = useState(1);
   const [prefs, setPrefs] = useState({
     preferredRegion: 'All',

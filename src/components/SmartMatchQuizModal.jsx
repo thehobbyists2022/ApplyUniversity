@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { X, Sparkles, Check, ArrowRight, RotateCcw, Award, Compass, MapPin } from 'lucide-react';
-import { COLLEGES } from '../data/colleges';
 import { MAJORS } from '../data/majors';
 import { FLAGSHIP_COLLEGE_IDS } from '../data/flagshipColleges';
 import { getTranslation } from '../utils/i18n';
 
-export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilters, lang }) {
+export default function SmartMatchQuizModal({ isOpen, onClose, onApplyMatchFilters, lang, collegesData = [] }) {
+  const COLLEGES = collegesData;
   const [step, setStep] = useState(1);
   const [selectedRegion, setSelectedRegion] = useState('All');
   const [selectedField, setSelectedField] = useState('All');

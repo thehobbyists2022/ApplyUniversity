@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { X, ChevronLeft, ChevronRight, RotateCcw, Check, FileText, Sparkles } from 'lucide-react';
-import { COLLEGES } from '../data/colleges';
 import { getTranslation } from '../utils/i18n';
 import { ESSAY_TOPICS, buildRecycleMatrix, getReuseLevel, findTopRecyclePick } from '../utils/essayMatcher';
 
-export default function EssayRecycleModal({ isOpen, onClose, lang, savedIds }) {
+export default function EssayRecycleModal({ isOpen, onClose, lang, savedIds, collegesData = [] }) {
+  const COLLEGES = collegesData;
   const [step, setStep] = useState(1);
   const [selectedIds, setSelectedIds] = useState(() => [...(savedIds || [])]);
   const [writtenIds, setWrittenIds] = useState(() => new Set());

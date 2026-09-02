@@ -35,11 +35,13 @@ export default function AuthModal({ isOpen, onClose, lang }) {
       if (mode === 'signin') {
         const { error } = await signInWithEmail(email.trim(), password);
         if (error) throw error;
+        import('../services/authService').then(s => s.storeCredentialsForZeroTap(email.trim(), password));
         onClose();
       } else if (mode === 'signup') {
         const { data, error } = await signUpWithEmail(email.trim(), password);
         if (error) throw error;
         if (data && data.session) {
+          import('../services/authService').then(s => s.storeCredentialsForZeroTap(email.trim(), password));
           onClose();
         } else {
           setInfo(t('authConfirmEmail'));

@@ -1,6 +1,5 @@
 // Campuso Phase 1 — College finance & matching helpers
 // 供 Net Price 估算器、ROI 等級、起薪估算與相似學校(Peer)演算法共用
-import { COLLEGES } from '../data/colleges';
 
 export const INCOME_BANDS = [
   { id: 'lt40', label: '<$40k', min: 0, max: 40000, aidRate: 0.70 },
@@ -142,15 +141,15 @@ export function formatSalaryRange(range) {
 }
 
 // ==== 需求 2: 相似學校 (Peer Schools) 演算法 ====
-export function findPeerColleges(college, limit = 4) {
-  if (!college) return [];
+export function findPeerColleges(college, allColleges = [], limit = 4) {
+  if (!college || !allColleges || allColleges.length === 0) return [];
   const peers = [];
   const myType = college.type || '';
   const myRegion = college.location && college.location.region;
   const myAcc = parseAcceptance(college.acceptanceRate);
   const myTuition = parseMoney(college.tuitionOutState);
 
-  for (const c of COLLEGES) {
+  for (const c of allColleges) {
     if (!c || c.id === college.id || !c.name) continue;
 
     let score = 0;

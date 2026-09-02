@@ -2,10 +2,10 @@ import React, { useState, useMemo } from 'react';
 import { X, MapPin, CheckCircle, AlertTriangle, Calculator, ChevronDown, PlusCircle, ExternalLink } from 'lucide-react';
 import { normalizeUrl } from '../utils/url';
 import { getTranslation } from '../utils/i18n';
-import { COLLEGES } from '../data/colleges';
 import { INCOME_BANDS, estimateNetPrice, getFinancialRisk, findPeerColleges } from '../utils/collegeFinance';
 
-export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved, lang, onAddToCompare }) {
+export default function CollegeDetailModal({ college, onClose, onToggleSave, isSaved, lang, onAddToCompare, collegesData = [] }) {
+  const COLLEGES = collegesData;
   const [estimatorOpen, setEstimatorOpen] = useState(true);
   const [incomeBandId, setIncomeBandId] = useState('40-80');
   const [residency, setResidency] = useState(
@@ -16,7 +16,7 @@ export default function CollegeDetailModal({ college, onClose, onToggleSave, isS
   const officialUrl = normalizeUrl(college && college.officialUrl);
 
   // 相似學校 (Peer): 資料有 peerSchools 時優先, 否則由演算法從全美資料庫推導
-  const derivedPeers = useMemo(() => findPeerColleges(college, 4), [college]);
+  const derivedPeers = useMemo(() => findPeerColleges(college, COLLEGES, 4), [college, COLLEGES]);
   const peerList = useMemo(() => {
     const raw = college && college.peerSchools && college.peerSchools.length ? college.peerSchools : [];
     if (raw.length) {

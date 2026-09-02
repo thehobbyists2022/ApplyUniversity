@@ -1,10 +1,10 @@
 import React from 'react';
 import { createPortal } from 'react-dom';
 import { X, Printer, Heart, MapPin, DollarSign, Award, Trash2 } from 'lucide-react';
-import { COLLEGES } from '../data/colleges';
 import { getTranslation } from '../utils/i18n';
 
-export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang, isPremium, onRequirePremium }) {
+export default function SavedCompareModal({ isOpen, onClose, savedIds, onRemoveSave, lang, isPremium, onRequirePremium, collegesData = [] }) {
+  const COLLEGES = collegesData;
   if (!isOpen) return null;
   const t = (k, vars) => getTranslation(lang, k, vars);
 
