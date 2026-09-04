@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink, UserRound, LogOut, Crown, ShieldCheck, Scale } from 'lucide-react';
+import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink, UserRound, LogOut, Crown, ShieldCheck, Scale, Trash2 } from 'lucide-react';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
 import { LEGACY_COLLEGE_ID_MAP } from './data/legacyCollegeIdMap';
@@ -105,20 +105,29 @@ export default function App() {
     return () => { active = false; };
   }, [authUser]);
 
-  // 監聽 Stripe 支付完成回跳 (例如 ?checkout=success 或 ?session=success) 自動啟動 Pro
+  // 監聽 Stripe 支付完成回跳 (例如 ?checkout=success 或 ?session=success)，透過後端驗證而非本地直接賦權
   useEffect(() => {
     try {
       const params = new URLSearchParams(window.location.search);
       if (params.get('checkout') === 'success' || params.get('session') === 'success') {
-        setPremium(true);
-        setLocalPremium(true);
-        showToast(currentLang === 'zh' ? '🎉 欢迎加入 StepOne Pro！全部特权已自动解锁' : '🎉 Welcome to StepOne Pro! All premium features are unlocked.');
         window.history.replaceState({}, document.title, window.location.pathname);
+        showToast(currentLang === 'zh' ? '正在验证您的订阅状态...' : 'Verifying your subscription status...');
+        if (authUser && authUser.id) {
+          fetchPremiumFromProfile(authUser.id).then((fromDb) => {
+            if (fromDb) {
+              setPremium(true);
+              setLocalPremium(true);
+              showToast(currentLang === 'zh' ? '🎉 欢迎加入 StepOne Pro！已成功同步会员状态' : '🎉 Welcome to StepOne Pro! Subscription confirmed.');
+            } else {
+              showToast(currentLang === 'zh' ? '支付处理中，稍后将自动激活' : 'Payment received. Subscription will activate shortly.');
+            }
+          });
+        }
       }
     } catch {
       /* ignore */
     }
-  }, [currentLang]);
+  }, [authUser, currentLang]);
 
   const ensurePro = (fn) => {
     if (premium) { fn(); return; }
@@ -133,6 +142,29 @@ export default function App() {
   const handleSignOut = async () => {
     await signOutUser();
     setPremium(getLocalPremium());
+  };
+
+  const handleDeleteAccount = async () => {
+    const confirmMsg = currentLang === 'zh' 
+      ? '确定要永久注销您的账户并清空所有升学档案与偏好数据吗？此操作无法撤销。' 
+      : 'Are you sure you want to permanently delete your account and all associated college planning data? This action cannot be undone.';
+    if (!window.confirm(confirmMsg)) return;
+
+    try {
+      const { deleteUserAccount } = await import('./services/authService');
+      const res = await deleteUserAccount();
+      if (res.success) {
+        setAuthUser(null);
+        setPremium(false);
+        setLocalPremium(false);
+        showToast(currentLang === 'zh' ? '✅ 账户及档案已永久清空注销' : '✅ Account and data permanently deleted');
+      } else {
+        showToast(currentLang === 'zh' ? '注销请求失败，请检查网络或稍后重试' : 'Deletion request failed. Please try again.');
+      }
+    } catch (err) {
+      console.error(err);
+      showToast(currentLang === 'zh' ? '操作异常，请稍后重试' : 'Error processing deletion request.');
+    }
   };
 
   const handleUnlock = () => {
@@ -388,6 +420,15 @@ export default function App() {
               )}
               <button className="user-signout" onClick={handleSignOut} title={t('signOut')}>
                 <LogOut size={14} />
+              </button>
+              <button 
+                className="user-signout" 
+                onClick={handleDeleteAccount} 
+                title={currentLang === 'zh' ? '注销账户并删除所有数据 (Delete Account)' : 'Delete Account & Clear Data'} 
+                style={{ color: '#ef4444', marginLeft: '2px' }}
+                aria-label="Delete Account"
+              >
+                <Trash2 size={14} />
               </button>
             </div>
           ) : (
