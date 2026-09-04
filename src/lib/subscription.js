@@ -18,40 +18,18 @@ export function setLocalPremium() {
   // No-op: client cannot write local entitlement
 }
 
-// Server-authoritative entitlement check using authenticated JWT and trusted database time
+// Strictly fail-closed entitlement check: ONLY data === true from the server RPC grants access
 export async function fetchPremiumFromProfile() {
   if (!supabase) return false;
   try {
-    // 1. Preferred: Call RPC evaluated with database-side now() and auth.uid()
-    const { data: rpcActive, error: rpcError } = await supabase.rpc('has_active_subscription');
-    if (!rpcError && typeof rpcActive === 'boolean') {
-      return rpcActive;
+    const { data, error } = await supabase.rpc('has_active_subscription');
+    if (error) {
+      console.warn('[Subscription] Verification returned error (treating as inactive):', error.message);
+      return false;
     }
-
-    // 2. Direct query fallback
-    const { data: { user }, error: authError } = await supabase.auth.getUser();
-    if (authError || !user) return false;
-
-    const { data, error } = await supabase
-      .from('profiles')
-      .select('subscription_status, current_period_end')
-      .eq('id', user.id)
-      .maybeSingle();
-
-    if (error || !data) return false;
-
-    const isActive = data.subscription_status === 'active';
-    if (!isActive) return false;
-
-    if (data.current_period_end) {
-      const expiresAt = new Date(data.current_period_end).getTime();
-      if (Date.now() > expiresAt) {
-        return false;
-      }
-    }
-
-    return true;
-  } catch {
+    return data === true;
+  } catch (err) {
+    console.error('[Subscription] Verification exception (treating as inactive):', err);
     return false;
   }
 }
