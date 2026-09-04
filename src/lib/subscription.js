@@ -1,38 +1,52 @@
-// StepOne College Phase 7 — Premium subscription helpers
-// 訂閱狀態優先讀取 Supabase profiles 表, 無資料表/未連線時回退 localStorage 手動解鎖
+// StepOne College - Server-Authoritative Subscription Entitlement
+// Zero LocalStorage trust: Entitlement is strictly validated via Supabase profiles + JWT
 import { supabase } from './supabaseClient';
 
-const PREMIUM_KEY = 'stepone_pro_unlocked';
+// Clean up any legacy untrusted local keys on module load
+try {
+  localStorage.removeItem('stepone_pro_unlocked');
+} catch {
+  /* ignore */
+}
 
+// Strictly deprecated / returns false always to prevent client-side privilege tampering
 export function getLocalPremium() {
-  try {
-    return localStorage.getItem(PREMIUM_KEY) === 'true';
-  } catch {
-    return false;
-  }
+  return false;
 }
 
-export function setLocalPremium(value) {
-  try {
-    localStorage.setItem(PREMIUM_KEY, String(Boolean(value)));
-  } catch {
-    /* ignore */
-  }
+export function setLocalPremium() {
+  // No-op: client cannot write local entitlement
 }
 
-// 從 Supabase profiles 讀取訂閱狀態 (subscription_status = 'active')
-export async function fetchPremiumFromProfile(userId) {
-  if (!supabase || !userId) return null;
+// Server-authoritative entitlement check using authenticated JWT
+export async function fetchPremiumFromProfile() {
+  if (!supabase) return false;
   try {
+    const { data: { user }, error: authError } = await supabase.auth.getUser();
+    if (authError || !user) return false;
+
     const { data, error } = await supabase
       .from('profiles')
-      .select('subscription_status')
-      .eq('id', userId)
+      .select('subscription_status, current_period_end')
+      .eq('id', user.id)
       .maybeSingle();
-    if (error) return null;
-    return Boolean(data && data.subscription_status === 'active');
+
+    if (error || !data) return false;
+
+    // Verify both status and optional period expiration
+    const isActive = data.subscription_status === 'active';
+    if (!isActive) return false;
+
+    if (data.current_period_end) {
+      const expiresAt = new Date(data.current_period_end).getTime();
+      if (Date.now() > expiresAt) {
+        return false;
+      }
+    }
+
+    return true;
   } catch {
-    return null;
+    return false;
   }
 }
 

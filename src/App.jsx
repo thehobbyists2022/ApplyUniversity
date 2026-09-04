@@ -6,7 +6,7 @@ import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoade
 import { LEGACY_COLLEGE_ID_MAP } from './data/legacyCollegeIdMap';
 import { getTranslation } from './utils/i18n';
 import { getSession, onAuthStateChange, signOutUser } from './lib/auth';
-import { getLocalPremium, setLocalPremium, fetchPremiumFromProfile } from './lib/subscription';
+import { fetchPremiumFromProfile } from './lib/subscription';
 import LanguageSelector from './components/LanguageSelector';
 import CollegeCard from './components/CollegeCard';
 import CollegeDetailModal from './components/CollegeDetailModal';
@@ -67,7 +67,7 @@ export default function App() {
 
   // Phase 7 — Supabase Auth + Premium + Legal
   const [authUser, setAuthUser] = useState(null);
-  const [premium, setPremium] = useState(() => getLocalPremium());
+  const [premium, setPremium] = useState(false);
   const [isAuthOpen, setIsAuthOpen] = useState(false);
   const [isPaywallOpen, setIsPaywallOpen] = useState(false);
   const [isLegalOpen, setIsLegalOpen] = useState(false);
@@ -88,20 +88,16 @@ export default function App() {
     };
   }, []);
 
-  // 登入時嘗試從 Supabase profiles 讀取訂閱狀態, 失敗則回退 localStorage
+  // 登入時從 Supabase profiles 讀取訂閱狀態 (Server-authoritative)
   useEffect(() => {
     let active = true;
     if (!authUser) {
-      setPremium(getLocalPremium());
+      setPremium(false);
       return;
     }
-    fetchPremiumFromProfile(authUser.id).then(fromDb => {
+    fetchPremiumFromProfile().then((isActive) => {
       if (!active) return;
-      if (fromDb === null) setPremium(getLocalPremium());
-      else {
-        setPremium(fromDb);
-        setLocalPremium(fromDb);
-      }
+      setPremium(Boolean(isActive));
     });
     return () => { active = false; };
   }, [authUser]);
@@ -113,11 +109,10 @@ export default function App() {
       if (params.get('checkout') === 'success' || params.get('session') === 'success') {
         window.history.replaceState({}, document.title, window.location.pathname);
         showToast(currentLang === 'zh' ? '正在验证您的订阅状态...' : 'Verifying your subscription status...');
-        if (authUser && authUser.id) {
-          fetchPremiumFromProfile(authUser.id).then((fromDb) => {
-            if (fromDb) {
+        if (authUser) {
+          fetchPremiumFromProfile().then((isActive) => {
+            if (isActive) {
               setPremium(true);
-              setLocalPremium(true);
               showToast(currentLang === 'zh' ? '🎉 欢迎加入 StepOne Pro！已成功同步会员状态' : '🎉 Welcome to StepOne Pro! Subscription confirmed.');
             } else {
               showToast(currentLang === 'zh' ? '支付处理中，稍后将自动激活' : 'Payment received. Subscription will activate shortly.');
@@ -142,7 +137,7 @@ export default function App() {
 
   const handleSignOut = async () => {
     await signOutUser();
-    setPremium(getLocalPremium());
+    setPremium(false);
   };
 
   const handleDeleteAccount = async () => {
@@ -157,7 +152,6 @@ export default function App() {
       if (res.success) {
         setAuthUser(null);
         setPremium(false);
-        setLocalPremium(false);
         showToast(currentLang === 'zh' ? '✅ 账户及档案已永久清空注销' : '✅ Account and data permanently deleted');
       } else {
         showToast(currentLang === 'zh' ? '注销请求失败，请检查网络或稍后重试' : 'Deletion request failed. Please try again.');
@@ -168,11 +162,20 @@ export default function App() {
     }
   };
 
-  const handleUnlock = () => {
-    setPremium(true);
-    setLocalPremium(true);
-    setIsPaywallOpen(false);
-    showToast(t('proUnlockedToast'));
+  const handleUnlock = async () => {
+    if (!authUser) {
+      setIsAuthOpen(true);
+      return;
+    }
+    showToast(currentLang === 'zh' ? '正在与服务器同步会员状态...' : 'Syncing membership status with server...');
+    const isActive = await fetchPremiumFromProfile();
+    if (isActive) {
+      setPremium(true);
+      setIsPaywallOpen(false);
+      showToast(t('proUnlockedToast'));
+    } else {
+      showToast(currentLang === 'zh' ? '未查询到有效会员资格' : 'No active membership found for this account.');
+    }
   };
 
   const openLegal = (tab) => {
