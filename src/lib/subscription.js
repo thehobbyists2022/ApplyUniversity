@@ -18,10 +18,17 @@ export function setLocalPremium() {
   // No-op: client cannot write local entitlement
 }
 
-// Server-authoritative entitlement check using authenticated JWT
+// Server-authoritative entitlement check using authenticated JWT and trusted database time
 export async function fetchPremiumFromProfile() {
   if (!supabase) return false;
   try {
+    // 1. Preferred: Call RPC evaluated with database-side now() and auth.uid()
+    const { data: rpcActive, error: rpcError } = await supabase.rpc('has_active_subscription');
+    if (!rpcError && typeof rpcActive === 'boolean') {
+      return rpcActive;
+    }
+
+    // 2. Direct query fallback
     const { data: { user }, error: authError } = await supabase.auth.getUser();
     if (authError || !user) return false;
 
@@ -33,7 +40,6 @@ export async function fetchPremiumFromProfile() {
 
     if (error || !data) return false;
 
-    // Verify both status and optional period expiration
     const isActive = data.subscription_status === 'active';
     if (!isActive) return false;
 
