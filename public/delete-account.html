@@ -102,13 +102,12 @@
 
     <h2>What Data is Deleted</h2>
     <ul>
-      <li><strong>Authentication Identity:</strong> User ID, email address, password hash, and active session tokens.</li>
-      <li><strong>Educational Data:</strong> All saved college lists, compare lists, and application notes.</li>
-      <li><strong>Essay & Activity Drafts:</strong> Cleared from local storage and any cloud-synced cache.</li>
+      <li><strong>Server-Side Data:</strong> We delete all account-linked data stored on our servers, including your user authentication record in Supabase (<code>auth.users</code>), profile data, email address, and active session tokens.</li>
+      <li><strong>Device-Local Data:</strong> Data stored only on a user's device (such as college lists, comparison bookmarks, and essay brainstorming drafts in local storage) is cleared automatically when completing in-app deletion. For web/email deletion requests, device data is removed when the user clears their app/browser storage or uninstalls the app.</li>
     </ul>
 
-    <h2>Data Retention & Exceptions</h2>
-    <p>No user educational data is retained following deletion. The only exception applies to billing transaction records (if you purchased a subscription via Stripe), which are securely retained by our payment processor (Stripe) solely to satisfy statutory legal, accounting, and IRS tax compliance requirements for the legally required period.</p>
+    <h2>Data Retention & Statutory Exceptions</h2>
+    <p>We do not retain user accounts or educational profile data following verified deletion. In accordance with Google Play policy, limited billing records (if you purchased a subscription via Stripe on the web) are retained securely by Stripe solely to comply with statutory legal, financial reporting, and IRS tax compliance requirements for the mandatory retention period.</p>
 
     <footer>
       &copy; 2026 Clarity Clinical Solutions LLC. All rights reserved.<br>

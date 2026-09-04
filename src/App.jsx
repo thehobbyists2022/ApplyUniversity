@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { Capacitor } from '@capacitor/core';
 import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink, UserRound, LogOut, Crown, ShieldCheck, Scale, Trash2 } from 'lucide-react';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
@@ -449,7 +450,7 @@ export default function App() {
               style={{ background: 'linear-gradient(135deg, #d97706 0%, #f59e0b 100%)', color: '#fff', border: 'none', padding: '0.6rem 1.2rem', borderRadius: '30px', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem', boxShadow: '0 4px 14px rgba(217, 119, 6, 0.35)' }}
             >
               <Crown size={16} />
-              {t('upgradeToPro')}
+              {Capacitor.isNativePlatform() ? (currentLang === 'zh' ? 'Pro 权益' : 'Pro Features') : t('upgradeToPro')}
             </button>
           )}
 

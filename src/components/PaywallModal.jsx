@@ -28,14 +28,14 @@ export default function PaywallModal({ isOpen, onClose, lang, isSignedIn, onRequ
           <h2 style={{ fontSize: '1.5rem', fontWeight: 800, marginTop: '0.45rem' }}>{t('paywallTitle')}</h2>
           <p className="paywall-subtitle">
             {isNative
-              ? (lang === 'zh' ? '在网页端订购的 StepOne Pro 会员可在此登录畅享全部特权。' : 'Sign in to access your StepOne Pro membership across all your devices.')
+              ? (lang === 'zh' ? '登录后即可同步此账号现有的会员权益。本 Android 应用暂不提供购买功能。' : 'Sign in to access the membership associated with your account. Purchases are not available in this Android app.')
               : t('paywallSubtitle')}
           </p>
         </div>
 
         <div className="modal-body paywall-body">
           {isNative ? (
-            /* Google Play Compliant: Consumption-Only View (No external Stripe links) */
+            /* Google Play Compliant: Strict Consumption-Only View (Zero anti-steering) */
             <div className="paywall-native-box" style={{
               background: '#f8fafc',
               border: '1px solid #e2e8f0',
@@ -58,12 +58,12 @@ export default function PaywallModal({ isOpen, onClose, lang, isSignedIn, onRequ
                 <Crown size={24} />
               </div>
               <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#1e293b', marginBottom: '0.5rem' }}>
-                {lang === 'zh' ? 'StepOne Pro 跨平台会员' : 'StepOne Pro Membership'}
+                {lang === 'zh' ? 'StepOne Pro 会员权益' : 'StepOne Pro Membership'}
               </h3>
               <p style={{ fontSize: '0.88rem', color: '#64748b', lineHeight: 1.5, marginBottom: '1.25rem' }}>
                 {lang === 'zh' 
-                  ? '如您已在官网订阅 StepOne Pro，只需登录您的账号即可在此设备上同步解锁所有升学专属功能。' 
-                  : 'Pro subscriptions are managed through your StepOne web account. Simply log in to automatically restore and sync your benefits.'}
+                  ? '登录后即可同步此账号现有的会员权益。本 Android 应用暂不提供购买功能。' 
+                  : 'Sign in to access the membership associated with your account. Purchases are not available in this Android app.'}
               </p>
 
               {isSignedIn ? (
@@ -73,7 +73,7 @@ export default function PaywallModal({ isOpen, onClose, lang, isSignedIn, onRequ
                   style={{ width: '100%', justifyContent: 'center', background: '#4f46e5', color: '#fff', padding: '0.75rem', borderRadius: '12px', fontWeight: 700, border: 'none', display: 'flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer' }}
                 >
                   <ShieldCheck size={16} />
-                  {lang === 'zh' ? '检查 / 同步 Pro 订阅状态' : 'Sync / Restore Pro Status'}
+                  {lang === 'zh' ? '同步 / 刷新会员状态' : 'Sync / Refresh Membership Status'}
                 </button>
               ) : (
                 <button
@@ -82,7 +82,7 @@ export default function PaywallModal({ isOpen, onClose, lang, isSignedIn, onRequ
                   style={{ width: '100%', justifyContent: 'center', background: '#4f46e5', color: '#fff', padding: '0.75rem', borderRadius: '12px', fontWeight: 700, border: 'none', display: 'flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer' }}
                 >
                   <LogIn size={16} />
-                  {lang === 'zh' ? '立即登录账号' : 'Sign In with Account'}
+                  {lang === 'zh' ? '登录账号以同步权益' : 'Sign in to Access Account'}
                 </button>
               )}
             </div>

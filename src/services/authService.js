@@ -71,6 +71,18 @@ export async function deleteUserAccount() {
       await navigator.credentials.preventSilentAccess();
     }
 
+    // Clear all user application data from localStorage
+    try {
+      localStorage.removeItem('unipath_saved_colleges');
+      localStorage.removeItem('stepone_pro_unlocked');
+      localStorage.removeItem('campuso_alignment_prefs');
+      localStorage.removeItem('campuso_recycle_state');
+      localStorage.removeItem('campuso_activity_polish');
+      localStorage.removeItem('campuso_drafts');
+    } catch {
+      /* ignore */
+    }
+
     // Sign out from local state
     await supabase.auth.signOut();
     
