@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.steponecollege.app",
+        "sha256_cert_fingerprints": ["78:D2:EA:8C:48:07:74:27:3A:08:52:A2:6D:75:97:3D:2B:FB:22:B4:F0:59:AB:09:81:36:40:34:7B:79:A0:C4"]
+      }
+    }]
