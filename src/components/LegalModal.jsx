@@ -74,7 +74,7 @@ export default function LegalModal({ isOpen, onClose, lang, initialTab = 'privac
             ))}
           </div>
 
-          <p className="legal-contact">{t('legalContact', { email: 'support@steponecareer.com' })}</p>
+          <p className="legal-contact">{t('legalContact', { email: 'wingsoar2023@gmail.com' })}</p>
         </div>
       </div>
     </div>
