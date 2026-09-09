@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react';
 import { MapPin, Heart, ArrowRight, Users, PlusCircle } from 'lucide-react';
+import { COLLEGES } from '../data/colleges';
 import { getTranslation } from '../utils/i18n';
 import { computeRoiGrade, estimateSalaryRange, formatSalaryRange, findPeerColleges } from '../utils/collegeFinance';
 
@@ -8,7 +9,7 @@ export default function CollegeCard({ college, isSaved, onToggleSave, onViewDeta
 
   const roiGrade = useMemo(() => computeRoiGrade(college), [college]);
   const salaryRange = useMemo(() => formatSalaryRange(estimateSalaryRange(college)), [college]);
-  const peers = useMemo(() => findPeerColleges(college, 3), [college]);
+  const peers = useMemo(() => findPeerColleges(college, COLLEGES, 3), [college]);
 
   return (
     <div className="college-card">

@@ -142,6 +142,10 @@ export function formatSalaryRange(range) {
 
 // ==== 需求 2: 相似學校 (Peer Schools) 演算法 ====
 export function findPeerColleges(college, allColleges = [], limit = 4) {
+  if (!Array.isArray(allColleges)) {
+    if (typeof allColleges === 'number') limit = allColleges;
+    allColleges = [];
+  }
   if (!college || !allColleges || allColleges.length === 0) return [];
   const peers = [];
   const myType = college.type || '';
