@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Capacitor } from '@capacitor/core';
 import { Search, Compass, BookOpen, Calendar, MessageSquare, Heart, Sparkles, Filter, X, Trophy, ChevronDown, Loader, CheckCircle2, Pencil, FileText, Users, ExternalLink, UserRound, LogOut, Crown, ShieldCheck, Scale, Trash2 } from 'lucide-react';
+import { COLLEGES } from './data/colleges';
 import { MAJORS } from './data/majors';
 import { loadCollegeDetail, loadCollegeDetails } from './data/collegeDetailLoader';
 import { LEGACY_COLLEGE_ID_MAP } from './data/legacyCollegeIdMap';
@@ -756,6 +757,7 @@ export default function App() {
           onToggleSave={toggleSaveCollege}
           onClose={() => setSelectedCollege(null)}
           onAddToCompare={handleAddToCompare}
+          collegesData={COLLEGES}
         />
       )}
 
@@ -778,6 +780,7 @@ export default function App() {
             if (filters.setting && filters.setting !== 'All') setSelectedSetting(filters.setting);
             setIsQuizOpen(false);
           }}
+          collegesData={COLLEGES}
         />
       )}
 
@@ -790,6 +793,7 @@ export default function App() {
           onRemoveSave={toggleSaveCollege}
           isPremium={premium}
           onRequirePremium={() => ensurePro(() => {})}
+          collegesData={COLLEGES}
         />
       )}
 
@@ -807,6 +811,7 @@ export default function App() {
           lang={currentLang}
           onClose={() => setIsEssayOpen(false)}
           savedIds={savedCollegeIds}
+          collegesData={COLLEGES}
         />
       )}
 
@@ -816,6 +821,7 @@ export default function App() {
           lang={currentLang}
           onClose={() => setIsAlignmentOpen(false)}
           savedIds={savedCollegeIds}
+          collegesData={COLLEGES}
         />
       )}
 
